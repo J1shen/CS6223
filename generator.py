@@ -4,7 +4,7 @@ import tiktoken
 import glob
 import json
 import yaml
-from anthropic import Anthropic
+# from anthropic import Anthropic
 import numpy as np
 import asyncio
 from asyncio import Semaphore

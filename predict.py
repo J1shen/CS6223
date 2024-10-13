@@ -4,7 +4,7 @@ import glob
 import json
 import time
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, AutoProcessor
+from transformers import AutoTokenizer, AutoModelForCausalLM, AutoProcessor, Qwen2VLForConditionalGeneration
 from transformers.generation.utils import GenerationConfig
 
 
@@ -37,7 +37,7 @@ def build_input_prompt(input_data, model_name):
                         },
                         {
                             "type": "image",
-                            "content": image_link
+                            "image": image_link
                         },
                         {
                             "type": "text",
@@ -56,7 +56,10 @@ def pred(model_name, model, tokenizer, processor, input_data, device, max_new_to
     if "qwen2-vl" in model_name:
         from qwen_vl_utils import process_vision_info
         prompt = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+        # print(prompt)
         image_inputs, video_inputs = process_vision_info(messages)
+        
+        # print(image_inputs)
         inputs = processor(
             text=[prompt],
             images=image_inputs,
@@ -69,19 +72,20 @@ def pred(model_name, model, tokenizer, processor, input_data, device, max_new_to
             out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
         ]
         pred = processor.batch_decode(
-            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)
-
+            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
+        # print(pred)
     return pred.strip()
 
 def load_model_and_tokenizer(path, device):
     tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True)
     processor = AutoProcessor.from_pretrained(path, trust_remote_code=True)
-    model = AutoModelForCausalLM.from_pretrained(path, trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto")
+    if "qwen2-vl" in path.lower():
+        model = Qwen2VLForConditionalGeneration.from_pretrained(path, trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto")
     model = model.eval()
     return model, tokenizer, processor
 
 if __name__ == '__main__':
-    with open('config-pred.yaml', 'r') as file:
+    with open('configs/config-pred.yaml', 'r') as file:
         config = yaml.load(file, Loader=yaml.FullLoader)
 
     model_provider = config['model']['model_provider']
