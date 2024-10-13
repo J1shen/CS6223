@@ -15,6 +15,7 @@ python generator.py
 ```
 
 ## Step 2: Model Prediction
+A case using Qwen2-VL.
 ```
 python predict.py
 ```
