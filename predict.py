@@ -38,7 +38,7 @@ class Predictor:
         idx = 0
         for input_data in self.load_data():
             messages = self.build_input_prompt(input_data)
-            result = self.generate_prediction(model, tokenizer, processor, messages, self.device)
+            result = self.generate_prediction(model, tokenizer, processor, messages)
             predictions.append(result)
             basename = os.path.basename(self.input_data_list[idx])
             savename = basename.replace('.json', '.txt').replace('_prompts', '')
@@ -53,7 +53,7 @@ class Predictor:
 
 
 class Qwen2VLPredictor(Predictor):
-    def load_model_and_tokenizer(path, device):
+    def load_model_and_tokenizer(self, path, device):
         tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True)
         processor = AutoProcessor.from_pretrained(path, trust_remote_code=True)
         model = Qwen2VLForConditionalGeneration.from_pretrained(path, trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto")
