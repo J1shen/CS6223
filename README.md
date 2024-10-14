@@ -1,6 +1,13 @@
 # CS6223
 Course Project for CS6223
 
+## Step 0: Needle Generation
+Generate needle using openai api
+
+Set the OpenAI API key and run:
+```
+python needle_generator/needle_generator.py
+```
 
 ## Step 1: Input Generation
 The arguments in `configs/config-generate.yaml`:
