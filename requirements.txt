@@ -1,4 +1,10 @@
 datasets
 numpy
 spacy
+transformers
+torch
+diffusers
+accelerate
+protobuf
+sentencepiece
 qwen-vl-utils
