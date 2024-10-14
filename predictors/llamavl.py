@@ -1,5 +1,5 @@
 from transformers import AutoTokenizer, AutoProcessor, MllamaForConditionalGeneration
-from predictors import Predictor
+from predictor import Predictor
 from PIL import Image
 import requests
 
@@ -53,8 +53,7 @@ class LlamaVLPredictor(Predictor):
         prompt = self.processor.apply_chat_template(messages, add_generation_prompt=True)
 
         image_inputs = Image.open(requests.get(image_link, stream=True).raw) if image_link else None
-        
-        # print(image_inputs)
+
         inputs = self.processor(
             text=[prompt],
             images=image_inputs,
@@ -62,8 +61,13 @@ class LlamaVLPredictor(Predictor):
             return_tensors="pt",
         ).to(self.device)
         generated_ids = self.model.generate(**inputs, max_new_tokens=128)
+        generated_ids_trimmed = [
+            out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+        ]
+        pred = self.processor.batch_decode(
+            generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
 
-        pred = self.processor.decode(generated_ids[0], skip_special_tokens=True)
+        # pred = self.processor.decode(generated_ids[0], skip_special_tokens=True)
         return pred.strip()
 
 

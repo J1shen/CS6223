@@ -1,5 +1,5 @@
 from transformers import AutoTokenizer, AutoProcessor, Qwen2VLForConditionalGeneration
-from predictors import Predictor
+from predictor import Predictor
 
 class Qwen2VLPredictor(Predictor):
     def __init__(self, model_name, input_data_list, save_dir, device):
@@ -48,7 +48,7 @@ class Qwen2VLPredictor(Predictor):
             ]
         return messages
     
-    def generate_prediction(self, messages):
+    def generate_prediction(self, messages, image_link=None):
         from qwen_vl_utils import process_vision_info
         prompt = self.processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         # print(prompt)
