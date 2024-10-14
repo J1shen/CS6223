@@ -1,0 +1,6 @@
+prompt_dir: 'prompts'
+save_dir: 'pred'
+
+model:
+  model_provider: "Huggingface"  # "OpenAI", "Anthropic" or "Huggingface"
+  model_name: "/mnt/workspace/ckpts/VLMs/Qwen2-VL-7B-Instruct"
