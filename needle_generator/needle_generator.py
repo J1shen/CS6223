@@ -94,4 +94,5 @@ class NeedleGenerator:
 
 if __name__ == "__main__":
     generator = NeedleGenerator()
-    generator.generate()
+    for _ in range(48):
+        generator.generate()
