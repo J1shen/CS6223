@@ -11,14 +11,14 @@ class NeedleGenerator:
     def __init__(self):
         self.save_dir = os.path.join('needle_generator', 'generated_needle')
         os.makedirs(self.save_dir, exist_ok=True)
-        self.save_file = os.path.join(self.save_dir, 'needle_and_question.json')
+        self.save_file = os.path.join(self.save_dir, 'needle_and_question_v2.json')
 
     def generate_needle(self):
         """
         generate needle :) 
         """
         messages = [
-            {"role": "system", "content": "You are to generate a unique and interesting English statement about any topic."},
+            {"role": "system", "content": "You are to generate a unique and interesting English statement about any topic, making sure it is vividly descriptive—for example: a little boy wearing red clothes running in the rain or a purple apple on the ancient wooden table."},
             {"role": "user", "content": "Please provide a unique and interesting English statement about any topic."}
         ]
 
