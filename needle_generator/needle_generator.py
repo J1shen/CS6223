@@ -11,22 +11,22 @@ class NeedleGenerator:
     def __init__(self):
         self.save_dir = os.path.join('needle_generator', 'generated_needle')
         os.makedirs(self.save_dir, exist_ok=True)
-        self.save_file = os.path.join(self.save_dir, 'needle_and_question_v2.json')
+        self.save_file = os.path.join(self.save_dir, 'needle_and_question_v3.json')
 
     def generate_needle(self):
         """
         generate needle :) 
         """
         messages = [
-            {"role": "system", "content": "You are to generate a unique and interesting English statement about any topic, making sure it is vividly descriptive—for example: a little boy wearing red clothes running in the rain or a purple apple on the ancient wooden table."},
-            {"role": "user", "content": "Please provide a unique and interesting English statement about any topic."}
+            {"role": "system", "content": "You are to generate a unique English statement about any topic, making sure it is vividly descriptive—for example: There is a little boy wearing red clothes running in the rain, or: There is a purple apple on the ancient wooden table. Ensure the statement is observation based!!"},
+            {"role": "user", "content": "You are to generate a unique English statement about any topic, making sure it is vividly descriptive—for example:There is a little boy wearing red clothes running in the rain, or: There is a purple apple on the ancient wooden table. Ensure the statement is observation based!!"}
         ]
 
         response = openai.chat.completions.create(
             model="gpt-4o-mini",  
             messages=messages,
             max_tokens=50,
-            temperature=0.7,
+            temperature=1.0,
             n=1,
             stop=None
         )
@@ -39,7 +39,7 @@ class NeedleGenerator:
         Generate a question about that needle
         """
         messages = [
-            {"role": "system", "content": "You are to create a question based on the given statement, where the answer is the statement itself."},
+            {"role": "system", "content": "You are to create a question based on the given statement, where the answer is the included in the statement/an image showing the statement."},
             {"role": "user", "content": f"Based on the following statement, generate a question whose answer is the statement itself:\n\n'{needle}'"}
         ]
 
@@ -94,5 +94,5 @@ class NeedleGenerator:
 
 if __name__ == "__main__":
     generator = NeedleGenerator()
-    for _ in range(48):
+    for _ in range(100):
         generator.generate()
