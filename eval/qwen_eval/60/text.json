@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"More often than not it makes it harder.\"\n\nThe description is not very vivid, but it does convey the idea that the golden retriever is playing in the park.",
-        "score": [
+        "rouge_score": [
             0.17073170731707318,
             0.2692307692307692,
             0.20895522388059704
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"An eager golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             1.0,
             0.8
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Several people have told me they like the iPad because it lets them bring the Internet into situations where a laptop would be too conspicuous. In other words, it's a hip flask.\"",
-        "score": [
+        "rouge_score": [
             0.15555555555555556,
             0.2692307692307692,
             0.19718309859154928
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7428571428571429,
             1.0,
             0.8524590163934427
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"As a golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             1.0,
             0.8
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Halfway through grad school I decided I wanted to try being a painter, and the art world was so manifestly corrupt that it snapped the leash of credulity. These people made philosophy professors seem as scrupulous as mathematicians. It was so clearly a choice of doing good work xor being an insider that I was forced to see the distinction. That was one of the most valuable things I learned from painting: you have to figure out for yourself what's good. You can't trust authorities. They'll lie to you on this one.\"",
-        "score": [
+        "rouge_score": [
             0.06542056074766354,
             0.2692307692307692,
             0.10526315789473682
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"One of the things I remember about the Airbnbs during YC is how intently they listened.\"",
-        "score": [
+        "rouge_score": [
             0.21428571428571427,
             0.23076923076923078,
             0.22222222222222224
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.7027027027027027,
             1.0,
             0.8253968253968255
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Visitors to this country are often surprised to find that Americans like to begin a conversation by asking 'what do you do?' I've never liked this question. I've rarely had a neat answer to it. But I think I have finally solved the problem. Now, when someone asks me what I do, I look them straight in the eye and say 'I'm designing a new dialect of Lisp.' I recommend this answer to anyone who doesn't like being asked what they do. The conversation will turn immediately to other topics.\"\n\nThis description is from an essay by",
-        "score": [
+        "rouge_score": [
             0.07964601769911504,
             0.34615384615384615,
             0.12949640287769784
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is: \"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is: \"A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             1.0,
             0.8125000000000001
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"An eager golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             1.0,
             0.8
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is: \"He couldn't have afforded a minicomputer. A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.5777777777777777,
             1.0,
             0.732394366197183
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A golden retriever with fur glistening like sunlit honey eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
         "prediction": "A vivid description of a golden retriever playing in a park is:\n\n\"Eric Raymond has written an essay called \"How to Become a Hacker,\" and in it, among other things, he tells would-be hackers what languages they should learn. He suggests starting with Python and Java, because they are easy to learn. A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.\"",
-        "score": [
+        "rouge_score": [
             0.3291139240506329,
             1.0,
             0.4952380952380952

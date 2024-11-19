@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3448275862068966,
             0.39999999999999997
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3448275862068966,
             0.39999999999999997
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with transparent wings hovering over vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3448275862068966,
             0.39999999999999997
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with translucent wings hovering over vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3448275862068966,
             0.39999999999999997
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6470588235294118,
             0.3793103448275862,
             0.4782608695652174
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6470588235294118,
             0.3793103448275862,
             0.4782608695652174
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6470588235294118,
             0.3793103448275862,
             0.4782608695652174
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph of a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3448275862068966,
             0.40816326530612246
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph of a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5217391304347826,
             0.41379310344827586,
             0.4615384615384615
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph featuring a delicate white butterfly and vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5263157894736842,
             0.3448275862068966,
             0.4166666666666667
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph of a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.41379310344827586,
             0.4897959183673469
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph or image featuring a delicate white butterfly flying near vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3793103448275862,
             0.4313725490196078
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.41379310344827586,
             0.4897959183673469
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph of a butterfly and sunflowers.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.13793103448275862,
             0.2
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph of a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3448275862068966,
             0.40816326530612246
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a butterfly flying over sunflowers.",
-        "score": [
+        "rouge_score": [
             0.5555555555555556,
             0.1724137931034483,
             0.26315789473684215
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph or image featuring a delicate white butterfly flying near vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3793103448275862,
             0.4313725490196078
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a butterfly flying over sunflowers.",
-        "score": [
+        "rouge_score": [
             0.5555555555555556,
             0.1724137931034483,
             0.26315789473684215
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described is a photograph or image featuring a delicate white butterfly hovering over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5454545454545454,
             0.41379310344827586,
             0.47058823529411764
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly and vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.47368421052631576,
             0.3103448275862069,
             0.375
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4782608695652174,
             0.3793103448275862,
             0.4230769230769231
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly and vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.47368421052631576,
             0.3103448275862069,
             0.375
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3448275862068966,
             0.40816326530612246
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly hovering over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3448275862068966,
             0.40816326530612246
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described in the image features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over a field of vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.55,
             0.3793103448275862,
             0.4489795918367347
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with transparent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with transparent wings hovering over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with transparent wings flying over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with transparent wings flying over a field of vibrant yellow sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.4583333333333333,
             0.3793103448275862,
             0.4150943396226415
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5294117647058824,
             0.3103448275862069,
             0.391304347826087
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6470588235294118,
             0.3793103448275862,
             0.4782608695652174
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying near vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5555555555555556,
             0.3448275862068966,
             0.4255319148936171
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.6470588235294118,
             0.3793103448275862,
             0.4782608695652174
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly with transparent wings flying over a field of vibrant yellow sunflowers against a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.41379310344827586,
             0.4528301886792453
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate white butterfly fluttering gracefully over a vibrant bed of sunflowers, its wings catching the sunlight and sparkling like tiny diamonds against the clear blue sky.",
         "prediction": "The scene described features a delicate white butterfly flying over vibrant sunflowers under a clear blue sky.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522

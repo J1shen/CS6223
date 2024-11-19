@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, which suggests a sense of elegance and grace. The web is also described as being woven between two dew-kissed flowers, which adds to the sense of delicacy and refinement. Overall, the imagery evokes a sense of tranquility and natural beauty.",
-        "score": [
+        "rouge_score": [
             0.15,
             0.5454545454545454,
             0.2352941176470588
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, which suggests a sense of elegance and grace. The web is also described as delicate, which implies that it is intricately woven and requires great skill and patience to create. Overall, the imagery evokes a sense of tranquility and natural beauty.",
-        "score": [
+        "rouge_score": [
             0.15,
             0.5454545454545454,
             0.2352941176470588
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, which suggests a sense of elegance and grace. The web is also described as being woven between two dew-kissed flowers, which adds to the sense of delicacy and natural beauty. Overall, the imagery evokes a sense of tranquility and harmony with nature.",
-        "score": [
+        "rouge_score": [
             0.14634146341463414,
             0.5454545454545454,
             0.23076923076923073
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and tranquility. The spider's web is described as shimmering like silver in the soft morning sun, creating a sense of elegance and grace. The spider is depicted as a masterful weaver, carefully crafting its web between two dew-kissed flowers. The overall image is one of peacefulness and harmony, with the spider's web serving as a symbol of delicate beauty and the natural world's intricate design.",
-        "score": [
+        "rouge_score": [
             0.13186813186813187,
             0.5454545454545454,
             0.21238938053097345
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of serenity and harmony. The spider is shown as a delicate and skilled creature, spinning its web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun. The image evokes a sense of peace and tranquility, with the spider's web symbolizing the intricate and delicate nature of life.",
-        "score": [
+        "rouge_score": [
             0.273972602739726,
             0.9090909090909091,
             0.42105263157894735
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider is shown as a masterful weaver, creating a web that is both intricate and strong. The web is described as shimmering like silver in the soft morning sun, which suggests that it is delicate and delicate. The spider is shown as a symbol of patience and perseverance, as it spends hours or even days creating its web. The web is also shown as a symbol of the natural world, as it is created by a living creature in its natural habitat.",
-        "score": [
+        "rouge_score": [
             0.11214953271028037,
             0.5454545454545454,
             0.18604651162790697
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, which suggests a sense of elegance and grace. The web is also described as delicate, which implies that it is intricately woven and fragile. The spider is depicted as a masterful weaver, able to create a web that is both strong and delicate. The setting is peaceful and serene, with the soft morning sun casting a gentle light on the web. Overall, the imagery is one of natural beauty and the delicate balance of life",
-        "score": [
+        "rouge_score": [
             0.10526315789473684,
             0.5454545454545454,
             0.1764705882352941
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, which suggests a sense of elegance and grace. The web is also described as being spun between two dew-kissed flowers, which adds to the sense of delicacy and refinement. Overall, the imagery evokes a sense of tranquility and natural beauty.",
-        "score": [
+        "rouge_score": [
             0.15,
             0.5454545454545454,
             0.2352941176470588
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, creating a sense of elegance and grace. The spider is depicted as a skilled artisan, carefully crafting its web between two dew-kissed flowers. The image evokes a sense of tranquility and harmony, with the spider's web serving as a symbol of delicate balance and intricate design.",
-        "score": [
+        "rouge_score": [
             0.13793103448275862,
             0.5454545454545454,
             0.22018348623853207
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate structure being created in a peaceful and serene environment. The spider's web is described as shimmering like silver in the soft morning sun, which suggests that it is a beautiful and delicate structure that is being created in a peaceful and tranquil setting. The use of the word \"gossamer\" also suggests that the web is thin and delicate, which further emphasizes the beauty and intricacy of the structure. Overall, the imagery is one of a peaceful and serene moment in nature, with a delicate and intricate structure being created in",
-        "score": [
+        "rouge_score": [
             0.10434782608695652,
             0.5454545454545454,
             0.17518248175182483
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- A spider creating a delicate and intricate structure amidst the beauty of nature\n- The spider's web being a symbol of patience, precision, and natural beauty\n- The spider working in harmony with the environment, weaving its web in the gentle light of dawn\n\nThe description evokes a sense of tranquility, precision, and the delicate beauty of nature.",
-        "score": [
+        "rouge_score": [
             0.2268041237113402,
             1.0,
             0.36974789915966383
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being a symbol of patience, precision, and careful planning\n- The spider's web being a metaphor for the intricate and delicate nature of the startup ecosystem",
-        "score": [
+        "rouge_score": [
             0.3142857142857143,
             1.0,
             0.4782608695652174
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted is of a delicate spider spinning its gossamer web between two dew-kissed flowers, with each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.7857142857142857,
             1.0,
             0.88
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate web, shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.5454545454545454,
             0.43636363636363634
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being a symbol of patience, precision, and natural beauty\n- The spider working in harmony with nature\n- The web being a delicate and intricate structure\n- The spider's activity being a peaceful and serene process\n\nThe description evokes a sense of tranquility, natural beauty, and the delicate balance between the spider and its environment.",
-        "score": [
+        "rouge_score": [
             0.2268041237113402,
             1.0,
             0.36974789915966383
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider is shown as a masterful artisan, carefully crafting its web with great care and skill. The web itself is described as shimmering like silver in the soft morning sun, suggesting a delicate and intricate structure. The spider is depicted as a symbol of patience and persistence, working tirelessly to create its masterpiece. Overall, the imagery evokes a sense of natural elegance and the wonders of the natural world.",
-        "score": [
+        "rouge_score": [
             0.13829787234042554,
             0.5909090909090909,
             0.22413793103448276
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider weaving its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being a symbol of intricate craftsmanship and natural beauty\n- The scene evoking a sense of tranquility and harmony with nature\n\nThe description paints a picture of a peaceful, delicate moment in nature, with the spider's web as the central focus.",
-        "score": [
+        "rouge_score": [
             0.24705882352941178,
             0.9545454545454546,
             0.3925233644859813
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider working with precision and care\n- The spider's web being a symbol of patience, persistence, and skill\n- The spider's web being a delicate and intricate structure\n- The spider's web being a symbol of nature's beauty and complexity\n- The spider's web being a symbol of the spider's ability to create something beautiful and functional from seemingly simple materials\n\nThe description",
-        "score": [
+        "rouge_score": [
             0.20754716981132076,
             1.0,
             0.34375000000000006
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate spider web, spun between two dew-kissed flowers in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.3783783783783784,
             0.6363636363636364,
             0.4745762711864407
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being a symbol of intricate craftsmanship and natural beauty\n- The scene evoking a sense of peace and serenity in the morning light\n\nThis imagery creates a picture of a delicate, beautiful, and tranquil morning scene with the spider's web as the central focus.",
-        "score": [
+        "rouge_score": [
             0.25,
             1.0,
             0.4
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description is of a delicate spider spinning its web between two dew-kissed flowers in a tranquil morning setting, with each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.9545454545454546,
             0.7368421052631579
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being a symbol of patience, precision, and careful planning\n- The spider working in harmony with nature, using its environment to create something beautiful and functional\n\nThe description evokes a sense of delicate beauty, precision, and the spider's connection to nature.",
-        "score": [
+        "rouge_score": [
             0.25882352941176473,
             1.0,
             0.4112149532710281
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The web being woven in a peaceful, serene environment with dew-kissed flowers\n- The spider's web being a symbol of intricate craftsmanship and natural beauty\n\nThe description evokes a sense of tranquility, beauty, and the delicate balance of nature.",
-        "score": [
+        "rouge_score": [
             0.275,
             1.0,
             0.4313725490196079
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being a delicate and intricate structure\n- The spider working in a peaceful, natural environment with dew-kissed flowers\n- The web being a symbol of the spider's skill and patience in creating it\n\nThe description paints a picture of a serene, natural scene with the spider demonstrating its craftsmanship in weaving its web.",
-        "score": [
+        "rouge_score": [
             0.2268041237113402,
             1.0,
             0.36974789915966383
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider working on its web in a peaceful, natural environment\n- The web being a symbol of the spider's skill and patience in creating something intricate and beautiful\n\nThe description evokes a sense of tranquility, precision, and natural beauty.",
-        "score": [
+        "rouge_score": [
             0.275,
             1.0,
             0.4313725490196079
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description is of a delicate spider spinning its gossamer web between two dew-kissed flowers in a tranquil morning setting.",
-        "score": [
+        "rouge_score": [
             0.56,
             0.6363636363636364,
             0.5957446808510639
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, with each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5116279069767442,
             1.0,
             0.676923076923077
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.\n\nThis imagery evokes a sense of delicate beauty, tranquility, and the intricate natural processes of spider weaving.",
-        "score": [
+        "rouge_score": [
             0.38596491228070173,
             1.0,
             0.5569620253164557
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The screen's too shiny, and the disk is surprisingly loud, but it's so beautiful that you can't make yourself care",
-        "score": [
+        "rouge_score": [
             0.3492063492063492,
             1.0,
             0.5176470588235293
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider working with extreme care and precision\n- The web being a delicate and intricate structure\n- The spider's activity taking place in a peaceful, natural setting with dew-kissed flowers and morning sunlight\n\nThe description paints a picture of a spider creating a beautiful, delicate web in a serene, natural environment.",
-        "score": [
+        "rouge_score": [
             0.2391304347826087,
             1.0,
             0.3859649122807018
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The spider's web being described as a \"gossamer web\" and \"shimmering like silver\"",
-        "score": [
+        "rouge_score": [
             0.4074074074074074,
             1.0,
             0.5789473684210525
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun\n- The web being spun by a leader spider, with other members of the tribe having a little more power but not being told what to do\n- The web being a delicate structure that is spun between two flowers\n- The web being a symbol of the tribe's unity and cooperation\n- The web being a symbol of the tribe's natural instincts and abilities\n- The web being a symbol",
-        "score": [
+        "rouge_score": [
             0.2037037037037037,
             1.0,
             0.3384615384615384
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider weaving its gossamer web between two dew-kissed flowers.\n- Each thread of the web shimmering like silver in the soft morning sun.\n- The web being a trap set by evil companies for the desperate and foolish.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.9545454545454546,
             0.5316455696202531
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider weaving its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.525,
             0.9545454545454546,
             0.6774193548387099
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description is of a delicate spider spinning its gossamer web between two dew-kissed flowers, with each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.7096774193548387,
             1.0,
             0.8301886792452831
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description is of a delicate spider web shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.5454545454545454,
             0.5714285714285713
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.\n\nThis creates a picture of a spider creating a beautiful, intricate web in a peaceful, natural environment.",
-        "score": [
+        "rouge_score": [
             0.38596491228070173,
             1.0,
             0.5569620253164557
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A delicate spider spinning its gossamer web between two dew-kissed flowers\n- Each thread shimmering like silver in the soft morning sun",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider web, possibly with dew-kissed threads, being woven by a spider in a peaceful, serene environment.",
-        "score": [
+        "rouge_score": [
             0.20512820512820512,
             0.36363636363636365,
             0.2622950819672131
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\nA delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.55,
             1.0,
             0.7096774193548387
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate structure being created in a peaceful and serene environment.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.2727272727272727,
             0.21818181818181817
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate structure being created by a spider in a peaceful and serene environment.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.2727272727272727,
             0.20689655172413793
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and serenity. The spider is shown as a masterful artisan, carefully crafting its web between two dew-kissed flowers. The web itself is described as shimmering like silver in the soft morning sun, suggesting a delicate and intricate structure. The overall scene evokes a sense of peacefulness and harmony, with the spider's actions symbolizing the delicate balance and precision required in the creation of something beautiful.",
-        "score": [
+        "rouge_score": [
             0.20224719101123595,
             0.8181818181818182,
             0.32432432432432434
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate structure being created in a peaceful and serene environment.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.2727272727272727,
             0.21818181818181817
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate precision and natural beauty. The spider is shown as a skilled artisan, carefully crafting its web with precision and care. The web itself is described as shimmering like silver in the soft morning sun, suggesting a delicate and intricate structure. The spider is depicted as a symbol of patience and persistence, working tirelessly to create its web. The setting is peaceful and serene, with dew-kissed flowers providing a beautiful backdrop for the spider's work. Overall, the imagery is one of natural beauty and the delicate balance of life.",
-        "score": [
+        "rouge_score": [
             0.11711711711711711,
             0.5909090909090909,
             0.19548872180451127
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate spider web, shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.5454545454545454,
             0.42857142857142855
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate spider web, shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.5454545454545454,
             0.42857142857142855
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate structure being created by a spider in a peaceful and serene environment. The spider is depicted as a skilled and precise artisan, carefully crafting its web with precision and care. The web itself is described as shimmering like silver in the soft morning sun, suggesting that it is a beautiful and delicate structure. The setting is described as tranquil and peaceful, with dew-kissed flowers adding to the overall sense of calm and serenity.",
-        "score": [
+        "rouge_score": [
             0.1326530612244898,
             0.5909090909090909,
             0.21666666666666667
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate structure being created in a peaceful and serene environment.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.2727272727272727,
             0.21818181818181817
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate web, shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.5454545454545454,
             0.43636363636363634
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate spider web, shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.5454545454545454,
             0.42857142857142855
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate and intricate spider web, shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.5454545454545454,
             0.42857142857142855
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and serenity. The spider is shown as a masterful weaver, creating a web that is both intricate and strong. The web is described as shimmering like silver in the soft morning sun, which suggests a sense of grace and elegance. The spider is depicted as a patient and skilled artisan, working with care and precision to create its masterpiece. The setting is peaceful and serene, with the spider working in the quiet of the morning. Overall, the imagery is one of delicate beauty and tranquility, with the spider as the",
-        "score": [
+        "rouge_score": [
             0.10714285714285714,
             0.5454545454545454,
             0.1791044776119403
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider's web is described as shimmering like silver in the soft morning sun, which suggests a sense of grace and elegance. The spider is depicted as a masterful artisan, carefully crafting its web between two dew-kissed flowers. The web is described as a \"gossamer web,\" which means it is extremely delicate and thin, like spider silk. The spider is shown as a skilled craftsman, working with great care and attention to detail to create a web that is both functional and aesthetically",
-        "score": [
+        "rouge_score": [
             0.11009174311926606,
             0.5454545454545454,
             0.183206106870229
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider is portrayed as a skilled artisan, carefully crafting its web with precision and care. The web itself is described as shimmering like silver in the soft morning sun, suggesting a delicate and intricate structure. The spider is depicted as a masterful weaver, able to create a web that is both functional and aesthetically pleasing. The overall image is one of natural beauty and the wonders of the natural world.",
-        "score": [
+        "rouge_score": [
             0.1368421052631579,
             0.5909090909090909,
             0.22222222222222224
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider is shown as a skilled artisan, carefully crafting its web with precision and care. The web itself is described as shimmering like silver in the soft morning sun, suggesting a delicate and intricate structure. The spider is shown as a symbol of patience and persistence, working tirelessly to create its web. The overall image is one of natural beauty and the wonders of the natural world.",
-        "score": [
+        "rouge_score": [
             0.14130434782608695,
             0.5909090909090909,
             0.2280701754385965
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of delicate beauty and precision. The spider is shown as a masterful artisan, carefully crafting its web with precision and care. The web itself is described as shimmering like silver in the soft morning sun, suggesting a delicate and intricate structure. The spider is depicted as a symbol of patience and persistence, working tirelessly to create its web. The overall image is one of natural beauty and the wonders of the natural world.",
-        "score": [
+        "rouge_score": [
             0.14130434782608695,
             0.5909090909090909,
             0.2280701754385965
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is that of a delicate spider spinning its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             1.0,
             0.6875000000000001

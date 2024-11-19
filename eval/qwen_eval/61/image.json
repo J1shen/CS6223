@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, creating a peaceful and harmonious scene.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.2926829268292683,
             0.3380281690140845
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.2926829268292683,
             0.3380281690140845
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The elderly woman is sitting on a bench in a park and interacting with a flock of pigeons.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.2682926829268293,
             0.37288135593220345
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The elderly woman is sitting on a bench in a park and interacting with a flock of pigeons.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.2682926829268293,
             0.37288135593220345
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The elderly woman is sitting on a park bench and interacting with a flock of pigeons.",
-        "score": [
+        "rouge_score": [
             0.6875,
             0.2682926829268293,
             0.38596491228070173
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and heartwarming scene of human-animal interaction in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2926829268292683,
             0.2926829268292683,
             0.2926829268292683
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection between the woman and the birds, as she spends time in the park enjoying the simple pleasure of feeding the pigeons.",
-        "score": [
+        "rouge_score": [
             0.2112676056338028,
             0.36585365853658536,
             0.26785714285714285
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and heartwarming scene of human-animal interaction in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2926829268292683,
             0.2926829268292683,
             0.2926829268292683
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and heartwarming scene of human-animal interaction in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2926829268292683,
             0.2926829268292683,
             0.2926829268292683
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on the bench and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection between the woman and the birds, set against the backdrop of a park with trees and a pathway.",
-        "score": [
+        "rouge_score": [
             0.22058823529411764,
             0.36585365853658536,
             0.27522935779816515
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and heartwarming scene of human-animal interaction in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2926829268292683,
             0.2926829268292683,
             0.2926829268292683
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and heartwarming scene of human-animal interaction in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2926829268292683,
             0.2926829268292683,
             0.2926829268292683
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection between the woman and the birds, set against the backdrop of a park with trees and autumn leaves.",
-        "score": [
+        "rouge_score": [
             0.22058823529411764,
             0.36585365853658536,
             0.27522935779816515
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the pigeons, creating a peaceful and serene scene of an older person enjoying the company of birds in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2608695652173913,
             0.2926829268292683,
             0.27586206896551724
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and heartwarming scene of an older person enjoying the company of nature and animals.",
-        "score": [
+        "rouge_score": [
             0.29545454545454547,
             0.3170731707317073,
             0.3058823529411765
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the pigeons, creating a peaceful and serene scene of an older person enjoying the company of birds in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2608695652173913,
             0.2926829268292683,
             0.27586206896551724
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on the bench and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the birds, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene depicts a peaceful interaction between the woman and the pigeons, with the birds showing interest in the food she is offering.",
-        "score": [
+        "rouge_score": [
             0.2153846153846154,
             0.34146341463414637,
             0.2641509433962264
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the birds, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene depicts a peaceful interaction between the woman and the pigeons, with the birds showing curiosity and interest in the woman's offerings.",
-        "score": [
+        "rouge_score": [
             0.21212121212121213,
             0.34146341463414637,
             0.26168224299065423
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She is feeding the pigeons and appears to be enjoying their company. The pigeons are gathered around her, some perched on her lap and others on the ground nearby. The woman seems to be engaging with the birds, perhaps talking to them or simply observing their behavior. The park setting provides a peaceful and natural environment for this interaction.",
-        "score": [
+        "rouge_score": [
             0.19480519480519481,
             0.36585365853658536,
             0.2542372881355932
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She is feeding the pigeons and appears to be enjoying their company. The pigeons are gathered around her, some perched on the bench and others on the ground nearby. The woman seems to be engaging with the birds, perhaps talking to them or simply observing their behavior. The park setting provides a peaceful and natural environment for this interaction.",
-        "score": [
+        "rouge_score": [
             0.19480519480519481,
             0.36585365853658536,
             0.2542372881355932
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She is feeding the pigeons and appears to be enjoying their company. The pigeons are gathered around her, some perched on her lap and others on the bench. The woman seems to be engaging with the birds, perhaps talking to them or simply observing their behavior. The park setting provides a peaceful and natural environment for this interaction.",
-        "score": [
+        "rouge_score": [
             0.19736842105263158,
             0.36585365853658536,
             0.2564102564102564
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She is feeding the pigeons and appears to be enjoying their company. The pigeons are gathered around her, some perched on the bench and others on the ground nearby. The woman seems to be engaging with the birds, perhaps talking to them or simply observing their behavior. The park setting provides a peaceful and natural environment for this interaction.",
-        "score": [
+        "rouge_score": [
             0.19480519480519481,
             0.36585365853658536,
             0.2542372881355932
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene depicts a peaceful interaction between the woman and the birds in a natural outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.23728813559322035,
             0.34146341463414637,
             0.28
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She is feeding the pigeons, and they are gathered around her, some perched on the bench and others on the ground nearby. The woman appears to be enjoying the interaction with the birds, creating a peaceful and serene atmosphere in the park.",
-        "score": [
+        "rouge_score": [
             0.23333333333333334,
             0.34146341463414637,
             0.27722772277227725
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "Based on the information provided, it seems like the elderly woman is interacting with a flock of pigeons in a park. She is sitting on a bench and looking at the pigeons, who are gathered around her. The pigeons are described as being colorful and friendly, and they seem to be enjoying the woman's company. The woman appears to be enjoying the interaction as well, as she is smiling and looking at the pigeons. Overall, it seems like a peaceful and pleasant scene of an elderly woman enjoying the company of a flock of pigeons in a park.",
-        "score": [
+        "rouge_score": [
             0.15151515151515152,
             0.36585365853658536,
             0.2142857142857143
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene of a senior person enjoying nature and connecting with wildlife.",
-        "score": [
+        "rouge_score": [
             0.3023255813953488,
             0.3170731707317073,
             0.30952380952380953
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the pigeons, creating a warm and serene scene of an older person enjoying a peaceful moment with nature and animals in a park setting.",
-        "score": [
+        "rouge_score": [
             0.2653061224489796,
             0.3170731707317073,
             0.2888888888888889
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding them or simply engaging with them, creating a warm and peaceful scene.",
-        "score": [
+        "rouge_score": [
             0.34285714285714286,
             0.2926829268292683,
             0.31578947368421056
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene depicts a peaceful interaction between the woman and the birds in a natural outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.23728813559322035,
             0.34146341463414637,
             0.28
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the birds, as they are gathered around her, some perched on her lap and others on the bench. The scene depicts a peaceful interaction between the woman and the pigeons, with the birds showing no signs of fear or aggression. The woman seems content and relaxed, enjoying the company of the birds in the serene park setting.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.36585365853658536,
             0.2479338842975207
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "Based on the image description, it appears to be a scene where an elderly woman is interacting with a flock of pigeons in a park. The woman is sitting on a bench, and the pigeons are gathered around her, likely seeking food or simply enjoying her company. The woman is described as having white hair and wearing a green jacket, and she is surrounded by fallen leaves, indicating that the scene is taking place in the fall. The pigeons are described as being colorful and lively, adding to the overall atmosphere of the scene. The woman seems to be enjoying the interaction with the pigeons, creating a peaceful and serene moment in the",
-        "score": [
+        "rouge_score": [
             0.13274336283185842,
             0.36585365853658536,
             0.19480519480519484
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "Based on the image description, the scene depicts an elderly woman sitting on a park bench, interacting with a group of pigeons. She is feeding them and appears to be enjoying their company. The pigeons are gathered around her, some standing on the ground and others perched on the bench. The woman seems to be engaging with the birds, perhaps talking to them or simply observing their behavior. The overall atmosphere is peaceful and serene, with the woman and pigeons sharing a moment of connection in the park setting.",
-        "score": [
+        "rouge_score": [
             0.15730337078651685,
             0.34146341463414637,
             0.21538461538461537
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "Based on the image description, it appears to be a scene where an elderly woman is interacting with a flock of pigeons in a park. The woman is sitting on a bench, and the pigeons are gathered around her, likely seeking food or simply enjoying her company. The woman is described as having white hair and wearing a green jacket, and she is looking down at the pigeons with a smile. The pigeons are described as being colorful and lively, with some of them standing on the ground and others perched on the bench. The overall atmosphere of the scene is peaceful and serene, with the woman and pigeons coexisting harmon",
-        "score": [
+        "rouge_score": [
             0.13513513513513514,
             0.36585365853658536,
             0.19736842105263158
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "Based on the information provided, it seems like the elderly woman is interacting with a flock of pigeons in a park. She is sitting on a bench and looking at the pigeons, who are gathered around her. The pigeons are described as being \"very friendly\" and \"not afraid of humans.\" The woman is described as being \"very happy\" and \"smiling\" as she interacts with the pigeons. The scene appears to be peaceful and serene, with the woman enjoying the company of the birds in the park.",
-        "score": [
+        "rouge_score": [
             0.13953488372093023,
             0.2926829268292683,
             0.1889763779527559
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the bench. The scene depicts a peaceful interaction between the woman and the birds in a natural outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.2413793103448276,
             0.34146341463414637,
             0.2828282828282829
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene depicts a peaceful interaction between the woman and the birds in a natural outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.23728813559322035,
             0.34146341463414637,
             0.28
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She is feeding the pigeons, and they are gathered around her, some perched on the bench and others on the ground nearby. The woman appears to be enjoying the interaction with the birds, and the pigeons seem comfortable around her. The setting is a park with trees and fall foliage in the background, creating a peaceful and serene atmosphere.",
-        "score": [
+        "rouge_score": [
             0.19480519480519481,
             0.36585365853658536,
             0.2542372881355932
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the birds, as they are gathered around her, some perched on her lap and others on the bench. The scene depicts a peaceful interaction between the woman and the pigeons, with the birds showing curiosity and interest in the woman's offerings.",
-        "score": [
+        "rouge_score": [
             0.2153846153846154,
             0.34146341463414637,
             0.2641509433962264
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and heartwarming scene of human-animal interaction in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.2926829268292683,
             0.2926829268292683,
             0.2926829268292683
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the scene, an elderly woman is interacting with a flock of pigeons in a park. She is sitting on a bench, and the pigeons are gathered around her, seemingly attracted to her presence. The woman appears to be feeding or interacting with the birds, creating a peaceful and serene atmosphere.",
-        "score": [
+        "rouge_score": [
             0.21568627450980393,
             0.2682926829268293,
             0.23913043478260873
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "In the image, an elderly woman is sitting on a park bench surrounded by a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene depicts a peaceful interaction between the woman and the birds in a natural outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.23728813559322035,
             0.34146341463414637,
             0.28
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or interacting with the birds, creating a peaceful and serene scene of a senior person enjoying nature and connecting with wildlife.",
-        "score": [
+        "rouge_score": [
             0.3023255813953488,
             0.3170731707317073,
             0.30952380952380953
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a peaceful and serene scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, looking for food. The scene depicts a peaceful moment of connection between the woman and the birds in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.36585365853658536,
             0.32608695652173914
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, looking for food. The scene is peaceful and serene, with the woman enjoying her time with the birds in the park.",
-        "score": [
+        "rouge_score": [
             0.27450980392156865,
             0.34146341463414637,
             0.30434782608695654
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The elderly woman is sitting on a park bench, interacting with a flock of pigeons.",
-        "score": [
+        "rouge_score": [
             0.7333333333333333,
             0.2682926829268293,
             0.3928571428571429
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The elderly woman is sitting on a park bench, interacting with a flock of pigeons.",
-        "score": [
+        "rouge_score": [
             0.7333333333333333,
             0.2682926829268293,
             0.3928571428571429
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, looking for food. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.26785714285714285,
             0.36585365853658536,
             0.3092783505154639
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, looking for food. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.26785714285714285,
             0.36585365853658536,
             0.3092783505154639
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, looking up at her with interest. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.2711864406779661,
             0.3902439024390244,
             0.32
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons on the ground in front of her.",
-        "score": [
+        "rouge_score": [
             0.5416666666666666,
             0.3170731707317073,
             0.39999999999999997
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image shows an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman enjoys a peaceful moment with the birds in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.22727272727272727,
             0.36585365853658536,
             0.2803738317757009
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection between the woman and the birds, suggesting a peaceful moment in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on her lap and others on the ground nearby. The scene conveys a sense of tranquility and connection between the woman and the birds, suggesting a peaceful moment in a natural setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some perched on the bench and others on the ground nearby. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, some standing on the ground and others perched on the bench. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.234375,
             0.36585365853658536,
             0.2857142857142857
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding the pigeons, as they are gathered around her, looking up at her with interest. The scene conveys a sense of tranquility and connection with nature, as the woman engages with the birds in a peaceful outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.2711864406779661,
             0.3902439024390244,
             0.32
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A elderly woman sits on a weathered park bench, her silver hair glinting in the golden sunlight, as she gently feeds a flock of eager pigeons that gather at her feet, their iridescent feathers shimmering in hues of blue and green",
         "prediction": "The image depicts an elderly woman sitting on a park bench, interacting with a flock of pigeons. She appears to be feeding or engaging with the birds, creating a heartwarming and peaceful scene.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.2926829268292683,
             0.32432432432432434

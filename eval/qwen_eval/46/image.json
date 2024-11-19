@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field covered with autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.28125,
             0.3333333333333333
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through a field covered in autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3125,
             0.38461538461538464
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the grass beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a golden retriever running through a field covered with autumn leaves beneath a sprawling oak tree. The dog appears to be enjoying the fall weather and the leaves falling from the tree.",
-        "score": [
+        "rouge_score": [
             0.2857142857142857,
             0.3125,
             0.29850746268656714
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the grass beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field covered with autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.28125,
             0.3333333333333333
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a golden retriever running through a field covered with autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.4782608695652174,
             0.34375,
             0.4
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a golden retriever running through a field covered with autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.4782608695652174,
             0.34375,
             0.4
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a golden retriever running through a field covered with autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.4782608695652174,
             0.34375,
             0.4
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.28125,
             0.3396226415094339
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.3125,
             0.4444444444444445
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath an oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.42105263157894735,
             0.25,
             0.3137254901960784
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.28125,
             0.34615384615384615
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath an oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.42105263157894735,
             0.25,
             0.3137254901960784
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a golden retriever running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.3888888888888889,
             0.21875,
             0.28
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A golden retriever is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.375,
             0.48979591836734687
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The document does not provide information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.5263157894736842,
             0.3125,
             0.39215686274509803
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.28125,
             0.34615384615384615
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the breeze.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.25,
             0.3076923076923077
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the breeze.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.25,
             0.3076923076923077
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through a field of leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.34375,
             0.44000000000000006
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image depicts a dog running through a field of fallen leaves beneath an oak tree in an autumn setting.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.1875,
             0.23076923076923075
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.28125,
             0.34615384615384615
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.28125,
             0.34615384615384615
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath an oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.42105263157894735,
             0.25,
             0.3137254901960784
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.3125,
             0.4444444444444445
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The document does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3125,
             0.38461538461538464
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath an oak tree.",
-        "score": [
+        "rouge_score": [
             0.25,
             0.125,
             0.16666666666666666
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "There is no information in the given text about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             0.34375,
             0.4150943396226415
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "Beneath the sprawling oak tree in the autumn breeze, a golden retriever is running through a field covered in fallen leaves.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.28125,
             0.3396226415094339
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field covered in fallen leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.28125,
             0.3333333333333333
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.29411764705882354,
             0.15625,
             0.20408163265306123
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath a sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.28125,
             0.34615384615384615
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image description does not provide any information about what is happening beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.3125,
             0.37735849056603776
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of leaves beneath an oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.42105263157894735,
             0.25,
             0.3137254901960784
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a golden retriever running through a field covered in autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.21875,
             0.2745098039215686
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the breeze.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.25,
             0.3076923076923077
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the breeze.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.25,
             0.3076923076923077
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the breeze.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.25,
             0.3076923076923077
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.3125,
             0.4444444444444445
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.3125,
             0.4444444444444445
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.3125,
             0.4444444444444445
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field covered in autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.2777777777777778,
             0.15625,
             0.19999999999999998
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field covered in autumn leaves beneath a sprawling oak tree.",
-        "score": [
+        "rouge_score": [
             0.2777777777777778,
             0.15625,
             0.19999999999999998
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "The image shows a dog running through a field of autumn leaves beneath a sprawling oak tree in the breeze.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.25,
             0.3076923076923077
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.3125,
             0.4444444444444445
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
         "prediction": "A dog is running through the leaves beneath the sprawling oak tree in the autumn breeze.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.3125,
             0.4166666666666667

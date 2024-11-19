@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes and is looking out the window. The setting includes a window with a curtain, and the cat is positioned on the windowsill, basking in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.18604651162790697,
             0.25806451612903225,
             0.2162162162162162
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes, striped fur, and is looking out the window. The setting includes a window with a curtain, and the cat is positioned on the windowsill, enjoying the sunlight.",
-        "score": [
+        "rouge_score": [
             0.20454545454545456,
             0.2903225806451613,
             0.24000000000000005
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes, orange ears, and is laying down with its paw hanging off the edge of the windowsill. The windowsill is in front of a window with a curtain, and the cat is looking at the camera.",
-        "score": [
+        "rouge_score": [
             0.17307692307692307,
             0.2903225806451613,
             0.21686746987951808
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes, orange ears, and is laying down with its front paws stretched out. The windowsill is in front of a window with a curtain, and the cat is looking towards the camera. The setting appears to be indoors, possibly in a home or apartment.",
-        "score": [
+        "rouge_score": [
             0.13333333333333333,
             0.25806451612903225,
             0.17582417582417584
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has green eyes and is looking out of the window. The setting includes a window with a curtain, and the cat is positioned near a radiator. The overall atmosphere appears to be calm and serene.",
-        "score": [
+        "rouge_score": [
             0.16326530612244897,
             0.25806451612903225,
             0.2
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image shows a cat sitting on a windowsill. The cat has green eyes and is looking out of the window. The setting includes a window with a curtain, and the cat is positioned on the windowsill, which is illuminated by sunlight.",
-        "score": [
+        "rouge_score": [
             0.17777777777777778,
             0.25806451612903225,
             0.21052631578947367
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in a relaxed manner, with its front paws resting on the windowsill. The background includes a curtain and a window, suggesting that the cat is indoors, likely in a home setting. The lighting appears to be natural, coming from outside, which casts a warm glow on the cat and the surrounding area.",
-        "score": [
+        "rouge_score": [
             0.136986301369863,
             0.3225806451612903,
             0.1923076923076923
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in a way that it appears to be looking out of the window. The setting includes a window with a curtain, and the cat is sitting on the ledge of the window sill, basking in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.13793103448275862,
             0.25806451612903225,
             0.1797752808988764
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in a way that it appears to be looking out of the window. The setting includes a window with a curtain, and the cat is sitting on the ledge of the window sill, basking in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.13793103448275862,
             0.25806451612903225,
             0.1797752808988764
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in a relaxed manner, with its front paws resting on the windowsill. The background includes a curtain and a window, suggesting that the cat is indoors, likely in a home setting. The lighting appears to be natural, coming from outside, which casts a warm glow on the cat and the surrounding area.",
-        "score": [
+        "rouge_score": [
             0.136986301369863,
             0.3225806451612903,
             0.1923076923076923
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"woman with hammer\" appearance. The setting is a sunny window with a curtain, and the cat is sitting on a windowsill.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.25806451612903225,
             0.2077922077922078
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"woman with hammer\" appearance. The setting is a sunny window with a curtain, and the cat is sitting on a windowsill.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.25806451612903225,
             0.2077922077922078
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"woman with hammer\" appearance. The setting is a sunny window with a curtain, and the cat is sitting on a windowsill.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.25806451612903225,
             0.2077922077922078
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its body stretched out and its head turned to the side. The cat has green eyes and is looking out the window. The windowsill is in front of a window with a curtain, and there is a radiator below the windowsill. The overall setting appears to be indoors, likely in a home.",
-        "score": [
+        "rouge_score": [
             0.14516129032258066,
             0.2903225806451613,
             0.1935483870967742
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"woman with hammer\" appearance. The setting is a sunny window with a curtain, and the cat is sitting on a windowsill.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.25806451612903225,
             0.2077922077922078
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes, a striped coat, and orange ears. The setting is a sunny day with sunlight streaming through the window, casting light on the cat and the windowsill.",
-        "score": [
+        "rouge_score": [
             0.17777777777777778,
             0.25806451612903225,
             0.21052631578947367
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its body stretched out and its front paws hanging over the edge. The cat has green eyes and is looking at the camera. The setting includes a window with a curtain, and the sunlight is shining through, creating a warm and inviting atmosphere.",
-        "score": [
+        "rouge_score": [
             0.16981132075471697,
             0.2903225806451613,
             0.21428571428571427
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"bizarre syntax full of parentheses\" which is a reference to the programming language Lisp. The setting is a sunny window with a curtain, and the cat is described as being \"in a position to see all the differences in power between the various languages.\"",
-        "score": [
+        "rouge_score": [
             0.13043478260869565,
             0.2903225806451613,
             0.18
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is positioned near a curtain. The setting appears to be indoors, with sunlight streaming through the window, casting light on the cat and the windowsill.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.25806451612903225,
             0.20253164556962025
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a sunny window with a curtain.",
-        "score": [
+        "rouge_score": [
             0.21621621621621623,
             0.25806451612903225,
             0.23529411764705882
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes, a striped coat, and is lying down with its front paws stretched out. The windowsill is in front of a window with a curtain, and there is a radiator below the windowsill. The lighting suggests it is daytime.",
-        "score": [
+        "rouge_score": [
             0.14545454545454545,
             0.25806451612903225,
             0.18604651162790697
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"woman with a hammer\" appearance. The setting is a sunny window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.1702127659574468,
             0.25806451612903225,
             0.20512820512820512
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"womanly\" appearance. The setting is a sunny window with a curtain, and the cat is positioned on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"bizarre\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and is described as having a \"woman with hammer\" appearance. The setting is a sunny window with a curtain, and the cat is sitting on a windowsill.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.25806451612903225,
             0.2077922077922078
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes, striped fur, and is described as looking out the window. The setting includes a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.23255813953488372,
             0.3225806451612903,
             0.2702702702702703
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"bizarre\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has green eyes and is positioned in front of a window with a curtain. The setting appears to be indoors, with the cat looking out of the window.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.22580645161290322,
             0.1917808219178082
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has green eyes and is positioned in front of a window with a curtain. The windowsill is illuminated by sunlight, creating a warm and inviting atmosphere. The cat appears to be relaxed and comfortable in its environment.",
-        "score": [
+        "rouge_score": [
             0.13725490196078433,
             0.22580645161290322,
             0.17073170731707318
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"fierce\" appearance. The setting is a window with a curtain, and the cat is positioned on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes, striped fur, and is lying down. The windowsill is in front of a window with a curtain, and the cat is looking out of the window.",
-        "score": [
+        "rouge_score": [
             0.18604651162790697,
             0.25806451612903225,
             0.2162162162162162
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"fierce\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes, striped fur, and is looking out the window. The windowsill is in front of a window with a curtain, and there is a radiator below the windowsill. The overall setting appears to be indoors, likely a home environment.",
-        "score": [
+        "rouge_score": [
             0.16363636363636364,
             0.2903225806451613,
             0.20930232558139533
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill, with its body stretched out and its head turned to the side. The cat has green eyes and is looking out the window. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.17647058823529413,
             0.2903225806451613,
             0.21951219512195125
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes, orange ears, and is described as looking out the window. The windowsill is in front of a window with a curtain, and the cat is sitting on a radiator. The overall setting appears to be indoors, likely in a home or apartment.",
-        "score": [
+        "rouge_score": [
             0.15254237288135594,
             0.2903225806451613,
             0.20000000000000004
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes, orange ears, and is described as looking out the window. The setting is a window with a curtain, and the cat is sitting on the windowsill in front of the window.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.2903225806451613,
             0.2278481012658228
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"cat-like\" appearance. The setting is a window with a curtain, suggesting it is indoors.",
-        "score": [
+        "rouge_score": [
             0.20512820512820512,
             0.25806451612903225,
             0.2285714285714286
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out at the sun. The cat has striking green eyes and is described as having a \"boredom\" expression. The setting is a sunny window with a curtain.",
-        "score": [
+        "rouge_score": [
             0.21621621621621623,
             0.25806451612903225,
             0.23529411764705882
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out at the sun. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is positioned on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.17777777777777778,
             0.25806451612903225,
             0.21052631578947367
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"bizarre syntax full of parentheses\" which is a reference to the programming language Lisp. The setting is a sunny window with a curtain.",
-        "score": [
+        "rouge_score": [
             0.19148936170212766,
             0.2903225806451613,
             0.23076923076923078
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes, striped fur, and is laying down with its front paws stretched out. The windowsill is in front of a window with a curtain, and the cat is looking out of the window. The setting appears to be indoors, likely a home or apartment.",
-        "score": [
+        "rouge_score": [
             0.13333333333333333,
             0.25806451612903225,
             0.17582417582417584
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"bizarre syntax full of parentheses\" which is a reference to the programming language Lisp. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.2903225806451613,
             0.2117647058823529
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image shows a cat sitting on a windowsill. The cat has green eyes and is looking out the window. The windowsill is in front of a radiator, and there is a curtain to the left of the window. The overall setting appears to be indoors, likely a home environment.",
-        "score": [
+        "rouge_score": [
             0.1509433962264151,
             0.25806451612903225,
             0.1904761904761905
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned near a window with sunlight streaming in. The windowsill is in front of a radiator, and there is a curtain to the left of the cat. The overall setting appears to be indoors, likely in a home environment.",
-        "score": [
+        "rouge_score": [
             0.13559322033898305,
             0.25806451612903225,
             0.17777777777777778
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes and is described as looking out the window. The setting includes a curtain and a radiator below the windowsill.",
-        "score": [
+        "rouge_score": [
             0.25,
             0.2903225806451613,
             0.2686567164179105
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image shows a cat sitting on a windowsill. The cat has a striped coat and is looking out of the window. The setting is indoors, with a window and curtains visible in the background.",
-        "score": [
+        "rouge_score": [
             0.21052631578947367,
             0.25806451612903225,
             0.23188405797101447
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes and is positioned in front of a window with a curtain. The setting appears to be indoors, likely a home or office, with the cat enjoying the sunlight coming through the window.",
-        "score": [
+        "rouge_score": [
             0.1836734693877551,
             0.2903225806451613,
             0.225
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill, looking out at the sun. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is positioned on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.25806451612903225,
             0.20253164556962025
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image shows a cat sitting on a windowsill. The cat has striking green eyes and is positioned in front of a window with sunlight streaming through. The windowsill is white, and there is a curtain to the left of the cat. The overall setting appears to be indoors, likely in a home or office environment.",
-        "score": [
+        "rouge_score": [
             0.15254237288135594,
             0.2903225806451613,
             0.20000000000000004
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes and is looking out the window. The windowsill is in front of a window with a curtain, and there is a radiator below the windowsill. The overall setting appears to be indoors, likely in a home or apartment.",
-        "score": [
+        "rouge_score": [
             0.14545454545454545,
             0.25806451612903225,
             0.18604651162790697
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes and is described as having a \"bizarre syntax full of parentheses.\" The setting is a window with a curtain, and the cat is described as looking out at the scene.",
-        "score": [
+        "rouge_score": [
             0.1702127659574468,
             0.25806451612903225,
             0.20512820512820512
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the document describes a cat sitting on a windowsill. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is looking out of the window.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes and is positioned in front of a window with a curtain. The windowsill is in front of a radiator.",
-        "score": [
+        "rouge_score": [
             0.19444444444444445,
             0.22580645161290322,
             0.208955223880597
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes and is positioned near a window with sunlight coming through. The windowsill is in front of a radiator, and there is a curtain to the left of the cat. The overall setting appears to be indoors, likely in a home or apartment.",
-        "score": [
+        "rouge_score": [
             0.15254237288135594,
             0.2903225806451613,
             0.20000000000000004
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has striking green eyes and is positioned near a window with sunlight coming through. The setting appears to be indoors, with a curtain partially visible on the left side of the image. The overall scene conveys a sense of calm and natural light.",
-        "score": [
+        "rouge_score": [
             0.15789473684210525,
             0.2903225806451613,
             0.20454545454545456
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has a striped coat and is described as looking out the window. The setting is a window with a curtain, and the cat is positioned on the windowsill in front of the curtain.",
-        "score": [
+        "rouge_score": [
             0.2,
             0.2903225806451613,
             0.2368421052631579
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill, looking out at the sun. The cat has orange eyes and is described as being \"very cute.\" The setting is a window with a curtain, and the cat is positioned on the windowsill, likely enjoying the sunlight.",
-        "score": [
+        "rouge_score": [
             0.1702127659574468,
             0.25806451612903225,
             0.20512820512820512
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill, looking out at the sun. The cat has green eyes and is described as having a \"downy\" appearance. The setting is a window with a curtain, and the cat is positioned on the windowsill, looking out into the sunlight.",
-        "score": [
+        "rouge_score": [
             0.16326530612244897,
             0.25806451612903225,
             0.2
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill, looking out at the sun. The cat has green eyes and is described as having a \"sly\" expression. The setting is a window with a curtain, and the cat is positioned on the windowsill, looking outwards.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.25806451612903225,
             0.2077922077922078
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill, looking out at the sun. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is described as being in a \"sunlit room.\"",
-        "score": [
+        "rouge_score": [
             0.16326530612244897,
             0.25806451612903225,
             0.2
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has green eyes and is described as having a \"fierce\" appearance. The windowsill is in front of a window with a curtain, and the cat is looking out of the window. The overall setting appears to be indoors, with the cat positioned near a window.",
-        "score": [
+        "rouge_score": [
             0.14035087719298245,
             0.25806451612903225,
             0.1818181818181818
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has striking green eyes and is described as having a \"dramatic\" appearance. The windowsill is in front of a window with a curtain, and the cat is positioned in the sunlight coming through the window. The overall setting appears to be indoors, with the cat enjoying the warmth and light from the window.",
-        "score": [
+        "rouge_score": [
             0.13846153846153847,
             0.2903225806451613,
             0.18750000000000003
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has green eyes and is described as having a \"dramatic\" appearance. The setting is a window with a curtain, and the cat is positioned on the windowsill in front of the window.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has green eyes, striped fur, and is described as looking out the window. The windowsill is in front of a window with a curtain, and there is a radiator below the window. The overall setting appears to be indoors, likely a home environment.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.3225806451612903,
             0.23255813953488375
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has striking green eyes, orange ears, and is described as having a \"bengal\" appearance. The windowsill is in front of a window with a curtain, and the cat is looking out at something. The overall setting appears to be indoors, with sunlight coming through the window.",
-        "score": [
+        "rouge_score": [
             0.15517241379310345,
             0.2903225806451613,
             0.20224719101123595
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has green eyes and is described as looking out the window. The setting is a window with a curtain, suggesting it is indoors.",
-        "score": [
+        "rouge_score": [
             0.2571428571428571,
             0.2903225806451613,
             0.27272727272727276
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has orange eyes and is described as looking out the window. The setting is a window with a curtain, suggesting it is indoors.",
-        "score": [
+        "rouge_score": [
             0.2571428571428571,
             0.2903225806451613,
             0.27272727272727276
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a window sill. The cat has orange eyes and is described as looking out the window. The setting is a window sill, which is part of a window.",
-        "score": [
+        "rouge_score": [
             0.19444444444444445,
             0.22580645161290322,
             0.208955223880597
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out at the sun. The cat has green eyes and is described as \"a woman with hammer\" in the caption. The setting is a window with a curtain, and the cat is positioned on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.1956521739130435,
             0.2903225806451613,
             0.23376623376623376
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a window sill. The cat has green eyes and is described as looking out the window. The setting is a window sill, which is part of a window.",
-        "score": [
+        "rouge_score": [
             0.19444444444444445,
             0.22580645161290322,
             0.208955223880597
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a window sill. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is looking out at the sun.",
-        "score": [
+        "rouge_score": [
             0.16279069767441862,
             0.22580645161290322,
             0.1891891891891892
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has green eyes and is described as looking out the window. The setting is a window with a curtain, and the cat is positioned on the windowsill in front of the curtain.",
-        "score": [
+        "rouge_score": [
             0.20454545454545456,
             0.2903225806451613,
             0.24000000000000005
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"woman with hammer\" appearance. The setting is a window with a curtain, and the cat is positioned on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.25806451612903225,
             0.21333333333333335
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene described involves a cat sitting on a windowsill. The cat has green eyes and is described as having a \"downy\" appearance. The setting is a window with a curtain, and the cat is looking out at the street.",
-        "score": [
+        "rouge_score": [
             0.2,
             0.25806451612903225,
             0.22535211267605634
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has striking green eyes and is positioned near a window with sunlight coming through. The setting appears to be indoors, with a curtain partially visible on the left side of the image.",
-        "score": [
+        "rouge_score": [
             0.1956521739130435,
             0.2903225806451613,
             0.23376623376623376
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned near a window with sunlight streaming in. The windowsill is in front of a radiator, and there is a curtain to the left of the cat. The overall setting appears to be indoors, likely in a home environment.",
-        "score": [
+        "rouge_score": [
             0.13559322033898305,
             0.25806451612903225,
             0.17777777777777778
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its front paws hanging over the edge. The cat has striking green eyes and is looking out the window. The setting includes a window with a curtain, and the sunlight is shining through, creating a warm and inviting atmosphere.",
-        "score": [
+        "rouge_score": [
             0.1836734693877551,
             0.2903225806451613,
             0.225
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its body stretched out and its head turned to the side. The cat has green eyes and is looking out the window. The windowsill is in front of a window with a curtain, and the cat is sitting on a radiator.",
-        "score": [
+        "rouge_score": [
             0.17647058823529413,
             0.2903225806451613,
             0.21951219512195125
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its body stretched out and its head turned to the side. The cat has green eyes and is looking out the window. The windowsill is in front of a window with a curtain, and the cat is sitting on a radiator.",
-        "score": [
+        "rouge_score": [
             0.17647058823529413,
             0.2903225806451613,
             0.21951219512195125
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has striking green eyes and orange ears. The windowsill is in front of a window with a curtain, and the cat is in a sunny spot.",
-        "score": [
+        "rouge_score": [
             0.1951219512195122,
             0.25806451612903225,
             0.2222222222222222
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in front of a window with sunlight streaming in. The windowsill is illuminated by the sunlight, creating a warm and inviting atmosphere. The cat appears to be relaxed and comfortable in its environment.",
-        "score": [
+        "rouge_score": [
             0.12962962962962962,
             0.22580645161290322,
             0.16470588235294117
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in front of a window with sunlight streaming in. The windowsill is white, and there is a curtain to the left of the cat. The overall setting appears to be a cozy indoor environment with natural light.",
-        "score": [
+        "rouge_score": [
             0.13793103448275862,
             0.25806451612903225,
             0.1797752808988764
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in a way that it appears to be looking out of the window. The setting includes a window with a curtain, and the sunlight is streaming through, casting a warm glow on the cat. The overall atmosphere is serene and peaceful.",
-        "score": [
+        "rouge_score": [
             0.12903225806451613,
             0.25806451612903225,
             0.17204301075268816
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in a relaxed, lounging posture. The windowsill is illuminated by sunlight, creating a warm and inviting atmosphere. The background includes a curtain and a radiator, suggesting an indoor setting. The overall scene conveys a sense of tranquility and comfort.",
-        "score": [
+        "rouge_score": [
             0.13333333333333333,
             0.25806451612903225,
             0.17582417582417584
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image depicts a cat sitting on a windowsill. The cat has striking green eyes and is positioned in front of a window with a curtain. The sunlight is shining through the window, casting a warm glow on the cat and the windowsill. The overall setting appears to be indoors, likely in a home, with the cat enjoying the sunlight.",
-        "score": [
+        "rouge_score": [
             0.12698412698412698,
             0.25806451612903225,
             0.1702127659574468
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"striking\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its body stretched out and its head turned to the side. The cat has green eyes and is sitting in front of a window with a curtain. The setting is indoors, with the cat positioned near a radiator.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.2903225806451613,
             0.2278481012658228
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"fatal pinch\" appearance. The setting is a window with a curtain, and the cat is sitting on the windowsill in front of the window.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.25806451612903225,
             0.20253164556962025
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes, striped fur, and pink ears. The windowsill is in front of a window with a curtain, and there is a radiator below the windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its front paws hanging over the edge. The cat has green eyes and is looking at the camera. The setting includes a window with a curtain, a radiator, and sunlight streaming in.",
-        "score": [
+        "rouge_score": [
             0.21428571428571427,
             0.2903225806451613,
             0.24657534246575344
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, with its front paws hanging over the edge. The cat has striking green eyes and is described as having a \"faux leopard\" pattern on its fur. The windowsill is in front of a window with a curtain, and the cat is in a sunny spot.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.2903225806451613,
             0.2117647058823529
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes, orange ears, and is described as beautiful. The setting is a sunny window with a curtain, and the cat is sitting on a windowsill.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.25806451612903225,
             0.2191780821917808
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes and is described as having a \"feline grace\" and \"a sense of poise and elegance.\" The setting is a sunny window with a curtain, and the cat is described as being \"basking in the warmth of the sun.\"",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.25806451612903225,
             0.1839080459770115
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene in the image describes a cat sitting on a windowsill. The cat has green eyes, orange ears, and is laying down with its front paws stretched out. The windowsill is in front of a window with a curtain, and there is a radiator below the windowsill. The lighting suggests it is daytime.",
-        "score": [
+        "rouge_score": [
             0.14814814814814814,
             0.25806451612903225,
             0.18823529411764706
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a slender cat with emerald eyes lounging lazily on a sun-drenched windowsill, its fur gleaming like polished silver as the late afternoon light filters through the sheer curtains.",
         "prediction": "The scene describes a cat sitting on a windowsill, looking out the window. The cat has green eyes, striped fur, and is positioned near a curtain. The setting is indoors, with sunlight coming through the window.",
-        "score": [
+        "rouge_score": [
             0.25,
             0.2903225806451613,
             0.2686567164179105

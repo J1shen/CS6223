@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across the vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across the vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and beautiful natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and beautiful natural setting, likely a serene body of water surrounded by a vibrant sky.",
-        "score": [
+        "rouge_score": [
             0.2,
             0.16666666666666666,
             0.1818181818181818
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and peaceful atmosphere. Delicate white clouds are drifting across a vibrant orange sky, adding to the beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.4166666666666667,
             0.8333333333333334,
             0.5555555555555556
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.875,
             0.7368421052631579
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque and serene natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and peaceful atmosphere. Delicate white clouds are drifting lazily across a vibrant orange sky, adding to the overall beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.42,
             0.875,
             0.5675675675675675
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.8333333333333334,
             0.7272727272727272
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque and serene natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and beautiful atmosphere. Delicate white clouds are drifting lazily across the vibrant orange sky, adding to the overall peaceful and idyllic mood of the scene.",
-        "score": [
+        "rouge_score": [
             0.43137254901960786,
             0.9166666666666666,
             0.5866666666666666
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.8333333333333334,
             0.7272727272727272
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.8333333333333334,
             0.7407407407407408
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and picturesque atmosphere. Delicate white clouds are drifting lazily across the vibrant orange sky, adding to the overall sense of calmness and beauty.",
-        "score": [
+        "rouge_score": [
             0.4375,
             0.875,
             0.5833333333333334
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6176470588235294,
             0.875,
             0.7241379310344829
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of a setting sun, creating a tranquil and beautiful atmosphere. Delicate white clouds are drifting lazily across a vibrant orange sky, adding to the overall peaceful and idyllic mood of the scene.",
-        "score": [
+        "rouge_score": [
             0.38,
             0.7916666666666666,
             0.5135135135135135
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6060606060606061,
             0.8333333333333334,
             0.7017543859649124
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil atmosphere. Delicate white clouds are drifting across a vibrant orange sky, adding to the beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.4222222222222222,
             0.7916666666666666,
             0.5507246376811594
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6129032258064516,
             0.7916666666666666,
             0.6909090909090909
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and peaceful atmosphere. Delicate white clouds are drifting across a vibrant orange sky, adding to the beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.4166666666666667,
             0.8333333333333334,
             0.5555555555555556
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.8333333333333334,
             0.7407407407407408
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6176470588235294,
             0.875,
             0.7241379310344829
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful and serene natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.875,
             0.7368421052631579
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a serene and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and peaceful atmosphere. Delicate white clouds are drifting across the vibrant orange sky, adding to the beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.4375,
             0.875,
             0.5833333333333334
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque and serene natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and peaceful atmosphere. Delicate white clouds are drifting across a vibrant orange sky, adding to the overall beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.40816326530612246,
             0.8333333333333334,
             0.547945205479452
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque and serene natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a tranquil and peaceful atmosphere. Delicate white clouds are drifting lazily across a vibrant orange sky, adding to the overall beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.42,
             0.875,
             0.5675675675675675
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.8333333333333334,
             0.7272727272727272
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6333333333333333,
             0.7916666666666666,
             0.7037037037037038
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a tranquil and picturesque natural setting featuring a calm lake reflecting the golden hues of the setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful and picturesque natural setting. It features a calm lake reflecting the golden hues of the setting sun, creating a serene and tranquil atmosphere. Delicate white clouds are drifting across a vibrant orange sky, adding to the beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.4166666666666667,
             0.8333333333333334,
             0.5555555555555556
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque and serene natural setting. It features a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.5757575757575758,
             0.7916666666666666,
             0.6666666666666667
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.8333333333333334,
             0.7407407407407408
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.875,
             0.7636363636363636
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a beautiful natural landscape featuring a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.8333333333333334,
             0.7272727272727272
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, serene natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.875,
             0.75
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.8333333333333334,
             0.7407407407407408
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of a setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful, picturesque natural setting with a calm lake reflecting the golden hues of a setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of a setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.59375,
             0.7916666666666666,
             0.6785714285714286
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.8333333333333334,
             0.7142857142857143
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting, likely a lake or a calm body of water, during sunset. The calm lake reflects the golden hues of the setting sun, creating a tranquil and beautiful atmosphere. Delicate white clouds drift lazily across a vibrant orange sky, adding to the overall sense of peace and natural beauty.",
-        "score": [
+        "rouge_score": [
             0.3508771929824561,
             0.8333333333333334,
             0.4938271604938272
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting, likely a lake or a calm body of water, during sunset. The calm lake reflects the golden hues of the setting sun, creating a tranquil and beautiful atmosphere. Delicate white clouds drift lazily across a vibrant orange sky, adding to the overall peaceful and serene mood of the scene.",
-        "score": [
+        "rouge_score": [
             0.3448275862068966,
             0.8333333333333334,
             0.4878048780487806
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting, likely a lake or a calm body of water, during sunset. The calm lake reflects the golden hues of the setting sun, creating a tranquil and beautiful atmosphere. Delicate white clouds drift lazily across a vibrant orange sky, adding to the overall peaceful and idyllic mood of the scene.",
-        "score": [
+        "rouge_score": [
             0.3448275862068966,
             0.8333333333333334,
             0.4878048780487806
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting, featuring a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.59375,
             0.7916666666666666,
             0.6785714285714286
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and picturesque natural setting with a calm lake reflecting the golden hues of the setting sun, and delicate white clouds drifting across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.6129032258064516,
             0.7916666666666666,
             0.6909090909090909
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting, featuring a calm lake reflecting the golden hues of a setting sun, with delicate white clouds drifting lazily across a vibrant orange sky.",
-        "score": [
+        "rouge_score": [
             0.59375,
             0.7916666666666666,
             0.6785714285714286
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting, likely a lake or a calm body of water, during sunset. The calm lake reflects the golden hues of the setting sun, creating a warm and tranquil atmosphere. Delicate white clouds drift lazily across the vibrant orange sky, adding to the overall beauty and tranquility of the scene.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.875,
             0.5185185185185185
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a peaceful and serene natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene described is a peaceful and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.125,
             0.17647058823529413
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a serene and picturesque natural setting.",
-        "score": [
+        "rouge_score": [
             0.2222222222222222,
             0.08333333333333333,
             0.12121212121212122
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
         "prediction": "The scene describes a beautiful and serene natural landscape.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.041666666666666664,
             0.06060606060606061

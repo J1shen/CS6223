@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in its natural habitat, surrounded by dew-covered daisies. The spider is depicted as being at peace with its surroundings, and the web it is weaving is described as being delicate and intricate. The overall imagery is one of tranquility and harmony with nature.",
-        "score": [
+        "rouge_score": [
             0.1,
             0.2727272727272727,
             0.14634146341463417
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in its natural habitat, surrounded by dew-covered daisies. The spider is depicted as being at peace with its surroundings, and the web it is weaving is described as being delicate and intricate. The overall imagery is one of tranquility and harmony with nature.",
-        "score": [
+        "rouge_score": [
             0.1,
             0.2727272727272727,
             0.14634146341463417
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in the center of its web, surrounded by dew drops and flowers.",
-        "score": [
+        "rouge_score": [
             0.21428571428571427,
             0.2727272727272727,
             0.23999999999999996
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in its natural habitat, surrounded by dew-covered flowers and a spider web that is illuminated by the morning sun. The spider is depicted as being at peace with its surroundings, and the web is shown as being delicate and intricate. The overall imagery is one of tranquility and harmony with nature.",
-        "score": [
+        "rouge_score": [
             0.1323529411764706,
             0.4090909090909091,
             0.19999999999999998
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in the center of its web, surrounded by dew drops and flowers.",
-        "score": [
+        "rouge_score": [
             0.21428571428571427,
             0.2727272727272727,
             0.23999999999999996
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in its natural habitat, surrounded by dew-covered flowers and a spider web that is illuminated by the morning sun. The spider is depicted as a symbol of patience and persistence, as it works to create its web in a peaceful and serene environment.",
-        "score": [
+        "rouge_score": [
             0.15,
             0.4090909090909091,
             0.21951219512195122
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The image of a spider weaving its web in a tranquil morning setting is depicted in the description.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.2727272727272727,
             0.3
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The image of a spider weaving its web in a tranquil morning setting is depicted in the description.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.2727272727272727,
             0.3
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The image depicts a spider weaving its web in a tranquil morning setting, surrounded by dew-covered daisies.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.2727272727272727,
             0.3
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The description of a spider weaving its web in a tranquil morning setting depicts a spider in its natural habitat, surrounded by dew-covered flowers and a spider web that is illuminated by the morning sun. The spider is depicted as being at peace with its surroundings, and the web is shown as being delicate and intricate. The overall imagery is one of tranquility and harmony with nature.",
-        "score": [
+        "rouge_score": [
             0.1323529411764706,
             0.4090909090909091,
             0.19999999999999998
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- Daisies in the background\n- A spider in the center of its web\n- Dew drops on the spider web in the morning sun\n- A spider web with dew drops in the morning sun\n- A spider web with dew drops in the morning sun, surrounded by daisies\n- A spider web with dew drops in the morning sun, with a spider in the center\n- A spider web with dew",
-        "score": [
+        "rouge_score": [
             0.08823529411764706,
             0.4090909090909091,
             0.14516129032258066
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web with dew drops\n- A spider on its web\n- A spider in its web\n- A spider weaving its web\n- A spider in the center of its web\n- Dew drops on the spider web\n- Dew drops on the spider's web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on",
-        "score": [
+        "rouge_score": [
             0.07142857142857142,
             0.3181818181818182,
             0.11666666666666664
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web with dew drops\n- A spider on its web\n- Dew on a spider web\n- A spider web with dew\n- A spider web with dew drops\n- A spider web with dew on it\n- A spider web with dew drops on it\n- A spider web with dew drops on it\n- A spider web with dew drops on it\n- A spider web with dew drops on",
-        "score": [
+        "rouge_score": [
             0.07,
             0.3181818181818182,
             0.11475409836065574
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web is surrounded by daisies, creating a natural and serene setting.\n- The scene is set in the early morning, with the sun rising in the background.\n- The overall atmosphere is peaceful and calm, with the spider and its web being the focal point.",
-        "score": [
+        "rouge_score": [
             0.10112359550561797,
             0.4090909090909091,
             0.16216216216216217
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the web\n- The spider web stretching between daisies\n- The spider web being illuminated by the sun\n- The spider web being surrounded by dew drops\n- The spider web being part of a serene natural scene\n\nThe description paints a picture of a peaceful and beautiful morning scene with the spider and its web as the central focus.",
-        "score": [
+        "rouge_score": [
             0.0963855421686747,
             0.36363636363636365,
             0.15238095238095242
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web being surrounded by daisies.\n- The scene taking place in a field with a warm, golden light from the rising sun.\n- The spider web being delicate and intricate, with dew drops sparkling in the sunlight.\n- The spider being calm and at peace in its environment.\n\nThis creates a serene and peaceful image of a spider in its natural habitat, surrounded by beauty and",
-        "score": [
+        "rouge_score": [
             0.07339449541284404,
             0.36363636363636365,
             0.12213740458015268
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web being surrounded by daisies.\n- The scene taking place in a field with dew-covered daisies.\n- The sun shining brightly in the background, casting a warm glow over the entire scene.\n\nThis creates a serene and picturesque image of a spider weaving its web in a peaceful, natural setting.",
-        "score": [
+        "rouge_score": [
             0.08421052631578947,
             0.36363636363636365,
             0.13675213675213677
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web is surrounded by dew drops, indicating a fresh, early morning.\n- The spider web is intricately woven, suggesting the spider's skill and patience.\n- The spider web is set against a backdrop of daisies, adding to the serene and natural setting.\n- The overall scene is peaceful and tranquil, with the spider calmly going about its morning task of weaving its web.\n\nThis imagery evokes a sense of calmness, beauty, and the delicate balance",
-        "score": [
+        "rouge_score": [
             0.06666666666666667,
             0.3181818181818182,
             0.11023622047244094
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider weaving its web in the morning sun\n- Dew drops sparkling in the sunlight\n- The spider's web stretching between daisies\n\nThis creates a serene and picturesque scene of a spider working on its web in a peaceful, natural environment.",
-        "score": [
+        "rouge_score": [
             0.11842105263157894,
             0.4090909090909091,
             0.1836734693877551
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web stretching between the daisies\n- The sun shining through the web, creating a golden glow\n- The spider web appearing delicate and intricate\n- The spider and daisies set against a blurred background of greenery\n\nThis creates a serene and picturesque scene of a spider working on its web in a peaceful, natural setting.",
-        "score": [
+        "rouge_score": [
             0.0898876404494382,
             0.36363636363636365,
             0.14414414414414414
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- A spider web in a natural setting\n- A spider web in the morning light\n- A spider web with dew drops on it\n- A spider web with dew drops sparkling in the morning light\n- A spider web with dew drops sparkling in the sun\n- A spider web with dew drops sparkling in the morning sun\n- A spider web with dew drops sparkling in the morning sun and dew drops sparkling in",
-        "score": [
+        "rouge_score": [
             0.08333333333333333,
             0.4090909090909091,
             0.13846153846153844
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web is intricately woven and hangs between two daisies.\n- The web is covered in dew drops, reflecting the sunlight.\n- The background is a serene, natural setting with greenery and sunlight filtering through.\n- The overall scene is peaceful and tranquil, evoking a sense of calm and stillness.\n\nThis imagery creates a picturesque and serene image of a spider in its natural habitat, surrounded by beauty and tranquility.",
-        "score": [
+        "rouge_score": [
             0.08080808080808081,
             0.36363636363636365,
             0.1322314049586777
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web being surrounded by daisies.\n- The scene being set in a field with dew-covered daisies.\n- The overall atmosphere being peaceful and serene, with the sun rising in the background.",
-        "score": [
+        "rouge_score": [
             0.10526315789473684,
             0.36363636363636365,
             0.16326530612244897
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being intricately woven.\n- Dew or moisture droplets on the spider web.\n- The spider web being surrounded by daisies.\n- The scene taking place in the early morning hours.\n- The overall atmosphere being peaceful and serene.\n\nThe description paints a picture of a spider calmly going about its morning routine, weaving its web in a beautiful, natural setting.",
-        "score": [
+        "rouge_score": [
             0.0898876404494382,
             0.36363636363636365,
             0.14414414414414414
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider weaving its web in the center of the image.\n- Dew drops hanging from the spider web.\n- The spider web is surrounded by daisies.\n- The scene is set in a field with dew-covered daisies.\n- The sun is rising in the background, casting a warm glow over the scene.\n- The overall atmosphere is peaceful and serene, with the spider and its web being the focal point.",
-        "score": [
+        "rouge_score": [
             0.09411764705882353,
             0.36363636363636365,
             0.14953271028037382
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web is intricately woven and spans across the image.\n- Dew drops are hanging from the web, reflecting the sunlight.\n- The spider is surrounded by daisies, adding to the serene and natural atmosphere.\n- The background is filled with greenery, indicating a peaceful outdoor setting.\n- The overall scene conveys a sense of calmness and beauty, with the spider and its web as the focal point.",
-        "score": [
+        "rouge_score": [
             0.0625,
             0.2727272727272727,
             0.10169491525423728
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- Dew drops sparkling in the sunlight\n- A spider web in a peaceful, natural environment\n- The spider web being a symbol of patience and persistence\n- The spider working diligently on its web\n\nThe description paints a picture of a serene and peaceful morning scene, with the spider calmly and methodically weaving its web, surrounded by dew drops that sparkle in the sunlight. The spider web is depicted as a delicate and intricate structure",
-        "score": [
+        "rouge_score": [
             0.07407407407407407,
             0.36363636363636365,
             0.12307692307692307
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with the spider positioned in the middle.\n- Dew drops hanging from the spider web, reflecting the sunlight.\n- Daisies in the foreground, with dew drops on their petals.\n- The sun rising in the background, casting a warm glow over the scene.\n- The overall atmosphere being peaceful and serene, with the spider calmly going about its task of weaving its web.\n\nThis creates a picturesque and tranquil morning scene with the spider",
-        "score": [
+        "rouge_score": [
             0.07407407407407407,
             0.36363636363636365,
             0.12307692307692307
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web is intricately woven and spans across the image.\n- The web is surrounded by dew drops, indicating a fresh, early morning.\n- The spider web is set against a backdrop of daisies, adding to the serene and natural setting.\n- The overall scene is peaceful and calm, with the spider and its web being the focal point.",
-        "score": [
+        "rouge_score": [
             0.08045977011494253,
             0.3181818181818182,
             0.12844036697247707
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- Daisies in the foreground\n- A spider web stretching between the daisies\n- The sun shining in the background\n- Dew drops on the spider web and daisies\n\nThis creates a serene and picturesque scene of a spider working on its web in the early morning.",
-        "score": [
+        "rouge_score": [
             0.12,
             0.4090909090909091,
             0.18556701030927839
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider weaving its web in the center of the image.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.",
-        "score": [
+        "rouge_score": [
             0.0594059405940594,
             0.2727272727272727,
             0.09756097560975609
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- A spider web in a natural setting\n- A spider web in the morning light\n- A spider web with dew drops sparkling in the sunlight\n- A spider web with a spider in the center\n- A spider web with a spider in the center of a field\n- A spider web with a spider in the center of a meadow\n- A spider web with a spider in the center of a garden",
-        "score": [
+        "rouge_score": [
             0.07476635514018691,
             0.36363636363636365,
             0.12403100775193797
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being intricately woven and stretched between daisies.\n- Dewdrops hanging from the spider web, reflecting the sunlight.\n- The spider web being surrounded by dew-covered daisies.\n- The scene being set in a tranquil, peaceful morning environment.\n\nThe description paints a picture of a serene and delicate natural scene, with the spider and its web being the central focus.",
-        "score": [
+        "rouge_score": [
             0.08888888888888889,
             0.36363636363636365,
             0.14285714285714285
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being covered in dew drops.\n- The spider web being surrounded by daisies.\n- The scene taking place in the early morning sunlight.\n- The spider web being intricately woven.\n\nThe description paints a picture of a peaceful, natural scene with the spider and its web being the central focus.",
-        "score": [
+        "rouge_score": [
             0.1,
             0.36363636363636365,
             0.15686274509803924
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- Dew drops hanging from the spider's web.\n- The spider web itself, intricately woven.\n- Daisies in the foreground, adding to the serene morning atmosphere.\n- The spider web and flowers set against a backdrop of a sunrise or sunset, creating a peaceful and natural scene.\n\nThe description evokes a sense of tranquility and beauty, with the spider and its web being the central focus amidst the serene morning or evening setting.",
-        "score": [
+        "rouge_score": [
             0.08,
             0.36363636363636365,
             0.13114754098360654
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being intricately woven.\n- Dew drops hanging from the web.\n- The spider web being surrounded by daisies.\n- The scene taking place in the early morning sunlight.\n- The spider web being a focal point of the image.\n\nThe description paints a picture of a peaceful, natural scene with the spider and its web being the central elements.",
-        "score": [
+        "rouge_score": [
             0.09090909090909091,
             0.36363636363636365,
             0.14545454545454545
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being intricately woven.\n- Dew drops hanging from the web, reflecting the sunlight.\n- The spider web being surrounded by daisies.\n- The scene taking place in a serene, natural setting with a warm, golden light from the rising sun.\n\nThis creates a peaceful, almost idyllic image of a spider going about its morning routine in a beautiful, natural environment.",
-        "score": [
+        "rouge_score": [
             0.08888888888888889,
             0.36363636363636365,
             0.14285714285714285
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image\n- The spider's web stretching across the image\n- Dew drops hanging from the spider web\n- Daisies in the foreground\n- A spider in the center of its web\n- Dew drops on the spider web\n- The spider web connecting the daisies\n- The spider web being a focal point of the image\n- The spider web being a central element in the image\n- The spider web being a prominent feature in the image\n- The spider web",
-        "score": [
+        "rouge_score": [
             0.06862745098039216,
             0.3181818181818182,
             0.11290322580645162
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web stretching between the daisies\n- The sun shining through the web, creating a glowing effect\n- The spider web appearing delicate and intricate\n- The scene being peaceful and serene\n\nThe description paints a picture of a spider calmly going about its morning routine, weaving its web in a beautiful, natural setting with the sun shining through the delicate strands of the web.",
-        "score": [
+        "rouge_score": [
             0.09183673469387756,
             0.4090909090909091,
             0.15
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web stretching between the daisies\n- The sun shining through the web, creating a warm glow\n- The spider web and flowers set against a green background\n\nThis creates a serene and picturesque scene of a spider working on its web in a peaceful, natural setting.",
-        "score": [
+        "rouge_score": [
             0.09876543209876543,
             0.36363636363636365,
             0.1553398058252427
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dewdrops on the spider web\n- A spider web with intricate patterns\n- A spider web in the center of a field\n- A spider web with dewdrops in the morning sun\n- A spider web with dewdrops in the morning light\n- A spider web with dewdrops in the morning dew\n- A spider web with dewdrops in the morning mist\n- A spider web with dewdrops in the morning sunlight\n- A spider web with dewdrops in the morning breeze",
-        "score": [
+        "rouge_score": [
             0.08,
             0.36363636363636365,
             0.13114754098360654
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- The web stretching between daisies\n- Dewdrops on the web\n- The spider's web illuminated by the morning sun\n- The spider's web as a symbol of patience and persistence\n- The spider as a master of its environment\n- The spider's web as a delicate and intricate structure\n- The spider's web as a representation of the natural world\n- The spider's web as a metaphor for the complexity of life\n- The spider's web as a symbol of the",
-        "score": [
+        "rouge_score": [
             0.0761904761904762,
             0.36363636363636365,
             0.12598425196850394
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- A spider web with dew drops\n- A spider web in the morning sun\n- A spider web with dew drops in the morning sun\n- A spider web with dew drops in the morning sun, hanging from a tree\n- A spider web with dew drops in the morning sun, hanging from a tree, with a spider hanging from it\n- A spider web with dew drops in the morning sun, hanging from a tree, with a spider hanging from it",
-        "score": [
+        "rouge_score": [
             0.08411214953271028,
             0.4090909090909091,
             0.13953488372093023
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web itself, which is intricately woven and spans across the image.\n- Dew or raindrops on the spider web, reflecting the sunlight.\n- Daisies or flowers in the foreground, adding to the natural setting.\n- The sun rising in the background, casting a warm glow over the scene.\n\nThis creates a serene and picturesque image of a spider working on its web in a peaceful, early morning environment.",
-        "score": [
+        "rouge_score": [
             0.09278350515463918,
             0.4090909090909091,
             0.1512605042016807
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- Dew drops on the spider web, reflecting the sunlight.\n- The spider web is intricately woven, with the spider positioned at the center.\n- The background features a serene, natural setting, likely a meadow or field.\n- The overall scene conveys a sense of tranquility and stillness, with the spider calmly going about its task of weaving its web.",
-        "score": [
+        "rouge_score": [
             0.08139534883720931,
             0.3181818181818182,
             0.12962962962962965
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- Dew drops hanging from the spider's web.\n- The spider web itself, intricately woven.\n- Daisies in the foreground, with dew drops on them.\n- The sun shining brightly in the background, casting a warm glow over the scene.\n- The overall setting being peaceful and serene, with the spider calmly going about its task of weaving its web.\n\nThis creates a picture of a spider working diligently on its web in a beautiful, natural environment on a sunny morning",
-        "score": [
+        "rouge_score": [
             0.07476635514018691,
             0.36363636363636365,
             0.12403100775193797
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web is surrounded by daisies, creating a natural and serene setting.\n- The scene is set in the early morning, with the sun rising in the background, casting a warm glow over the entire scene.\n\nThis creates a peaceful and picturesque image of a spider going about its natural behavior in a beautiful, tranquil setting.",
-        "score": [
+        "rouge_score": [
             0.09,
             0.4090909090909091,
             0.14754098360655737
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- Dew drops hanging from the spider web.\n- The spider web itself, intricately woven.\n- Daisies or flowers in the foreground, possibly indicating a garden or natural setting.\n- The scene taking place in the early morning, with the sun rising or shining through the web.\n\nThe overall mood conveyed is one of tranquility, serenity, and the delicate beauty of nature.",
-        "score": [
+        "rouge_score": [
             0.11363636363636363,
             0.45454545454545453,
             0.18181818181818182
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web stretching across the image, with the spider positioned in the middle.\n- Dew drops hanging from the web, reflecting the sunlight.\n- Daisies or flowers in the foreground, adding to the natural setting.\n- The scene taking place in the early morning, with the sun rising in the background.\n\nThis creates a serene and picturesque image of a spider working on its web in a peaceful, natural environment.",
-        "score": [
+        "rouge_score": [
             0.10204081632653061,
             0.45454545454545453,
             0.16666666666666669
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- The web stretching between daisies\n- Dewdrops on the web\n- The sun shining through the web\n- The spider and web set against a backdrop of daisies and dewdrops\n- The scene being set in the morning\n\nThis creates a peaceful and serene image of a spider working on its web in a natural, outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.10126582278481013,
             0.36363636363636365,
             0.15841584158415842
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider weaving its web in the center of the image.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.",
-        "score": [
+        "rouge_score": [
             0.0594059405940594,
             0.2727272727272727,
             0.09756097560975609
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider weaving its web in the center of the image.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.",
-        "score": [
+        "rouge_score": [
             0.0594059405940594,
             0.2727272727272727,
             0.09756097560975609
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- Dew drops on the spider web reflecting the morning sun\n- Dew drops sparkling in the sunlight\n- A spider web with dew drops on it in the early morning light\n- A spider web with dew drops on it in the morning sun\n- A spider web with dew drops on it in the morning light\n- A spider web with dew drops on it in the morning sun, reflecting the sun's rays\n- A spider web with dew drops on",
-        "score": [
+        "rouge_score": [
             0.08256880733944955,
             0.4090909090909091,
             0.13740458015267176
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web is surrounded by dew-covered daisies.\n- The background is a serene, natural setting with a spider web and flowers.\n- The overall scene is peaceful and tranquil, with the spider and its web being the focal point.",
-        "score": [
+        "rouge_score": [
             0.08433734939759036,
             0.3181818181818182,
             0.13333333333333333
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web is intricately woven and spans across the image.\n- The web is surrounded by dew drops, indicating a fresh, early morning.\n- The background features a serene, natural setting with greenery.\n- The overall scene conveys a sense of calmness and tranquility.\n\nThis imagery creates a peaceful and picturesque scene, highlighting the delicate and intricate nature of the spider's web and the beauty of a morning setting.",
-        "score": [
+        "rouge_score": [
             0.07142857142857142,
             0.3181818181818182,
             0.11666666666666664
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- Dew drops hanging from the spider web, reflecting the sunlight.\n- The spider web itself, intricately woven.\n- Daisies in the foreground, with dew drops on them.\n- The scene taking place in a field or meadow, with the sun rising in the background.\n\nThe overall mood conveyed is one of tranquility and natural beauty.",
-        "score": [
+        "rouge_score": [
             0.0975609756097561,
             0.36363636363636365,
             0.15384615384615385
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being intricately woven.\n- Dew or moisture droplets on the web.\n- The spider web being surrounded by daisies.\n- The scene taking place in the early morning, with the sun rising in the background.\n- The overall atmosphere being peaceful and serene.\n\nThe description paints a picture of a spider calmly and meticulously creating its web in a beautiful, natural setting, with the sun rising and the dew on the flowers adding to the tranquility of the",
-        "score": [
+        "rouge_score": [
             0.08411214953271028,
             0.4090909090909091,
             0.13953488372093023
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- The spider's web stretching between daisies\n- The web being illuminated by the sun\n- The spider being in a peaceful, natural environment\n\nThe description paints a picture of a spider calmly and meticulously weaving its web in a serene, early morning setting, with the dewdrops adding a touch of beauty and freshness to the scene.",
-        "score": [
+        "rouge_score": [
             0.09302325581395349,
             0.36363636363636365,
             0.14814814814814814
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web is intricately woven and spans across the image.\n- The web is set against a backdrop of dew-covered daisies.\n- The daisies are white with yellow centers, and they are arranged symmetrically around the spider web.\n- The scene is set in a meadow or field, with the sun rising in the background casting a warm glow over the entire scene.\n- The overall atmosphere is serene and peaceful, with the spider and its web being",
-        "score": [
+        "rouge_score": [
             0.07547169811320754,
             0.36363636363636365,
             0.125
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web is surrounded by dew drops, indicating a fresh, early morning.\n- The spider web is intricately woven, suggesting the spider's careful and precise work.\n- The spider web is set against a backdrop of daisies, adding to the serene and natural setting.\n- The overall scene is described as peaceful and tranquil, with the spider calmly going about its task in the morning light.",
-        "score": [
+        "rouge_score": [
             0.08421052631578947,
             0.36363636363636365,
             0.13675213675213677
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- A spider web in the center of a field\n- A spider web with dew drops in the morning sun\n- A spider web with dew drops sparkling in the sunlight\n- A spider web with dew drops sparkling in the morning sun\n- A spider web with dew drops sparkling in the sunlight\n- A spider web with dew drops sparkling in the morning sun\n- A spider web with dew drops sparkling in the",
-        "score": [
+        "rouge_score": [
             0.08333333333333333,
             0.4090909090909091,
             0.13846153846153844
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- The web stretching between daisies\n- Dewdrops on the web\n- The spider's web being illuminated by the morning sun\n- The spider's web being a spider's home\n- The spider's web being a delicate structure\n- The spider's web being a symbol of patience and persistence\n- The spider's web being a symbol of the natural world\n- The spider's web being a symbol of the interconnectedness of life\n- The spider's web being a symbol of",
-        "score": [
+        "rouge_score": [
             0.07692307692307693,
             0.36363636363636365,
             0.126984126984127
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- Dew drops on the spider's body\n- Dew drops on the flowers surrounding the spider web\n- Dew drops on the spider's legs\n- Dew drops on the spider's head\n- Dew drops on the spider's eyes\n- Dew drops on the spider's mouth\n- Dew drops on the spider's back\n- Dew drops on the spider's abdomen\n- Dew drops on the spider's legs\n- Dew drops on the spider's feet",
-        "score": [
+        "rouge_score": [
             0.0673076923076923,
             0.3181818181818182,
             0.11111111111111112
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web being intricately woven.\n- Dew drops hanging from the web.\n- The spider web being surrounded by dew-covered daisies.\n- The scene taking place in a field with dew-covered daisies.\n- The sun shining brightly in the background, creating a serene and peaceful atmosphere.\n\nThe description paints a picture of a spider creating its web in a calm and beautiful natural setting, with the dewdrops and sunlight adding to the tranquil mood.",
-        "score": [
+        "rouge_score": [
             0.07766990291262135,
             0.36363636363636365,
             0.128
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web is intricately woven and spans across the image.\n- The web is surrounded by dew drops, indicating a fresh, early morning.\n- The background features a field of daisies, adding to the serene and natural setting.\n- The overall scene is peaceful and calm, with the spider calmly going about its task of weaving its web.\n\nThe description paints a picture of a spider in its natural habitat, surrounded by beauty and tranquility, as it goes",
-        "score": [
+        "rouge_score": [
             0.06542056074766354,
             0.3181818181818182,
             0.10852713178294572
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider web is described as being \"circular and intricate,\" suggesting a detailed and symmetrical pattern.\n- The web is surrounded by dew drops, indicating a fresh, early morning atmosphere.\n- The background is described as being \"green and lush,\" suggesting a natural, outdoor setting.\n- The overall scene is described as being \"tranquil and peaceful,\" indicating a calm and serene environment.\n\nThe description paints a picture of a spider in its natural habitat, creating a delicate",
-        "score": [
+        "rouge_score": [
             0.0673076923076923,
             0.3181818181818182,
             0.11111111111111112
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web being intricately woven.\n- Dew or moisture droplets hanging from the web.\n- The web being surrounded by daisies.\n- The scene taking place in the early morning sunlight.\n- The overall atmosphere being peaceful and serene.\n\nThe description paints a picture of a spider calmly and meticulously creating its web in a beautiful, natural setting, with the morning light highlighting the delicate structure of the web and the surrounding flowers.",
-        "score": [
+        "rouge_score": [
             0.07920792079207921,
             0.36363636363636365,
             0.13008130081300814
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center.\n- Dew drops on the spider web.\n- The spider web being surrounded by daisies.\n- The scene being set in the early morning with the sun rising.\n- The spider web being described as \"perfect\" and \"beautiful.\"\n\nThe overall image is one of a serene and delicate natural scene, with the spider and its web being the central focus.",
-        "score": [
+        "rouge_score": [
             0.10843373493975904,
             0.4090909090909091,
             0.17142857142857143
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The web is surrounded by dew drops, indicating a fresh, early morning.\n- The spider is positioned between two daisies, creating a symmetrical composition.\n- The background is a blurred natural setting, likely a field or garden, with the focus on the spider and its web.\n- The overall scene conveys a sense of tranquility and natural beauty.\n\nThe description creates a serene image of a spider calmly weaving its web in the early morning, surrounded by dew and",
-        "score": [
+        "rouge_score": [
             0.09433962264150944,
             0.45454545454545453,
             0.15625
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image\n- The spider web itself, with intricate patterns and symmetry\n- Dew drops hanging from the web, reflecting the sunlight\n- Two daisies in the foreground, with dew drops on their petals\n- The sun rising in the background, casting a warm glow over the scene\n- The overall setting being peaceful and serene, with the spider calmly working on its web amidst the natural beauty of the morning\n\nThe description paints a picture of a spider in its natural habitat, surrounded",
-        "score": [
+        "rouge_score": [
             0.08411214953271028,
             0.4090909090909091,
             0.13953488372093023
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider weaving its web in the early morning light.\n- The spider's web being delicate and intricate.\n- The spider working diligently and carefully.\n- The web being set in a peaceful, natural environment.\n- The spider's movements being slow and deliberate.\n- The web being a symbol of patience and persistence.",
-        "score": [
+        "rouge_score": [
             0.10294117647058823,
             0.3181818181818182,
             0.15555555555555556
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider weaving its web in the center of the image.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.",
-        "score": [
+        "rouge_score": [
             0.0594059405940594,
             0.2727272727272727,
             0.09756097560975609
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider weaving its web, which is a natural and intricate structure.\n- The web being suspended between two flowers, creating a sense of balance and harmony.\n- The spider working diligently on its web, symbolizing patience and persistence.\n- The scene taking place in the early morning, evoking a sense of calmness and serenity.\n- The flowers providing a beautiful and delicate backdrop for the spider's activity.\n- The overall atmosphere being peaceful and tranquil, with the spider's actions being a peaceful and natural part of the morning environment.",
-        "score": [
+        "rouge_score": [
             0.09523809523809523,
             0.45454545454545453,
             0.15748031496062995
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- Dew drops on the spider web glistening in the morning light\n- A spider web with dew drops in the morning sun\n- A spider web with dew drops in the morning sun shining on it\n- A spider web with dew drops in the morning sun shining on it, creating a sparkling effect\n- A spider web with dew drops in the morning sun shining on it, creating a sparkling effect, with the spider in the center\n- A spider",
-        "score": [
+        "rouge_score": [
             0.08333333333333333,
             0.4090909090909091,
             0.13846153846153844
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops on the spider web\n- Dew drops",
-        "score": [
+        "rouge_score": [
             0.06,
             0.2727272727272727,
             0.09836065573770492
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- A spider web in a natural setting\n- A spider web in the morning light\n- A spider web with dew drops sparkling in the sunlight\n- A spider web with dew drops glistening in the morning sun\n- A spider web with dew drops sparkling in the sunlight\n- A spider web with dew drops sparkling in the morning sun\n- A spider web with dew drops sparkling in the morning sun\n- A spider",
-        "score": [
+        "rouge_score": [
             0.08571428571428572,
             0.4090909090909091,
             0.14173228346456695
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web with dew drops on it, indicating a fresh morning.\n- The spider web being the focal point of the image.\n- The overall scene being peaceful and serene, suggesting a tranquil morning setting.",
-        "score": [
+        "rouge_score": [
             0.1076923076923077,
             0.3181818181818182,
             0.16091954022988506
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- Daisies in the foreground\n- A serene, peaceful morning atmosphere\n\nThe description paints a picture of a spider calmly and meticulously weaving its web, with the dewdrops adding a touch of beauty and freshness to the scene. The presence of daisies in the foreground suggests a natural, outdoor setting. Overall, the imagery conveys a sense of tranquility and harmony with nature.",
-        "score": [
+        "rouge_score": [
             0.08333333333333333,
             0.36363636363636365,
             0.13559322033898305
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- The web stretching between two daisies\n- The sun shining brightly in the background\n- The spider being in a peaceful, natural environment\n\nThis creates a serene and picturesque scene of a spider working on its web in the early morning.",
-        "score": [
+        "rouge_score": [
             0.12857142857142856,
             0.4090909090909091,
             0.19565217391304343
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the spider web\n- Dew drops on the spider web reflecting sunlight\n- Dew drops sparkling in the sunlight\n- Dew drops sparkling in the sunlight on the spider web\n- Dew drops sparkling in the sunlight on the spider web with spider web in the background\n- Dew drops sparkling in the sunlight on the spider web with spider web in the background and flowers in the foreground\n- Dew drops sparkling in the sunlight on the spider web with spider web in the background and flowers in",
-        "score": [
+        "rouge_score": [
             0.07142857142857142,
             0.36363636363636365,
             0.11940298507462686
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is a spider in the center of its web, surrounded by dew drops and sunlight.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.2727272727272727,
             0.2222222222222222
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is a spider in its natural habitat, surrounded by dew-covered daisies and a spider web that is illuminated by the morning sun.",
-        "score": [
+        "rouge_score": [
             0.2,
             0.36363636363636365,
             0.25806451612903225
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is a spider in its natural habitat, surrounded by dewy flowers and a spider web that is intricately woven and glistening with dew.",
-        "score": [
+        "rouge_score": [
             0.15,
             0.2727272727272727,
             0.19354838709677416
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is one of serenity and harmony. The spider is shown as a symbol of patience and determination, working diligently to create its web in a peaceful and natural environment. The morning setting adds to the sense of calm and tranquility, creating a sense of harmony between the spider and its surroundings.",
-        "score": [
+        "rouge_score": [
             0.10294117647058823,
             0.3181818181818182,
             0.15555555555555556
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web with intricate patterns\n- A spider in a peaceful, natural environment\n- The spider's web as a symbol of patience and persistence\n- The spider as a symbol of creativity and adaptability\n- The spider's web as a metaphor for the interconnectedness of life\n- The spider's web as a representation of the delicate balance of nature\n\nThe description paints a picture of a spider working diligently in",
-        "score": [
+        "rouge_score": [
             0.0673076923076923,
             0.3181818181818182,
             0.11111111111111112
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider weaving its web in the center of the image.\n- The spider is surrounded by dew-covered daisies.\n- The web is covered in dew drops.\n- The scene is set in a tranquil morning setting.\n- The spider is depicted as being in the center of its web, surrounded by nature.",
-        "score": [
+        "rouge_score": [
             0.11764705882352941,
             0.36363636363636365,
             0.17777777777777776
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider weaving its web in the morning sun\n- A spider in its natural habitat\n- A spider creating its web in a peaceful setting\n- A spider in a serene environment\n- A spider in a beautiful, natural scene\n- A spider in a peaceful, sunny morning setting\n- A spider in a tranquil, sunny morning scene\n- A spider in a serene, sunny morning setting\n- A spider",
-        "score": [
+        "rouge_score": [
             0.09183673469387756,
             0.4090909090909091,
             0.15
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is a spider in the center of its web, surrounded by dew-covered daisies.",
-        "score": [
+        "rouge_score": [
             0.1935483870967742,
             0.2727272727272727,
             0.22641509433962262
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is a spider in the center of its web, surrounded by dew-covered daisies.",
-        "score": [
+        "rouge_score": [
             0.1935483870967742,
             0.2727272727272727,
             0.22641509433962262
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web stretching across the image\n- A spider in the center of its web, surrounded by dew drops and daisies in a tranquil morning setting.",
-        "score": [
+        "rouge_score": [
             0.13114754098360656,
             0.36363636363636365,
             0.1927710843373494
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider weaving its web in the center of the image.\n- The spider web is surrounded by dew drops, indicating a fresh, early morning.\n- The spider web is intricately woven, suggesting the spider's skill and patience.\n- The spider web is set against a backdrop of daisies, adding a touch of natural beauty and tranquility.\n- The overall scene is peaceful and serene, evoking a sense of calm and stillness.",
-        "score": [
+        "rouge_score": [
             0.08045977011494253,
             0.3181818181818182,
             0.12844036697247707
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n- A spider weaving its web in the center of the image.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.\n- Dew drops on the spider web.",
-        "score": [
+        "rouge_score": [
             0.0594059405940594,
             0.2727272727272727,
             0.09756097560975609
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n1. A spider in the center of its web, symbolizing the center of activity and control.\n2. The spider's web, representing the intricate and delicate structure of the startup's operations.\n3. Dewdrops on the web, symbolizing the freshness and purity of the startup's beginnings.\n4. The spider's careful and deliberate movements, representing the startup's focus and attention to detail.\n5. The spider's web in a field of daisies, symbolizing the startup's connection to nature and the natural world.\n6. The",
-        "score": [
+        "rouge_score": [
             0.05714285714285714,
             0.2727272727272727,
             0.09448818897637794
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- The spider's web stretching between two daisies\n- The spider's web illuminated by the sun\n- The spider's web appearing delicate and intricate\n- The spider's web being a symbol of patience and persistence\n- The spider's web being a representation of the natural world\n- The spider's web being a metaphor for the complexity of life\n- The spider's web being a reminder of the beauty of nature\n- The spider's web being",
-        "score": [
+        "rouge_score": [
             0.07547169811320754,
             0.36363636363636365,
             0.125
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- A spider web with intricate patterns\n- Daisies in the background\n- A spider in the center of its web\n- Dew drops on the spider web in the morning sun\n- A spider web with dew drops in the morning sun\n- A spider web with dew drops in the morning sun, surrounded by daisies\n- A spider web with dew drops in the morning sun, with a spider in the center\n- A spider web with dew",
-        "score": [
+        "rouge_score": [
             0.08823529411764706,
             0.4090909090909091,
             0.14516129032258066
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web in the center of the image.\n- The spider's web stretching across the image, with dew drops hanging from it.\n- The spider web being surrounded by daisies.\n- The scene being set in a field with dew-covered daisies.\n- The sun shining brightly in the background, casting a warm glow over the scene.\n- The overall atmosphere being peaceful and serene, with the spider calmly going about its task of weaving its web.",
-        "score": [
+        "rouge_score": [
             0.08421052631578947,
             0.36363636363636365,
             0.13675213675213677
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n1. A spider hanging from its web, which is described as \"a spider hanging from its web in the center of the frame.\"\n\n2. The spider is surrounded by dew-covered daisies, which are described as \"daisies with dew on them.\"\n\n3. The spider is depicted as being in a peaceful and serene environment, with the description mentioning \"a spider weaving its web in a tranquil morning setting.\"\n\n4. The spider is shown as being in a natural setting, with the description mentioning \"a spider weaving its web in a",
-        "score": [
+        "rouge_score": [
             0.07407407407407407,
             0.36363636363636365,
             0.12307692307692307
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting is:\n\n1. A spider hanging from its web, which is described as \"a spider hanging from its web in the center of the frame.\"\n\n2. The spider is surrounded by dew-covered daisies, which are described as \"two daisies with dew on them.\"\n\n3. The spider is in a peaceful, natural setting, which is described as \"a spider weaving its web in a tranquil morning setting.\"\n\n4. The spider is in a field of flowers, which is described as \"a spider weaving its web in a field of flowers.\"",
-        "score": [
+        "rouge_score": [
             0.07547169811320754,
             0.36363636363636365,
             0.125
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider in the center of its web\n- Dew drops on the web\n- Daisies in the foreground\n- A spider web stretching across the image\n- The sun shining in the background\n- The spider web being a focal point of the image\n- The spider being the main subject of the image\n- The daisies adding a natural element to the scene\n- The dew drops adding a sense of freshness and purity to the image\n- The sun shining in the background creating a serene and peaceful atmosphere\n- The",
-        "score": [
+        "rouge_score": [
             0.0784313725490196,
             0.36363636363636365,
             0.12903225806451613
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate spider spins its gossamer web between two dew-kissed flowers, each thread shimmering like silver in the soft morning sun.",
         "prediction": "The imagery depicted in the description of a spider weaving its web in a tranquil morning setting includes:\n\n- A spider hanging from its web\n- Dew drops on the spider web\n- Daisies in the background\n- A spider web with dew drops in the morning sunlight\n\nThe scene is described as tranquil and serene, with the spider and its web being the central focus.",
-        "score": [
+        "rouge_score": [
             0.12903225806451613,
             0.36363636363636365,
             0.19047619047619047

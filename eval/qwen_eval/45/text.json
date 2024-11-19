@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as glistening in the early morning light, draped between two dew-kissed branches, with its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.8571428571428571,
             0.9090909090909091,
             0.8823529411764706
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.9090909090909091,
             0.7692307692307692
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"dramatic,\" with intricate patterns that shimmer like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.6216216216216216,
             0.696969696969697,
             0.6571428571428571
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7407407407407407,
             0.6060606060606061,
             0.6666666666666666
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as glistening in the early morning light, draped between two dew-kissed branches, with its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.8571428571428571,
             0.9090909090909091,
             0.8823529411764706
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.9090909090909091,
             0.7692307692307692
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.3333333333333333,
             0.43137254901960786
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7407407407407407,
             0.6060606060606061,
             0.6666666666666666
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as looking like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7368421052631579,
             0.42424242424242425,
             0.5384615384615385
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as looking like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7368421052631579,
             0.42424242424242425,
             0.5384615384615385
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.3333333333333333,
             0.43137254901960786
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.9090909090909091,
             0.7692307692307692
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.9090909090909091,
             0.7692307692307692
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace\".",
-        "score": [
+        "rouge_score": [
             0.5217391304347826,
             0.36363636363636365,
             0.42857142857142855
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.36363636363636365,
             0.4444444444444444
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.36363636363636365,
             0.4444444444444444
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.9090909090909091,
             0.7692307692307692
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"draped\" with intricate patterns that shimmer like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.6216216216216216,
             0.696969696969697,
             0.6571428571428571
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.3333333333333333,
             0.43137254901960786
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.3333333333333333,
             0.43137254901960786
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as looking like fine lace.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             0.3333333333333333,
             0.40740740740740733
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.36363636363636365,
             0.4444444444444444
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.3333333333333333,
             0.43137254901960786
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as looking like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7368421052631579,
             0.42424242424242425,
             0.5384615384615385
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.36363636363636365,
             0.4444444444444444
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.36363636363636365,
             0.4444444444444444
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, glistening and shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.9375,
             0.9090909090909091,
             0.923076923076923
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7741935483870968,
             0.7272727272727273,
             0.7500000000000001
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as glistening and shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as glistening and shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as glistening and intricate, shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.6666666666666666,
             0.6666666666666666
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as glistening and shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as glistening and shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light looks like fine lace.",
-        "score": [
+        "rouge_score": [
             0.6111111111111112,
             0.3333333333333333,
             0.43137254901960786
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is draped between two dew-kissed branches in the early morning light, glistening and shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9090909090909091,
             0.8955223880597014
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as shimmering like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.6363636363636364,
             0.6666666666666666
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb looks like fine lace against the soft green backdrop of the awakening forest.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.42424242424242425,
             0.5714285714285714
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.9090909090909091,
             0.7692307692307692
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
         "prediction": "The delicate spiderweb draped between two dew-kissed branches in the early morning light is described as \"glistening\" and \"shimmering like fine lace against the soft green backdrop of the awakening forest.\"",
-        "score": [
+        "rouge_score": [
             0.65625,
             0.6363636363636364,
             0.6461538461538462

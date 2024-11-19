@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- It is a large, muscular dog with a thick, golden coat that glistens in the sunlight.\n- Its coat is shiny and well-groomed, reflecting the bright sunlight.\n- The dog is playing energetically in the crystal-clear lake, splashing water around and creating a sparkling effect in the sunlight.\n- The lake is clear and still, with no waves or ripples, allowing the dog's movements to be clearly visible.\n- The dog's tail is wagging energetically as it plays,",
-        "score": [
+        "rouge_score": [
             0.15151515151515152,
             0.5555555555555556,
             0.2380952380952381
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- Joyfully splashing in the lake\n- Sending droplets of water glimmering like diamonds into the warm afternoon sun\n- Having a golden retriever's characteristic golden coat\n- Being in a crystal-clear lake\n- Playing in the lake on a warm afternoon",
-        "score": [
+        "rouge_score": [
             0.4,
             0.8888888888888888,
             0.5517241379310346
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "Based on the description provided, a golden retriever with a shiny coat playing in a crystal-clear lake on a warm afternoon would look like a joyful, happy dog, splashing around and sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.5227272727272727,
             0.8518518518518519,
             0.647887323943662
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in the crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8387096774193549,
             0.9629629629629629,
             0.896551724137931
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like a joyful, playful dog as it splashes in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.5555555555555556,
             0.576923076923077
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "Based on the description provided, a golden retriever with a shiny coat playing in a crystal-clear lake on a warm afternoon would look like this:\n\n- The golden retriever has a shiny, golden coat.\n- It is playing in a crystal-clear lake, which suggests the water is very clean and transparent.\n- The lake is set in a warm afternoon, indicating pleasant weather conditions.\n\nSo, the image would depict a golden retriever with a lustrous, golden coat frolicking and splashing in the clear, sparkling waters of a lake on a warm, sunny day.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.5925925925925926,
             0.2689075630252101
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\nIt is joyfully splashing in the lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.9259259259259259,
             0.7462686567164178
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- It is a golden retriever, which means it has a golden-brown coat.\n- The coat is shiny, indicating it is well-groomed and healthy.\n- It is playing in a crystal-clear lake, so the water is very clear and you can see the bottom.\n- It is on a warm afternoon, so the weather is pleasant and sunny.\n\nThe golden retriever is likely to be splashing around in the water, enjoying itself and having fun. The clear water allows you to see the golden retriever",
-        "score": [
+        "rouge_score": [
             0.1523809523809524,
             0.5925925925925926,
             0.24242424242424246
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n\"Golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.574468085106383,
             1.0,
             0.7297297297297298
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n\"golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.574468085106383,
             1.0,
             0.7297297297297298
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and carefree while playing in a crystal-clear lake on a warm afternoon. It is described as \"splashing in the warm afternoon sun\" and \"droplets of water glimmering like diamonds.\"",
-        "score": [
+        "rouge_score": [
             0.46153846153846156,
             0.6666666666666666,
             0.5454545454545455
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- It is a golden retriever, which means it has a golden-brown coat.\n- The coat is shiny, indicating it is well-groomed and healthy.\n- It is playing in a crystal-clear lake, which suggests it is a sunny day with clear water.\n- It is on a warm afternoon, implying it is a pleasant temperature.\n\nSo the image would show a golden retriever with a shiny, golden-brown coat, playing joyfully in the clear, sparkling water of a lake on a warm, sunny",
-        "score": [
+        "rouge_score": [
             0.14563106796116504,
             0.5555555555555556,
             0.23076923076923078
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8064516129032258,
             0.9259259259259259,
             0.8620689655172414
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "Based on the description provided, a golden retriever with a shiny coat playing in a crystal-clear lake on a warm afternoon would look like:\n\n- A golden retriever, which is a breed of dog known for its golden-brown coat.\n- The coat would be shiny, indicating it is well-groomed and healthy.\n- The dog is playing in a crystal-clear lake, suggesting it is a sunny day with clear water.\n- The dog is on a warm afternoon, implying it is a pleasant and comfortable temperature.\n\nSo in summary, it would be a healthy, well-groomed golden retriever enjoying a sunny day by playing in",
-        "score": [
+        "rouge_score": [
             0.15384615384615385,
             0.5925925925925926,
             0.24427480916030536
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and playful while playing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.5185185185185185,
             0.5714285714285714
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and playful while splashing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.5555555555555556,
             0.6122448979591836
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.9,
             1.0,
             0.9473684210526316
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- It is a golden retriever, which means it has a golden-brown coat.\n- The coat is shiny, indicating it is well-groomed and healthy.\n- It is playing in a crystal-clear lake, which suggests it is a sunny day with clear water.\n- It is on a warm afternoon, implying it is a pleasant temperature.\n- The golden retriever is likely to be swimming, splashing, and having fun in the water.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.5555555555555556,
             0.2564102564102564
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like they are joyfully splashing in the crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.7272727272727273,
             0.5925925925925926,
             0.6530612244897959
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like a joyful, playful dog splashing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6521739130434783,
             0.5555555555555556,
             0.6
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it's joyfully splashing in the crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8064516129032258,
             0.9259259259259259,
             0.8620689655172414
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8064516129032258,
             0.9259259259259259,
             0.8620689655172414
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- The golden retriever has a thick, wavy coat that is golden in color.\n- The coat is shiny and reflects light, giving it a lustrous appearance.\n- The dog is playing in a crystal-clear lake, which is so clear that you can see the bottom.\n- The lake is surrounded by trees and other greenery, creating a serene and peaceful setting.\n- The dog is splashing around in the water, sending droplets of water glimmering like diamonds into the warm afternoon sun.\n- The",
-        "score": [
+        "rouge_score": [
             0.24752475247524752,
             0.9259259259259259,
             0.390625
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n\"Golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.574468085106383,
             1.0,
             0.7297297297297298
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- It is a large, friendly-looking dog with a golden-brown coat that shines in the sunlight.\n- It is playing in a crystal-clear lake, with the water reflecting the golden retriever's coat and the surrounding scenery.\n- The lake is surrounded by trees and other greenery, creating a serene and peaceful environment.\n- The golden retriever is splashing around in the water, sending droplets of water glimmering like diamonds into the warm afternoon sun.\n- The dog appears to be enjoying itself, with a",
-        "score": [
+        "rouge_score": [
             0.2403846153846154,
             0.9259259259259259,
             0.3816793893129771
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and carefree while playing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.5185185185185185,
             0.5714285714285714
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like a joyful and playful dog, splashing in the crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.5925925925925926,
             0.627450980392157
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in the crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8387096774193549,
             0.9629629629629629,
             0.896551724137931
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8064516129032258,
             0.9259259259259259,
             0.8620689655172414
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8064516129032258,
             0.9259259259259259,
             0.8620689655172414
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this while playing in a crystal-clear lake on a warm afternoon:\n\n- It is a golden retriever, which means it has a golden-brown coat.\n- The coat is shiny, indicating it is well-groomed and healthy.\n- It is playing in a crystal-clear lake, so the water is very clear and you can see the bottom.\n- It is on a warm afternoon, so the temperature is comfortable and pleasant.\n- The golden retriever is splashing around in the water, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.24242424242424243,
             0.8888888888888888,
             0.38095238095238093
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like this:\n\n- It is playing in a crystal-clear lake on a warm afternoon.\n- It is splashing in the lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.8888888888888888,
             0.7164179104477612
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in a crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7647058823529411,
             0.9629629629629629,
             0.8524590163934426
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and carefree while playing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.5185185185185185,
             0.5714285714285714
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like a joyful and playful dog, splashing and frolicking in the crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.5925925925925926,
             0.6037735849056604
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyfully splashing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.7894736842105263,
             0.5555555555555556,
             0.6521739130434783
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "Based on the description provided, a golden retriever with a shiny coat playing in a crystal-clear lake on a warm afternoon would look like a joyful and carefree dog, enjoying the refreshing water and the pleasant weather. The golden retriever's shiny coat would reflect the sunlight, giving it a radiant appearance. The crystal-clear lake would provide a serene and picturesque backdrop, enhancing the overall beauty of the scene. The warm afternoon would create a comfortable and inviting atmosphere, allowing the dog to fully immerse itself in the playful activity.",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.5925925925925926,
             0.2689075630252101
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.9,
             1.0,
             0.9473684210526316
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.9,
             1.0,
             0.9473684210526316
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "Based on the information provided in the text, a golden retriever with a shiny coat playing in a crystal-clear lake on a warm afternoon would look like this:\n\n- The golden retriever has a shiny coat, indicating it is well-groomed and healthy.\n- It is playing in a crystal-clear lake, suggesting a clean and natural environment.\n- The scene takes place on a warm afternoon, implying pleasant weather conditions.\n\nThe golden retriever is likely to be enjoying itself, with its shiny coat reflecting the sunlight and the clear water surrounding it. The overall impression would be one of a happy, well-cared-for dog enjoying a pleasant day",
-        "score": [
+        "rouge_score": [
             0.1388888888888889,
             0.5555555555555556,
             0.22222222222222227
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.9,
             1.0,
             0.9473684210526316
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and playful while splashing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.5555555555555556,
             0.6122448979591836
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks joyful and playful while playing in a crystal-clear lake on a warm afternoon.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.5185185185185185,
             0.5714285714285714
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like it is joyfully splashing in the crystal-clear lake on a warm afternoon, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7941176470588235,
             1.0,
             0.8852459016393442
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat looks like a golden retriever, which is a medium to large-sized breed of dog with a golden or cream-colored coat. They have a friendly and outgoing personality, and are known for their intelligence and trainability. In the context of the given text, the golden retriever is described as being \"splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.\" This suggests that the golden retriever is enjoying itself in the water, possibly swimming or playing, and the water is clear enough to see the droplets of water sparkling in the sunlight",
-        "score": [
+        "rouge_score": [
             0.24074074074074073,
             0.9629629629629629,
             0.38518518518518513
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
         "prediction": "A golden retriever with a shiny coat is joyfully splashing in the crystal-clear lake, sending droplets of water glimmering like diamonds into the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             1.0,
             1.0,
             1.0

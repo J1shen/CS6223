@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.46875,
             0.5555555555555556
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.625,
             0.7142857142857143
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.78125,
             0.8064516129032259
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.46875,
             0.5555555555555556
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.46875,
             0.5555555555555556
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.78125,
             0.8064516129032259
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.46875,
             0.5555555555555556
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8181818181818182,
             0.84375,
             0.8307692307692308
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.6578947368421053,
             0.78125,
             0.7142857142857143
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.78125,
             0.78125
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene described involves a delicate butterfly with intricate emerald and sapphire patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.6944444444444444,
             0.78125,
             0.7352941176470588
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.75,
             0.84375,
             0.7941176470588235
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.625,
             0.7142857142857143
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene described involves a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.627906976744186,
             0.84375,
             0.72
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.625,
             0.7142857142857143
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.6097560975609756,
             0.78125,
             0.684931506849315
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below, creating a beautiful and serene image.",
-        "score": [
+        "rouge_score": [
             0.6578947368421053,
             0.78125,
             0.7142857142857143
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with wings adorned with intricate patterns of emerald and sapphire, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.6744186046511628,
             0.90625,
             0.7733333333333334
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate emerald and sapphire patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly is casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.6756756756756757,
             0.78125,
             0.7246376811594203
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below. The butterfly's wings are adorned with intricate patterns of emerald and sapphire, and it is described as beautiful, delicate, and fluttering with grace. The garden is sun-drenched, suggesting it is a warm, bright, and inviting setting.",
-        "score": [
+        "rouge_score": [
             0.3225806451612903,
             0.625,
             0.425531914893617
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire wings flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.675,
             0.84375,
             0.75
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.6428571428571429,
             0.84375,
             0.7297297297297298
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.7297297297297297,
             0.84375,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.46875,
             0.5555555555555556
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene in the document depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly is described as a trap set by evil companies for the desperate and foolish.",
-        "score": [
+        "rouge_score": [
             0.3902439024390244,
             0.5,
             0.4383561643835617
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8709677419354839,
             0.84375,
             0.8571428571428571
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7916666666666666,
             0.59375,
             0.6785714285714286
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene described involves a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.84375,
             0.84375,
             0.84375
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7916666666666666,
             0.59375,
             0.6785714285714286
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene described involves a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.7297297297297297,
             0.84375,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate patterns of emerald and sapphire wings flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.6585365853658537,
             0.84375,
             0.7397260273972602
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7916666666666666,
             0.59375,
             0.6785714285714286
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene described involves a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly is described as casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.6388888888888888,
             0.71875,
             0.676470588235294
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted involves a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6521739130434783,
             0.46875,
             0.5454545454545454
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene described involves a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6521739130434783,
             0.46875,
             0.5454545454545454
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.625,
             0.7142857142857143
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.625,
             0.7142857142857143
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.625,
             0.7142857142857143
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire fluttering gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8387096774193549,
             0.8125,
             0.8253968253968254
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicted in the text involves a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6333333333333333,
             0.59375,
             0.6129032258064516
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.6818181818181818,
             0.46875,
             0.5555555555555556
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, gracefully flitting among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.7222222222222222,
             0.8125,
             0.7647058823529411
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.59375,
             0.6909090909090908
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.78125,
             0.8064516129032259
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below as it moves through the garden.",
-        "score": [
+        "rouge_score": [
             0.6052631578947368,
             0.71875,
             0.6571428571428571
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate emerald and sapphire patterns flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.78125,
             0.78125
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns of emerald and sapphire on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden.",
-        "score": [
+        "rouge_score": [
             0.7307692307692307,
             0.59375,
             0.6551724137931033
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate butterfly, its wings adorned with intricate patterns of emerald and sapphire, flits gracefully among the vibrant flowers of a sun-drenched garden, casting fleeting shadows on the sunlit path below.",
         "prediction": "The scene depicts a delicate butterfly with intricate patterns on its wings, flitting gracefully among vibrant flowers in a sun-drenched garden. The butterfly casts fleeting shadows on the sunlit path below.",
-        "score": [
+        "rouge_score": [
             0.71875,
             0.71875,
             0.71875

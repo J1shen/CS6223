@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly with its wings catching the light like stained glass, fluttering above wildflowers.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly with its wings catching the light like stained glass, fluttering above wildflowers.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly with its wings catching the light like stained glass, fluttering above wildflowers.",
-        "score": [
+        "rouge_score": [
             0.5882352941176471,
             0.3448275862068966,
             0.4347826086956522
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and complexity of software development. The butterfly represents the elegance and grace of well-written code, while the wildflowers symbolize the diverse and ever-changing landscape of technology. The butterfly's wings catching the light like stained glass highlights the beauty and intricacy of the code, while the wildflowers represent the natural, organic growth of software projects.",
-        "score": [
+        "rouge_score": [
             0.19696969696969696,
             0.4482758620689655,
             0.27368421052631575
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and complexity of software development, with the butterfly representing the elegance and power of Lisp, and the wildflowers symbolizing the diverse and vibrant ecosystem of software development.",
-        "score": [
+        "rouge_score": [
             0.1388888888888889,
             0.1724137931034483,
             0.15384615384615385
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and potential of startups, with the butterfly representing the innovative and creative spirit of entrepreneurs, and the wildflowers symbolizing the diverse and unpredictable nature of the startup landscape.",
-        "score": [
+        "rouge_score": [
             0.16216216216216217,
             0.20689655172413793,
             0.18181818181818182
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the innovative and unique qualities of Lisp, which is compared to a butterfly with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.3448275862068966,
             0.3448275862068966,
             0.3448275862068966
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly with its wings catching the light like stained glass, fluttering above wildflowers in a field.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.3448275862068966,
             0.40816326530612246
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light in a way that resembles stained glass.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             0.3793103448275862,
             0.44
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and complexity of software development, with the butterfly representing the elegance and intricacy of well-crafted code, and the wildflowers symbolizing the diverse and ever-changing landscape of technology.",
-        "score": [
+        "rouge_score": [
             0.13157894736842105,
             0.1724137931034483,
             0.1492537313432836
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and complexity of software development, with the butterfly representing the elegance and intricacy of well-crafted code, and the wildflowers symbolizing the diverse and ever-changing landscape of technology.",
-        "score": [
+        "rouge_score": [
             0.13157894736842105,
             0.1724137931034483,
             0.1492537313432836
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the unpredictable and often serendipitous nature of starting a successful startup. The butterfly represents the unexpected and organic growth of a startup, while the wildflowers symbolize the natural and organic process of innovation. The butterfly's wings catching the light like stained glass highlights the beauty and potential of a startup, even if it is not immediately obvious.",
-        "score": [
+        "rouge_score": [
             0.18461538461538463,
             0.41379310344827586,
             0.25531914893617025
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and complexity of software development, with the butterfly representing the elegance and intricacy of well-crafted code, and the wildflowers symbolizing the diverse and dynamic nature of the software ecosystem.",
-        "score": [
+        "rouge_score": [
             0.15384615384615385,
             0.20689655172413793,
             0.17647058823529413
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the beauty and complexity of nature, with the butterfly symbolizing the delicate balance and interconnectedness of life. The butterfly's wings catching the light like stained glass represents the idea that even small, seemingly insignificant things can create a stunning and intricate pattern when viewed from the right perspective.",
-        "score": [
+        "rouge_score": [
             0.19642857142857142,
             0.3793103448275862,
             0.2588235294117647
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a metaphor for the natural and unstructured way humans are meant to work, as opposed to the artificial and hierarchical structure of large organizations. The butterfly represents the freedom and creativity of startup founders, while the wildflowers symbolize the natural environment in which they thrive. The light shining through the butterfly's wings is a visual representation of the innovative and enlightening ideas that come from working in a startup environment.",
-        "score": [
+        "rouge_score": [
             0.09333333333333334,
             0.2413793103448276,
             0.1346153846153846
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described in the document is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.41379310344827586,
             0.48000000000000004
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene described is a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.41379310344827586,
             0.5106382978723404
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters gracefully above a sun-drenched patch of wildflowers, its delicate wings catching the light like stained glass as it dances among the swaying petals.",
         "prediction": "The scene describes a butterfly flitting above wildflowers, with its wings catching the light like stained glass.",
-        "score": [
+        "rouge_score": [
             0.7058823529411765,
             0.41379310344827586,
             0.5217391304347826

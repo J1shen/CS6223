@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by tall grass, and the image has a warm and vibrant color palette.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.25,
             0.21428571428571427
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by green grass and leaves, and the sun is setting in the background.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.2916666666666667,
             0.25
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by green grass and leaves, and the sun is setting in the background.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.2916666666666667,
             0.25
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by green grass and leaves, and the sun is setting in the background.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.2916666666666667,
             0.25
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by greenery, and the sun's rays create a warm and inviting atmosphere.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.25,
             0.21428571428571427
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by green grass and other sunflowers.",
-        "score": [
+        "rouge_score": [
             0.2,
             0.20833333333333334,
             0.20408163265306126
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by green grass and leaves, and the sun is setting in the background.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.2916666666666667,
             0.25
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by green grass and leaves, and the sun is setting in the background.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.2916666666666667,
             0.25
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field with a bright sun shining behind it. The sunflower is surrounded by tall grass, and the image has a warm and vibrant color palette.",
-        "score": [
+        "rouge_score": [
             0.1875,
             0.25,
             0.21428571428571427
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is surrounded by green leaves and stems, and the background features a bright, warm sun shining through the leaves, casting a golden glow on the scene.",
-        "score": [
+        "rouge_score": [
             0.1956521739130435,
             0.375,
             0.2571428571428572
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center prominently displayed. The surrounding grass is green and tall, creating a natural and serene backdrop for the sunflower. The sun is shining brightly, casting a warm glow over the entire scene and highlighting the sunflower's vivid colors.",
-        "score": [
+        "rouge_score": [
             0.14084507042253522,
             0.4166666666666667,
             0.2105263157894737
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.16923076923076924,
             0.4583333333333333,
             0.24719101123595508
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center contrasting against the green leaves and the green grass in the background. The sun is shining brightly, casting a warm glow over the scene and highlighting the sunflower's details. The overall atmosphere is serene and natural, with the sunflower appearing healthy and thriving in its environment.",
-        "score": [
+        "rouge_score": [
             0.1375,
             0.4583333333333333,
             0.21153846153846154
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop for the sunflower. The sun is shining brightly, casting a warm glow on the scene and highlighting the sunflower's vibrant colors. The overall atmosphere is peaceful and natural, with the sunflower appearing to be thriving in its environment.",
-        "score": [
+        "rouge_score": [
             0.11764705882352941,
             0.4166666666666667,
             0.1834862385321101
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.1864406779661017,
             0.4583333333333333,
             0.26506024096385544
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center contrasting against the green leaves and stems. The surrounding field is filled with similar sunflowers, creating a vibrant and natural setting. The sun is shining brightly, casting a warm glow over the entire scene and highlighting the details of the sunflower's petals and leaves.",
-        "score": [
+        "rouge_score": [
             0.14666666666666667,
             0.4583333333333333,
             0.22222222222222224
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene. The overall atmosphere is serene and peaceful, with the sunflower appearing to be thriving in its natural environment.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.4583333333333333,
             0.2178217821782178
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene. The overall atmosphere is serene and peaceful, with the sunflower appearing to be thriving in its natural environment.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.4583333333333333,
             0.2178217821782178
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center prominently displayed. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene. The overall atmosphere is serene and natural, highlighting the beauty of the sunflower in its natural environment.",
-        "score": [
+        "rouge_score": [
             0.1518987341772152,
             0.5,
             0.23300970873786409
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding area is filled with tall green grass, creating a natural and serene environment. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.18333333333333332,
             0.4583333333333333,
             0.2619047619047619
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the main focus. The sunflower is described as having a bright yellow color and a large, round head with many petals. The surroundings include a green field with tall grass and other plants, and the sunflower is backlit by the sun, creating a warm and vibrant atmosphere.",
-        "score": [
+        "rouge_score": [
             0.13559322033898305,
             0.3333333333333333,
             0.19277108433734938
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center contrasting against the green leaves and the green grass in the background. The sun is shining brightly, casting a warm glow over the scene and highlighting the sunflower's details.",
-        "score": [
+        "rouge_score": [
             0.1746031746031746,
             0.4583333333333333,
             0.2528735632183908
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center contrasting against the green foliage. The surrounding grass is tall and green, creating a natural and serene backdrop for the sunflower. The sun is shining brightly, casting a warm glow over the entire scene and highlighting the sunflower's vibrant colors.",
-        "score": [
+        "rouge_score": [
             0.13513513513513514,
             0.4166666666666667,
             0.20408163265306126
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center contrasting against the green leaves and the green grass in the background. The sun is shining brightly, casting a warm glow over the entire scene and highlighting the sunflower's details.",
-        "score": [
+        "rouge_score": [
             0.171875,
             0.4583333333333333,
             0.25
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, surrounded by the greenery of the grass. The sunflower's bright yellow petals contrast with the green leaves and stems, creating a vivid and natural scene.",
-        "score": [
+        "rouge_score": [
             0.16,
             0.3333333333333333,
             0.21621621621621623
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and serene environment.",
-        "score": [
+        "rouge_score": [
             0.15555555555555556,
             0.2916666666666667,
             0.2028985507246377
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color, with a large, round head of petals surrounding a central disk of seeds. The surrounding grass is also tall and green, creating a natural and lush environment for the sunflower to grow in. The sunflower is positioned in the center of the image, with the sun shining brightly behind it, casting a warm glow over the scene. The overall impression is one of natural beauty and vitality, with the sunflower as the focal point of the image.",
-        "score": [
+        "rouge_score": [
             0.11650485436893204,
             0.5,
             0.18897637795275593
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color, with its petals fully open and its center filled with seeds. The surrounding area is filled with tall grass, creating a natural and lush environment for the sunflower to grow in. The sunflower is positioned in the foreground, drawing attention to its vibrant appearance and the way it stands out against the green background.",
-        "score": [
+        "rouge_score": [
             0.1375,
             0.4583333333333333,
             0.21153846153846154
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color, with a large, round head of petals surrounding a central disk. The surrounding area is filled with tall grass, and the sunflower is positioned in the middle of this grassy field. The sun is shining brightly in the background, casting a warm glow over the entire scene. The overall impression is one of natural beauty and tranquility.",
-        "score": [
+        "rouge_score": [
             0.10975609756097561,
             0.375,
             0.169811320754717
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.1864406779661017,
             0.4583333333333333,
             0.26506024096385544
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, surrounded by tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding grass is green and tall, creating a natural and serene environment for the sunflower.",
-        "score": [
+        "rouge_score": [
             0.13953488372093023,
             0.25,
             0.1791044776119403
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and serene environment for the sunflower to grow.",
-        "score": [
+        "rouge_score": [
             0.14,
             0.2916666666666667,
             0.1891891891891892
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head with many petals. The surrounding area is filled with tall grass, creating a natural and serene environment for the sunflower to grow.",
-        "score": [
+        "rouge_score": [
             0.1509433962264151,
             0.3333333333333333,
             0.20779220779220778
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing out prominently. The sunflower is surrounded by green leaves and is set against a backdrop of a sunlit field, creating a vivid and natural setting.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.25,
             0.18181818181818182
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing out prominently. The sunflower is surrounded by green grass, and the sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.23255813953488372,
             0.4166666666666667,
             0.29850746268656714
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head with many petals. It is surrounded by green leaves and is set against a backdrop of sunlight, which is shining brightly and casting a warm glow over the scene. The overall impression is one of natural beauty and vitality.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.3333333333333333,
             0.16666666666666666
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head with many petals. The surrounding area is filled with tall grass, creating a natural and serene environment for the sunflower to grow.",
-        "score": [
+        "rouge_score": [
             0.1509433962264151,
             0.3333333333333333,
             0.20779220779220778
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head with many petals. It is surrounded by other sunflowers and tall grass, creating a natural and vibrant setting. The sunflower is also described as being in the sunlight, which highlights its bright color and adds to the overall beauty of the scene.",
-        "score": [
+        "rouge_score": [
             0.1506849315068493,
             0.4583333333333333,
             0.22680412371134018
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color, with its petals spread out and its center being dark brown. The sunflower is surrounded by green leaves and is set against a backdrop of a blurred field, suggesting it is in a natural, outdoor setting. The sun is shining brightly in the background, casting light on the sunflower and creating a warm, sunny atmosphere.",
-        "score": [
+        "rouge_score": [
             0.1125,
             0.375,
             0.1730769230769231
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color, with a large, round head of petals surrounding a central disk. The surrounding grass is also tall and green, creating a natural backdrop for the sunflower. The sunflower is positioned in the foreground, with the sun shining brightly behind it, casting a warm glow and creating a contrast between the bright yellow of the flower and the green of the grass.",
-        "score": [
+        "rouge_score": [
             0.12643678160919541,
             0.4583333333333333,
             0.1981981981981982
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is surrounded by other sunflowers, creating a dense and lush field. The sky is clear and bright, suggesting a sunny day. The sunflower's petals are open wide, revealing its bright yellow color and the seeds inside. The field is bathed in sunlight, highlighting the sunflower's vibrant colors and creating a warm and inviting atmosphere.",
-        "score": [
+        "rouge_score": [
             0.13157894736842105,
             0.4166666666666667,
             0.19999999999999998
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by other sunflowers and tall grasses. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with other sunflowers and tall grasses, creating a natural and lush environment.",
-        "score": [
+        "rouge_score": [
             0.1276595744680851,
             0.25,
             0.16901408450704225
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a large, yellow head with brown seeds, surrounded by green leaves. The field is filled with tall grass, creating a natural and serene setting for the sunflower.",
-        "score": [
+        "rouge_score": [
             0.16326530612244897,
             0.3333333333333333,
             0.21917808219178078
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing out prominently. The sunflower is surrounded by green leaves and is set against a backdrop of a blurred green field, suggesting it is growing in a natural outdoor setting. The sunflower is bathed in sunlight, which highlights its vibrant colors and gives the scene a warm, natural feel.",
-        "score": [
+        "rouge_score": [
             0.12307692307692308,
             0.3333333333333333,
             0.1797752808988764
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing out prominently. The sunflower is surrounded by green leaves and is set against a backdrop of a sunlit field, creating a vivid and natural setting.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.25,
             0.18181818181818182
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing tall in a field of tall grass. The sunflower is the central focus of the image, surrounded by the green grass that extends into the background. The sunflower's position in the center of the image emphasizes its prominence and beauty.",
-        "score": [
+        "rouge_score": [
             0.1896551724137931,
             0.4583333333333333,
             0.2682926829268293
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and serene environment for the sunflower to grow.",
-        "score": [
+        "rouge_score": [
             0.14,
             0.2916666666666667,
             0.1891891891891892
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and serene environment.",
-        "score": [
+        "rouge_score": [
             0.15555555555555556,
             0.2916666666666667,
             0.2028985507246377
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. It is surrounded by other sunflowers and tall grass, creating a natural and vibrant setting.",
-        "score": [
+        "rouge_score": [
             0.15217391304347827,
             0.2916666666666667,
             0.2
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center clearly visible. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1774193548387097,
             0.4583333333333333,
             0.2558139534883721
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by tall grass and other plants. The sunflower is described as having a bright yellow color and being in the middle of a field.",
-        "score": [
+        "rouge_score": [
             0.21212121212121213,
             0.2916666666666667,
             0.2456140350877193
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and serene environment.",
-        "score": [
+        "rouge_score": [
             0.14893617021276595,
             0.2916666666666667,
             0.19718309859154928
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by a field of tall grass. The sunflower is described as having a bright yellow center and large petals, and it is situated in a field of tall grass that is also yellow. The sunflower is described as being in the middle of the field, and it is surrounded by other sunflowers. The overall impression is of a vibrant, natural setting with the sunflower as the focal point.",
-        "score": [
+        "rouge_score": [
             0.11688311688311688,
             0.375,
             0.17821782178217824
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a large, yellow head with brown seeds, and it is surrounded by green leaves. The field is filled with other sunflowers, creating a dense and vibrant scene. The sunflower is bathed in sunlight, with the sun shining brightly in the background. The overall impression is one of natural beauty and abundance.",
-        "score": [
+        "rouge_score": [
             0.09722222222222222,
             0.2916666666666667,
             0.14583333333333334
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color and a large, round head with many petals. The surroundings include a green field, with other sunflowers visible in the background. The sunflower is also described as being in the sunlight, with the sun shining brightly behind it.",
-        "score": [
+        "rouge_score": [
             0.12698412698412698,
             0.3333333333333333,
             0.1839080459770115
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing out prominently. The sunflower is surrounded by green leaves and is set against a backdrop of a sunlit field, creating a vivid and natural setting.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.25,
             0.18181818181818182
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and lush environment for the sunflower to grow in.",
-        "score": [
+        "rouge_score": [
             0.1568627450980392,
             0.3333333333333333,
             0.21333333333333332
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a large, yellow head with brown seeds. The surrounding area is filled with tall grass, and the sunflower is positioned in the middle of this grassy field. The sunflower is also described as being in the sunlight, which suggests that it is a bright and sunny day.",
-        "score": [
+        "rouge_score": [
             0.11764705882352941,
             0.3333333333333333,
             0.1739130434782609
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color and a brown center. It is surrounded by green leaves and is set against a backdrop of a sunset, with the sun setting in the background. The overall impression is of a vibrant, natural setting with the sunflower as the main subject.",
-        "score": [
+        "rouge_score": [
             0.11940298507462686,
             0.3333333333333333,
             0.1758241758241758
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color, with its petals spread out. The surroundings include a field of tall grass, and the sun is setting in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.16981132075471697,
             0.375,
             0.2337662337662338
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by tall grasses.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.16666666666666666,
             0.2222222222222222
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by tall grasses.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.16666666666666666,
             0.2222222222222222
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by other sunflowers in a field. The sunflower is described as having a bright yellow color and being in the center of the image, with the sun shining brightly behind it. The surrounding area is filled with other sunflowers, creating a dense field of these flowers. The overall impression is one of a vibrant, natural setting with the sunflower as the focal point.",
-        "score": [
+        "rouge_score": [
             0.1111111111111111,
             0.3333333333333333,
             0.16666666666666666
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by other sunflowers and tall grasses. The sunflower is described as having a bright yellow color and being in a field with other sunflowers and tall grasses. The sunflower is also described as being in a field of tall grasses, indicating it is growing in a natural, outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.1206896551724138,
             0.2916666666666667,
             0.17073170731707318
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and prominently in the foreground. It is surrounded by a field of tall grasses, with the sunflower being the central focus of the image. The sunflower is bathed in sunlight, with the sun shining brightly behind it, casting a warm glow on the scene. The surrounding grasses are green and swaying gently in the breeze. The overall atmosphere is serene and natural, highlighting the beauty of the sunflower in its natural habitat.",
-        "score": [
+        "rouge_score": [
             0.13414634146341464,
             0.4583333333333333,
             0.20754716981132074
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing out prominently. The sunflower is surrounded by green leaves, and the background is filled with more sunflowers, creating a dense field of these flowers. The sun is shining brightly, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.16666666666666666,
             0.375,
             0.23076923076923078
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head with many petals. It is surrounded by other sunflowers and tall grass, creating a natural and vibrant setting. The sunflower is positioned in the foreground, with the sun shining brightly behind it, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.4166666666666667,
             0.21276595744680848
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and serene setting for the sunflower.",
-        "score": [
+        "rouge_score": [
             0.14583333333333334,
             0.2916666666666667,
             0.19444444444444448
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head with many petals. It is surrounded by green leaves and is backlit by the sun, creating a warm and vibrant atmosphere. The sunflower is positioned in the center of the image, with the sun behind it, casting a golden glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.14864864864864866,
             0.4583333333333333,
             0.22448979591836735
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color with a brown center, surrounded by green leaves. The sun is shining brightly in the background, casting a warm glow over the scene. The sunflower is positioned in the foreground, with the grassy field stretching out behind it. The overall impression is one of natural beauty and vitality.",
-        "score": [
+        "rouge_score": [
             0.13513513513513514,
             0.4166666666666667,
             0.20408163265306126
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, surrounded by tall grass.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.16666666666666666,
             0.2222222222222222
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, surrounded by tall grass and other plants.",
-        "score": [
+        "rouge_score": [
             0.26666666666666666,
             0.16666666666666666,
             0.2051282051282051
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, surrounded by tall grass. The sunflower is described as having a bright yellow color and being in full bloom.",
-        "score": [
+        "rouge_score": [
             0.18518518518518517,
             0.20833333333333334,
             0.19607843137254902
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, surrounded by tall grass. The sunflower is described as having a bright yellow color and being in full bloom. The surrounding area is filled with tall grass, creating a natural and lush environment for the sunflower to grow in.",
-        "score": [
+        "rouge_score": [
             0.14893617021276595,
             0.2916666666666667,
             0.19718309859154928
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, surrounded by tall grass. The sunflower is described as having a large, yellow head with dark seeds, and it is growing in a field with tall grass.",
-        "score": [
+        "rouge_score": [
             0.14285714285714285,
             0.20833333333333334,
             0.1694915254237288
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, and the sunflower is set against a backdrop of a setting sun, which is casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.11864406779661017,
             0.2916666666666667,
             0.1686746987951807
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a large, yellow, round head with many petals. It is surrounded by green leaves and is set against a background of a green field. The sunflower is also described as being in the sunlight, which suggests it is a bright and sunny day.",
-        "score": [
+        "rouge_score": [
             0.09375,
             0.25,
             0.13636363636363635
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color and a large, round head. The surrounding area is filled with tall grass, creating a natural and lush environment for the sunflower to grow in.",
-        "score": [
+        "rouge_score": [
             0.1568627450980392,
             0.3333333333333333,
             0.21333333333333332
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, with its bright yellow petals and brown center standing tall in a field of tall grass. The sunflower is backlit by the sun, creating a warm and vibrant atmosphere.",
-        "score": [
+        "rouge_score": [
             0.21621621621621623,
             0.3333333333333333,
             0.26229508196721313
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sunflower being the central focus. The sunflower is described as having a bright yellow color and a brown center. It is surrounded by green leaves and is set against a backdrop of a setting sun, which is casting a warm glow over the scene. The sunflower is also described as being in the middle of the field, surrounded by other sunflowers.",
-        "score": [
+        "rouge_score": [
             0.11267605633802817,
             0.3333333333333333,
             0.16842105263157894
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.1864406779661017,
             0.4583333333333333,
             0.26506024096385544
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center contrasting against the green leaves and stems. The surrounding grass is tall and green, creating a natural and lush backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1527777777777778,
             0.4583333333333333,
             0.22916666666666666
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop. The sun is shining brightly in the background, casting a warm glow on the scene.",
-        "score": [
+        "rouge_score": [
             0.18032786885245902,
             0.4583333333333333,
             0.2588235294117647
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in a field, with the sun shining brightly behind it.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.20833333333333334,
             0.25641025641025644
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is lush and green, creating a natural and serene backdrop. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1774193548387097,
             0.4583333333333333,
             0.2558139534883721
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus of the image, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural and serene backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.16923076923076924,
             0.4583333333333333,
             0.24719101123595508
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus of the image, with its bright yellow petals and brown center clearly visible. The surrounding grass is also tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.171875,
             0.4583333333333333,
             0.25
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus of the image, with its vibrant yellow petals and brown center. The surrounding grass is also tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1774193548387097,
             0.4583333333333333,
             0.2558139534883721
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is lush and green, and the sun is setting in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.2,
             0.4583333333333333,
             0.2784810126582279
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus of the image, with its bright yellow petals and brown center. The surrounding grass is also tall and green, creating a natural and serene setting. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1746031746031746,
             0.4583333333333333,
             0.2528735632183908
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop for the sunflower. The sun is shining brightly, casting a warm glow on the scene and highlighting the sunflower's vibrant colors.",
-        "score": [
+        "rouge_score": [
             0.14705882352941177,
             0.4166666666666667,
             0.2173913043478261
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural and serene environment. The sunflower is bathed in sunlight, suggesting it is either morning or late afternoon.",
-        "score": [
+        "rouge_score": [
             0.17543859649122806,
             0.4166666666666667,
             0.2469135802469136
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop. The sun is shining brightly, casting a warm glow on the sunflower and illuminating the scene. The overall atmosphere is peaceful and inviting, highlighting the beauty of nature.",
-        "score": [
+        "rouge_score": [
             0.13513513513513514,
             0.4166666666666667,
             0.20408163265306126
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1774193548387097,
             0.4583333333333333,
             0.2558139534883721
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall and vibrant in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and dark brown center. The surrounding grass is green and tall, creating a natural and serene backdrop. The sun is shining brightly in the background, casting a warm glow over the entire scene.",
-        "score": [
+        "rouge_score": [
             0.1774193548387097,
             0.4583333333333333,
             0.2558139534883721
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.1864406779661017,
             0.4583333333333333,
             0.26506024096385544
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is described as having a bright yellow color, with its petals spread out in a circular pattern around the center. The sunflower is surrounded by green leaves and stems, and the background is a field of tall grass that is also green. The sunflower is bathed in sunlight, which is shining brightly in the sky. The overall impression is one of natural beauty and vitality.",
-        "score": [
+        "rouge_score": [
             0.13253012048192772,
             0.4583333333333333,
             0.205607476635514
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding grass is green and tall, creating a natural backdrop for the sunflower. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.1864406779661017,
             0.4583333333333333,
             0.26506024096385544
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding area is filled with tall green grass, creating a natural and serene environment. The sun is shining brightly in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.18333333333333332,
             0.4583333333333333,
             0.2619047619047619
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A vibrant sunflower stands tall amidst the lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
         "prediction": "The scene depicts a sunflower in full bloom, standing tall in a field of tall grass. The sunflower is the central focus, with its bright yellow petals and brown center. The surrounding area is filled with green grass, and the sun is setting in the background, casting a warm glow over the scene.",
-        "score": [
+        "rouge_score": [
             0.20754716981132076,
             0.4583333333333333,
             0.28571428571428575

@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, enjoying the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, swaying in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.21428571428571427,
             0.26666666666666666
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, swaying in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.21428571428571427,
             0.26666666666666666
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, enjoying the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being gently swayed by the afternoon breeze, with bees flying around it and landing on the flower.",
-        "score": [
+        "rouge_score": [
             0.36,
             0.32142857142857145,
             0.33962264150943394
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being gently swayed by the afternoon breeze, with bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being gently swayed by the afternoon breeze, with bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, with the afternoon breeze blowing through it and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, with the afternoon breeze blowing through it and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is also mentioned, suggesting a pleasant and natural setting.",
-        "score": [
+        "rouge_score": [
             0.20689655172413793,
             0.21428571428571427,
             0.21052631578947367
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with the afternoon breeze blowing through it, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, creating a gentle movement in the sunflower.",
-        "score": [
+        "rouge_score": [
             0.2413793103448276,
             0.25,
             0.24561403508771928
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being gently swayed by the afternoon breeze, with bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower swaying gently in the afternoon breeze, with bees hovering around it, likely attracted to its nectar.",
-        "score": [
+        "rouge_score": [
             0.5238095238095238,
             0.39285714285714285,
             0.4489795918367347
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being gently swayed by the afternoon breeze, with bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement to the scene.",
-        "score": [
+        "rouge_score": [
             0.23333333333333334,
             0.25,
             0.2413793103448276
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.21428571428571427,
             0.26666666666666666
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field being visited by bees during the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21875,
             0.25,
             0.23333333333333334
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image shows a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is implied to be gently blowing through the field, creating a serene and natural setting.",
-        "score": [
+        "rouge_score": [
             0.1794871794871795,
             0.25,
             0.208955223880597
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower, the afternoon breeze, and bees. The sunflower is shown with bees on it, indicating that it is attracting bees. The presence of the afternoon breeze adds a dynamic element to the scene, suggesting movement and life. The image captures a moment of natural interaction between the sunflower and the bees, highlighting the pollination process and the interdependence of these organisms.",
-        "score": [
+        "rouge_score": [
             0.11594202898550725,
             0.2857142857142857,
             0.1649484536082474
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is blowing, adding a sense of movement and life to the scene.",
-        "score": [
+        "rouge_score": [
             0.21212121212121213,
             0.25,
             0.22950819672131145
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, with bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, with the afternoon breeze blowing through it and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, being gently swayed by the afternoon breeze, with bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, with the afternoon breeze blowing through it and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, with the afternoon breeze blowing through it and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.32142857142857145,
             0.3673469387755102
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted involves a sunflower in a field, with the afternoon breeze blowing through it and bees flying around and landing on the flower.",
-        "score": [
+        "rouge_score": [
             0.32,
             0.2857142857142857,
             0.30188679245283023
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower, the afternoon breeze, and bees.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.21428571428571427,
             0.2857142857142857
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower, the afternoon breeze, and bees.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.21428571428571427,
             0.2857142857142857
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower, the afternoon breeze, and bees.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.21428571428571427,
             0.2857142857142857
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower, the afternoon breeze, and bees.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.21428571428571427,
             0.2857142857142857
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.32142857142857145,
             0.36000000000000004
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.32142857142857145,
             0.36000000000000004
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.32142857142857145,
             0.36000000000000004
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower in a field, being gently swayed by the afternoon breeze, and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.32142857142857145,
             0.3461538461538462
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image involves a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.4090909090909091,
             0.32142857142857145,
             0.36000000000000004
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicted in the image shows a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is implied by the movement of the sunflower and the bees.",
-        "score": [
+        "rouge_score": [
             0.22857142857142856,
             0.2857142857142857,
             0.25396825396825395
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, swaying in the afternoon breeze, with bees hovering around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, swaying in the afternoon breeze, with bees hovering around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, swaying in the afternoon breeze, with bees hovering around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, swaying in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.35294117647058826,
             0.21428571428571427,
             0.26666666666666666
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, swaying in the afternoon breeze, with bees hovering around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is also mentioned, suggesting a pleasant and natural setting.",
-        "score": [
+        "rouge_score": [
             0.20689655172413793,
             0.21428571428571427,
             0.21052631578947367
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being gently swayed by the afternoon breeze, with bees hovering around it, likely attracted to its nectar.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.35714285714285715,
             0.3773584905660378
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being gently swayed by the afternoon breeze, with bees hovering around it, likely attracted to its nectar.",
-        "score": [
+        "rouge_score": [
             0.4,
             0.35714285714285715,
             0.3773584905660378
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is also mentioned, suggesting a pleasant and natural setting.",
-        "score": [
+        "rouge_score": [
             0.20689655172413793,
             0.21428571428571427,
             0.21052631578947367
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, with the afternoon breeze blowing through it and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.45,
             0.32142857142857145,
             0.375
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees on it, with the afternoon breeze blowing through the field.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.25,
             0.2916666666666667
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with bees flying around it, likely pollinating the flower. The afternoon breeze is also mentioned, suggesting a pleasant and natural setting.",
-        "score": [
+        "rouge_score": [
             0.20689655172413793,
             0.21428571428571427,
             0.21052631578947367
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field, being visited by bees in the afternoon breeze.",
-        "score": [
+        "rouge_score": [
             0.375,
             0.21428571428571427,
             0.2727272727272727
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a vibrant sunflower bending gently in the warm afternoon breeze, its golden petals glistening under the soft sunlight as bees buzz lazily around it, collecting nectar.",
         "prediction": "The scene depicts a sunflower in a field with the afternoon breeze blowing and bees flying around it.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.32142857142857145,
             0.391304347826087

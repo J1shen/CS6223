@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden, its dance a mesmerizing contrast against the sunlit garden backdrop.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.9615384615384616,
             0.8928571428571429
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.95,
             0.7307692307692307,
             0.8260869565217392
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.95,
             0.7307692307692307,
             0.8260869565217392
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is dancing above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8,
             0.6153846153846154,
             0.6956521739130435
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is dancing above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8,
             0.6153846153846154,
             0.6956521739130435
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flying gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.95,
             0.7307692307692307,
             0.8260869565217392
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden, creating a mesmerizing contrast.",
-        "score": [
+        "rouge_score": [
             0.75,
             0.6923076923076923,
             0.7199999999999999
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.95,
             0.7307692307692307,
             0.8260869565217392
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flapping gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings is flitting gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.8095238095238095,
             0.6538461538461539,
             0.7234042553191489
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.95,
             0.7307692307692307,
             0.8260869565217392
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.95,
             0.7307692307692307,
             0.8260869565217392
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
         "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds in a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9,
             0.6923076923076923,
             0.7826086956521738

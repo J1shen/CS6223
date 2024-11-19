@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze is rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.9259259259259259,
             0.8771929824561403
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze is rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.9259259259259259,
             0.8771929824561403
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment. The leaves overhead are rustling in a gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6296296296296297,
             0.6296296296296297,
             0.6296296296296297
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.9259259259259259,
             0.8928571428571429
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The leaves overhead are rustling in the gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.7777777777777778,
             0.7241379310344828
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The leaves overhead are rustling in a gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.7777777777777778,
             0.7241379310344828
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze is rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8076923076923077,
             0.7777777777777778,
             0.7924528301886792
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment. The leaves overhead are rustling in a gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6296296296296297,
             0.6296296296296297,
             0.6296296296296297
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel with its tongue lolling out in contentment, surrounded by leaves rustling in the breeze.",
-        "score": [
+        "rouge_score": [
             0.64,
             0.5925925925925926,
             0.6153846153846153
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog is described as being content and lolling its tongue out. The surroundings include a gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.5945945945945946,
             0.8148148148148148,
             0.6875
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead. The screen is too shiny and the disk is surprisingly loud, but the dog is so beautiful that the narrator can't make themselves care.",
-        "score": [
+        "rouge_score": [
             0.48148148148148145,
             0.9629629629629629,
             0.6419753086419752
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. Its tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze is rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8076923076923077,
             0.7777777777777778,
             0.7924528301886792
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene described involves a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7575757575757576,
             0.9259259259259259,
             0.8333333333333334
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene described involves a golden retriever resting on sun-warmed gravel. The dog is described as lolling its tongue out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.7777777777777778,
             0.7241379310344828
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel with its tongue lolling out in contentment, surrounded by a gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7407407407407407,
             0.7407407407407407,
             0.7407407407407407
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene described involves a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog is described as content and lolling its tongue out in the breeze. The surroundings include leaves rustling overhead, suggesting a natural outdoor setting.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.7777777777777778,
             0.6176470588235294
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8461538461538461,
             0.8148148148148148,
             0.830188679245283
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog is described as content and lolling its tongue out in contentment. The leaves overhead are rustling, suggesting a gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.5405405405405406,
             0.7407407407407407,
             0.625
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel with its tongue lolling out in contentment. The leaves overhead are rustling in the gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6296296296296297,
             0.6296296296296297,
             0.6296296296296297
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene described involves a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7575757575757576,
             0.9259259259259259,
             0.8333333333333334
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as it enjoys the gentle breeze rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.7352941176470589,
             0.9259259259259259,
             0.819672131147541
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The retriever's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever resting on sun-warmed gravel with its tongue lolling out in contentment. The leaves overhead are rustling in the gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6296296296296297,
             0.6296296296296297,
             0.6296296296296297
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The retriever's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.9259259259259259,
             0.8928571428571429
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.9259259259259259,
             0.8928571428571429
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.896551724137931,
             0.9629629629629629,
             0.9285714285714286
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The gentle breeze is rustling the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.9259259259259259,
             0.8771929824561403
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.8666666666666667,
             0.9629629629629629,
             0.912280701754386
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel. The dog's tongue is lolling out in contentment as the gentle breeze rustles the leaves overhead.",
-        "score": [
+        "rouge_score": [
             0.78125,
             0.9259259259259259,
             0.847457627118644
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat rests on the sun-warmed gravel, its tongue lolling out in contentment as the gentle breeze rustles the leaves overhead.",
         "prediction": "The scene describes a golden retriever with a shaggy coat resting on sun-warmed gravel, with its tongue lolling out in contentment. The leaves overhead are rustling in the gentle breeze.",
-        "score": [
+        "rouge_score": [
             0.6774193548387096,
             0.7777777777777778,
             0.7241379310344828

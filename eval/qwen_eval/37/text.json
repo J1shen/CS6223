@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug has a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.75,
             0.28125,
             0.4090909090909091
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.7692307692307693,
             0.9375,
             0.8450704225352113
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.5625,
             0.6101694915254238
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It has a crimson shell.\n- The shell is dotted with jet-black spots.\n- It is clinging to the edge of a vibrant green leaf.\n- It is glistening with morning dew.\n- It is under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.6521739130434783,
             0.9375,
             0.7692307692307693
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.47368421052631576,
             0.5625,
             0.5142857142857142
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.7142857142857143,
             0.625,
             0.6666666666666666
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.9375,
             0.8823529411764706
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It has a crimson shell.\n- It is dotted with jet-black spots.\n- It is glistening with morning dew.\n- It is clinging to the edge of a vibrant green leaf.\n- It is in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.4878048780487805,
             0.625,
             0.547945205479452
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It is crimson in color.\n- It is dotted with jet-black spots.\n- It is glistening with morning dew.\n- It is clinging to the edge of a vibrant green leaf.\n- It is under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.5555555555555556,
             0.78125,
             0.6493506493506493
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.7,
             0.65625,
             0.6774193548387096
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like a crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.8823529411764706,
             0.9375,
             0.9090909090909091
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like a crimson shell dotted with jet-black spots as it clings to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.7142857142857143,
             0.625,
             0.6666666666666666
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- Its crimson shell is dotted with jet-black spots.\n- It is glistening with morning dew.\n- It is clinging to the edge of a vibrant green leaf.\n- It is in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.5526315789473685,
             0.65625,
             0.6
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.7142857142857143,
             0.625,
             0.6666666666666666
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like it is \"clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.\"",
-        "score": [
+        "rouge_score": [
             0.8214285714285714,
             0.71875,
             0.7666666666666666
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like it is \"clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.\"",
-        "score": [
+        "rouge_score": [
             0.8214285714285714,
             0.71875,
             0.7666666666666666
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It is a small insect.\n- It has a crimson shell.\n- The shell is dotted with jet-black spots.\n- It is clinging to the edge of a vibrant green leaf.\n- It is glistening under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.5869565217391305,
             0.84375,
             0.6923076923076924
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like a crimson shell dotted with jet-black spots as it clings to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.7142857142857143,
             0.625,
             0.6666666666666666
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like it is clinging to the edge of a vibrant green leaf in the morning sun, glistening with morning dew.",
-        "score": [
+        "rouge_score": [
             0.625,
             0.46875,
             0.5357142857142857
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like it is \"clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.\"",
-        "score": [
+        "rouge_score": [
             0.8214285714285714,
             0.71875,
             0.7666666666666666
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening under the morning sun.",
-        "score": [
+        "rouge_score": [
             0.5652173913043478,
             0.40625,
             0.4727272727272727
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- Its crimson shell is dotted with jet-black spots.\n- It is glistening with morning dew.\n- It is clinging to the edge of a vibrant green leaf.\n- It is in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.5526315789473685,
             0.65625,
             0.6
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like a \"clings to the edge of a vibrant green leaf in the morning sun\"",
-        "score": [
+        "rouge_score": [
             0.6842105263157895,
             0.40625,
             0.5098039215686275
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It has a crimson shell.\n- It is dotted with jet-black spots.\n- It is glistening with morning dew.\n- It is clinging to the edge of a vibrant green leaf.\n- It is shining in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.47619047619047616,
             0.625,
             0.5405405405405405
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like it is \"clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.\"",
-        "score": [
+        "rouge_score": [
             0.8214285714285714,
             0.71875,
             0.7666666666666666
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It has a crimson shell\n- It is dotted with jet-black spots\n- It is glistening with morning dew\n- It is under the soft glow of the rising sun",
-        "score": [
+        "rouge_score": [
             0.6176470588235294,
             0.65625,
             0.6363636363636364
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug looks like this:\n\n- It is crimson in color.\n- It is dotted with jet-black spots.\n- It is glistening with morning dew.\n- It is clinging to the edge of a vibrant green leaf.\n- It is in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.4634146341463415,
             0.59375,
             0.5205479452054794
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, clinging to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.9375,
             0.8823529411764706
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
-        "score": [
+        "rouge_score": [
             0.96875,
             0.96875,
             0.96875
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots.",
-        "score": [
+        "rouge_score": [
             0.6,
             0.28125,
             0.3829787234042553
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it clings to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.625,
             0.6451612903225806
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is glistening with morning dew under the soft glow of the rising sun as it clings to the edge of a vibrant green leaf.",
-        "score": [
+        "rouge_score": [
             0.5121951219512195,
             0.65625,
             0.5753424657534246
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
         "prediction": "The delicate ladybug is described as having a crimson shell dotted with jet-black spots, and it is clinging to the edge of a vibrant green leaf in the morning sun.",
-        "score": [
+        "rouge_score": [
             0.6451612903225806,
             0.625,
             0.634920634920635

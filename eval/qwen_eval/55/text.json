@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, a delicate spider is spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.4666666666666667,
             0.28,
             0.35000000000000003
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, with each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.92,
             0.92,
             0.92
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, a delicate spider is spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.4666666666666667,
             0.28,
             0.35000000000000003
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5333333333333333,
             0.32,
             0.4
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, a delicate spider is spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.4666666666666667,
             0.28,
             0.35000000000000003
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5333333333333333,
             0.32,
             0.4
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
-        "score": [
+        "rouge_score": [
             0.9583333333333334,
             0.92,
             0.9387755102040817
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.875,
             0.28,
             0.42424242424242425
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "In the corner of a sunlit garden, there is a delicate spider spinning a glistening web.",
-        "score": [
+        "rouge_score": [
             0.5625,
             0.36,
             0.43902439024390244
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
         "prediction": "A delicate spider is spinning a glistening web in the corner of a sunlit garden.",
-        "score": [
+        "rouge_score": [
             0.9333333333333333,
             0.56,
             0.7000000000000001

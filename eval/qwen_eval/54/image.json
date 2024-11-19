@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is white and brown in color. It is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.4444444444444444,
             0.4,
             0.4210526315789474
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is white and brown in color. It is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.4444444444444444,
             0.4,
             0.4210526315789474
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is white and brown in color. It is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.4444444444444444,
             0.4,
             0.4210526315789474
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is white and brown in color. It is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.4444444444444444,
             0.4,
             0.4210526315789474
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\". It is located in the grass near a stream, as seen in the image provided.",
-        "score": [
+        "rouge_score": [
             0.2692307692307692,
             0.35,
             0.3043478260869565
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream. Specifically, the passage states:\n\n\"The feather was white and brown, and it lay in the grass near a stream.\"\n\nSo the feather is white and brown in color, and it is situated in the grass close to a stream.",
-        "score": [
+        "rouge_score": [
             0.13793103448275862,
             0.4,
             0.20512820512820515
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\". It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.35,
             0.35
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\" in color. It is located in the grass near a stream, as seen in the image.",
-        "score": [
+        "rouge_score": [
             0.25925925925925924,
             0.35,
             0.29787234042553196
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located on the ground in a grassy area near a stream. Specifically, the passage states:\n\n\"A white and brown feather lay on the ground in the grass near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.20930232558139536,
             0.45,
             0.28571428571428575
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located \"in the grass by the stream\".",
-        "score": [
+        "rouge_score": [
             0.25,
             0.25,
             0.25
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream. It is described as being \"in the grass near a stream\" and \"in the grass near a stream bed\".",
-        "score": [
+        "rouge_score": [
             0.21052631578947367,
             0.4,
             0.27586206896551724
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located on the ground in a grassy area near a stream. Specifically, the passage states:\n\n\"The silver feather was white and delicate, lying on the ground in a grassy area near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.4,
             0.24242424242424243
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.2631578947368421,
             0.25,
             0.25641025641025644
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.25,
             0.25,
             0.25
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located on the ground in a forest. Specifically, the passage states:\n\n\"The silver feather was white and delicate, lying on the ground in a forest.\"",
-        "score": [
+        "rouge_score": [
             0.18421052631578946,
             0.35,
             0.24137931034482757
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located on the ground in a grassy area near a stream. Specifically, the passage states:\n\n\"The feather was white and delicate, lying on the ground in a grassy area near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.4,
             0.25000000000000006
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\". It is located in the grass near a stream, as seen in the image provided.",
-        "score": [
+        "rouge_score": [
             0.2692307692307692,
             0.35,
             0.3043478260869565
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.35,
             0.35
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.35,
             0.35
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.25,
             0.25,
             0.25
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located on the ground in a grassy area near a stream. Specifically, the passage states:\n\n\"The feather was white and delicate, lying on the ground in a grassy area near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.18181818181818182,
             0.4,
             0.25000000000000006
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.35,
             0.35
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located on the ground in a grassy area near a stream. Specifically, the passage states:\n\n\"The silver feather was white and delicate, lying on the ground in a grassy area near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.17391304347826086,
             0.4,
             0.24242424242424243
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located in the grass near a stream. Specifically, the passage states:\n\n\"A white and brown feather was lying in the grass near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.21621621621621623,
             0.4,
             0.2807017543859649
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.2857142857142857,
             0.3,
             0.2926829268292683
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\" in the image. It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.4,
             0.380952380952381
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\" in the image. It is located in the grass near a stream, as shown in the image.",
-        "score": [
+        "rouge_score": [
             0.2962962962962963,
             0.4,
             0.3404255319148936
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and feathered\" and it is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.35,
             0.35
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.2631578947368421,
             0.25,
             0.25641025641025644
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located on the ground in a grassy area near a stream. Specifically, the passage states:\n\n\"The feather was white and brown. It was lying on the ground in a grassy area near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.1702127659574468,
             0.4,
             0.23880597014925373
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass near a stream, as seen in the image provided.",
-        "score": [
+        "rouge_score": [
             0.28,
             0.35,
             0.3111111111111111
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.2857142857142857,
             0.3,
             0.2926829268292683
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in a \"stream\" and is surrounded by \"green grass\".",
-        "score": [
+        "rouge_score": [
             0.22727272727272727,
             0.25,
             0.23809523809523808
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.2631578947368421,
             0.25,
             0.25641025641025644
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and feathered\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and feathered\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"long\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream, as seen in the image provided.",
-        "score": [
+        "rouge_score": [
             0.23076923076923078,
             0.3,
             0.2608695652173913
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream. Specifically, the passage states:\n\n\"The feather was white and brown, and it was lying in the grass near a stream.\"",
-        "score": [
+        "rouge_score": [
             0.20512820512820512,
             0.4,
             0.27118644067796605
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as lying on the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.42857142857142855,
             0.3,
             0.3529411764705882
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The feather is described as a \"white feather\" and it is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3888888888888889,
             0.35,
             0.36842105263157887
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in a \"stream\" and is surrounded by \"green grass\".",
-        "score": [
+        "rouge_score": [
             0.22727272727272727,
             0.25,
             0.23809523809523808
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.2631578947368421,
             0.25,
             0.25641025641025644
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as:\n\n- White\n- Long\n- Feathered\n\nIt is located:\n\n- On the grass\n- Near a stream\n- In the sunlight",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.35,
             0.3414634146341463
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located on the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The document does not provide a description of what the silver feather looks like or where it is located.",
-        "score": [
+        "rouge_score": [
             0.15789473684210525,
             0.15,
             0.15384615384615385
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The feather is described as a \"white feather\" and it is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3157894736842105,
             0.3,
             0.3076923076923077
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The document does not provide a description of what the silver feather looks like or where it is located.",
-        "score": [
+        "rouge_score": [
             0.15789473684210525,
             0.15,
             0.15384615384615385
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in a \"stream\" and is surrounded by \"green grass\".",
-        "score": [
+        "rouge_score": [
             0.22727272727272727,
             0.25,
             0.23809523809523808
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "Based on the image description, the silver feather is:\n\n- White in color\n- Long and thin\n- Located in the grass near a stream\n\nThe image shows the feather lying on the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.22857142857142856,
             0.4,
             0.2909090909090909
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"a feather\" and it is located \"in the grass\".",
-        "score": [
+        "rouge_score": [
             0.3125,
             0.25,
             0.2777777777777778
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as \"a feather\" and is located \"in the grass\".",
-        "score": [
+        "rouge_score": [
             0.35714285714285715,
             0.25,
             0.2941176470588235
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and delicate\" and it is located on the ground in a grassy area near a stream.",
-        "score": [
+        "rouge_score": [
             0.25,
             0.3,
             0.2727272727272727
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as:\n\n- White\n- Long\n- Pointy\n\nIt is located:\n\n- On the ground\n- In the grass\n- Near a stream\n- In the sunlight\n\nSo the feather is a white, long, pointy silver feather lying on the ground in the grass near a stream, catching sunlight.",
-        "score": [
+        "rouge_score": [
             0.21739130434782608,
             0.5,
             0.30303030303030304
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\" in color. It is located in the grass near a stream, as seen in the image.",
-        "score": [
+        "rouge_score": [
             0.25925925925925924,
             0.35,
             0.29787234042553196
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\" in color. It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3181818181818182,
             0.35,
             0.3333333333333333
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"long\". It is located in the grass next to a stream.",
-        "score": [
+        "rouge_score": [
             0.3,
             0.3,
             0.3
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"light brown\" in color. It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3181818181818182,
             0.35,
             0.3333333333333333
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"long\". It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and is located \"in the grass\".",
-        "score": [
+        "rouge_score": [
             0.3125,
             0.25,
             0.2777777777777778
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\" in the image. It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.4,
             0.380952380952381
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white and brown\" and it is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.35,
             0.35,
             0.35
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is described as being \"white\" and \"feathered\". It is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.3684210526315789,
             0.35,
             0.358974358974359
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass near a stream.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.35,
             0.45161290322580644
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
         "prediction": "The silver feather is located in the grass by the stream.",
-        "score": [
+        "rouge_score": [
             0.45454545454545453,
             0.25,
             0.3225806451612903

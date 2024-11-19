@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of white daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies. The dog appears to be enjoying itself, with its mouth open and tongue out, as it runs through the flowers. The background is blurred, emphasizing the motion of the dog. The scene conveys a sense of freedom and happiness.",
-        "score": [
+        "rouge_score": [
             0.23076923076923078,
             0.375,
             0.2857142857142857
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies. The dog appears to be enjoying itself, with its mouth open and tongue out, as it runs through the flowers. The background is blurred, emphasizing the motion of the dog. The scene conveys a sense of freedom and happiness, with the golden retriever seemingly having fun in the natural setting.",
-        "score": [
+        "rouge_score": [
             0.19047619047619047,
             0.375,
             0.25263157894736843
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of flowers.",
-        "score": [
+        "rouge_score": [
             0.5833333333333334,
             0.21875,
             0.31818181818181823
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "The image shows a golden retriever running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6666666666666666,
             0.25,
             0.36363636363636365
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a shaggy coat joyfully leaps through a field of sun-drenched daisies, scattering petals into the warm summer air while its tail wags in a blur of excitement.",
         "prediction": "In the image, a golden retriever is running through a field of daisies.",
-        "score": [
+        "rouge_score": [
             0.6153846153846154,
             0.25,
             0.35555555555555557

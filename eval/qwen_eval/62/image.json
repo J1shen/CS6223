@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever",
-        "score": [
+        "rouge_score": [
             1.0,
             0.1,
             0.18181818181818182
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image description mentions a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5454545454545454,
             0.4,
             0.4615384615384615
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image described is of a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5652173913043478,
             0.43333333333333335,
             0.49056603773584906
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image described is of a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5652173913043478,
             0.43333333333333335,
             0.49056603773584906
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image description mentions a dog lounging under a sprawling oak tree with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5,
             0.36666666666666664,
             0.423076923076923
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image description mentions a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5454545454545454,
             0.4,
             0.4615384615384615
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image description mentions a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5454545454545454,
             0.4,
             0.4615384615384615
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image described is a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5909090909090909,
             0.43333333333333335,
             0.5
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "Based on the information provided in the image, the description of a dog lounging under the sprawling oak tree with a wagging tail and fur glistening in the sunlight is:\n\nA golden retriever",
-        "score": [
+        "rouge_score": [
             0.36363636363636365,
             0.4,
             0.380952380952381
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "Based on the information provided in the image, the description of lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight is of a dog.",
-        "score": [
+        "rouge_score": [
             0.3548387096774194,
             0.36666666666666664,
             0.36065573770491804
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The dog described in the text is lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5217391304347826,
             0.4,
             0.4528301886792453
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The description is of a dog lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5909090909090909,
             0.43333333333333335,
             0.5
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The description is of a dog.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.06666666666666667,
             0.1111111111111111
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The description is of a dog, specifically a golden retriever, lounging under an oak tree with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.52,
             0.43333333333333335,
             0.4727272727272728
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The dog described in the image is lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5217391304347826,
             0.4,
             0.4528301886792453
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The description is of a dog, specifically a golden retriever, lounging under the sprawling oak tree with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5769230769230769,
             0.5,
             0.5357142857142857
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The image described is a dog, specifically a golden retriever, lounging under a sprawling oak tree with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5384615384615384,
             0.4666666666666667,
             0.5
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The description is of a dog.",
-        "score": [
+        "rouge_score": [
             0.3333333333333333,
             0.06666666666666667,
             0.1111111111111111
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "The dog described in the image is lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5217391304347826,
             0.4,
             0.4528301886792453
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.5714285714285714,
             0.4,
             0.47058823529411764
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A dog",
-        "score": [
+        "rouge_score": [
             0.5,
             0.03333333333333333,
             0.0625
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a golden retriever with a wagging tail lounging under the sprawling oak tree, its fur glistening in the dappled sunlight that filters through the vibrant green leaves above.",
         "prediction": "A golden retriever is described as lounging under the sprawling oak tree, with a wagging tail and fur glistening in the sunlight.",
-        "score": [
+        "rouge_score": [
             0.6363636363636364,
             0.4666666666666667,
             0.5384615384615385

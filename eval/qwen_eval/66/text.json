@@ -1,799 +1,899 @@
 {
     "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is a joyful and vibrant image of a dog happily leaping through a field of flowers, with its tail wagging energetically and petals dancing around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.5348837209302325,
             0.7931034482758621,
             0.6388888888888888
         ]
     },
     "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\nA golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\nA golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\nA golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers with its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.8620689655172413,
             0.847457627118644
         ]
     },
     "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7894736842105263,
             0.5172413793103449,
             0.625
         ]
     },
     "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7894736842105263,
             0.5172413793103449,
             0.625
         ]
     },
     "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers. The dog is described as having a tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.717948717948718,
             0.9655172413793104,
             0.8235294117647058
         ]
     },
     "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7894736842105263,
             0.5172413793103449,
             0.625
         ]
     },
     "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7894736842105263,
             0.5172413793103449,
             0.625
         ]
     },
     "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.7894736842105263,
             0.5172413793103449,
             0.625
         ]
     },
     "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8260869565217391,
             0.6551724137931034,
             0.7307692307692308
         ]
     },
     "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, with its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8333333333333334,
             0.8620689655172413,
             0.847457627118644
         ]
     },
     "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\nA golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\n\"A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.\"",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8620689655172413,
             0.8620689655172413,
             0.8620689655172413
         ]
     },
     "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involving a golden retriever in a field of wildflowers is:\n\nA golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.6904761904761905,
             1.0,
             0.8169014084507042
         ]
     },
     "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described is:\n\nA golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
         ]
     },
     "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a glossy coat joyfully leaps through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
         "prediction": "The scene described involves a golden retriever with a glossy coat joyfully leaping through a field of wildflowers, its tail wagging energetically as vibrant petals dance around it in the warm afternoon sun.",
-        "score": [
+        "rouge_score": [
             0.8787878787878788,
             1.0,
             0.9354838709677419
