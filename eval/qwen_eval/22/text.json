@@ -1,0 +1,802 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.7,
+            0.7241379310344828,
+            0.711864406779661
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.8055555555555556,
+            1.0,
+            0.8923076923076924
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "prediction": "The cat is described as having emerald eyes and sleek silver fur that glistens like polished silk. It is lounging languidly on the sun-drenched window sill. The scene outside is described as a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.4358974358974359,
+            0.5862068965517241,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "prediction": "The cat is described as having emerald eyes and sleek silver fur that glistens like polished silk. It is lounging languidly on the sun-drenched window sill. The scene outside is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.4594594594594595,
+            0.5862068965517241,
+            0.5151515151515151
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "prediction": "The cat is sleek and silver with emerald eyes, and it is lounging languidly on the sun-drenched window sill. The scene outside is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6333333333333333,
+            0.6551724137931034,
+            0.6440677966101694
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "prediction": "The cat is described as having emerald eyes and sleek silver fur that glistens like polished silk. It is lounging on a sun-drenched window sill, with cherry blossoms fluttering outside.",
+        "score": [
+            0.3870967741935484,
+            0.41379310344827586,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "prediction": "The cat is described as having emerald eyes and sleek silver fur that glistens like polished silk. The scene outside is sun-drenched with cherry blossoms fluttering.",
+        "score": [
+            0.4074074074074074,
+            0.3793103448275862,
+            0.39285714285714285
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "prediction": "The cat is sleek and silver with emerald eyes, and it is lounging languidly on the sun-drenched window sill. The scene outside is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6333333333333333,
+            0.6551724137931034,
+            0.6440677966101694
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.8055555555555556,
+            1.0,
+            0.8923076923076924
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, its fur glistening like polished silk. The scene outside is described as fluttering cherry blossoms.",
+        "score": [
+            0.6756756756756757,
+            0.8620689655172413,
+            0.7575757575757576
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "prediction": "The cat is described as having sleek silver fur and emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is described as cherry blossoms fluttering.",
+        "score": [
+            0.525,
+            0.7241379310344828,
+            0.6086956521739131
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur,\" which glistens like polished silk. It is lounging languidly on the sun-drenched window sill. Outside, there are fluttering cherry blossoms.",
+        "score": [
+            0.42424242424242425,
+            0.4827586206896552,
+            0.45161290322580644
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur,\" and it is lounging \"languidly\" on a sun-drenched window sill. The scene outside the window is described as having \"fluttering cherry blossoms.\"",
+        "score": [
+            0.4,
+            0.4827586206896552,
+            0.43750000000000006
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.625,
+            0.8620689655172413,
+            0.7246376811594203
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on a sun-drenched window sill, with cherry blossoms outside.",
+        "score": [
+            0.6538461538461539,
+            0.5862068965517241,
+            0.6181818181818182
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"glistening like polished silk\" fur. It is lounging on a sun-drenched window sill. Outside, there are \"fluttering cherry blossoms.\"",
+        "score": [
+            0.41379310344827586,
+            0.41379310344827586,
+            0.41379310344827586
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as cherry blossoms fluttering.",
+        "score": [
+            0.5806451612903226,
+            0.6206896551724138,
+            0.6000000000000001
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.8055555555555556,
+            1.0,
+            0.8923076923076924
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "prediction": "The cat is described as a \"sleek silver cat with emerald eyes\" that is \"languidly\" lounging on the sun-drenched window sill. The scene outside the window is described as \"fluttering cherry blossoms.\"",
+        "score": [
+            0.5454545454545454,
+            0.6206896551724138,
+            0.5806451612903226
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is described as a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.627906976744186,
+            0.9310344827586207,
+            0.7499999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"polished silk\" fur. It is lounging on a sun-drenched window sill. Outside, there are \"fluttering cherry blossoms.\"",
+        "score": [
+            0.4444444444444444,
+            0.41379310344827586,
+            0.4285714285714286
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "prediction": "The cat is described as having \"emerald eyes\" and being \"languidly\" lounging on the sun-drenched window sill. The scene outside the window is described as \"fluttering cherry blossoms.\"",
+        "score": [
+            0.4827586206896552,
+            0.4827586206896552,
+            0.4827586206896552
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on a sun-drenched window sill, with cherry blossoms outside.",
+        "score": [
+            0.6538461538461539,
+            0.5862068965517241,
+            0.6181818181818182
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as cherry blossoms fluttering.",
+        "score": [
+            0.5806451612903226,
+            0.6206896551724138,
+            0.6000000000000001
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window sill is described as:\n\n- Cherry blossoms are outside, indicating it is likely springtime.\n- The cat is enjoying the warmth and light from the sun.\n\nSo in summary, the cat is a sleek silver feline with emerald eyes, lounging on a sun-drenched window sill with cherry blossoms outside.",
+        "score": [
+            0.2717391304347826,
+            0.8620689655172413,
+            0.4132231404958678
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur glistening like polished silk\". It is lounging on a sun-drenched window sill, with cherry blossoms outside.",
+        "score": [
+            0.41379310344827586,
+            0.41379310344827586,
+            0.41379310344827586
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.65625,
+            0.7241379310344828,
+            0.6885245901639345
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as cherry blossoms, indicating it is likely springtime.",
+        "score": [
+            0.5142857142857142,
+            0.6206896551724138,
+            0.5625
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.6129032258064516,
+            0.6551724137931034,
+            0.6333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "prediction": "The cat is described as sleek and silver with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is of fluttering cherry blossoms.",
+        "score": [
+            0.631578947368421,
+            0.8275862068965517,
+            0.716417910447761
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is described as \"a sleek silver cat with emerald eyes.\"\n- It is \"lounging languidly on the sun-drenched window sill.\"\n\nThe scene outside the window is:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.4222222222222222,
+            0.6551724137931034,
+            0.5135135135135135
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- Its fur is glistening like polished silk.\n- It is lounging languidly on the sun-drenched window sill.\n\nThe scene outside the window is:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.38,
+            0.6551724137931034,
+            0.48101265822784806
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on a sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is described as:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.46153846153846156,
+            0.8275862068965517,
+            0.5925925925925927
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- Its fur is described as glistening like polished silk.\n\nThe scene outside the window sill is:\n\n- Cherry blossoms are outside, indicating it is likely springtime.\n- The sun is shining, as it is described as a sun-drenched window sill.\n\nSo the cat is lounging on a sun-drenched window sill with cherry blossoms outside.",
+        "score": [
+            0.2236842105263158,
+            0.5862068965517241,
+            0.32380952380952377
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on a sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.48,
+            0.8275862068965517,
+            0.6075949367088608
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on a sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is described as:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.46153846153846156,
+            0.8275862068965517,
+            0.5925925925925927
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is described as a sleek silver cat with emerald eyes.\n- It is lounging languidly on a sun-drenched window sill.\n- The scene outside the window is described as a backdrop of fluttering cherry blossoms.\n\nSo the cat is a sleek silver color with emerald eyes, and it is lounging on a window sill with cherry blossoms fluttering outside.",
+        "score": [
+            0.2916666666666667,
+            0.7241379310344828,
+            0.4158415841584159
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- Its fur is glistening like polished silk.\n- It is lounging languidly on a sun-drenched window sill.\n\nThe scene outside the window is described as:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.34615384615384615,
+            0.6206896551724138,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is:\n\n- It features fluttering cherry blossoms.",
+        "score": [
+            0.5,
+            0.8620689655172413,
+            0.6329113924050632
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is sleek and silver in color.\n- It has emerald green eyes.\n- It is lounging languidly on a sun-drenched window sill.\n- The scene outside the window is described as a backdrop of fluttering cherry blossoms.\n\nSo the cat is a sleek silver color with emerald green eyes, lounging on a sun-drenched window sill with a backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.23684210526315788,
+            0.6206896551724138,
+            0.34285714285714286
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "prediction": "Based on the information provided in the text, the cat is described as follows:\n\n- It is lounging languidly on a sun-drenched window sill.\n- Its fur is described as glistening like polished silk.\n- The scene outside the window is described as fluttering cherry blossoms.\n\nSo the cat is lounging in a relaxed manner on a window sill that is bathed in sunlight, with its fur appearing shiny and smooth like polished silk. The scene outside the window includes cherry blossoms that are fluttering.",
+        "score": [
+            0.2289156626506024,
+            0.6551724137931034,
+            0.33928571428571425
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "prediction": "Based on the information provided in the text, the cat looks like a sleek silver cat with emerald eyes. It is lounging languidly on a sun-drenched window sill, with its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.6363636363636364,
+            0.9655172413793104,
+            0.7671232876712328
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside is one of cherry blossoms fluttering.",
+        "score": [
+            0.6551724137931034,
+            0.6551724137931034,
+            0.6551724137931034
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.7837837837837838,
+            1.0,
+            0.8787878787878788
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur\". It is lounging on a sun-drenched window sill, with cherry blossoms outside.",
+        "score": [
+            0.48,
+            0.41379310344827586,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"",
+        "score": [
+            0.7142857142857143,
+            0.5172413793103449,
+            0.6000000000000001
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is described as a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is described as glistening like polished silk.\n\nThe scene outside the window is:\n\n- It is described as a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.4576271186440678,
+            0.9310344827586207,
+            0.6136363636363636
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on a sun-drenched window sill.\n- Its fur is glistening like polished silk.\n- The scene outside the window is described as a backdrop of fluttering cherry blossoms.\n\nSo the cat is a sleek silver color with emerald eyes, lounging on a window sill with the sun shining on it, and the outside scene features fluttering cherry blossoms.",
+        "score": [
+            0.3253012048192771,
+            0.9310344827586207,
+            0.4821428571428571
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "prediction": "The cat is described as a \"sleek silver cat with emerald eyes\" lounging on the sun-drenched window sill. The scene outside the window is described as \"fluttering cherry blossoms.\"",
+        "score": [
+            0.6,
+            0.6206896551724138,
+            0.6101694915254238
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is described as:\n\n- Fluttering cherry blossoms.",
+        "score": [
+            0.5,
+            0.8620689655172413,
+            0.6329113924050632
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is:\n\n- It features fluttering cherry blossoms.",
+        "score": [
+            0.425,
+            0.5862068965517241,
+            0.4927536231884058
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "prediction": "Based on the information provided in the text, the cat is described as follows:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on a sun-drenched window sill.\n\nThe scene outside the window is described as follows:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.3829787234042553,
+            0.6206896551724138,
+            0.47368421052631576
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "prediction": "The cat looks like a sleek silver cat with emerald eyes, and it is lounging languidly on a sun-drenched window sill. The scene outside is described as fluttering cherry blossoms.",
+        "score": [
+            0.5806451612903226,
+            0.6206896551724138,
+            0.6000000000000001
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes(159,105),(499,375) lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is sleek silver with emerald eyes, lounging on a sun-drenched window sill, and the scene outside includes fluttering cherry blossoms.",
+        "score": [
+            0.4393939393939394,
+            1.0,
+            0.6105263157894737
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes(150,10),(550,350) lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is sleek and silver with emerald eyes, and it is lounging on a sun-drenched window sill. The scene outside includes fluttering cherry blossoms.",
+        "score": [
+            0.42028985507246375,
+            1.0,
+            0.5918367346938774
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes(150,10),(850,993) lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is sleek and silver with emerald eyes, and it is lounging on a sun-drenched window sill. The scene outside features fluttering cherry blossoms.",
+        "score": [
+            0.42028985507246375,
+            1.0,
+            0.5918367346938774
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "prediction": "The cat is described as having sleek silver fur with emerald eyes, and it is lounging languidly on a sun-drenched window sill. Outside the window, there are fluttering cherry blossoms.",
+        "score": [
+            0.5161290322580645,
+            0.5517241379310345,
+            0.5333333333333333
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes(10,10),(992,992) lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is sleek silver with emerald eyes, lounging on a sun-drenched window sill. The scene outside features fluttering cherry blossoms.",
+        "score": [
+            0.4461538461538462,
+            1.0,
+            0.6170212765957447
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "prediction": "According to the given text, the cat is described as follows:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is described as follows:\n\n- It is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.5,
+            0.9310344827586207,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes\"\n\nIt is lounging on a \"sun-drenched window sill\" and the scene outside is described as:\n\n\"fluttering cherry blossoms\"",
+        "score": [
+            0.4857142857142857,
+            0.5862068965517241,
+            0.53125
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "prediction": "Based on the information provided in the given text, the cat is described as follows:\n\n- It is a \"sleek silver cat with emerald eyes.\"\n- It is \"lounging languidly on the sun-drenched window sill.\"\n\nThe scene outside the window is described as follows:\n\n- It features \"fluttering cherry blossoms.\"\n\nSo in summary, the cat is sleek and silver with emerald eyes, lounging on a sun-drenched window sill, with cherry blossoms fluttering outside.",
+        "score": [
+            0.2777777777777778,
+            0.6896551724137931,
+            0.3960396039603961
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is described as glistening like polished silk.\n\nThe scene outside the window is:\n\n- It features fluttering cherry blossoms.",
+        "score": [
+            0.4807692307692308,
+            0.8620689655172413,
+            0.6172839506172839
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside features fluttering cherry blossoms.",
+        "score": [
+            0.7037037037037037,
+            0.6551724137931034,
+            0.6785714285714286
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is described as \"a sleek silver cat with emerald eyes.\"\n- It is \"lounging languidly on the sun-drenched window sill.\"\n- Its fur is described as \"glistening like polished silk.\"\n\nThe scene outside the window is:\n\n- It is described as \"fluttering cherry blossoms.\"\n- The cat is described as \"lounging languidly on the sun-drenched window sill,\" suggesting it is a sunny day.",
+        "score": [
+            0.3333333333333333,
+            0.8620689655172413,
+            0.4807692307692308
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur\". It is lounging languidly on a sun-drenched window sill, with cherry blossoms fluttering outside.",
+        "score": [
+            0.48148148148148145,
+            0.4482758620689655,
+            0.4642857142857143
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is described as a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is described as glistening like polished silk.\n\nThe scene outside the window is:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.46296296296296297,
+            0.8620689655172413,
+            0.6024096385542169
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- Its fur is glistening like polished silk.\n- It is lounging languidly on a sun-drenched window sill.\n\nThe scene outside the window is described as cherry blossoms fluttering.",
+        "score": [
+            0.34,
+            0.5862068965517241,
+            0.43037974683544306
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "prediction": "The cat looks like this:\n\n\"the sleek silver cat with emerald eyes\"\n\nAnd the scene outside is:\n\n\"the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms\"",
+        "score": [
+            0.6857142857142857,
+            0.8275862068965517,
+            0.75
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "prediction": "The cat is described as having sleek silver fur with emerald eyes, and it is lounging languidly on a sun-drenched window sill. Outside the window, there are fluttering cherry blossoms.",
+        "score": [
+            0.5161290322580645,
+            0.5517241379310345,
+            0.5333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "prediction": "The cat looks like a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.6333333333333333,
+            0.6551724137931034,
+            0.6440677966101694
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "prediction": "Based on the information provided in the given text, the cat is described as follows:\n\n- It is a sleek silver cat.\n- It has emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n\nThe scene outside the window is described as:\n\n- Cherry blossoms are fluttering outside.",
+        "score": [
+            0.375,
+            0.6206896551724138,
+            0.4675324675324676
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "prediction": "The cat is described as \"a sleek silver cat with emerald eyes\" lounging languidly on the sun-drenched window sill. The scene outside is described as \"fluttering cherry blossoms,\" indicating it is springtime and there are cherry blossoms in bloom outside.",
+        "score": [
+            0.4878048780487805,
+            0.6896551724137931,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "prediction": "According to the passage, the cat looks like \"a sleek silver cat with emerald eyes\" as it lounges languidly on the sun-drenched window sill. The scene outside the window is described as \"fluttering cherry blossoms,\" indicating that it is springtime.",
+        "score": [
+            0.4634146341463415,
+            0.6551724137931034,
+            0.5428571428571429
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "prediction": "According to the text, the cat looks like it is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.696969696969697,
+            0.7931034482758621,
+            0.7419354838709677
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"a sleek silver cat with emerald eyes(10,10),(992,993)\"\n\nIt is lounging on the sun-drenched window sill, with the scene outside described as:\n\n\"fluttering cherry blossoms\"",
+        "score": [
+            0.47368421052631576,
+            0.6206896551724138,
+            0.5373134328358208
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "prediction": "According to the given text, the cat looks like this:\n\n\"a sleek silver cat with emerald eyesur glistening like polished silk against the backdrop of fluttering cherry blossoms outside. /p>\"\n\nSo the cat is sleek silver with emerald eyes, and the scene outside includes fluttering cherry blossoms.",
+        "score": [
+            0.3829787234042553,
+            0.6206896551724138,
+            0.47368421052631576
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes(150,10),(550,350) lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is sleek silver with emerald eyes, lounging on a sun-drenched window sill. The scene outside includes fluttering cherry blossoms.",
+        "score": [
+            0.4461538461538462,
+            1.0,
+            0.6170212765957447
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"A sleek silver cat with emerald eyes(159,10),(599,996) lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is sleek silver with emerald eyes, lounging on a sun-drenched window sill. The scene outside includes fluttering cherry blossoms.",
+        "score": [
+            0.4461538461538462,
+            1.0,
+            0.6170212765957447
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "prediction": "According to the passage, the cat looks like this:\n\n\"It lounges languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.\"\n\nSo the cat is lounging on a window sill with the sun shining on it, its fur shining like polished silk, and there are fluttering cherry blossoms outside.",
+        "score": [
+            0.38333333333333336,
+            0.7931034482758621,
+            0.5168539325842697
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "prediction": "Based on the information provided in the text, the cat looks like this:\n\n- It is a sleek silver cat with emerald eyes.\n- It is lounging languidly on the sun-drenched window sill.\n- Its fur is glistening like polished silk.\n\nThe scene outside the window is described as:\n\n- Fluttering cherry blossoms.",
+        "score": [
+            0.5,
+            0.8620689655172413,
+            0.6329113924050632
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur that glistens like polished silk.\" It is lounging on a sun-drenched window sill, with cherry blossoms fluttering outside.",
+        "score": [
+            0.3870967741935484,
+            0.41379310344827586,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside is described as fluttering cherry blossoms.",
+        "score": [
+            0.6551724137931034,
+            0.6551724137931034,
+            0.6551724137931034
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.6129032258064516,
+            0.6551724137931034,
+            0.6333333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"polished silk\" fur. It is lounging on a sun-drenched window sill, with cherry blossoms fluttering outside.",
+        "score": [
+            0.46153846153846156,
+            0.41379310344827586,
+            0.43636363636363634
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "prediction": "The cat is described as a \"sleek silver cat with emerald eyes\" that is \"languidly\" lounging on the sun-drenched window sill. The scene outside the window is described as \"fluttering cherry blossoms.\"",
+        "score": [
+            0.5454545454545454,
+            0.6206896551724138,
+            0.5806451612903226
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, its fur glistening like polished silk. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.6410256410256411,
+            0.8620689655172413,
+            0.7352941176470588
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "prediction": "The cat is described as a \"sleek silver cat with emerald eyes\" that is \"languidly\" lounging on the sun-drenched window sill. The scene outside the window is described as \"fluttering cherry blossoms.\"",
+        "score": [
+            0.5454545454545454,
+            0.6206896551724138,
+            0.5806451612903226
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6585365853658537,
+            0.9310344827586207,
+            0.7714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6585365853658537,
+            0.9310344827586207,
+            0.7714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6585365853658537,
+            0.9310344827586207,
+            0.7714285714285715
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "prediction": "The cat is described as having \"emerald eyes\" and \"sleek silver fur,\" and it is lounging \"languidly\" on a sun-drenched window sill. The scene outside the window is described as having \"fluttering cherry blossoms.\"",
+        "score": [
+            0.4,
+            0.4827586206896552,
+            0.43750000000000006
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "prediction": "The cat is described as having a sleek silver body with emerald eyes, and it is lounging languidly on a sun-drenched window sill. The scene outside the window is described as a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.5,
+            0.6551724137931034,
+            0.5671641791044776
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "prediction": "The cat is described as having emerald eyes and a sleek silver body with glistening fur that looks like polished silk. It is lounging languidly on a sun-drenched window sill. Outside, there are fluttering cherry blossoms.",
+        "score": [
+            0.3783783783783784,
+            0.4827586206896552,
+            0.42424242424242425
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk. The scene outside the window is a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6585365853658537,
+            0.9310344827586207,
+            0.7714285714285715
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, with its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.7837837837837838,
+            1.0,
+            0.8787878787878788
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as cherry blossoms fluttering.",
+        "score": [
+            0.5806451612903226,
+            0.6206896551724138,
+            0.6000000000000001
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.6129032258064516,
+            0.6551724137931034,
+            0.6333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes. It is lounging languidly on the sun-drenched window sill, its fur glistening like polished silk against the backdrop of fluttering cherry blossoms outside.",
+        "score": [
+            0.8055555555555556,
+            1.0,
+            0.8923076923076924
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as fluttering cherry blossoms.",
+        "score": [
+            0.6129032258064516,
+            0.6551724137931034,
+            0.6333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "prediction": "The cat is described as a sleek silver cat with emerald eyes, lounging languidly on the sun-drenched window sill. The scene outside the window is described as a backdrop of fluttering cherry blossoms.",
+        "score": [
+            0.6176470588235294,
+            0.7241379310344828,
+            0.6666666666666667
+        ]
+    }
+}

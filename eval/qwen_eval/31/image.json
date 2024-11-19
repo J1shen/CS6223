@@ -1,0 +1,802 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "prediction": "The spider in the image is shown spinning its silken web in the early morning, with dew drops hanging from the threads.",
+        "score": [
+            0.36363636363636365,
+            0.34782608695652173,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "prediction": "The spider in the image is shown spinning its web in the early morning, with dew drops on the grass.",
+        "score": [
+            0.35,
+            0.30434782608695654,
+            0.3255813953488372
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "prediction": "The spider in the image is spinning its web in the early morning, and it is covered in dew.",
+        "score": [
+            0.3157894736842105,
+            0.2608695652173913,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "prediction": "The spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5454545454545454,
+            0.2608695652173913,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "prediction": "The spider in the image is shown weaving its web in the early morning, with dewdrops on the grass.",
+        "score": [
+            0.2631578947368421,
+            0.21739130434782608,
+            0.23809523809523808
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "prediction": "The spider in the image is shown weaving its web in the early morning, with dewdrops on the web and the spider itself.",
+        "score": [
+            0.21739130434782608,
+            0.21739130434782608,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "prediction": "The document does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.36363636363636365,
+            0.34782608695652173,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "prediction": "The spider in the image is creating its web in the early morning.",
+        "score": [
+            0.3076923076923077,
+            0.17391304347826086,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "prediction": "The spider in the image is shown weaving its web in the early morning, with dew drops on the web.",
+        "score": [
+            0.3,
+            0.2608695652173913,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "prediction": "The spider in the image is shown weaving its web in the early morning, with dewdrops on the grass.",
+        "score": [
+            0.2631578947368421,
+            0.21739130434782608,
+            0.23809523809523808
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "prediction": "The spider in the image is shown weaving its web in the early morning, with dewdrops on the web and spider.",
+        "score": [
+            0.23809523809523808,
+            0.21739130434782608,
+            0.22727272727272724
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "prediction": "The spider in the image is creating its web in the early morning, which is a delicate and intricate process.",
+        "score": [
+            0.2,
+            0.17391304347826086,
+            0.18604651162790697
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "prediction": "The document does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.36363636363636365,
+            0.34782608695652173,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "prediction": "The spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5454545454545454,
+            0.2608695652173913,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "prediction": "The given text does not provide any information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.3333333333333333,
+            0.34782608695652173,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "prediction": "The spider in the image is shown spinning its silken web in the early morning.",
+        "score": [
+            0.4,
+            0.2608695652173913,
+            0.31578947368421056
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "prediction": "The spider in the image is shown spinning its web in the early morning.",
+        "score": [
+            0.35714285714285715,
+            0.21739130434782608,
+            0.27027027027027023
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "prediction": "The spider in the image is shown spinning its web in the early morning, with dew drops on the web and dew on the grass.",
+        "score": [
+            0.28,
+            0.30434782608695654,
+            0.2916666666666667
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "prediction": "The given text does not provide any information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.3333333333333333,
+            0.34782608695652173,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "prediction": "The given text does not provide any information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.3333333333333333,
+            0.34782608695652173,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "prediction": "The given text does not provide any information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.3333333333333333,
+            0.34782608695652173,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "prediction": "The given text does not provide any information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.3333333333333333,
+            0.34782608695652173,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "prediction": "Based on the information provided in the image, a delicate spider in the early morning would be:\n\n1. Spinning its silken web.\n\nThe image describes a spider in the early morning, stating \"A delicate spider in the early morning\" and \"A spider in the early morning.\" It also mentions the spider's web, \"spider's web,\" and \"spider web,\" indicating that the spider is actively engaged in the process of spinning its web.",
+        "score": [
+            0.1232876712328767,
+            0.391304347826087,
+            0.1875
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "prediction": "The spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5454545454545454,
+            0.2608695652173913,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "prediction": "Based on the image description, the delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.4117647058823529,
+            0.30434782608695654,
+            0.35
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "prediction": "Based on the image description, the delicate spider is seen sitting in the center of its web in the early morning.",
+        "score": [
+            0.23809523809523808,
+            0.21739130434782608,
+            0.22727272727272724
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "prediction": "The given text does not provide information about what a delicate spider does as it spins its silken web in the early morning.",
+        "score": [
+            0.34782608695652173,
+            0.34782608695652173,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "prediction": "The spider in the image is shown spinning its web in the early morning.",
+        "score": [
+            0.35714285714285715,
+            0.21739130434782608,
+            0.27027027027027023
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "prediction": "The spider in the image is creating its web in the early morning.",
+        "score": [
+            0.3076923076923077,
+            0.17391304347826086,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "prediction": "The delicate spider in the image is spinning its silken web in the early morning.",
+        "score": [
+            0.4666666666666667,
+            0.30434782608695654,
+            0.3684210526315789
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "prediction": "The delicate spider in the early morning is spinning its silken web.",
+        "score": [
+            0.5,
+            0.2608695652173913,
+            0.3428571428571428
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "prediction": "The delicate spider in the early morning spins its silken web in the dewy grass.",
+        "score": [
+            0.5333333333333333,
+            0.34782608695652173,
+            0.4210526315789474
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "prediction": "The delicate spider in the early morning is spinning its silken web.",
+        "score": [
+            0.5,
+            0.2608695652173913,
+            0.3428571428571428
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "prediction": "The delicate spider is spinning its silken web in the early morning.",
+        "score": [
+            0.5833333333333334,
+            0.30434782608695654,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "prediction": "The spider in the image is spinning its web in the early morning, and it is covered in dew.",
+        "score": [
+            0.3157894736842105,
+            0.2608695652173913,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "prediction": "The spider in the image is hanging from its web in the early morning, with dew drops on the grass.",
+        "score": [
+            0.3,
+            0.2608695652173913,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew.",
+        "score": [
+            0.2222222222222222,
+            0.17391304347826086,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "prediction": "The spider in the image is creating its web in the early morning, which is a delicate and intricate process.",
+        "score": [
+            0.2,
+            0.17391304347826086,
+            0.18604651162790697
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "prediction": "The spider is weaving its web in the early morning.",
+        "score": [
+            0.4,
+            0.17391304347826086,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "prediction": "The spider in the image is sitting in the center of its web, which is covered in dew drops.",
+        "score": [
+            0.21052631578947367,
+            0.17391304347826086,
+            0.1904761904761905
+        ]
+    }
+}

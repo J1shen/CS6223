@@ -1,0 +1,802 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8846153846153846,
+            0.9583333333333334,
+            0.9199999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8846153846153846,
+            0.9583333333333334,
+            0.9199999999999999
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop that highlights the sunflower's bright color and its ability to thrive in the sunlight.",
+        "score": [
+            0.3793103448275862,
+            0.9166666666666666,
+            0.5365853658536586
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop to the sunflower's bright color.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop that highlights the sunflower's bright color and its tall, upright posture. The overall scene suggests a warm, sunny day with the sunflower thriving in its natural environment.",
+        "score": [
+            0.30985915492957744,
+            0.9166666666666666,
+            0.46315789473684216
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that are unfurling to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop that highlights the sunflower's bright color and its position as a focal point in the scene.",
+        "score": [
+            0.36065573770491804,
+            0.9166666666666666,
+            0.5176470588235293
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. Its surroundings are lush green grass, indicating a healthy, thriving environment.",
+        "score": [
+            0.5116279069767442,
+            0.9166666666666666,
+            0.6567164179104478
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. Its surroundings are lush green grass, indicating a healthy, thriving environment. The sunflower's golden petals contrast beautifully with the greenery, creating a vivid and picturesque scene.",
+        "score": [
+            0.3728813559322034,
+            0.9166666666666666,
+            0.5301204819277109
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. It is surrounded by green grass, indicating a natural, outdoor setting. The sunflower's golden petals contrast with the green grass, creating a visually striking image.",
+        "score": [
+            0.3793103448275862,
+            0.9166666666666666,
+            0.5365853658536586
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop that highlights the sunflower's bright color and its ability to thrive in the sunlight.",
+        "score": [
+            0.3793103448275862,
+            0.9166666666666666,
+            0.5365853658536586
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8846153846153846,
+            0.9583333333333334,
+            0.9199999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surroundings are lush and green, with the sunflower being the focal point of the image.",
+        "score": [
+            0.4583333333333333,
+            0.9166666666666666,
+            0.611111111111111
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with the sunflower's golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding environment is lush and green, with the sunflower being the focal point amidst the grass.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. It is surrounded by green grass, indicating a natural, outdoor setting.",
+        "score": [
+            0.5116279069767442,
+            0.9166666666666666,
+            0.6567164179104478
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower has golden petals that unfurl to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals unfurling to soak in the warm rays of the afternoon sun. The surrounding grass is described as lush, indicating a healthy, thriving environment. The sunflower is positioned in the midst of this greenery, creating a striking contrast between the bright yellow of the flower and the green of the grass.",
+        "score": [
+            0.3142857142857143,
+            0.9166666666666666,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding environment is lush and green, with the sunflower being the focal point amidst the grass.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, creating a contrast with the sunflower's bright color. The scene suggests a warm, sunny day with the sunflower thriving in its environment.",
+        "score": [
+            0.3548387096774194,
+            0.9166666666666666,
+            0.5116279069767442
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. Its surroundings are lush green grass, which contrasts with the sunflower's bright color and highlights its prominence in the scene.",
+        "score": [
+            0.41509433962264153,
+            0.9166666666666666,
+            0.5714285714285715
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that are unfurling to soak in the warm rays of the afternoon sun. Its surroundings are lush green grass, which contrasts with the sunflower's bright color and highlights its prominence in the scene.",
+        "score": [
+            0.4074074074074074,
+            0.9166666666666666,
+            0.5641025641025641
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop to the sunflower's bright color.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals unfurling to soak in the warm rays of the afternoon sun. It is positioned in a field of green grass, creating a contrast between the bright yellow of the sunflower and the green of the grass. The sunflower is described as a \"trap set by evil companies for the desperate and the foolish,\" suggesting a metaphorical or symbolic meaning behind its presence in this setting.",
+        "score": [
+            0.25882352941176473,
+            0.9166666666666666,
+            0.4036697247706422
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as golden in color, with its petals unfurling to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop to the sunflower's bright hue.",
+        "score": [
+            0.43137254901960786,
+            0.9166666666666666,
+            0.5866666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, creating a contrast with the bright yellow of the sunflower.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, soaking in the warm rays of the afternoon sun.",
+        "score": [
+            0.8571428571428571,
+            0.75,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. Its surroundings are characterized by lush green grass, suggesting a healthy, thriving environment. The sunflower's position among the grass indicates it is a prominent, eye-catching feature within this natural setting.",
+        "score": [
+            0.34375,
+            0.9166666666666666,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that are unfurling to soak in the warm rays of the afternoon sun. The surrounding grass is described as being lush and green, creating a contrast with the sunflower's bright color.",
+        "score": [
+            0.4230769230769231,
+            0.9166666666666666,
+            0.5789473684210527
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals unfurling to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, creating a contrast with the sunflower's bright color.",
+        "score": [
+            0.46808510638297873,
+            0.9166666666666666,
+            0.619718309859155
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is described as being lush and green, creating a contrast with the sunflower's bright color.",
+        "score": [
+            0.43137254901960786,
+            0.9166666666666666,
+            0.5866666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.88,
+            0.9166666666666666,
+            0.8979591836734694
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. It is positioned in a lush green field, surrounded by grass.",
+        "score": [
+            0.5116279069767442,
+            0.9166666666666666,
+            0.6567164179104478
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower has golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7857142857142857,
+            0.9166666666666666,
+            0.8461538461538461
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. Its surroundings are lush green grass, indicating a healthy, thriving environment.",
+        "score": [
+            0.5116279069767442,
+            0.9166666666666666,
+            0.6567164179104478
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. It is surrounded by green grass, indicating a natural outdoor setting.",
+        "score": [
+            0.5116279069767442,
+            0.9166666666666666,
+            0.6567164179104478
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding environment is lush and green, with the sunflower being the focal point amidst the grass.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun. The surrounding grass is lush and green, providing a contrasting backdrop to the sunflower's bright color.",
+        "score": [
+            0.4489795918367347,
+            0.9166666666666666,
+            0.6027397260273972
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as having golden petals that unfurl to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.6875,
+            0.9166666666666666,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as \"a vibrant sunflower\" and \"a bright yellow sunflower,\" indicating its vivid color and prominence. It is \"unfurling its golden petals\" to soak in the warm rays of the afternoon sun, suggesting it is in full bloom and actively absorbing sunlight. The surrounding grass is described as \"lush green,\" providing a contrasting backdrop that highlights the sunflower's bright color and vitality. The overall impression is one of natural beauty and the sunflower's healthy growth in a verdant environment.",
+        "score": [
+            0.22916666666666666,
+            0.9166666666666666,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower is described as \"golden\" and \"unfurling\" its petals to soak in the warm rays of the afternoon sun. The surrounding grass is described as \"lush green,\" creating a contrast with the sunflower's golden color.",
+        "score": [
+            0.42857142857142855,
+            0.875,
+            0.5753424657534246
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "prediction": "The scene depicts a sunflower standing tall amidst lush green grass, with its golden petals unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.8461538461538461,
+            0.9166666666666666,
+            0.8799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "prediction": "The scene depicts a vibrant sunflower standing tall amidst lush green grass. The sunflower's golden petals are unfurling to soak in the warm rays of the afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    }
+}

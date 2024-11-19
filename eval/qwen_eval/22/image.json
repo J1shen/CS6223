@@ -1,0 +1,802 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3125,
+            0.3448275862068966,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "prediction": "The cat is a gray and white Bengal cat with green eyes, lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers, indicating that it is springtime.",
+        "score": [
+            0.34285714285714286,
+            0.41379310344827586,
+            0.375
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "prediction": "The cat is a gray and white Bengal cat with green eyes, lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers, indicating that it is springtime.",
+        "score": [
+            0.34285714285714286,
+            0.41379310344827586,
+            0.375
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is mentioned that there are pink flowers blooming outside.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is mentioned that there are pink flowers visible.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that the cat is enjoying the warmth and light of the sun.",
+        "score": [
+            0.2127659574468085,
+            0.3448275862068966,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside features cherry blossoms in full bloom.",
+        "score": [
+            0.4074074074074074,
+            0.3793103448275862,
+            0.39285714285714285
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside features cherry blossoms in full bloom.",
+        "score": [
+            0.4074074074074074,
+            0.3793103448275862,
+            0.39285714285714285
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "prediction": "The cat is lounging on a sun-drenched window sill, and there are pink flowers blooming outside.",
+        "score": [
+            0.47058823529411764,
+            0.27586206896551724,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "prediction": "The cat is lounging on a sun-drenched window sill, and there are pink flowers blooming outside.",
+        "score": [
+            0.47058823529411764,
+            0.27586206896551724,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight streaming in.",
+        "score": [
+            0.23255813953488372,
+            0.3448275862068966,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.21739130434782608,
+            0.1724137931034483,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.36666666666666664,
+            0.3793103448275862,
+            0.3728813559322034
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "prediction": "The cat is described as having green eyes, a striped coat, and a pink nose. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\", and it is lounging on a \"sun-drenched window sill\". The scene outside the window is described as having \"pink flowers\", indicating that it is likely spring or summer.",
+        "score": [
+            0.2564102564102564,
+            0.3448275862068966,
+            0.29411764705882354
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\", and it is lounging on a \"sun-drenched window sill\". The scene outside the window is described as having \"pink flowers\", indicating that it is likely spring or summer.",
+        "score": [
+            0.2564102564102564,
+            0.3448275862068966,
+            0.29411764705882354
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming tree\", which is \"pink\" and \"blooming\".",
+        "score": [
+            0.2,
+            0.1724137931034483,
+            0.1851851851851852
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat, and it is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.22727272727272727,
+            0.3448275862068966,
+            0.273972602739726
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside is not described in detail, but it is implied that it is a pleasant day with sunlight streaming in.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.23255813953488372,
+            0.3448275862068966,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside the window is not described in detail, but it is implied that it is a pleasant day given that the cat is enjoying the sun.",
+        "score": [
+            0.20833333333333334,
+            0.3448275862068966,
+            0.25974025974025977
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3333333333333333,
+            0.3448275862068966,
+            0.33898305084745767
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is a cherry blossom tree in bloom, with pink flowers.",
+        "score": [
+            0.3235294117647059,
+            0.3793103448275862,
+            0.3492063492063492
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\", and it is \"lazing\" on a window sill. The scene outside the window is described as having \"pink flowers\".",
+        "score": [
+            0.2413793103448276,
+            0.2413793103448276,
+            0.2413793103448276
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.36666666666666664,
+            0.3793103448275862,
+            0.3728813559322034
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is a cherry blossom tree in bloom.",
+        "score": [
+            0.3548387096774194,
+            0.3793103448275862,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside the window is described as having \"pink flowers\" and \"blossoms.\"",
+        "score": [
+            0.30303030303030304,
+            0.3448275862068966,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.36666666666666664,
+            0.3793103448275862,
+            0.3728813559322034
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\", and it is lounging on a \"sun-drenched window sill\". The scene outside the window is described as having \"pink flowers\" and \"blossoms\".",
+        "score": [
+            0.30303030303030304,
+            0.3448275862068966,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside the window is described as having \"pink flowers\" and \"pink blossoms.\"",
+        "score": [
+            0.29411764705882354,
+            0.3448275862068966,
+            0.31746031746031744
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "prediction": "The cat is described as having green eyes, a striped coat, and a pink nose. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside the window is described as having \"pink flowers\" and \"pink blossoms.\"",
+        "score": [
+            0.29411764705882354,
+            0.3448275862068966,
+            0.31746031746031744
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.21739130434782608,
+            0.1724137931034483,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.2564102564102564,
+            0.3448275862068966,
+            0.29411764705882354
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside is a cherry blossom tree in bloom.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming cherry tree\".",
+        "score": [
+            0.23809523809523808,
+            0.1724137931034483,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside the window is described as having \"pink flowers\" and \"blossoms.\"",
+        "score": [
+            0.30303030303030304,
+            0.3448275862068966,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming cherry tree\".",
+        "score": [
+            0.23809523809523808,
+            0.1724137931034483,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.36666666666666664,
+            0.3793103448275862,
+            0.3728813559322034
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside the window is described as having \"pink flowers\" and \"blossoms.\"",
+        "score": [
+            0.30303030303030304,
+            0.3448275862068966,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes.\" The scene outside the window is a \"blossoming tree\" with \"pink flowers.\"",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside is a cherry blossom tree in bloom.",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside is a cherry blossom tree in bloom.",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside is a \"blossoming cherry tree\" with \"pink flowers\".",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "prediction": "The cat is described as having \"green eyes\" and \"gray and white stripes.\" The scene outside the window is a \"blossoming cherry tree\" with \"pink flowers.\"",
+        "score": [
+            0.19230769230769232,
+            0.1724137931034483,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.23809523809523808,
+            0.1724137931034483,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.21739130434782608,
+            0.1724137931034483,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes.\" The scene outside is a \"blossoming tree\" with \"pink flowers.\"",
+        "score": [
+            0.2,
+            0.13793103448275862,
+            0.16326530612244897
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.36666666666666664,
+            0.3793103448275862,
+            0.3728813559322034
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\". The scene outside the window is a \"pink flower\" and \"pink blossoms\".",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "prediction": "The cat is described as having a \"gray and white coat\" and \"green eyes.\" It is lounging on a \"sun-drenched window sill\" and looking out at a scene with \"pink and white cherry blossoms\" and \"pink and white flowers\" in the background.",
+        "score": [
+            0.23255813953488372,
+            0.3448275862068966,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "prediction": "The cat is described as having \"green eyes\" and \"gray fur.\" The scene outside the window is a \"blossoming cherry tree,\" which is \"pink and white.\"",
+        "score": [
+            0.19230769230769232,
+            0.1724137931034483,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "prediction": "The cat is described as having \"green eyes\" and \"tabby stripes,\" and it is lounging on a \"sun-drenched window sill.\" The scene outside is described as having \"pink flowers\" and \"pink blossoms,\" indicating that it is likely springtime or early summer.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming cherry tree\".",
+        "score": [
+            0.23809523809523808,
+            0.1724137931034483,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "prediction": "The cat is described as having \"green eyes\" and \"gray tabby stripes\". The scene outside is a \"blossoming cherry tree\" with \"pink flowers\".",
+        "score": [
+            0.17391304347826086,
+            0.13793103448275862,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "prediction": "The cat is described as having \"green eyes\" and \"gray and white fur\". It is lounging on a \"sun-drenched window sill\", which suggests it is in a warm, well-lit area. The scene outside is described as having \"pink flowers\", indicating there are flowers in bloom outside the window.",
+        "score": [
+            0.2,
+            0.3448275862068966,
+            0.2531645569620254
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.21739130434782608,
+            0.1724137931034483,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes.\" The scene outside the window is a \"pink flower tree\" with \"pink flowers.\"",
+        "score": [
+            0.17391304347826086,
+            0.13793103448275862,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\", and it is lounging on a \"sun-drenched window sill\". The scene outside the window is described as having \"pink flowers\" and \"pink blossoms\".",
+        "score": [
+            0.29411764705882354,
+            0.3448275862068966,
+            0.31746031746031744
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "prediction": "Based on the image description, the cat looks like this:\n\n- It is a gray tabby cat with green eyes.\n- It has a striped pattern on its fur.\n- It is lounging on a wooden window sill.\n- The sunlight is shining on it, creating a warm and inviting scene.\n\nThe scene outside the window is described as having cherry blossoms, which suggests it is springtime.",
+        "score": [
+            0.1746031746031746,
+            0.3793103448275862,
+            0.23913043478260873
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside the window is a cherry blossom tree in bloom.",
+        "score": [
+            0.25,
+            0.20689655172413793,
+            0.22641509433962265
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside is a cherry blossom tree in bloom.",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "prediction": "The cat is described as having \"green eyes\" and \"tabby stripes.\" The scene outside is a \"blossoming cherry tree\" with \"pink flowers.\"",
+        "score": [
+            0.18181818181818182,
+            0.13793103448275862,
+            0.1568627450980392
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside the window is a cherry blossom tree in bloom.",
+        "score": [
+            0.25,
+            0.20689655172413793,
+            0.22641509433962265
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside is a cherry blossom tree in bloom.",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "prediction": "The cat is described as having green eyes and a striped coat. The scene outside the window is a cherry blossom tree in bloom.",
+        "score": [
+            0.25,
+            0.20689655172413793,
+            0.22641509433962265
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes.\" The scene outside is a \"blossoming cherry tree\" with \"pink flowers.\"",
+        "score": [
+            0.19047619047619047,
+            0.13793103448275862,
+            0.16
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes.\" The scene outside the window is a \"blossoming tree\" with \"pink flowers.\"",
+        "score": [
+            0.22727272727272727,
+            0.1724137931034483,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "prediction": "The cat is described as having \"green eyes\" and \"stripes\", and it is lounging on a \"sun-drenched window sill\". The scene outside the window is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.3125,
+            0.3448275862068966,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "prediction": "The cat is described as having \"green eyes\" and \"striped fur\". The scene outside the window is a \"blossoming tree\" with \"pink flowers\".",
+        "score": [
+            0.21739130434782608,
+            0.1724137931034483,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3333333333333333,
+            0.3448275862068966,
+            0.33898305084745767
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside the window.",
+        "score": [
+            0.39285714285714285,
+            0.3793103448275862,
+            0.3859649122807017
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3125,
+            0.3448275862068966,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is mentioned that there are pink flowers blooming outside.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3333333333333333,
+            0.3448275862068966,
+            0.33898305084745767
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is mentioned that there are pink flowers blooming outside.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill. Outside the window, there are pink flowers blooming on a tree branch.",
+        "score": [
+            0.2727272727272727,
+            0.3103448275862069,
+            0.2903225806451613
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3125,
+            0.3448275862068966,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "prediction": "The cat is described as having green eyes and striped fur, and it is lounging on a sun-drenched window sill. The scene outside the window is a tree with pink flowers.",
+        "score": [
+            0.3125,
+            0.3448275862068966,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight streaming in.",
+        "score": [
+            0.23255813953488372,
+            0.3448275862068966,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is not described in detail, but it is implied that it is a pleasant day with sunlight.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside the window features cherry blossoms in full bloom.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "prediction": "The cat is described as having green eyes and a striped coat, lounging on a sun-drenched window sill. The scene outside the window is a cherry blossom tree in bloom.",
+        "score": [
+            0.3548387096774194,
+            0.3793103448275862,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill, with cherry blossoms visible outside.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "prediction": "The cat is described as having green eyes and a striped coat. It is lounging on a sun-drenched window sill. Outside the window, there are pink flowers blooming.",
+        "score": [
+            0.3103448275862069,
+            0.3103448275862069,
+            0.3103448275862069
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms in full bloom.",
+        "score": [
+            0.3793103448275862,
+            0.3793103448275862,
+            0.3793103448275862
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "prediction": "The cat is described as having green eyes and striped fur, lounging on a sun-drenched window sill. The scene outside the window includes cherry blossoms, indicating that it is likely springtime.",
+        "score": [
+            0.34375,
+            0.3793103448275862,
+            0.36065573770491804
+        ]
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed, and dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.6774193548387096,
+            0.875,
+            0.7636363636363636
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.7391304347826086,
+            0.7083333333333334,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.7391304347826086,
+            0.7083333333333334,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.7391304347826086,
+            0.7083333333333334,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.7391304347826086,
+            0.7083333333333334,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft and striped fur. The sunlight dances across its fur, creating a dappled effect.",
+        "score": [
+            0.48717948717948717,
+            0.7916666666666666,
+            0.6031746031746031
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys the dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.6470588235294118,
+            0.9166666666666666,
+            0.7586206896551724
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. Dappled sunlight dances across its fur.",
+        "score": [
+            0.6129032258064516,
+            0.7916666666666666,
+            0.6909090909090909
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "prediction": "The scene described involving a tabby cat and its surroundings is:\n\nA tabby cat is lounging lazily on a sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.6388888888888888,
+            0.9583333333333334,
+            0.7666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys the dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.6470588235294118,
+            0.9166666666666666,
+            0.7586206896551724
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat is described as having emerald eyes half-closed, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.6363636363636364,
+            0.875,
+            0.7368421052631579
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. Dappled sunlight dances across its fur.",
+        "score": [
+            0.6129032258064516,
+            0.7916666666666666,
+            0.6909090909090909
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. Dappled sunlight dances across its fur.",
+        "score": [
+            0.6129032258064516,
+            0.7916666666666666,
+            0.6909090909090909
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat is described as having emerald eyes half-closed, with its soft, striped fur illuminated by dappled sunlight. The windowsill is implied to be a warm, comfortable spot for the cat to rest.",
+        "score": [
+            0.3541666666666667,
+            0.7083333333333334,
+            0.47222222222222227
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "prediction": "The scene described involving a tabby cat and its surroundings is:\n\nA tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.6857142857142857,
+            1.0,
+            0.8135593220338984
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. Dappled sunlight dances across its fur.",
+        "score": [
+            0.6129032258064516,
+            0.7916666666666666,
+            0.6909090909090909
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft and striped. Dappled sunlight dances across its fur.",
+        "score": [
+            0.5882352941176471,
+            0.8333333333333334,
+            0.6896551724137931
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft, striped fur. The sunlight dapples across its fur, creating a warm and relaxed atmosphere.",
+        "score": [
+            0.45,
+            0.75,
+            0.5625000000000001
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The sunlight dapples across its fur, creating a warm and relaxed atmosphere.",
+        "score": [
+            0.4594594594594595,
+            0.7083333333333334,
+            0.5573770491803279
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The windowsill is sun-warmed, and the cat is described as being in a relaxed, comfortable position.",
+        "score": [
+            0.38095238095238093,
+            0.6666666666666666,
+            0.4848484848484849
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys the warmth of the sunlight. The soft, striped fur of the cat is highlighted by the dappled sunlight.",
+        "score": [
+            0.4186046511627907,
+            0.75,
+            0.5373134328358209
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur. The screen is too shiny, and the disk is surprisingly loud, but the cat is so beautiful that the narrator can't make themselves care about these imperfections.",
+        "score": [
+            0.40350877192982454,
+            0.9583333333333334,
+            0.5679012345679012
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur. The cat is described as being in a relaxed, comfortable position, enjoying the warmth of the sun.",
+        "score": [
+            0.4583333333333333,
+            0.9166666666666666,
+            0.611111111111111
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The sunlight dapples across its fur, creating a warm and relaxed atmosphere.",
+        "score": [
+            0.4594594594594595,
+            0.7083333333333334,
+            0.5573770491803279
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft, striped fur. The sunlight dances across its fur, creating a warm and relaxed atmosphere.",
+        "score": [
+            0.475,
+            0.7916666666666666,
+            0.5937499999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys the dappled sunlight dancing across its soft, striped fur. The cat is described as looking relaxed and content in its warm, sunny spot.",
+        "score": [
+            0.4583333333333333,
+            0.9166666666666666,
+            0.611111111111111
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys dappled sunlight dancing across its soft, striped fur. The cat is described as being relaxed and comfortable in its surroundings.",
+        "score": [
+            0.4888888888888889,
+            0.9166666666666666,
+            0.6376811594202899
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur. The cat is described as looking like a different animal compared to lions in the wild, suggesting it is more relaxed and comfortable in its environment.",
+        "score": [
+            0.41818181818181815,
+            0.9583333333333334,
+            0.5822784810126582
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat is described as having emerald eyes half-closed and soft, striped fur. The sunlight is dappled across its fur, creating a warm and relaxed atmosphere. The cat is described as a \"trap set by evil companies for the desperate and the foolish,\" suggesting it is a metaphorical representation of a tempting but potentially harmful situation.",
+        "score": [
+            0.23943661971830985,
+            0.7083333333333334,
+            0.35789473684210527
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The sunlight dapples across its fur, creating a warm and relaxed atmosphere.",
+        "score": [
+            0.4594594594594595,
+            0.7083333333333334,
+            0.5573770491803279
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft and striped fur. The sunlight dances across its fur, creating a dappled pattern.",
+        "score": [
+            0.48717948717948717,
+            0.7916666666666666,
+            0.6031746031746031
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The sunlight dances across its fur, creating a dappled effect.",
+        "score": [
+            0.5142857142857142,
+            0.75,
+            0.6101694915254237
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft and striped fur. Dappled sunlight dances across its fur, creating a peaceful and relaxed atmosphere.",
+        "score": [
+            0.4878048780487805,
+            0.8333333333333334,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and is described as soft and striped. The sunlight dances across its fur, creating a dappled effect.",
+        "score": [
+            0.5,
+            0.7916666666666666,
+            0.6129032258064516
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The sunlight creates dappled patterns on the cat as it rests.",
+        "score": [
+            0.4444444444444444,
+            0.6666666666666666,
+            0.5333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. It has emerald eyes half-closed and is described as soft and striped fur. The cat is in a relaxed position, with sunlight dappled across its fur.",
+        "score": [
+            0.43902439024390244,
+            0.75,
+            0.5538461538461539
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. It is described as having emerald eyes half-closed and soft, striped fur. The cat is described as one of the more profitable pieces of Yahoo, and the stores built with it are the foundation of Yahoo Shopping.",
+        "score": [
+            0.3076923076923077,
+            0.6666666666666666,
+            0.42105263157894735
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "prediction": "According to the passage, a tabby cat is described lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.6666666666666666,
+            0.9166666666666666,
+            0.7719298245614035
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "prediction": "The scene described involving a tabby cat and its surroundings is:\n\n\"A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.\"",
+        "score": [
+            0.6857142857142857,
+            1.0,
+            0.8135593220338984
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "prediction": "According to the passage, the scene involving a tabby cat and its surroundings is:\n\n\"A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.\"\n\nThe key details about the scene are:\n\n- The cat is lounging on a windowsill.\n- The cat is sun-warmed, indicating it is basking in sunlight.\n- The cat has emerald eyes.\n- The cat's fur is soft and striped.\n- Sunlight is dancing across the cat's fur, creating a dappled effect.",
+        "score": [
+            0.2727272727272727,
+            1.0,
+            0.42857142857142855
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "prediction": "The scene described involving a tabby cat and its surroundings is:\n\n\"A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.\"\n\nThe key details about the scene are:\n\n- The cat is lounging on a windowsill.\n- It is sun-warmed, indicating it is basking in sunlight.\n- The cat's eyes are half-closed, suggesting it is relaxed and enjoying the warmth.\n- The sunlight is described as \"dappled,\" meaning it is filtered through leaves or other objects, creating a patterned light",
+        "score": [
+            0.25806451612903225,
+            1.0,
+            0.41025641025641024
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "prediction": "According to the passage, the scene involving a tabby cat and its surroundings is described as follows:\n\n\"A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.\"\n\nThe key details about the scene are:\n\n- The cat is lounging on a windowsill.\n- The cat is described as having emerald eyes.\n- The cat's fur is soft and striped.\n- The sunlight is described as dappled, indicating it is filtering through the window.\n- The cat is described as being lazy or relaxed.\n\nThis creates a",
+        "score": [
+            0.25,
+            1.0,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "prediction": "According to the passage, a tabby cat is described lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys the warmth of the sunlight. The cat's soft, striped fur is described as being dappled with sunlight.",
+        "score": [
+            0.4,
+            0.75,
+            0.5217391304347827
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7096774193548387,
+            0.9166666666666666,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur. The cat is described as being in a relaxed state, with its eyes half-closed and its body stretched out on the windowsill. The sunlight is described as dancing across the cat's fur, creating a beautiful and serene scene.",
+        "score": [
+            0.3333333333333333,
+            0.9583333333333334,
+            0.49462365591397844
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7096774193548387,
+            0.9166666666666666,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and its soft, striped fur is dappled with sunlight.",
+        "score": [
+            0.5666666666666667,
+            0.7083333333333334,
+            0.6296296296296297
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7586206896551724,
+            0.9166666666666666,
+            0.830188679245283
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur. The cat is described as having a \"tabby cat\" appearance, with striped fur and emerald eyes. The windowsill is sun-warmed, suggesting it is a warm, comfortable spot for the cat to rest. The sunlight is described as dancing across the cat's fur, creating a picturesque scene.",
+        "score": [
+            0.2987012987012987,
+            0.9583333333333334,
+            0.4554455445544554
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill, with dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.8095238095238095,
+            0.7083333333333334,
+            0.7555555555555556
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as it enjoys the dappled sunlight dancing across its soft, striped fur.",
+        "score": [
+            0.6470588235294118,
+            0.9166666666666666,
+            0.7586206896551724
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill, with its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7931034482758621,
+            0.9583333333333334,
+            0.8679245283018867
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. Dappled sunlight dances across its fur, creating a peaceful and relaxed atmosphere.",
+        "score": [
+            0.5135135135135135,
+            0.7916666666666666,
+            0.6229508196721311
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.7096774193548387,
+            0.9166666666666666,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat has emerald eyes half-closed and soft, striped fur. The windowsill is sun-warmed, and dappled sunlight dances across the cat's fur.",
+        "score": [
+            0.46153846153846156,
+            0.75,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "prediction": "A tabby cat is described lounging lazily on a sun-warmed windowsill. Its emerald eyes are half-closed as dappled sunlight dances across its soft, striped fur.",
+        "score": [
+            0.8518518518518519,
+            0.9583333333333334,
+            0.9019607843137256
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "prediction": "The scene described involves a tabby cat lounging lazily on a sun-warmed windowsill. The cat's emerald eyes are half-closed, and sunlight dances across its soft, striped fur.",
+        "score": [
+            0.6666666666666666,
+            0.8333333333333334,
+            0.7407407407407408
+        ]
+    }
+}

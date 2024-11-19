@@ -1,0 +1,802 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "prediction": "The scene involves a large oak tree with a thick trunk and many branches, surrounded by a carpet of fallen leaves. The leaves are golden in color, indicating that it is autumn. The tree is situated in a park or open area, with other trees visible in the background. The overall atmosphere is serene and peaceful, with the warm colors of the leaves contrasting against the cool tones of the tree and the sky.",
+        "score": [
+            0.12162162162162163,
+            0.3103448275862069,
+            0.17475728155339806
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "prediction": "The scene involves an oak tree with yellow leaves, surrounded by fallen leaves on the ground.",
+        "score": [
+            0.25,
+            0.13793103448275862,
+            0.17777777777777778
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "prediction": "The scene involves an oak tree with a large trunk and branches, surrounded by a carpet of fallen leaves. The leaves are described as being in shades of orange and yellow, indicating that it is autumn. The tree is situated in a park or open area, with other trees visible in the background. The overall atmosphere is serene and peaceful, with the warm colors of the leaves contrasting against the cool tones of the tree trunk and the sky.",
+        "score": [
+            0.12658227848101267,
+            0.3448275862068966,
+            0.18518518518518517
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "prediction": "The scene involves an oak tree with a large trunk and branches, surrounded by a carpet of fallen leaves. The leaves are in shades of orange and yellow, indicating the season is autumn. The tree is situated in a park or open area, with other trees visible in the background. The overall atmosphere is serene and picturesque, with the warm colors of the leaves contrasting against the dark trunk of the tree.",
+        "score": [
+            0.1388888888888889,
+            0.3448275862068966,
+            0.19801980198019806
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "prediction": "The scene involves an oak tree with a large trunk and branches, surrounded by a carpet of fallen leaves. The leaves are in shades of orange and yellow, indicating the season is autumn. The tree is situated in a park or open area, with other trees visible in the background. The overall atmosphere is serene and picturesque, with the warm colors of the leaves contrasting against the dark trunk of the tree.",
+        "score": [
+            0.1388888888888889,
+            0.3448275862068966,
+            0.19801980198019806
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "prediction": "The scene involves an oak tree with its leaves in autumn colors, casting a shadow on the ground.",
+        "score": [
+            0.2777777777777778,
+            0.1724137931034483,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "prediction": "The scene involves an oak tree with a large trunk and branches, surrounded by a carpet of fallen leaves. The leaves are in shades of orange and yellow, indicating that it is autumn. The tree is situated in a park or open area, with other trees visible in the background. The overall atmosphere is serene and picturesque, with the warm colors of the leaves contrasting against the dark trunk of the tree.",
+        "score": [
+            0.1388888888888889,
+            0.3448275862068966,
+            0.19801980198019806
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "prediction": "The scene involves an oak tree with a large trunk and branches, surrounded by a carpet of fallen leaves. The leaves are described as being in shades of orange and yellow, indicating that it is autumn. The tree is situated in a park or open area, with a grassy field and trees in the background. The overall atmosphere is serene and peaceful, with the warm colors of the leaves contrasting against the cool tones of the tree and the sky.",
+        "score": [
+            0.125,
+            0.3448275862068966,
+            0.1834862385321101
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "prediction": "The scene involves an oak tree with a large trunk and branches, surrounded by a carpet of fallen leaves. The leaves are described as being in shades of orange and yellow, indicating that it is autumn. The tree is situated in a park or open area, with a grassy ground and a misty background.",
+        "score": [
+            0.12962962962962962,
+            0.2413793103448276,
+            0.1686746987951807
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "prediction": "The scene involves an oak tree with its leaves on the ground.",
+        "score": [
+            0.3333333333333333,
+            0.13793103448275862,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a thick trunk and wide branches, covered in yellow leaves, stands in a park with a grassy area and fallen leaves on the ground. The tree is surrounded by a misty atmosphere, giving it a mysterious and serene appearance.\"",
+        "score": [
+            0.16071428571428573,
+            0.3103448275862069,
+            0.21176470588235297
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves, surrounded by fallen leaves on the ground. The tree is in a park or wooded area, with sunlight filtering through the branches and creating a dappled light effect on the ground. The leaves are a mix of green and yellow, indicating it is autumn. The overall scene is serene and natural, with the tree being the central focus.\"",
+        "score": [
+            0.13924050632911392,
+            0.3793103448275862,
+            0.2037037037037037
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves, with a misty background and sunlight shining through the leaves.\"",
+        "score": [
+            0.3103448275862069,
+            0.3103448275862069,
+            0.3103448275862069
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves, with the leaves falling on the ground.\"",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.27586206896551724,
+            0.27586206896551724,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a thick trunk and spreading branches, covered in golden leaves, stands in a park. The ground around it is covered with fallen leaves, and the tree is bathed in sunlight.\"",
+        "score": [
+            0.19148936170212766,
+            0.3103448275862069,
+            0.23684210526315788
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a large trunk and sprawling branches, covered in golden leaves, stands in a park. The ground is covered with fallen leaves, and the sun is shining through the branches, casting dappled shadows on the ground.\"",
+        "score": [
+            0.21153846153846154,
+            0.3793103448275862,
+            0.2716049382716049
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its branches spread out, surrounded by fallen leaves on the ground. The leaves are golden in color, indicating it is autumn. The tree is casting a shadow on the ground, and the overall scene is bathed in warm, golden light.\"",
+        "score": [
+            0.14035087719298245,
+            0.27586206896551724,
+            0.18604651162790697
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large leaves, standing in a field with a grassy area and a hill in the background. The leaves are described as being in the fall season, with the ground covered in fallen leaves.\"",
+        "score": [
+            0.18,
+            0.3103448275862069,
+            0.22784810126582278
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a thick trunk and spreading branches, covered in golden leaves, stands in a park. The ground around it is covered with fallen leaves, creating a carpet of color. The tree is surrounded by a misty atmosphere, giving it a mystical and serene appearance.\"",
+        "score": [
+            0.15,
+            0.3103448275862069,
+            0.20224719101123598
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves on the ground\"",
+        "score": [
+            0.2727272727272727,
+            0.20689655172413793,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves, with a large trunk and branches spreading out, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a large trunk and sprawling branches, covered in golden leaves, stands in a park. The ground around the tree is covered with fallen leaves, creating a carpet of color. The scene is peaceful and autumnal, with the warm colors of the leaves contrasting against the cool tones of the tree trunk and the sky.\"",
+        "score": [
+            0.1267605633802817,
+            0.3103448275862069,
+            0.18
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves, standing tall and majestic, casting a warm glow of orange and yellow hues over the surrounding landscape. The ground beneath it is carpeted with fallen leaves, creating a vibrant mosaic of colors. The tree's branches stretch out like powerful arms, reaching towards the sky, while its roots anchor it firmly to the earth. The scene is serene and picturesque, capturing the essence of the fall season.\"",
+        "score": [
+            0.11627906976744186,
+            0.3448275862068966,
+            0.17391304347826086
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a thick trunk and large branches, surrounded by fallen leaves on the ground. The leaves are golden in color, indicating it is autumn.\"",
+        "score": [
+            0.2,
+            0.27586206896551724,
+            0.2318840579710145
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its branches spread out, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21428571428571427,
+            0.20689655172413793,
+            0.21052631578947367
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves on the ground\"",
+        "score": [
+            0.2727272727272727,
+            0.20689655172413793,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in the fall, with a misty background.\"",
+        "score": [
+            0.25,
+            0.2413793103448276,
+            0.24561403508771928
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in the fall, with a misty background.\"",
+        "score": [
+            0.25,
+            0.2413793103448276,
+            0.24561403508771928
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in the fall, with a misty background and leaves on the ground.\"",
+        "score": [
+            0.24242424242424243,
+            0.27586206896551724,
+            0.2580645161290323
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its branches spread out, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21428571428571427,
+            0.20689655172413793,
+            0.21052631578947367
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a large trunk and sprawling branches, covered in golden leaves, stands in a park. The ground is covered with fallen leaves, and the sun is shining through the branches, casting dappled shadows on the ground.\"",
+        "score": [
+            0.21153846153846154,
+            0.3793103448275862,
+            0.2716049382716049
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its leaves falling on the ground.\"",
+        "score": [
+            0.2608695652173913,
+            0.20689655172413793,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its branches spread out, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21428571428571427,
+            0.20689655172413793,
+            0.21052631578947367
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large, yellow leaves in the fall.\"",
+        "score": [
+            0.30434782608695654,
+            0.2413793103448276,
+            0.2692307692307692
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large leaves, standing in a field with fallen leaves on the ground.\"",
+        "score": [
+            0.2413793103448276,
+            0.2413793103448276,
+            0.2413793103448276
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large, yellow leaves in the fall.\"",
+        "score": [
+            0.30434782608695654,
+            0.2413793103448276,
+            0.2692307692307692
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in the fall, with the ground covered in fallen leaves.\"",
+        "score": [
+            0.25806451612903225,
+            0.27586206896551724,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"A large oak tree(10,1),(994,855) with its branches spread out, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21212121212121213,
+            0.2413793103448276,
+            0.22580645161290322
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a warm glow from the sun shining through its leaves onto the ground below.\"",
+        "score": [
+            0.23076923076923078,
+            0.3103448275862069,
+            0.2647058823529412
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with a large trunk and sprawling branches, covered in golden leaves, stands in a park or forest setting. The ground is covered with fallen leaves, creating a carpet of color. The tree is surrounded by other trees and shrubs, and the sky is visible through the branches, suggesting it is a sunny day.\"",
+        "score": [
+            0.15942028985507245,
+            0.3793103448275862,
+            0.22448979591836737
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its leaves falling in the fall.\"",
+        "score": [
+            0.30434782608695654,
+            0.2413793103448276,
+            0.2692307692307692
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree in autumn, with its leaves turning yellow and falling to the ground.\"",
+        "score": [
+            0.25,
+            0.2413793103448276,
+            0.24561403508771928
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves on the ground\"",
+        "score": [
+            0.2727272727272727,
+            0.20689655172413793,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its branches spread out, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21428571428571427,
+            0.20689655172413793,
+            0.21052631578947367
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its leaves falling\"",
+        "score": [
+            0.25,
+            0.1724137931034483,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a warm glow from the sun, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21052631578947367,
+            0.27586206896551724,
+            0.23880597014925373
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its leaves falling on the ground.\"",
+        "score": [
+            0.2608695652173913,
+            0.20689655172413793,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its leaves in autumn colors, casting a warm glow on the ground below.\"",
+        "score": [
+            0.23333333333333334,
+            0.2413793103448276,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with its leaves falling on the ground.\"",
+        "score": [
+            0.2608695652173913,
+            0.20689655172413793,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"TreesWhat's so unnatural about working for a big company?  The root of\nthe problem is that humans weren't meant to work in such large\ngroups.Another thing you notice when you see animals in the wild is that\neach species thrives in groups of a certain size.  A herd of impalas\nmight have 100 adults; baboons maybe 20; lions rarely 10.  Humans\nalso seem designed to work in groups, and what I've read about\nhunter-gatherers accords with research",
+        "score": [
+            0.08421052631578947,
+            0.27586206896551724,
+            0.12903225806451613
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves\"",
+        "score": [
+            0.2631578947368421,
+            0.1724137931034483,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a warm glow from the sun, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.21052631578947367,
+            0.27586206896551724,
+            0.23880597014925373
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is very old and has a large trunk and branches.\n- The leaves are golden in color, indicating that it is autumn.\n- The ground is covered with fallen leaves, also in shades of gold.\n- The tree is surrounded by a misty atmosphere, giving it a mystical appearance.\n- The overall scene is serene and beautiful, capturing the essence of autumn.",
+        "score": [
+            0.14864864864864866,
+            0.3793103448275862,
+            0.21359223300970873
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is very old and has a large trunk.\n- The leaves are golden in color, indicating that it is autumn.\n- The ground is covered with fallen leaves, creating a carpet of color.\n- The tree is surrounded by a misty atmosphere, giving it a mystical appearance.\n- The leaves are falling from the tree, creating a natural and serene scene.",
+        "score": [
+            0.1506849315068493,
+            0.3793103448275862,
+            0.2156862745098039
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is large and old, with a thick trunk and many branches.\n- The leaves are yellow, indicating that it is autumn.\n- The ground is covered with fallen leaves, creating a carpet of color.\n- The tree is surrounded by a park or a natural setting, with other trees in the background.\n- The overall atmosphere is serene and peaceful, with the warm colors of the leaves contrasting against the cool tones of the sky.",
+        "score": [
+            0.12643678160919541,
+            0.3793103448275862,
+            0.1896551724137931
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"A large oak tree with a thick trunk and sprawling branches, covered in golden leaves, stands in a park or forest. The ground is covered with fallen leaves, and the tree is bathed in sunlight, creating a warm and inviting atmosphere.\"",
+        "score": [
+            0.16666666666666666,
+            0.3103448275862069,
+            0.21686746987951805
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is large and old, with a thick trunk and many branches.\n- The leaves are golden in color, indicating that it is autumn.\n- The ground is covered with fallen leaves, creating a carpet of color.\n- The tree is surrounded by a misty atmosphere, giving it a mystical appearance.\n- The sunlight filters through the leaves, creating a warm and inviting scene.",
+        "score": [
+            0.18666666666666668,
+            0.4827586206896552,
+            0.2692307692307692
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is large and has many branches.\n- The leaves on the tree are yellow, indicating that it is in the fall season.\n- The ground around the tree is covered with fallen leaves, also in shades of yellow.\n- The sky is clear and the sun is shining, casting light on the tree and its surroundings.\n\nThis creates a picturesque autumn scene with the oak tree as the central focus.",
+        "score": [
+            0.10843373493975904,
+            0.3103448275862069,
+            0.16071428571428573
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is very old, with a large trunk and sprawling branches.\n- The leaves are golden in color, indicating that it is autumn.\n- The ground is covered with fallen leaves, also in shades of gold.\n- The tree is set against a backdrop of a misty, foggy landscape, giving it a mystical and serene appearance.\n- The overall scene is one of natural beauty and tranquility, with the golden leaves and tree contrasting against the misty background.",
+        "score": [
+            0.12359550561797752,
+            0.3793103448275862,
+            0.1864406779661017
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is large and old, with a thick trunk and many branches.\n- The leaves on the tree are yellow, indicating that it is in the fall season.\n- The ground around the tree is covered with fallen leaves, also in shades of yellow and orange.\n- The sky is clear and blue, with sunlight shining through the tree's branches.\n- The overall scene is one of autumn beauty, with the tree and its leaves in full fall colors.",
+        "score": [
+            0.13186813186813187,
+            0.41379310344827586,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is large and has many branches.\n- The leaves on the tree are yellow, indicating that it is autumn.\n- The ground around the tree is covered with fallen leaves, also in shades of yellow.\n- The sky is clear and blue, suggesting a sunny day.\n- The overall scene is one of autumn beauty, with the tree and its leaves in full fall colors.",
+        "score": [
+            0.1038961038961039,
+            0.27586206896551724,
+            0.1509433962264151
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "prediction": "The scene involving the oak tree and its leaves is described as follows:\n\n- The oak tree is large and has many branches.\n- The leaves on the tree are yellow, indicating that it is autumn.\n- The ground around the tree is covered with fallen leaves, also in shades of yellow and orange.\n- The tree is casting a shadow on the ground, suggesting that it is a sunny day.\n- The overall scene gives a sense of the changing seasons and the beauty of autumn.",
+        "score": [
+            0.10975609756097561,
+            0.3103448275862069,
+            0.16216216216216217
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall.\"",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground covered with fallen leaves.\"",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground below.\"",
+        "score": [
+            0.22580645161290322,
+            0.2413793103448276,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with autumn leaves, with a large trunk and branches spreading out, surrounded by fallen leaves on the ground. The leaves are golden in color, indicating the autumn season.\"",
+        "score": [
+            0.18181818181818182,
+            0.27586206896551724,
+            0.2191780821917808
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground covered with fallen leaves.\"",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves in the fall, surrounded by fallen leaves on the ground.\"",
+        "score": [
+            0.27586206896551724,
+            0.27586206896551724,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with large branches and leaves in autumn colors, casting a shadow on the ground covered with fallen leaves.\"",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "prediction": "The description of the scene involving the oak tree and its leaves is:\n\n\"An oak tree with yellow leaves is surrounded by fallen leaves on the ground. The tree is casting a shadow over the leaves, creating a contrast between the bright yellow leaves and the dark shadow.\"",
+        "score": [
+            0.16666666666666666,
+            0.27586206896551724,
+            0.2077922077922078
+        ]
+    }
+}
