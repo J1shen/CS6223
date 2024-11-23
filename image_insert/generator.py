@@ -79,4 +79,4 @@ class Generator:
     
 if __name__ == '__main__':
     generator = Generator()
-    generator.generate()
+    generator.generate(num=100)
