@@ -52,5 +52,7 @@ class Predictor:
         return predictions
     
     def save_prediction(self, prediction, save_path):
+        if not os.path.exists(os.path.dirname(save_path)):
+            os.makedirs(os.path.dirname(save_path))
         with open(save_path, 'w') as f:
             f.write(prediction)

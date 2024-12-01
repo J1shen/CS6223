@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it gracefully glides through the air, its wings beating rapidly as it explores the colorful flowers. The butterfly's wings are a striking contrast to the purple hue of the lavender, creating a beautiful and harmonious scene. The butterfly's delicate movements and the soft petals of the lavender flowers create a serene and peaceful atmosphere, filled with the gentle rustling of leaves and the soft hum of the butterfly's wings.",
+        "score": [
+            0.13414634146341464,
+            0.5,
+            0.21153846153846154
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it gracefully glides through the air, its wings beating rapidly as it explores the colorful flowers. The butterfly's wings are a striking contrast to the purple hue of the lavender, creating a beautiful and harmonious scene. The butterfly's delicate movements and the soft petals of the lavender create a serene and peaceful atmosphere, filled with the gentle rustling of leaves and the soft hum of the butterfly's wings.",
+        "score": [
+            0.13580246913580246,
+            0.5,
+            0.21359223300970875
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it adds a touch of color and life to the scene. The butterfly's wings are a striking contrast to the purple flowers, creating a visually appealing combination. The butterfly's gentle movements and the soft glow of the sunlight on its wings add to the serene and peaceful atmosphere of the setting.",
+        "score": [
+            0.15873015873015872,
+            0.45454545454545453,
+            0.23529411764705885
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it gracefully glides through the air, its wings beating rapidly as it explores the colorful flowers. The butterfly's wings are a striking contrast to the purple hue of the lavender, creating a beautiful and harmonious scene. The butterfly's delicate movements and the soft petals of the lavender create a serene and peaceful atmosphere, filled with a sense of wonder and beauty.",
+        "score": [
+            0.1506849315068493,
+            0.5,
+            0.23157894736842105
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it adds a touch of color and life to the scene. The butterfly's wings are a striking contrast to the purple flowers, creating a visually appealing combination. The butterfly's gentle movements and the soft glow of the sunlight on its wings add to the serene and peaceful atmosphere of the setting.",
+        "score": [
+            0.15873015873015872,
+            0.45454545454545453,
+            0.23529411764705885
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it gracefully glides through the air, its wings beating rapidly as it explores the colorful flowers. The butterfly's wings are a striking contrast to the purple hue of the lavender, creating a beautiful and harmonious scene. The butterfly's delicate movements and the gentle sway of the lavender plants create a serene and peaceful atmosphere, filled with the sweet scent of the flowers.",
+        "score": [
+            0.14864864864864866,
+            0.5,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it adds a touch of color and life to the scene. The butterfly's wings are a striking contrast to the purple flowers, creating a visually appealing combination. The butterfly's gentle movements and the soft glow of the sunlight on its wings add to the serene and peaceful atmosphere of the setting.",
+        "score": [
+            0.15873015873015872,
+            0.45454545454545453,
+            0.23529411764705885
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it adds a touch of color and life to the scene. The butterfly's wings are a striking contrast to the purple flowers, creating a visually appealing combination. The butterfly's gentle movements and the soft glow of the sunlight on its wings add to the serene and peaceful atmosphere of the setting.",
+        "score": [
+            0.15873015873015872,
+            0.45454545454545453,
+            0.23529411764705885
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it adds a touch of color and life to the scene. The butterfly's wings are a striking contrast to the purple flowers, creating a visually appealing combination. The butterfly's gentle movements and the soft glow of the sunlight on its wings add to the serene and peaceful atmosphere of the setting.",
+        "score": [
+            0.15873015873015872,
+            0.45454545454545453,
+            0.23529411764705885
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "As the large orange butterfly flutters above the vibrant lavender, it adds a touch of natural beauty and elegance to the scene. The butterfly's delicate wings, adorned with intricate patterns, contrast beautifully with the rich purple hue of the lavender flowers. The butterfly's graceful movements and the way it hovers above the flowers create a sense of tranquility and serenity, as if the butterfly is dancing among the blossoms. The butterfly's presence also highlights the importance of nature and the interconnectedness of all living beings, as it feeds on the nectar of the lavender flowers and contributes to the pollination process.",
+        "score": [
+            0.10576923076923077,
+            0.5,
+            0.17460317460317462
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and captivating scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The document does not mention a large orange butterfly or any butterflies in general. It focuses on the topic of startups, their challenges, and the importance of learning and self-improvement.",
+        "score": [
+            0.1935483870967742,
+            0.2727272727272727,
+            0.22641509433962262
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The document does not mention a large orange butterfly or any butterflies in general. It focuses on the topic of startups, programming languages, and the challenges of working in large organizations.",
+        "score": [
+            0.1935483870967742,
+            0.2727272727272727,
+            0.22641509433962262
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The document does not mention a large orange butterfly or any butterflies in general. It focuses on the topic of startups, programming languages, and the challenges of working in large organizations.",
+        "score": [
+            0.1935483870967742,
+            0.2727272727272727,
+            0.22641509433962262
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The document does not mention a large orange butterfly or any butterflies in general. It discusses the concept of the \"Blub paradox\" in programming languages, the importance of learning Lisp, and the challenges of starting a startup.",
+        "score": [
+            0.1891891891891892,
+            0.3181818181818182,
+            0.23728813559322035
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The document does not mention a large orange butterfly or any butterflies in general. It focuses on the topic of startups, programming languages, and the challenges of working in large organizations.",
+        "score": [
+            0.1935483870967742,
+            0.2727272727272727,
+            0.22641509433962262
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters gracefully above the vibrant lavender, its wings beating steadily as it dances in the air. The butterfly's bright orange color stands out against the soft purple hue of the lavender, creating a striking contrast that is both beautiful and mesmerizing. As it flutters, the butterfly seems to be exploring its surroundings, perhaps searching for nectar or simply enjoying the warmth of the sun. The gentle breeze carries the butterfly along, and it appears to be at peace, its wings fluttering in a rhythmic motion that is both soothing and captivating.",
+        "score": [
+            0.11458333333333333,
+            0.5,
+            0.18644067796610167
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, enjoying the beauty of its surroundings.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, enjoying the beauty of its surroundings.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The document does not mention a large orange butterfly or any butterflies in general.",
+        "score": [
+            0.2857142857142857,
+            0.18181818181818182,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and captivating scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "A large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.6111111111111112,
+            0.5,
+            0.55
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "A large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.6111111111111112,
+            0.5,
+            0.55
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "A large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.6111111111111112,
+            0.5,
+            0.55
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and captivating scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender.",
+        "score": [
+            0.8888888888888888,
+            0.36363636363636365,
+            0.5161290322580644
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender.",
+        "score": [
+            0.8888888888888888,
+            0.36363636363636365,
+            0.5161290322580644
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and harmonious scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate dance in the air.",
+        "score": [
+            0.5555555555555556,
+            0.45454545454545453,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and delicate scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A large orange butterfly flutters gracefully above the vibrant lavender, casting delicate shadows on the cobblestone path beneath a bright blue sky.",
+        "prediction": "The large orange butterfly flutters above the vibrant lavender, creating a beautiful and serene scene.",
+        "score": [
+            0.6,
+            0.4090909090909091,
+            0.4864864864864865
+        ]
+    }
+}

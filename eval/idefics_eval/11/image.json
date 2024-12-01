@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the delicate purple flowers. The butterfly's iridescent colors seem to dance in the soft, warm light, creating a picturesque scene of natural beauty and tranquility.",
+        "score": [
+            0.2641509433962264,
+            0.5,
+            0.34567901234567905
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun as it dances from flower to flower, sipping nectar and basking in the gentle breeze.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun as it dances from flower to flower, sipping nectar and basking in the gentle breeze.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun. The butterfly's delicate dance is a mesmerizing sight, as it sips nectar from the lavender flowers and basks in the gentle warmth of the sunlight. The lavender, with its purple petals and sweet fragrance, provides a picturesque backdrop for the butterfly's graceful movements, creating a serene and enchanting scene.",
+        "score": [
+            0.17105263157894737,
+            0.4642857142857143,
+            0.25
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun. The butterfly's delicate dance is a mesmerizing sight, as it sips nectar from the lavender flowers and basks in the gentle breeze. The soft light casts a golden glow on the butterfly and the lavender, creating a serene and picturesque scene.",
+        "score": [
+            0.22388059701492538,
+            0.5357142857142857,
+            0.3157894736842105
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a lavender flower, basking in the warm sunlight.",
+        "score": [
+            0.4,
+            0.21428571428571427,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight. The butterfly is surrounded by the purple flowers, and its wings are reflecting the warm sunlight, creating a beautiful and vivid scene. The butterfly is likely feeding on the nectar from the flowers, and its presence adds a touch of life and color to the natural beauty of the lavender field.",
+        "score": [
+            0.1791044776119403,
+            0.42857142857142855,
+            0.2526315789473684
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the purple backdrop of the flower, and its delicate legs are gripping the flower's petals. The sunlight casts a soft glow on the butterfly and the lavender, creating a serene and peaceful scene.",
+        "score": [
+            0.14634146341463414,
+            0.42857142857142855,
+            0.2181818181818182
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower in the late afternoon sunlight. The butterfly's wings are spread wide, and it is basking in the warm sunlight. The lavender flowers are in full bloom, and their purple petals are gently swaying in the breeze. The butterfly's orange color stands out against the purple flowers, creating a striking contrast. The sunlight casts a golden glow on the butterfly and the lavender, making them both appear even more vibrant.",
+        "score": [
+            0.13414634146341464,
+            0.39285714285714285,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun.",
+        "score": [
+            0.52,
+            0.4642857142857143,
+            0.49056603773584906
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.38235294117647056,
+            0.4642857142857143,
+            0.41935483870967744
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of life and color to the serene and tranquil scene.",
+        "score": [
+            0.22807017543859648,
+            0.4642857142857143,
+            0.3058823529411765
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of life and color to the serene and tranquil scene.",
+        "score": [
+            0.23214285714285715,
+            0.4642857142857143,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of life and color to the serene and tranquil scene.",
+        "score": [
+            0.22807017543859648,
+            0.4642857142857143,
+            0.3058823529411765
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun. The butterfly's delicate dance is a mesmerizing sight, as it sips nectar from the lavender flowers and basks in the gentle warmth of the sunlight. The butterfly's presence adds a touch of vibrancy and life to the serene and peaceful scene, creating a beautiful and harmonious interaction between the butterfly and its natural surroundings.",
+        "score": [
+            0.16049382716049382,
+            0.4642857142857143,
+            0.23853211009174313
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it gracefully navigates through the gentle breeze, its wings beating rapidly to keep it aloft. The sunlight casts a warm glow on the butterfly and the lavender, creating a picturesque scene that is both serene and captivating.",
+        "score": [
+            0.2,
+            0.5714285714285714,
+            0.29629629629629634
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of life and color to the serene and tranquil scene.",
+        "score": [
+            0.22807017543859648,
+            0.4642857142857143,
+            0.3058823529411765
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun. The butterfly's delicate dance is a mesmerizing sight, as it sips nectar from the lavender flowers and basks in the gentle warmth of the sunlight. The butterfly's presence adds a touch of vibrancy and life to the serene and peaceful scene, creating a beautiful and harmonious interaction between the butterfly and its surroundings.",
+        "score": [
+            0.1625,
+            0.4642857142857143,
+            0.24074074074074078
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the delicate purple flowers. The butterfly's iridescent colors seem to dance in the soft, warm light, creating a beautiful and serene scene that is both peaceful and captivating.",
+        "score": [
+            0.25,
+            0.5,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings reflecting the warm hues of the setting sun. The butterfly's delicate dance is a mesmerizing sight, as it sips nectar from the lavender flowers and basks in the gentle warmth of the sunlight. The butterfly's presence adds a touch of beauty and life to the serene scene, creating a picturesque moment that is both peaceful and enchanting.",
+        "score": [
+            0.17105263157894737,
+            0.4642857142857143,
+            0.25
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it seems to be enjoying the gentle breeze. The butterfly's colors are striking against the soft purple of the flower, and the sunlight creates a beautiful contrast. The butterfly appears to be at peace, taking in the beauty of its surroundings.",
+        "score": [
+            0.140625,
+            0.32142857142857145,
+            0.1956521739130435
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it dances from flower to flower, sipping nectar and basking in the warmth of the setting sun.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it dances from flower to flower, sipping nectar and basking in the warmth of the setting sun.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it dances from flower to flower, sipping nectar and basking in the warmth of the setting sun.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of life and color to the serene and picturesque scene.",
+        "score": [
+            0.23214285714285715,
+            0.4642857142857143,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it seems to be enjoying the gentle breeze. The butterfly's orange and black markings are striking against the purple of the flower, and the sunlight creates a beautiful contrast. The butterfly appears to be at peace, taking in the beauty of its surroundings.",
+        "score": [
+            0.13636363636363635,
+            0.32142857142857145,
+            0.19148936170212766
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the serene and peaceful scene.",
+        "score": [
+            0.23214285714285715,
+            0.4642857142857143,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "A vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the serene and peaceful scene.",
+        "score": [
+            0.25,
+            0.5,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "A vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the serene and tranquil scene.",
+        "score": [
+            0.25,
+            0.5,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "A vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the serene and tranquil scene.",
+        "score": [
+            0.25,
+            0.5,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "A vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the serene and peaceful scene.",
+        "score": [
+            0.25,
+            0.5,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the serene and peaceful scene.",
+        "score": [
+            0.23214285714285715,
+            0.4642857142857143,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the purple flowers.",
+        "score": [
+            0.43333333333333335,
+            0.4642857142857143,
+            0.4482758620689655
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the purple flowers.",
+        "score": [
+            0.43333333333333335,
+            0.4642857142857143,
+            0.4482758620689655
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the already stunning scene.",
+        "score": [
+            0.24074074074074073,
+            0.4642857142857143,
+            0.3170731707317073
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of life and color to the serene and tranquil scene.",
+        "score": [
+            0.23214285714285715,
+            0.4642857142857143,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "A vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing dance of light and color. The butterfly's delicate form contrasts beautifully with the soft purple hue of the lavender, creating a picturesque scene that is both serene and captivating. As the butterfly flutters, it sips nectar from the lavender flowers, adding to the enchanting beauty of the moment.",
+        "score": [
+            0.21428571428571427,
+            0.5357142857142857,
+            0.3061224489795918
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it dances from flower to flower, sipping nectar and basking in the warmth of the setting sun.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color and life to the serene and tranquil scene.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers.",
+        "score": [
+            0.41935483870967744,
+            0.4642857142857143,
+            0.44067796610169496
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it sips nectar from the delicate purple flowers. The butterfly's presence adds a touch of vibrant color to the serene and picturesque scene, creating a harmonious contrast between its bright orange hue and the soft lavender petals.",
+        "score": [
+            0.22950819672131148,
+            0.5,
+            0.3146067415730337
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings shimmering with a mesmerizing glow as it dances from flower to flower, sipping nectar and basking in the warmth of the setting sun.",
+        "score": [
+            0.325,
+            0.4642857142857143,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the purple backdrop of the flower, and its delicate legs are gently gripping the petals. The sunlight casts a soft glow on the butterfly and the flower, creating a serene and peaceful scene.",
+        "score": [
+            0.14814814814814814,
+            0.42857142857142855,
+            0.2201834862385321
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower in the late afternoon sunlight.",
+        "score": [
+            0.5,
+            0.2857142857142857,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it seems to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the purple backdrop of the flower, and its delicate legs are gently gripping the petals. The sunlight casts a soft glow on the butterfly and the flower, creating a serene and peaceful scene.",
+        "score": [
+            0.14814814814814814,
+            0.42857142857142855,
+            0.2201834862385321
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it seems to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the soft purple of the flower, and its delicate legs are gripping the flower's stem. The sunlight casts a soft glow on the butterfly and the flower, creating a beautiful and serene scene.",
+        "score": [
+            0.14634146341463414,
+            0.42857142857142855,
+            0.2181818181818182
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. The butterfly's wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's body is a striking contrast to the purple of the flower, and its delicate features are clearly visible in the soft light. The butterfly's antennae are long and slender, and they are gently swaying in the breeze. The lavender flowers are in full bloom, and their purple petals are a beautiful backdrop for the butterfly. The sunlight casts a warm glow over the scene, creating a peaceful and serene atmosphere",
+        "score": [
+            0.09734513274336283,
+            0.39285714285714285,
+            0.15602836879432624
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. The butterfly's wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's body is a striking contrast to the purple of the flower, and its delicate features are clearly visible in the soft light. The background is blurred, focusing attention on the butterfly and the flower.",
+        "score": [
+            0.13157894736842105,
+            0.35714285714285715,
+            0.1923076923076923
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower in the late afternoon sunlight.",
+        "score": [
+            0.5,
+            0.2857142857142857,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. The butterfly's wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's body is a striking contrast to the soft purple of the flower, and its delicate features are clearly visible in the bright light. The background is slightly blurred, emphasizing the butterfly and the flower as the main subjects of the image.",
+        "score": [
+            0.10843373493975904,
+            0.32142857142857145,
+            0.16216216216216217
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower in the late afternoon sunlight.",
+        "score": [
+            0.4666666666666667,
+            0.25,
+            0.32558139534883723
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower among the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight.",
+        "score": [
+            0.375,
+            0.21428571428571427,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly flutters gracefully among the blooming lavender in the late afternoon sunlight, its wings glistening with a mesmerizing sheen as it sips nectar from the purple flowers. The butterfly's delicate dance is a beautiful sight to behold, as it adds a touch of vibrant color to the already stunning scene.",
+        "score": [
+            0.24074074074074073,
+            0.4642857142857143,
+            0.3170731707317073
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.6666666666666666,
+            0.35714285714285715,
+            0.46511627906976744
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender in the late afternoon sunlight.",
+        "score": [
+            0.6666666666666666,
+            0.35714285714285715,
+            0.46511627906976744
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is fluttering around the blooming lavender flowers in the late afternoon sunlight.",
+        "score": [
+            0.625,
+            0.35714285714285715,
+            0.45454545454545453
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. The butterfly's wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the purple backdrop of the flower, and the sunlight casts a soft glow on its delicate wings. The butterfly seems to be at peace, savoring the beauty of its surroundings.",
+        "score": [
+            0.125,
+            0.35714285714285715,
+            0.18518518518518517
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the soft purple of the flower, and its delicate legs are gently gripping the petals. The sunlight casts a soft glow on the butterfly and the flower, creating a serene and peaceful scene.",
+        "score": [
+            0.14814814814814814,
+            0.42857142857142855,
+            0.2201834862385321
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. Its wings are spread wide, and it appears to be enjoying the gentle breeze and the sweet scent of the lavender. The butterfly's orange and black markings are clearly visible against the purple backdrop of the flower, and its delicate legs are gently gripping the petals. The sunlight casts a soft glow on the butterfly and the flower, creating a serene and peaceful scene.",
+        "score": [
+            0.14814814814814814,
+            0.42857142857142855,
+            0.2201834862385321
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple lavender flower, basking in the warm sunlight. The butterfly's wings are open, and it appears to be resting or possibly feeding on the nectar of the flower. The background is blurred, emphasizing the butterfly and the flower.",
+        "score": [
+            0.1702127659574468,
+            0.2857142857142857,
+            0.2133333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the blooming lavender, its delicate wings catching the late afternoon sunlight, casting tiny, flickering shadows on the soft green grass below.",
+        "prediction": "The vibrant orange butterfly is perched on a purple flower in the late afternoon sunlight.",
+        "score": [
+            0.4666666666666667,
+            0.25,
+            0.32558139534883723
+        ]
+    }
+}

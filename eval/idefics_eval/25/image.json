@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a glass window. The cat has a striped pattern on its fur and is gazing out the window with its green eyes. The window has a white frame and is slightly dirty, with some smudges and streaks visible. The cat's ears are perked up, and it appears to be in a calm and relaxed state. The background outside the window is blurred, but it seems to be a sunny day, as indicated by the bright light coming through the window.",
+        "score": [
+            0.10526315789473684,
+            0.37037037037037035,
+            0.16393442622950818
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a glass window. The cat has a brown and black striped fur pattern and is gazing out the window with its green eyes. The window has a white frame and is slightly dirty, with some smudges and streaks visible on the glass. The cat's ears are perked up, and it appears to be in a calm and relaxed state. The background outside the window is blurred, but it seems to be a sunny day, as the light is bright and there are some reflections visible on the window glass.",
+        "score": [
+            0.09615384615384616,
+            0.37037037037037035,
+            0.15267175572519084
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat is the main focus of the image, and it is positioned in the center of the frame. The cat has a long, fluffy coat with a mix of brown and black fur, and its eyes are a striking green color. The cat is looking directly at the camera, and its ears are perked up, indicating that it is alert and attentive.\n\nThe window sill on which the cat is sitting is made of wood and has a smooth, polished surface. The window behind the cat is open, allowing natural light to flood into the room. The light creates a warm and",
+        "score": [
+            0.07894736842105263,
+            0.3333333333333333,
+            0.12765957446808512
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a glass window. The cat has a brown and black striped coat with green eyes and is positioned in a way that it appears to be observing its surroundings. The window has a white frame and is slightly dirty, with some smudges and fingerprints visible on the glass. The lighting in the image suggests that it is either early morning or late afternoon, as the sunlight is soft and casts a warm glow on the cat and the window. The background is blurred, focusing the viewer's attention on the cat and the window.",
+        "score": [
+            0.09259259259259259,
+            0.37037037037037035,
+            0.14814814814814814
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat has a brown and black striped fur pattern and is looking out the window. The window has a glass pane, and the cat is sitting on a white surface, possibly a window ledge or a table. The background shows a blurry view of the outside, possibly a garden or a street. The lighting in the image suggests that it is either early morning or late afternoon, as the sunlight is soft and diffused.",
+        "score": [
+            0.10465116279069768,
+            0.3333333333333333,
+            0.1592920353982301
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a glass window. The cat has a brown and black striped coat with green eyes and is positioned in a way that it appears to be observing something outside. The window has a white frame and is slightly dirty, with some smudges and fingerprints visible on the glass. The lighting in the image suggests that it is either early morning or late afternoon, as the sunlight is coming from a side angle, casting a warm glow on the cat and the window. The background is blurred, focusing the viewer's attention on the cat and the window.",
+        "score": [
+            0.09009009009009009,
+            0.37037037037037035,
+            0.14492753623188406
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a glass window. The cat has a brown and black striped coat with green eyes and is positioned in a way that it appears to be observing something outside. The window has a white frame and is slightly dirty, with some smudges and fingerprints visible on the glass. The lighting in the image suggests that it is either early morning or late afternoon, as the sunlight is coming from a low angle, casting a warm glow on the cat and the window. The background outside the window is blurred, making it difficult to discern any specific details, but it appears to be",
+        "score": [
+            0.08620689655172414,
+            0.37037037037037035,
+            0.13986013986013987
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat has a brown and black striped fur pattern and is looking out the window. The window has a glass pane, and the cat is sitting on a white surface, possibly a window ledge or a windowsill. The background of the image is slightly blurred, focusing attention on the cat.",
+        "score": [
+            0.11290322580645161,
+            0.25925925925925924,
+            0.15730337078651685
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat has a brown and black striped fur pattern and is looking out of the window. The window has a glass pane, and the cat is sitting on a white surface, possibly a window ledge or a windowsill. The background of the image is slightly blurred, focusing attention on the cat.",
+        "score": [
+            0.1111111111111111,
+            0.25925925925925924,
+            0.15555555555555556
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat has a brown and black striped fur pattern and is looking out of the window. The window has a glass pane, and the cat is sitting on a white surface, possibly a window ledge or a windowsill. The lighting in the image suggests that it is either morning or late afternoon, as the sunlight is coming from the left side of the image, casting a warm glow on the cat and the window. The background of the image is slightly blurred, focusing the viewer's attention on the cat.",
+        "score": [
+            0.08823529411764706,
+            0.3333333333333333,
+            0.13953488372093023
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The window behind the cat is open, allowing natural light to enter the room. The window has a frame, and the glass is slightly dirty, with some smudges and fingerprints visible. The window is also slightly tilted, allowing the cat to look outside. The background of the image is blurred, but it appears",
+        "score": [
+            0.07272727272727272,
+            0.2962962962962963,
+            0.1167883211678832
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface where the cat is sitting, and it is likely made of a material like wood or plastic. The window behind the cat is open, allowing natural light to enter the room and illuminate the cat. The window has a frame around it, and the glass is clear, allowing the cat to see outside. The background of the image is blurred, but it appears to be a room with a wall and possibly some",
+        "score": [
+            0.06896551724137931,
+            0.2962962962962963,
+            0.11188811188811187
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface where the cat is sitting, and it is likely made of a material like wood or plastic. The window behind the cat is partially open, allowing natural light to enter the room. The window has a frame around it, and the glass is slightly dirty, indicating that it has been used for some time. The background of the image is blurred, but it appears to be a room with some furniture and possibly",
+        "score": [
+            0.06896551724137931,
+            0.2962962962962963,
+            0.11188811188811187
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out the window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is covered with a glass pane. The background is blurred, but it appears to be a room with a wall and possibly a door. The cat's ears are perked up, and it seems to be observing something outside.",
+        "score": [
+            0.07894736842105263,
+            0.2222222222222222,
+            0.11650485436893203
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window is the primary background element, and it is slightly blurred, which adds a sense of depth to the image. The window has a white frame, and the glass is clean and transparent, allowing the cat to be seen clearly. The window is open, and the curtains are not visible, which suggests that the cat is enjoying the fresh air and the view outside. The window sill is a light-colored surface, possibly white or beige,",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The window behind the cat is open, allowing natural light to enter the room. The window has a frame and a glass pane, and it is slightly dirty, with some smudges and fingerprints visible. The window is positioned in a wall, and the wall is painted white. The background of the image is",
+        "score": [
+            0.07207207207207207,
+            0.2962962962962963,
+            0.11594202898550725
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The window behind the cat is open, allowing natural light to enter the room. The window has a white frame, and the glass is slightly dirty, with some smudges and fingerprints",
+        "score": [
+            0.08035714285714286,
+            0.3333333333333333,
+            0.12949640287769787
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.10714285714285714,
+            0.2222222222222222,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a small amount of light to enter the room. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.11666666666666667,
+            0.25925925925925924,
+            0.16091954022988508
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with condensation. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.125,
+            0.2222222222222222,
+            0.16
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is the only visible part of the cat's surroundings, and it is positioned in front of a window with a view of the outside. The window has a white frame and is slightly open, allowing a small amount of light to enter the room. The window is also slightly dirty, with some smudges and fingerprints visible. The cat's fur is short and appears to be a mix of brown and black colors. The cat",
+        "score": [
+            0.06956521739130435,
+            0.2962962962962963,
+            0.11267605633802819
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out of a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is the only visible part of the cat's surroundings, and it is positioned in front of a window with a view of the outside. The window has a white frame and is slightly open, allowing a small amount of light to enter the room. The window is also slightly dirty, with some smudges and fingerprints visible on the glass. The overall mood of the image is serene and peaceful, with the cat being the central",
+        "score": [
+            0.06956521739130435,
+            0.2962962962962963,
+            0.11267605633802819
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall and a window. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the window sill is made of a material that is sturdy enough to support the cat's weight. The cat's fur is visible, and",
+        "score": [
+            0.0603448275862069,
+            0.25925925925925924,
+            0.0979020979020979
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall and a window. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the surrounding area appears to be a room with a neutral color palette. The cat's fur is visible, and it has a distinct pattern",
+        "score": [
+            0.0603448275862069,
+            0.25925925925925924,
+            0.0979020979020979
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window is the primary background element, and it is slightly blurred, giving a sense of depth to the image. The window has a white frame, and the glass is slightly dirty, which adds to the overall atmosphere of the scene. The cat's fur is a mix of brown and black, and it has a soft, fluffy texture. The cat's eyes are green, and they are looking out the window, giving a sense of curiosity",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The window behind the cat is covered with a glass pane, and the reflection of the cat can be seen on the glass. The window is framed by a wooden or metal frame, and",
+        "score": [
+            0.06956521739130435,
+            0.2962962962962963,
+            0.11267605633802819
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a mix of brown and black colors. The cat's eyes are open and looking out the window, and its ears are perked up, indicating that it is alert and possibly listening to something outside. The window behind the cat is slightly open, allowing a small",
+        "score": [
+            0.07017543859649122,
+            0.2962962962962963,
+            0.11347517730496454
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is perched on, and it is located in a room with a wall and a window. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the surrounding area appears to be indoors, possibly a living room or a bedroom. The cat's fur is visible, and it has",
+        "score": [
+            0.06140350877192982,
+            0.25925925925925924,
+            0.09929078014184396
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.10714285714285714,
+            0.2222222222222222,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with condensation. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.125,
+            0.2222222222222222,
+            0.16
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the primary surface the cat is sitting on, and it is positioned in front of a window. The window has a view of the outside, but the details of the outside are not clearly visible. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The cat's ears are perked up, and it is looking out the window, possibly observing something outside",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall in the background. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the glass pane is clear, allowing the cat to see outside. The cat's fur is visible, and it has a distinct pattern,",
+        "score": [
+            0.06140350877192982,
+            0.25925925925925924,
+            0.09929078014184396
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the primary surface the cat is sitting on, and it is positioned in front of a window. The window has a view of the outside, but the details of the outside are not clearly visible due to the focus on the cat. The cat's fur is visible, and it has a distinct pattern of colors, which suggests it is a domesticated breed. The cat's ears are perked up, and its eyes are open",
+        "score": [
+            0.07142857142857142,
+            0.2962962962962963,
+            0.11510791366906475
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall in the background. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the glass is slightly reflective, showing a blurred reflection of the cat and the surrounding area. The scene is well-lit, suggesting that",
+        "score": [
+            0.06140350877192982,
+            0.25925925925925924,
+            0.09929078014184396
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall and a window. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the window sill is made of a material that is sturdy enough to support the cat's weight. The cat's fur is visible, and",
+        "score": [
+            0.0603448275862069,
+            0.25925925925925924,
+            0.0979020979020979
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window is the primary background element, and it is slightly blurred, giving a sense of depth to the image. The window has a white frame, and the glass is clean, allowing a clear view of the outside. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The cat's eyes are green, and it is looking out the window, seemingly observing something outside",
+        "score": [
+            0.06140350877192982,
+            0.25925925925925924,
+            0.09929078014184396
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.10714285714285714,
+            0.2222222222222222,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a glass window. The cat has a brown and black striped fur pattern and is gazing out the window. The window has a white frame and is slightly open, allowing a small amount of light to enter the room. The background is blurred, focusing attention on the cat and the window.",
+        "score": [
+            0.12307692307692308,
+            0.2962962962962963,
+            0.17391304347826086
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall and a window. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The background of the image is blurred, which helps to keep the focus on the cat.",
+        "score": [
+            0.07291666666666667,
+            0.25925925925925924,
+            0.11382113821138212
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window with its green eyes. The window has a white frame and is slightly dirty, with some smudges and streaks visible. The window is open, allowing natural light to enter the room. The cat's ears are perked up, and it appears to be relaxed and calm. The background is blurred, focusing attention on the cat and the window.",
+        "score": [
+            0.0898876404494382,
+            0.2962962962962963,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a light color, possibly beige or cream. The cat's eyes are open and looking out the window, and its ears are perked up, indicating that it is alert and possibly listening to something outside. The window behind the cat is open, allowing natural light to",
+        "score": [
+            0.09009009009009009,
+            0.37037037037037035,
+            0.14492753623188406
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window has a view of the outside, but the details of the outside environment are not clear.",
+        "score": [
+            0.1346153846153846,
+            0.25925925925925924,
+            0.17721518987341772
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the primary surface the cat is resting on, and it is positioned in front of a window that has a view of the outside. The window has a frame and glass panes, and the glass is slightly dirty, giving a blurred view of the outside. The cat's fur is short and appears to be a mix of brown and white colors. The cat's ears are perked up, and its eyes are looking out the",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the only visible part of the cat's environment, and it is positioned in front of a window with a view of the outside. The cat's fur is short and appears to be a mix of brown and white colors. The cat's ears are perked up, and its eyes are open, giving it a curious and alert expression. The window has a white frame, and the glass is slightly dirty, allowing some light to",
+        "score": [
+            0.07964601769911504,
+            0.3333333333333333,
+            0.12857142857142856
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the primary surface the cat is resting on, and it is positioned in front of a window that has a view of the outside. The window has a frame and glass panes, and the outside view is slightly blurred, indicating that the window is closed. The cat's fur is visible, and it has a striped pattern, suggesting it might be a tabby cat. The cat's ears are perked up, and its",
+        "score": [
+            0.07272727272727272,
+            0.2962962962962963,
+            0.1167883211678832
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is perched on, and it is positioned in front of a window that has a view of the outside. The window has a frame and glass panes, and it is likely that the cat is looking out at the view outside. The background of the image is blurred, which helps to keep the focus on the cat.",
+        "score": [
+            0.07766990291262135,
+            0.2962962962962963,
+            0.12307692307692307
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a glass window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a mix of brown and black colors. The cat's eyes are wide open, and it is looking outside through the window, which is slightly open. The window has a frame around it, and the glass is slightly dirty, with some smudges and",
+        "score": [
+            0.07142857142857142,
+            0.2962962962962963,
+            0.11510791366906475
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a mix of brown and white colors. The cat's eyes are open and it is looking out the window, possibly observing its surroundings. The window has a glass pane, and the reflection of the cat can be seen on the glass. The window frame is made",
+        "score": [
+            0.06956521739130435,
+            0.2962962962962963,
+            0.11267605633802819
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window, seemingly observing its surroundings. The window has a frosted glass, and the cat's reflection can be seen on the glass. The window frame is white, and the window is open, allowing the cat to look outside. The background is blurred, focusing attention on the cat and the window.",
+        "score": [
+            0.0875,
+            0.25925925925925924,
+            0.13084112149532712
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window with its green eyes. The window has a white frame and is slightly open, allowing a small amount of sunlight to enter the room. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.109375,
+            0.25925925925925924,
+            0.15384615384615383
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a window ledge, looking out at the view. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window ledge is the main focus of the image, and it is positioned in the foreground. The background is blurred, which helps to emphasize the cat and the window ledge.",
+        "score": [
+            0.1044776119402985,
+            0.25925925925925924,
+            0.14893617021276595
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a window ledge, looking out at the view. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window ledge is the main focus of the image, and it is positioned in the foreground. The background is blurred, which helps to emphasize the cat and the window ledge. The overall mood of the image is serene and peaceful.",
+        "score": [
+            0.09090909090909091,
+            0.25925925925925924,
+            0.13461538461538464
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a window ledge, looking out at the view. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window ledge is the main focus of the image, and it is positioned in the foreground. The background is blurred, which helps to emphasize the cat and the window ledge. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The window ledge is made of wood and has a simple design. The window itself is not visible, but it is implied to be behind the",
+        "score": [
+            0.0603448275862069,
+            0.25925925925925924,
+            0.0979020979020979
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out at the view. The cat is the main focus of the image, and its surroundings include a window with a blurry background, possibly a view of the outside world.",
+        "score": [
+            0.17073170731707318,
+            0.25925925925925924,
+            0.2058823529411765
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window is the main focus of the image, and it is slightly open, allowing natural light to enter the room. The window has a white frame and is located on the left side of the image. The cat is sitting on a wooden surface, possibly a windowsill or a ledge, and it is looking out the window with its head turned slightly to the right. The cat's fur is brown and white, and it has a long tail",
+        "score": [
+            0.07017543859649122,
+            0.2962962962962963,
+            0.11347517730496454
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a window ledge, looking out at the view. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window ledge is the main focus of the image, and it is positioned in the foreground. The background of the image is blurred, which helps to emphasize the cat and the window ledge.",
+        "score": [
+            0.1,
+            0.25925925925925924,
+            0.14432989690721648
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The window is open, allowing natural light to enter the room and illuminate the cat. The window has a frame, and the glass is slightly dirty, with some smudges and fingerprints visible. The background of the image is blurred, but it appears to be a room with some furniture and possibly other objects.",
+        "score": [
+            0.07207207207207207,
+            0.2962962962962963,
+            0.11594202898550725
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.10714285714285714,
+            0.2222222222222222,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is light brown and white, and it has a long tail that is curled around its body. The window behind the cat is open, allowing natural light to enter the room. The window has a white frame, and there are some reflections visible on the glass. The background of the image is",
+        "score": [
+            0.07894736842105263,
+            0.3333333333333333,
+            0.12765957446808512
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing intently at something outside. The window has a white frame and is slightly dirty, with some smudges and fingerprints visible. The background is blurred, but it appears to be a room with a wall and possibly some furniture. The cat's ears are perked up, and its tail is visible, indicating that it is alert and possibly curious about what it sees outside.",
+        "score": [
+            0.06593406593406594,
+            0.2222222222222222,
+            0.1016949152542373
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window is the main focus of the image, and it is open, allowing the cat to look outside. The window is framed by a wooden frame, and there is a white curtain on the left side. The cat is sitting on a wooden surface, possibly a windowsill or a ledge. The background of the image is blurred, but it appears to be a room with a wall and possibly some furniture. The overall mood of the image is",
+        "score": [
+            0.061946902654867256,
+            0.25925925925925924,
+            0.09999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window has a blurry background, which suggests that the cat is looking outside.",
+        "score": [
+            0.14583333333333334,
+            0.25925925925925924,
+            0.18666666666666668
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out of a window. The cat is the main focus of the image, and it appears to be in a relaxed and calm state. The windowsill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a mix of brown and black colors. The cat's eyes are open, and it is looking out of the window, possibly observing its surroundings. The window has a glass pane, and the reflection of the cat can be seen on the glass. The window is",
+        "score": [
+            0.08035714285714286,
+            0.3333333333333333,
+            0.12949640287769787
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window is the main focus of the image, and it is open, allowing the cat to look outside. The window is framed by a wooden frame, and there is a white curtain hanging on the left side. The window is also covered with condensation, which suggests that it has been open for some time. The cat is sitting on a wooden ledge, and its fur is a mix of brown and black colors. The cat's eyes are",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a mix of brown and black colors. The cat's eyes are open and it is looking out the window, which is open, allowing natural light to enter the room. The window has a frame and a glass pane, and there are some reflections visible on the glass",
+        "score": [
+            0.08849557522123894,
+            0.37037037037037035,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the primary surface the cat is resting on, and it is positioned in front of a window. The window has a view of the outside, but the details of the outside scene are not clear due to the focus on the cat. The cat's fur is visible, and it has a distinct pattern, possibly stripes or spots. The cat's ears are perked up, and it is looking out the window, which suggests it",
+        "score": [
+            0.07142857142857142,
+            0.2962962962962963,
+            0.11510791366906475
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out of a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall behind it. The window has a glass pane, and the view outside is slightly blurred, indicating that the window is closed. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The cat's ears are perked up, and it is looking out",
+        "score": [
+            0.06086956521739131,
+            0.25925925925925924,
+            0.09859154929577466
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall and a window. The window has a glass pane, and the view outside is slightly blurred, indicating that the window is closed. The cat's fur is short and brown, and it has a white patch on its chest. The cat's ears are perked up, and it is looking out the window, possibly observing something",
+        "score": [
+            0.06140350877192982,
+            0.25925925925925924,
+            0.09929078014184396
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.10714285714285714,
+            0.2222222222222222,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window with its green eyes. The window has a white frame and is slightly open, allowing a small amount of light to enter the room. The window is located in a room with white walls and a wooden floor. The cat appears to be in a calm and relaxed state, enjoying the view outside.",
+        "score": [
+            0.09523809523809523,
+            0.2962962962962963,
+            0.14414414414414414
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out of a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface that the cat is sitting on, and it is located in a room with a wall and a window. The window has a glass pane, and the cat is looking through it, possibly observing the outside environment. The window is framed by a wooden or metal structure, and the window sill is made of a material that is sturdy enough to support the cat's weight. The room appears to be well-lit",
+        "score": [
+            0.0603448275862069,
+            0.25925925925925924,
+            0.0979020979020979
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it is positioned in the center of the frame. The cat is sitting upright, with its head turned slightly to the right, and its eyes are focused on something outside the window. The window is open, and the cat's tail is visible, extending out of the window. The background of the image is blurred, with a focus on the cat and the window.",
+        "score": [
+            0.09090909090909091,
+            0.2962962962962963,
+            0.1391304347826087
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The scene depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the only subject in the image, and it appears to be in a calm and relaxed state. The window is the main focus of the image, and it is open, allowing natural light to enter the room. The cat is positioned in front of the window, and its body is turned slightly to the right, giving a clear view of its face and body. The window has a white frame, and the glass is slightly dirty, with some smudges and fingerprints visible. The window is also slightly open, allowing a gentle breeze to blow",
+        "score": [
+            0.07207207207207207,
+            0.2962962962962963,
+            0.11594202898550725
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a relaxed and calm state. The windowsill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The cat's eyes are open, and it is looking out the window, possibly observing the outside environment.\n\nThe window behind the cat is a large, rectangular glass pane, and it is open",
+        "score": [
+            0.08108108108108109,
+            0.3333333333333333,
+            0.13043478260869568
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the only visible part of the cat's surroundings, and it is not clear what the cat is looking at outside the window. The image does not provide any additional context or details about the cat's environment or the scene outside the window.",
+        "score": [
+            0.08641975308641975,
+            0.25925925925925924,
+            0.12962962962962962
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill, looking out the window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The windowsill is the primary surface the cat is sitting on, and it is positioned in front of a window. The window has a view of the outside, but the details of the outside scene are not clear. The cat's fur is visible, and it has a distinct pattern of colors, which suggests it is a domesticated breed. The cat's ears are perked up, and it is looking out the window, possibly observing something outside",
+        "score": [
+            0.07207207207207207,
+            0.2962962962962963,
+            0.11594202898550725
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a windowsill. The cat is the main focus of the image, and it is positioned in the center of the frame. The cat is looking out the window, and its fur is a mix of brown and black. The windowsill is made of wood and has a white background, which contrasts with the cat's fur. The window has a glass pane, and the reflection of the cat can be seen on the glass. The window is open, allowing the cat to look outside. The background of the image is blurred, but it appears to be a room with a wooden floor. The overall mood",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is short and appears to be a mix of brown and black colors. The cat's eyes are wide open, and it is looking outside through the window, which is slightly open. The window has a frame around it, and the glass is clear, allowing the cat to see outside. The",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat is the main focus of the image, and it appears to be in a calm and relaxed state. The window sill is a flat surface, and the cat is sitting on it, with its front paws resting on the edge. The cat's fur is a mix of brown and black, and it has a long tail that is curled around its body. The window behind the cat is open, allowing natural light to enter the room. The window has a frame and a glass pane, and it is slightly dirty, with some smudges",
+        "score": [
+            0.08035714285714286,
+            0.3333333333333333,
+            0.12949640287769787
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a small amount of light to enter the room. The window is located in a room with white walls and a wooden floor. The cat appears to be in a calm and relaxed state, possibly enjoying the view outside.",
+        "score": [
+            0.08641975308641975,
+            0.25925925925925924,
+            0.12962962962962962
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.10714285714285714,
+            0.2222222222222222,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with condensation. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.125,
+            0.2222222222222222,
+            0.16
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window ledge, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with condensation. The background is blurry, but it appears to be a wall or a curtain. The cat is the main focus of the image, and it seems to be enjoying the view outside.",
+        "score": [
+            0.08450704225352113,
+            0.2222222222222222,
+            0.12244897959183672
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat, green eyes, and is sitting in a relaxed position. The window has a white frame and is slightly open, allowing natural light to enter the room. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.13333333333333333,
+            0.2962962962962963,
+            0.18390804597701152
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat is the main focus of the image, and it is positioned in the center of the frame. The cat has a brown and black striped coat, with green eyes that are looking towards the camera. The cat's ears are perked up, and it has a long tail that is curled around its body. The window sill is made of wood and is painted white. The window behind the cat is covered with a glass pane, and the light from outside is shining through the window, creating a warm and inviting atmosphere. The background of the image is blurred, which helps to",
+        "score": [
+            0.0782608695652174,
+            0.3333333333333333,
+            0.12676056338028172
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped fur pattern and is gazing out the window. The window has a frosted glass, and the sunlight is creating a warm glow on the cat's fur. The background is slightly blurred, focusing attention on the cat.",
+        "score": [
+            0.11475409836065574,
+            0.25925925925925924,
+            0.1590909090909091
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat is the main focus of the image, and it is positioned in the center of the frame. The cat has a brown and black striped coat, green eyes, and is looking towards the camera. The cat's ears are perked up, and it appears to be alert and curious.\n\nThe window sill is the surface on which the cat is sitting. It is a flat, horizontal surface that runs along the bottom of the window. The window sill is made of a light-colored material, possibly wood or plastic, and it is slightly reflective, indicating that it is exposed to",
+        "score": [
+            0.07079646017699115,
+            0.2962962962962963,
+            0.1142857142857143
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with a glass pane. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.12,
+            0.2222222222222222,
+            0.15584415584415584
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat is the main focus of the image, and it is positioned in the center of the frame. The cat has a brown and black striped coat, green eyes, and is looking towards the camera. The cat's ears are perked up, and it appears to be alert and curious.\n\nThe window sill is the surface on which the cat is sitting. It is a flat, horizontal surface that runs along the bottom of the window. The window is located behind the cat and is partially visible. The window has a glass pane, and the glass is slightly dirty, with some",
+        "score": [
+            0.061946902654867256,
+            0.25925925925925924,
+            0.09999999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill. The cat is the main focus of the image, and it is positioned in the center of the frame. The cat has a brown and black striped coat with green eyes, and it is looking towards the camera. The cat's ears are perked up, and it appears to be alert and curious.\n\nThe window sill is the surface on which the cat is sitting. It is a flat, horizontal surface that runs along the bottom of the window. The window is made of glass and has a frame around it. The window is open, allowing natural light to enter the room and illuminate",
+        "score": [
+            0.0782608695652174,
+            0.3333333333333333,
+            0.12676056338028172
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out the window. The cat has a brown and black striped coat and is gazing out the window with its green eyes. The window has a white frame and is covered with a glass pane. The background of the image is blurred, with a light source coming from the left side, creating a warm and cozy atmosphere.",
+        "score": [
+            0.11594202898550725,
+            0.2962962962962963,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a glass window. The cat has a brown and black striped fur pattern and is gazing out the window. The window has a white frame and is slightly dirty, with some smudges and fingerprints visible. The background outside the window is blurry, but it appears to be a sunny day with some light coming through the window. The cat's ears are perked up, and it seems to be observing something outside.",
+        "score": [
+            0.09302325581395349,
+            0.2962962962962963,
+            0.1415929203539823
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped fur pattern and is gazing out the window. The window has a glass pane and a frame, and the window sill is white. The background outside the window is blurred, but it appears to be a sunny day with natural light coming through the window.",
+        "score": [
+            0.11594202898550725,
+            0.2962962962962963,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking outside through a window. The cat has a brown and black striped fur pattern and is gazing out the window. The window has a white frame and is slightly open, allowing a view of the outside. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.12280701754385964,
+            0.25925925925925924,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window. The window has a frosted glass, and the sunlight is creating a warm glow on the cat's fur. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.11864406779661017,
+            0.25925925925925924,
+            0.1627906976744186
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and is gazing out the window with its green eyes. The window has a frosted glass, and the sunlight is creating a warm glow around the cat. The window sill is white and appears to be made of wood or a similar material. The background is slightly blurred, focusing attention on the cat and the window.",
+        "score": [
+            0.09876543209876543,
+            0.2962962962962963,
+            0.14814814814814814
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with condensation. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.125,
+            0.2222222222222222,
+            0.16
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with a layer of condensation. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.11764705882352941,
+            0.2222222222222222,
+            0.15384615384615383
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped coat and green eyes. The window has a white frame and is covered with condensation. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.125,
+            0.2222222222222222,
+            0.16
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a solitary cat with striking emerald eyes perched on the sun-drenched windowsill, its soft, fluffy fur shimmering like satin in the golden afternoon light.",
+        "prediction": "The image depicts a solitary cat sitting on a window sill, looking out through a window. The cat has a brown and black striped fur pattern and green eyes. The window has a white frame and is covered with a glass pane. The window is partially open, allowing sunlight to enter the room. The cat is sitting calmly, with its front paws resting on the window sill. The background of the image is blurred, focusing attention on the cat.",
+        "score": [
+            0.08860759493670886,
+            0.25925925925925924,
+            0.1320754716981132
+        ]
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, and each leaf is shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6304347826086957,
+            1.0,
+            0.7733333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, and each leaf is shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6304347826086957,
+            1.0,
+            0.7733333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: \"There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.\"",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a golden oak tree with leaves shimmering like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.7619047619047619,
+            0.5517241379310345,
+            0.64
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6590909090909091,
+            1.0,
+            0.7945205479452054
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: There is a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a golden oak tree with leaves shimmering like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.7619047619047619,
+            0.5517241379310345,
+            0.64
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.65,
+            0.4482758620689655,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.65,
+            0.4482758620689655,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a 27\" iMac, which is described as being shiny and loud, but beautiful. The iMac is placed in a setting with a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.5192307692307693,
+            0.9310344827586207,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that are shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6190476190476191,
+            0.4482758620689655,
+            0.52
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.65,
+            0.4482758620689655,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that the leaves are shimmering like delicate coins in the dappled sunlight filtering through the branches of the towering oak tree.",
+        "score": [
+            0.5,
+            0.5862068965517241,
+            0.5396825396825397
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: \"There is a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.\"",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with shimmering golden leaves, and a gentle breeze rustling the leaves.",
+        "score": [
+            0.3888888888888889,
+            0.2413793103448276,
+            0.2978723404255319
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that the leaves shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6071428571428571,
+            0.5862068965517241,
+            0.5964912280701754
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that the leaves are shimmering like delicate coins in the dappled sunlight filtering through the branches of the towering oak tree.",
+        "score": [
+            0.5,
+            0.5862068965517241,
+            0.5396825396825397
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is that there is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6744186046511628,
+            1.0,
+            0.8055555555555556
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches. The leaves are described as delicate coins.",
+        "score": [
+            0.5,
+            0.4482758620689655,
+            0.4727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a gentle breeze rustling the golden leaves of a towering oak tree, with each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.8387096774193549,
+            0.896551724137931,
+            0.8666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The description of the scene involving the oak tree and its leaves is as follows: \"There is a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.\"",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves that shimmer like delicate coins in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6956521739130435,
+            0.5517241379310345,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "A gentle breeze rustles the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            0.9310344827586207,
+            0.9642857142857143
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "A gentle breeze rustles the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "score": [
+            1.0,
+            0.9310344827586207,
+            0.9642857142857143
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves a towering oak tree with golden leaves shimmering in the dappled sunlight filtering through the branches.",
+        "score": [
+            0.6842105263157895,
+            0.4482758620689655,
+            0.5416666666666666
+        ]
+    }
+}

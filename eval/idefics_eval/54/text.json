@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as glistening in the dappled sunlight and is located near a small, bubbling brook. It is resting on the rustling green grass.",
+        "score": [
+            0.4444444444444444,
+            0.6,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as glistening in the dappled sunlight and is located near a small, bubbling brook. It is resting gently on the rustling green grass.",
+        "score": [
+            0.42857142857142855,
+            0.6,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as glistening in the dappled sunlight and is located near a small, bubbling brook.",
+        "score": [
+            0.5789473684210527,
+            0.55,
+            0.5641025641025641
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as glistening in the dappled sunlight and gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.75,
+            0.9,
+            0.8181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as glistening in the dappled sunlight and resting gently on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7083333333333334,
+            0.85,
+            0.7727272727272727
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as glistening in the dappled sunlight and gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.75,
+            0.9,
+            0.8181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located near a small, bubbling brook and is described as gently resting on the rustling green grass.",
+        "score": [
+            0.42857142857142855,
+            0.45,
+            0.4390243902439024
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.875,
+            0.7,
+            0.7777777777777777
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is described as gently resting on the rustling green grass near a small, bubbling brook.",
+        "score": [
+            0.7777777777777778,
+            0.7,
+            0.7368421052631577
+        ]
+    }
+}

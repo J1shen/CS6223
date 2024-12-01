@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene setting. The warm sunlight casts a golden glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.2,
+            0.4074074074074074,
+            0.2682926829268293
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene where a delicate butterfly is perched on a sunflower, surrounded by other blooming sunflowers. The sunlight is warm and casts a gentle glow on the scene, creating a serene and picturesque image.",
+        "score": [
+            0.2702702702702703,
+            0.37037037037037035,
+            0.3125
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5625,
+            0.3333333333333333,
+            0.4186046511627907
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document is a photograph of a delicate butterfly perched on a sunflower in warm afternoon sunlight. The butterfly is described as having a beautiful, iridescent sheen, and the sunflower is in full bloom, with its bright yellow petals and dark brown center. The sunlight casts a warm glow on the scene, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.1774193548387097,
+            0.4074074074074074,
+            0.24719101123595505
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document is a photograph of a delicate butterfly perched on a sunflower in warm afternoon sunlight. The butterfly is described as having a beautiful, iridescent blue color, with its wings spread wide. The sunflower is tall and has bright yellow petals, with a dark brown center. The background is blurred, focusing attention on the butterfly and the sunflower. The photograph captures the butterfly's delicate features and the sunflower's vibrant colors, creating a sense of tranquility and beauty.",
+        "score": [
+            0.13095238095238096,
+            0.4074074074074074,
+            0.19819819819819817
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.22641509433962265,
+            0.4444444444444444,
+            0.3
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a golden glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.19642857142857142,
+            0.4074074074074074,
+            0.2650602409638554
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The document contains a collection of essays and articles on various topics, including technology, startups, and programming languages.",
+        "score": [
+            0.2777777777777778,
+            0.37037037037037035,
+            0.3174603174603175
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document is a photograph of a delicate butterfly perched on a sunflower in warm afternoon sunlight. The butterfly is described as having a beautiful, iridescent blue color, with its wings spread wide. The sunflower is in full bloom, with its bright yellow petals and dark brown center. The background is blurred, focusing attention on the butterfly and the sunflower. The photograph captures the butterfly's delicate form and the sunflower's vibrant colors, creating a sense of tranquility and beauty.",
+        "score": [
+            0.12941176470588237,
+            0.4074074074074074,
+            0.19642857142857145
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document is a photograph of a blue butterfly perched on a sunflower, with a warm afternoon sunlight creating a soft, golden glow around the scene. The butterfly is captured in mid-flight, its wings spread gracefully, and the sunflower is in full bloom, its petals open and vibrant. The background is blurred, emphasizing the beauty and tranquility of the moment.",
+        "score": [
+            0.15384615384615385,
+            0.37037037037037035,
+            0.2173913043478261
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document is a photograph of a delicate butterfly perched on a sunflower in warm afternoon sunlight. The butterfly is described as having a beautiful, iridescent blue color, with its wings spread wide. The sunflower is in full bloom, with its bright yellow petals and dark brown center. The background is blurred, focusing attention on the butterfly and the sunflower. The photograph captures the butterfly's delicate form and the sunflower's vibrant colors, creating a sense of tranquility and beauty.",
+        "score": [
+            0.12941176470588237,
+            0.4074074074074074,
+            0.19642857142857145
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The document is about the author's experience with Viaweb, a startup company, and their use of the programming language Lisp.",
+        "score": [
+            0.28205128205128205,
+            0.4074074074074074,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document is a photograph of a delicate butterfly perched on a sunflower in warm afternoon sunlight. The butterfly is described as having a beautiful, iridescent blue color, with its wings spread wide, showcasing their intricate patterns. The sunflower is in full bloom, with its bright yellow petals and dark brown center, creating a striking contrast with the butterfly. The background is blurred, emphasizing the focus on the butterfly and sunflower. The photograph captures the serene and peaceful moment, highlighting the beauty of nature and the delicate interaction between the butterfly and the sunflower.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe any scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe any scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe any scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document does not describe a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.22641509433962265,
+            0.4444444444444444,
+            0.3
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is described as being in the middle of a field of sunflowers, with the sun shining brightly overhead. The sunflowers are tall and bright yellow, and they are in full bloom. The butterfly is perched on one of the sunflowers, and it is surrounded by the tall, yellow flowers. The scene is described as being warm and peaceful, with the sun shining down on the butterfly and the sunflowers.",
+        "score": [
+            0.1411764705882353,
+            0.4444444444444444,
+            0.2142857142857143
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.22641509433962265,
+            0.4444444444444444,
+            0.3
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.22641509433962265,
+            0.4444444444444444,
+            0.3
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described in the document involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The warm sunlight casts a gentle glow on the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21428571428571427,
+            0.4444444444444444,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.2037037037037037,
+            0.4074074074074074,
+            0.2716049382716049
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.2037037037037037,
+            0.4074074074074074,
+            0.2716049382716049
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The scene described involves a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.21153846153846154,
+            0.4074074074074074,
+            0.27848101265822783
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the blooming sunflowers, basking in the warm afternoon sunlight as a gentle breeze rustles the leaves nearby.",
+        "prediction": "The document describes a scene involving a delicate butterfly and blooming sunflowers in warm afternoon sunlight. The butterfly is perched on a sunflower, and the sunflowers are in full bloom, creating a picturesque and serene atmosphere. The sunlight casts a warm glow over the scene, highlighting the beauty of the butterfly and the sunflowers.",
+        "score": [
+            0.2037037037037037,
+            0.4074074074074074,
+            0.2716049382716049
+        ]
+    }
+}

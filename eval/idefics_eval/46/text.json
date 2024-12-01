@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing beneath the oak tree, chasing after falling leaves in the crisp autumn breeze.",
+        "score": [
+            0.8888888888888888,
+            0.5,
+            0.64
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing beneath the oak tree, chasing after falling leaves in the crisp autumn breeze.",
+        "score": [
+            0.8888888888888888,
+            0.5,
+            0.64
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail playfully as it chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9,
+            0.5625,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing beneath the oak tree, chasing after falling leaves in the crisp autumn breeze.",
+        "score": [
+            0.8888888888888888,
+            0.5,
+            0.64
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing and chasing after falling leaves beneath the oak tree in the autumn breeze.",
+        "score": [
+            0.6666666666666666,
+            0.375,
+            0.4800000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing beneath the oak tree, chasing after falling leaves.",
+        "score": [
+            0.8461538461538461,
+            0.34375,
+            0.4888888888888889
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing beneath the oak tree, chasing after falling leaves.",
+        "score": [
+            0.8461538461538461,
+            0.34375,
+            0.4888888888888889
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing and chasing after falling leaves.",
+        "score": [
+            0.8,
+            0.25,
+            0.38095238095238093
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves beneath the oak tree in the autumn breeze.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing and chasing after falling leaves.",
+        "score": [
+            0.8,
+            0.25,
+            0.38095238095238093
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, with its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9375,
+            0.9375,
+            0.9375
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, with its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9375,
+            0.9375,
+            0.9375
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9523809523809523,
+            0.625,
+            0.7547169811320755
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, with its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9375,
+            0.9375,
+            0.9375
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, with its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9375,
+            0.9375,
+            0.9375
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing happily beneath the oak tree, its fur shimmering in the sunlight as it chases after falling leaves.",
+        "score": [
+            0.7727272727272727,
+            0.53125,
+            0.6296296296296297
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing happily beneath the tree, with its fur shimmering like sunlight.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.9655172413793104,
+            0.875,
+            0.9180327868852458
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A phone-sized device that would work as a development machine is no more miraculous by present standards than the iPhone itself would have seemed by the standards of 1995.",
+        "score": [
+            0.1,
+            0.09375,
+            0.09677419354838711
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing happily beneath the tree, its fur shimmering in the sunlight as it chases after falling leaves.",
+        "score": [
+            0.7619047619047619,
+            0.5,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the tree.",
+        "score": [
+            0.9090909090909091,
+            0.3125,
+            0.4651162790697674
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "The document does not provide information about what is happening beneath the sprawling oak tree in the autumn breeze.",
+        "score": [
+            0.5263157894736842,
+            0.3125,
+            0.39215686274509803
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree in the crisp autumn breeze.",
+        "score": [
+            0.9444444444444444,
+            0.53125,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the oak tree.",
+        "score": [
+            0.9166666666666666,
+            0.34375,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing beneath the oak tree, chasing after falling leaves in the crisp autumn breeze.",
+        "score": [
+            0.8888888888888888,
+            0.5,
+            0.64
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves beneath the oak tree in the autumn breeze.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves beneath the oak tree in the autumn breeze.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing and chasing after falling leaves beneath the oak tree in the autumn breeze.",
+        "score": [
+            0.6666666666666666,
+            0.375,
+            0.4800000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing and chasing after falling leaves beneath the oak tree in the autumn breeze.",
+        "score": [
+            0.6666666666666666,
+            0.375,
+            0.4800000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "Leaves are dancing in the crisp autumn breeze.",
+        "score": [
+            0.875,
+            0.21875,
+            0.35
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing and chasing after falling leaves.",
+        "score": [
+            0.8,
+            0.25,
+            0.38095238095238093
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "score": [
+            0.967741935483871,
+            0.9375,
+            0.9523809523809523
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a golden retriever wagging its tail enthusiastically beneath the sprawling oak tree, its fur shimmering like sunlight as it playfully chases after falling leaves dancing in the crisp autumn breeze.",
+        "prediction": "A golden retriever is playing with falling leaves.",
+        "score": [
+            0.75,
+            0.1875,
+            0.3
+        ]
+    }
+}

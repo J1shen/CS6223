@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its head resting on the window sill and its body extending towards the window. The cat's fur appears to be well-groomed, and it has a calm and serene expression. The window behind the cat is open, allowing natural light to flood into the room. The light creates a warm and inviting atmosphere, casting a soft glow on the cat and the surrounding area.\n\nThe window has a white frame, and the glass panes are slightly reflective, capturing the light and creating a subtle sheen. The",
+        "score": [
+            0.05357142857142857,
+            0.2608695652173913,
+            0.08888888888888889
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its head turned slightly to the right, gazing out the window. The cat's fur appears soft and fluffy, and its eyes are a striking green, which contrasts with the gray fur. The window sill is bathed in sunlight, casting a warm glow on the cat and the surrounding area. The window itself is framed with white trim, and the view outside is blurred, suggesting that the focus is on the cat rather than the background.\n\nThe cat's ears are perked up, indicating that it is",
+        "score": [
+            0.08035714285714286,
+            0.391304347826087,
+            0.13333333333333336
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its head turned slightly to the right, gazing out the window. The cat's fur appears soft and fluffy, and its eyes are a bright green, reflecting the sunlight streaming through the window. The sunlight creates a warm glow around the cat, highlighting its fur and the window sill.\n\nThe window itself is framed with white trim, and the glass panes are slightly reflective, capturing the light and the cat's image. The window is open, allowing a view of the outside environment. Outside, there is",
+        "score": [
+            0.07207207207207207,
+            0.34782608695652173,
+            0.11940298507462686
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its head resting on the window sill and its body stretched out. The cat's fur appears to be well-groomed, and it has a calm and serene expression. The window sill is made of wood and has a smooth, polished surface. The window behind the cat is open, allowing natural light to flood into the room. The light creates a warm and inviting atmosphere, casting a soft glow on the cat and the surrounding area.\n\nThe window has a white frame, and the glass panes are clear",
+        "score": [
+            0.061946902654867256,
+            0.30434782608695654,
+            0.10294117647058824
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its head resting on the window sill and its body stretched out. The cat's fur appears to be well-groomed, and its eyes are open, looking towards the left side of the image. The cat's ears are perked up, and its whiskers are visible, indicating that it is alert and possibly listening or observing something.\n\nThe window sill is made of wood and has a light brown color. The window behind the cat is open, allowing natural light to flood into the room. The light",
+        "score": [
+            0.0625,
+            0.30434782608695654,
+            0.1037037037037037
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its front paws resting on the window sill and its head turned slightly to the right, as if it is looking out the window. The cat's fur appears to be well-groomed, and its eyes are a striking green color. The window sill is bathed in sunlight, which casts a warm glow on the cat's fur, highlighting its texture and the softness of its fur.\n\nThe window behind the cat is open, allowing natural light to flood the room. The window has a white frame",
+        "score": [
+            0.08035714285714286,
+            0.391304347826087,
+            0.13333333333333336
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its front paws resting on the window sill and its head turned slightly to the right, as if it is looking out the window. The cat's fur appears to be well-groomed, and its eyes are a striking green color. The window sill is bathed in sunlight, which casts a warm glow on the cat's fur, highlighting its texture and the softness of its fur.\n\nThe window behind the cat is open, allowing natural light to flood the room. The window has a white frame",
+        "score": [
+            0.08035714285714286,
+            0.391304347826087,
+            0.13333333333333336
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its head resting on the window sill and its body extending towards the window. The cat's fur appears to be well-groomed, and its eyes are open, looking towards the left side of the image. The cat's ears are perked up, and its whiskers are visible, indicating that it is alert and possibly listening or observing something outside.\n\nThe window behind the cat is open, allowing natural light to flood the scene. The light creates a warm and inviting atmosphere, casting a gentle glow on",
+        "score": [
+            0.07142857142857142,
+            0.34782608695652173,
+            0.11851851851851852
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a striped pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its front paws resting on the window sill and its body stretched out. The cat's fur appears to be well-groomed, and it has a calm and serene expression. The cat's eyes are open, and it is looking to the right side of the image, possibly towards a plant that is partially visible in the background. The plant has green leaves and is placed near the window, suggesting that it is well-lit by natural sunlight. The window itself is framed with white trim, and the",
+        "score": [
+            0.07079646017699115,
+            0.34782608695652173,
+            0.11764705882352941
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a gray cat with a tabby pattern lying on a wooden window sill. The cat is positioned in a relaxed manner, with its front legs stretched out and its head turned slightly to the right, as if it is gazing out the window. The cat's fur appears to be well-groomed, with a mix of dark stripes and patches on its body. Its eyes are a bright green, and it has a white patch of fur on its chest. The cat's ears are perked up, and its whiskers are visible, adding to its alert and curious demeanor.\n\nThe window sill is made of wood and is",
+        "score": [
+            0.07207207207207207,
+            0.34782608695652173,
+            0.11940298507462686
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a table or a windowsill, in front of a window. The cat is positioned in the foreground, with its head turned to the right, looking out the window. The cat's fur is shiny and reflective, giving it a metallic appearance. The window behind the cat has a white frame and is covered with a screen, which is slightly blurred, indicating that the photo was taken through the window. The window is open, allowing natural light to enter the room. The light creates a bright and warm atmosphere, casting shadows on the cat and the surrounding area. The background is",
+        "score": [
+            0.0625,
+            0.30434782608695654,
+            0.1037037037037037
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a table or a windowsill, in front of a window. The cat is looking out the window, which has a white frame and a screen. The window is open, allowing natural light to enter the room. The cat's fur is shiny and appears to be well-groomed. The background is blurred, focusing attention on the cat and the window.",
+        "score": [
+            0.08333333333333333,
+            0.2608695652173913,
+            0.12631578947368421
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a table or a windowsill, in front of a window. The cat is looking out the window, which has a white frame and a screen. The window is open, allowing natural light to enter the room. The cat's fur is shiny and appears to be well-groomed. The background is blurred, but it seems to be a room with white walls and possibly some furniture. The cat's ears are perked up, and it has a curious expression on its face, as if it is observing something outside.",
+        "score": [
+            0.06930693069306931,
+            0.30434782608695654,
+            0.11290322580645161
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is looking out the window, which has a white frame and a screen. The window is open, allowing natural light to enter the room. The cat's fur is shiny and appears to be well-groomed. The background is blurred, focusing attention on the cat and the window.",
+        "score": [
+            0.08695652173913043,
+            0.2608695652173913,
+            0.13043478260869565
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window is open, allowing natural light to come in.",
+        "score": [
+            0.175,
+            0.30434782608695654,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in a relaxed manner, with its front paws resting on the surface and its head turned slightly to the right. The cat's fur appears to be a light gray or silver color, and it has a sleek and well-groomed appearance. The window behind the cat has a white frame and is partially open, allowing natural light to enter the room. The window is covered with a screen, which is partially visible. The background outside the window is blurred, indicating that the focus is on the cat and",
+        "score": [
+            0.07142857142857142,
+            0.34782608695652173,
+            0.11851851851851852
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, looking out the window. The cat is positioned in the center of the image, and its fur appears to be a mix of gray and white. The cat is gazing out the window, which is open, allowing natural light to flood the room. The window has a white frame and a screen, and the view outside is slightly blurred, indicating that the focus is on the cat and its surroundings rather than the outside scene.\n\nThe window sill is made of wood and has a smooth, polished surface. The cat is sitting comfortably, with its front paws resting on the window",
+        "score": [
+            0.07079646017699115,
+            0.34782608695652173,
+            0.11764705882352941
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its back legs stretched out. The cat's fur is shiny and appears to be well-groomed. The window has a white frame and is open, allowing natural light to flood into the room. Outside the window, there is a plant with green leaves, which are slightly out of focus, indicating that the plant is not the main subject of the image. The background is blurred, suggesting that the focus is on the cat.",
+        "score": [
+            0.07476635514018691,
+            0.34782608695652173,
+            0.12307692307692306
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking outside through the window, which has a white frame and a screen. The window is open, allowing the cat to see the outside environment. The cat's fur is shiny and reflective, and it is sitting calmly, possibly enjoying the view or the sunlight. The background is blurred, indicating that the focus is on the cat and its surroundings.",
+        "score": [
+            0.08235294117647059,
+            0.30434782608695654,
+            0.12962962962962962
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking outside through the window, which has a screen. The window is open, allowing the cat to see the outside environment. The cat is in a relaxed position, with its front paws resting on the surface and its head turned to the side. The background is blurred, indicating that the focus is on the cat.",
+        "score": [
+            0.0875,
+            0.30434782608695654,
+            0.13592233009708735
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, with its front paws resting on the window sill and its head turned to the side. The window has a white frame and is open, allowing the cat to enjoy the view outside. The plant is outside the window, and its leaves are illuminated by sunlight, creating a bright and cheerful atmosphere.",
+        "score": [
+            0.1111111111111111,
+            0.391304347826087,
+            0.17307692307692307
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the sunlight is shining through the window, creating a warm and cozy atmosphere.",
+        "score": [
+            0.16279069767441862,
+            0.30434782608695654,
+            0.21212121212121213
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, looking out the window. The cat is positioned in the center of the image, with its head turned slightly to the right, gazing out the window. The cat's fur is a mix of gray and white, with a shiny, reflective quality, giving it a silver appearance. The cat's eyes are green, and its ears are perked up, indicating alertness. The cat's tail is visible, and it is curled around its body, adding to its relaxed and comfortable posture.\n\nThe window sill is made of wood and has a natural finish, with a light brown",
+        "score": [
+            0.07339449541284404,
+            0.34782608695652173,
+            0.12121212121212123
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking out the window, which has a white frame and a screen. The window is open, allowing natural light to enter the room. The cat's fur is shiny and reflective, and it is positioned in a way that suggests it is comfortable and relaxed. The background of the scene is blurred, indicating that the focus is on the cat and its surroundings.",
+        "score": [
+            0.07954545454545454,
+            0.30434782608695654,
+            0.12612612612612614
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking out the window, which has a screen on it. The window is open, allowing natural light to enter the room. The cat's surroundings are not fully visible, but it appears to be in a room with a white wall.",
+        "score": [
+            0.09090909090909091,
+            0.2608695652173913,
+            0.1348314606741573
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is looking to the right, and the lighting suggests that it is daytime.",
+        "score": [
+            0.13953488372093023,
+            0.2608695652173913,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a white window frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a plant in the background. The cat is looking to the right, and the plant is green and leafy, with a blurry background that suggests it is outside.",
+        "score": [
+            0.15217391304347827,
+            0.30434782608695654,
+            0.2028985507246377
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a plant and a window. The cat is looking to the right, and the sunlight is creating a warm and cozy atmosphere.",
+        "score": [
+            0.14285714285714285,
+            0.2608695652173913,
+            0.1846153846153846
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a white frame.",
+        "score": [
+            0.18421052631578946,
+            0.30434782608695654,
+            0.22950819672131145
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its back legs stretched out. The window is open, allowing natural light to enter the room. The cat is surrounded by a blurred background, which suggests that the photo was taken in a bright and sunny environment.",
+        "score": [
+            0.1,
+            0.30434782608695654,
+            0.15053763440860218
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.19444444444444445,
+            0.30434782608695654,
+            0.23728813559322037
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is the main focus of the image, and its surroundings are not clearly visible.",
+        "score": [
+            0.1590909090909091,
+            0.30434782608695654,
+            0.20895522388059704
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is the main focus of the image, and its surroundings are not clearly visible.",
+        "score": [
+            0.1590909090909091,
+            0.30434782608695654,
+            0.20895522388059704
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is looking to the right, and the sunlight is creating a shadow on the surface it is sitting on.",
+        "score": [
+            0.14285714285714285,
+            0.30434782608695654,
+            0.19444444444444445
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window is open, allowing natural light to come in.",
+        "score": [
+            0.175,
+            0.30434782608695654,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame. The background is blurred, but it appears to be a natural light source, possibly sunlight, illuminating the scene.",
+        "score": [
+            0.12962962962962962,
+            0.30434782608695654,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside through the window, which has a screen. The window is open, and the cat is enjoying the view of the greenery outside.",
+        "score": [
+            0.18604651162790697,
+            0.34782608695652173,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a screen. The cat is in a room with white walls and a wooden floor.",
+        "score": [
+            0.14285714285714285,
+            0.2608695652173913,
+            0.1846153846153846
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table, looking out the window. The cat is in a room with a white wall and a window with a screen. The window has a view of a tree and the sky.",
+        "score": [
+            0.16666666666666666,
+            0.30434782608695654,
+            0.2153846153846154
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking outside through the window, which has a screen. The window is open, allowing the cat to see the outside environment. The cat's fur is described as shiny and its eyes are green. The scene is set in a room with a white wall and a wooden floor.",
+        "score": [
+            0.0945945945945946,
+            0.30434782608695654,
+            0.14432989690721648
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside the window, which has a white frame and a screen. The window is open, and the cat is enjoying the view of the outside world. The table is made of wood and has a smooth surface. The scene is set in a room with a white wall and a light source, possibly a lamp or natural light from the window.",
+        "score": [
+            0.09876543209876543,
+            0.34782608695652173,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking outside through the window, which has a screen. The window is open, allowing the cat to see the outside environment. The cat's surroundings are not fully visible, but it is clear that it is in a room with a window.",
+        "score": [
+            0.1044776119402985,
+            0.30434782608695654,
+            0.15555555555555559
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the sunlight is creating a warm and cozy atmosphere.",
+        "score": [
+            0.1794871794871795,
+            0.30434782608695654,
+            0.22580645161290322
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a screen. The cat is surrounded by a white wall and a wooden floor.",
+        "score": [
+            0.14634146341463414,
+            0.2608695652173913,
+            0.1875
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a screen. The cat is in a room with white walls and a wooden floor.",
+        "score": [
+            0.14285714285714285,
+            0.2608695652173913,
+            0.1846153846153846
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside through the window, which has a white frame and a white curtain. The window is open, and the cat is enjoying the view of the outside world.",
+        "score": [
+            0.16666666666666666,
+            0.34782608695652173,
+            0.22535211267605634
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside the window, which has a white frame and a screen. The window is open, and the cat is enjoying the view of the outside world.",
+        "score": [
+            0.17391304347826086,
+            0.34782608695652173,
+            0.23188405797101447
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a screen. The cat is surrounded by a white wall and a wooden floor.",
+        "score": [
+            0.14634146341463414,
+            0.2608695652173913,
+            0.1875
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a white frame. The window is open, and there is a plant outside.",
+        "score": [
+            0.175,
+            0.30434782608695654,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is looking to the right, and the image is taken from a slightly elevated angle.",
+        "score": [
+            0.13333333333333333,
+            0.2608695652173913,
+            0.1764705882352941
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is looking to the right, and the image is taken from a slightly low angle.",
+        "score": [
+            0.13333333333333333,
+            0.2608695652173913,
+            0.1764705882352941
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a windowsill, with a blurred background that includes a plant and a window. The cat is looking to the right, and the lighting suggests that it is daytime.",
+        "score": [
+            0.13953488372093023,
+            0.2608695652173913,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its back legs stretched out. The window is open, allowing natural light to enter the room and illuminate the cat. The cat's fur is shiny and reflective, and it appears to be enjoying the sunlight. The background of the image is blurred, focusing attention on the cat.",
+        "score": [
+            0.09876543209876543,
+            0.34782608695652173,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out at a green plant and a window with a white frame. The cat is in a relaxed position, with its front paws resting on the window sill and its back legs stretched out. The plant is positioned to the left of the cat, and the window is to the right.",
+        "score": [
+            0.125,
+            0.34782608695652173,
+            0.1839080459770115
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a screen. The cat is surrounded by a green plant and a white wall.",
+        "score": [
+            0.14634146341463414,
+            0.2608695652173913,
+            0.1875
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside through the window, which has a screen. The window is part of a wall, and the scene is set in a room with a white wall.",
+        "score": [
+            0.14893617021276595,
+            0.30434782608695654,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside the window, which has a white frame and a screen. The window is open, and the cat is enjoying the view of the outside world.",
+        "score": [
+            0.17391304347826086,
+            0.34782608695652173,
+            0.23188405797101447
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside the window, which has a white frame and a screen. The window is open, and the cat is enjoying the view of the outside world. The table is made of wood and has a smooth surface. The scene is set in a room with a white wall and a light source, possibly a lamp or natural light from the window.",
+        "score": [
+            0.09876543209876543,
+            0.34782608695652173,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking out the window, and the window has a white frame. The cat is surrounded by a green background, which is likely a plant or a tree outside the window.",
+        "score": [
+            0.14285714285714285,
+            0.30434782608695654,
+            0.19444444444444445
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden table in front of a window. The cat is looking outside the window, which has a white frame and a greenish tint. The window is open, and the cat is enjoying the view of the outside world. The table is made of wood and has a natural finish. The scene is set in a room with a white wall and a brown floor.",
+        "score": [
+            0.1095890410958904,
+            0.34782608695652173,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a plant. The cat is looking to the right, and the sunlight is creating a shadow on the surface.",
+        "score": [
+            0.15555555555555556,
+            0.30434782608695654,
+            0.2058823529411765
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden surface, possibly a table or a counter, in front of a window. The cat is looking outside through the window, which has a screen. The window is open, allowing the cat to see the outside environment. The cat's fur is described as shiny and reflective, and it is sitting in a relaxed position. The background of the scene is blurred, focusing attention on the cat and its surroundings.",
+        "score": [
+            0.08860759493670886,
+            0.30434782608695654,
+            0.1372549019607843
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a white frame.",
+        "score": [
+            0.18421052631578946,
+            0.30434782608695654,
+            0.22950819672131145
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a room with white walls and a window with a screen.",
+        "score": [
+            0.1891891891891892,
+            0.30434782608695654,
+            0.23333333333333334
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame. The background is slightly blurred, focusing attention on the cat and the plant.",
+        "score": [
+            0.16326530612244897,
+            0.34782608695652173,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame. The background is slightly blurred, indicating that the focus is on the cat and the plant.",
+        "score": [
+            0.15384615384615385,
+            0.34782608695652173,
+            0.21333333333333332
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat sitting on a wooden window sill, looking out the window at a plant with green leaves. The cat is in a relaxed position, and the window has a white frame. The background is slightly blurred, focusing attention on the cat and the plant.",
+        "score": [
+            0.16326530612244897,
+            0.34782608695652173,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is looking to the right, with its ears perked up and its eyes focused on something outside. The window has a white frame and a screen, and the view outside is blurred, indicating that the focus is on the cat. The cat's fur is shiny and appears to be well-groomed, and it is in a relaxed position, with its front paws resting on the wooden surface. The lighting suggests that the scene is taking place during the day, with natural light coming through the window.",
+        "score": [
+            0.08333333333333333,
+            0.391304347826087,
+            0.13740458015267176
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is looking out the window, which has a white frame and a screen. The window is open, allowing natural light to enter the room. The cat's fur is shiny and appears to be well-groomed. The background outside the window is blurred, but it seems to be a green, leafy area, possibly a garden or a park. The cat's ears are perked up, and it has a calm and relaxed demeanor. The scene suggests a peaceful and serene environment, with the cat enjoying the view",
+        "score": [
+            0.06481481481481481,
+            0.30434782608695654,
+            0.10687022900763359
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, looking out the window. The cat has a striped pattern on its fur and is positioned in a relaxed manner, with its front paws resting on the window sill. The window has a white frame and is open, allowing natural light to enter the room. Outside the window, there is a plant with green leaves, which are partially in focus, indicating that the plant is the main subject of the photo. The background is blurred, emphasizing the cat and the plant. The overall setting suggests a calm and serene environment, with the cat enjoying the view outside.",
+        "score": [
+            0.08256880733944955,
+            0.391304347826087,
+            0.13636363636363635
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, looking out the window. The cat is positioned in the center of the image, with its body facing to the right. The cat has a sleek, shiny coat with a mix of gray and white fur, and its eyes are a bright green. The cat's ears are perked up, and it appears to be in a relaxed state, possibly enjoying the view outside.\n\nThe window sill is made of wood and has a natural finish, with a slight reflection of light on its surface. The window itself is framed with white trim, and the glass panes are clear, allowing",
+        "score": [
+            0.07142857142857142,
+            0.34782608695652173,
+            0.11851851851851852
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, gazing out the window. The cat has a sleek, shiny coat with a mix of gray and white fur. Its eyes are a striking green, and it has a long, pointed nose and ears that are perked up, indicating alertness. The cat's tail is visible, and it appears to be relaxed, with its front paws resting on the window sill. The window itself is framed with white trim, and the view outside is slightly blurred, suggesting that the window is open or has a screen. The sunlight streaming through the window casts a warm glow on the",
+        "score": [
+            0.09090909090909091,
+            0.43478260869565216,
+            0.15037593984962408
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in a relaxed manner, with its front legs stretched out and its head turned to the side, looking out the window. The cat's fur appears to be a light gray or silver color, and it has a shiny, reflective coat. The window behind the cat has a white frame and is slightly open, allowing natural light to enter the room. The window is covered with a screen, which is partially visible. The background outside the window is blurred, indicating that the focus is on the cat and its immediate",
+        "score": [
+            0.061946902654867256,
+            0.30434782608695654,
+            0.10294117647058824
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a close-up of a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in the center of the image, with its head turned slightly to the right, looking out the window. The cat's fur is a light gray color, and it has a sleek, shiny coat. The cat's eyes are green, and it has a small, triangular nose and a pink tongue that is slightly visible. The cat's ears are pointed and erect, and its whiskers are long and prominent.\n\nThe wooden surface on which the cat is sitting is a light brown color,",
+        "score": [
+            0.06306306306306306,
+            0.30434782608695654,
+            0.10447761194029849
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a close-up of a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in the center of the image, with its head turned slightly to the right, looking out the window. The cat's fur is a mix of gray and white, and it has a long tail that is partially visible. The cat's eyes are green, and it has a small, pink nose. The window behind the cat has a white frame and a white curtain, which is slightly open, allowing natural light to enter the room. The window is partially covered with a screen, which",
+        "score": [
+            0.0625,
+            0.30434782608695654,
+            0.1037037037037037
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in a relaxed manner, with its front paws resting on the surface and its head turned slightly to the right. The cat's fur appears to be a mix of gray and white, giving it a sleek and shiny appearance. The window behind the cat has a white frame and is covered with a screen, which is slightly blurred, indicating that the photo was taken through the window. The window is open, allowing natural light to enter the room and illuminate the cat. The light creates a warm and cozy atmosphere",
+        "score": [
+            0.07017543859649122,
+            0.34782608695652173,
+            0.11678832116788321
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in a relaxed manner, with its front paws resting on the surface and its head turned slightly to the right. The cat's fur appears to be a mix of gray and white, giving it a sleek and shiny appearance. The window behind the cat has a white frame and a screen, and the view outside is slightly blurred, indicating that the window is open. The sunlight streaming through the window casts a warm glow on the cat, highlighting its fur and creating a cozy atmosphere. The scene is peaceful and",
+        "score": [
+            0.07894736842105263,
+            0.391304347826087,
+            0.13138686131386862
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in a relaxed manner, with its front legs stretched out and its head turned to the side, gazing out the window. The window has a white frame and a screen, and the view outside is blurred, indicating that the window is open. The cat's fur is shiny and appears to be well-groomed, and it has a calm and content expression. The scene is well-lit, suggesting that the photo was taken during the day.",
+        "score": [
+            0.0707070707070707,
+            0.30434782608695654,
+            0.11475409836065574
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill. The cat is positioned in the center of the image, with its body facing to the right. The cat has a sleek, shiny coat and is looking out the window. The window has a white frame and is partially open, allowing natural light to enter the room. The window is located in a room with white walls and a wooden floor. The background is slightly blurred, focusing attention on the cat.",
+        "score": [
+            0.08433734939759036,
+            0.30434782608695654,
+            0.1320754716981132
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden surface, possibly a windowsill, in front of a window. The cat is positioned in a relaxed manner, with its front paws resting on the surface and its head turned slightly to the right. The cat's fur appears to be a mix of gray and white, with a shiny, reflective quality, giving it a silver appearance. The cat's eyes are open and alert, and it seems to be looking out the window.\n\nThe window behind the cat has a white frame and a screen, and the view outside is slightly blurred, indicating that the window is open. The window is letting",
+        "score": [
+            0.08035714285714286,
+            0.391304347826087,
+            0.13333333333333336
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat sitting on a wooden window sill, looking out the window. The cat is positioned in the center of the image, with its head turned slightly to the right, gazing out the window. The cat's fur is a mix of gray and white, with a distinctive pattern of stripes and spots. Its eyes are green, and it has a long, slender body with a pointed nose and whiskers.\n\nThe window sill is made of wood and has a light brown color. The window itself is framed with white trim, and the glass panes are clear, allowing a view of the outside. The window is open",
+        "score": [
+            0.08108108108108109,
+            0.391304347826087,
+            0.13432835820895525
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The image depicts a silver cat lying on a wooden window sill, basking in the sunlight. The cat is positioned in the foreground, with its body stretching out and its head turned to the right, gazing out the window. The sunlight creates a warm and cozy atmosphere, casting a gentle glow on the cat's fur. The window has a white frame, and the view outside is slightly blurred, indicating that the focus is on the cat. The cat's fur is a mix of gray and white, with distinct stripes and patches, giving it a unique and striking appearance. The window sill is made of wood, and it appears to be",
+        "score": [
+            0.07142857142857142,
+            0.34782608695652173,
+            0.11851851851851852
+        ]
+    }
+}

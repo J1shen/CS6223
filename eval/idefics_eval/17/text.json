@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "The fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.8823529411764706,
+            0.967741935483871,
+            0.923076923076923
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "The fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.967741935483871,
+            0.967741935483871,
+            0.967741935483871
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.9117647058823529,
+            1.0,
+            0.9538461538461539
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8125,
+            0.8387096774193549,
+            0.8253968253968254
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny coat and a wagging tail. It is bounding through a field of vibrant wildflowers, enjoying the warm sunshine and the fresh air. The dog's tail is slicing through the air like a banner of pure happiness, and it is clear that it is having a wonderful time.",
+        "score": [
+            0.3709677419354839,
+            0.7419354838709677,
+            0.49462365591397855
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny coat and a wagging tail. It is bounding through a field of vibrant wildflowers, enjoying the warm sunshine and the fresh air. The dog's tail is slicing through the air, and it seems to be having a great time exploring its surroundings.",
+        "score": [
+            0.3157894736842105,
+            0.5806451612903226,
+            0.4090909090909091
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm sunshine and the fresh air.",
+        "score": [
+            0.40816326530612246,
+            0.6451612903225806,
+            0.5000000000000001
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its tail is wagging, and it is slicing through the air like a banner of pure happiness.",
+        "score": [
+            0.6944444444444444,
+            0.8064516129032258,
+            0.746268656716418
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.9117647058823529,
+            1.0,
+            0.9538461538461539
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with a wagging tail and a playful demeanor. It is interacting with its surroundings in a happy and carefree way, enjoying the sunny weather and the fresh air.",
+        "score": [
+            0.28205128205128205,
+            0.3548387096774194,
+            0.3142857142857143
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with a wagging tail and a playful demeanor. It is interacting with its surroundings in a carefree and energetic way, enjoying the sunny weather and the freedom to run and play.",
+        "score": [
+            0.23809523809523808,
+            0.3225806451612903,
+            0.273972602739726
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "The fluffy golden retriever is bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.9666666666666667,
+            0.9354838709677419,
+            0.9508196721311476
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny coat and a wagging tail, as it plays and interacts with its surroundings on a sunny afternoon.",
+        "score": [
+            0.3225806451612903,
+            0.3225806451612903,
+            0.3225806451612903
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8125,
+            0.8387096774193549,
+            0.8253968253968254
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8125,
+            0.8387096774193549,
+            0.8253968253968254
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.9117647058823529,
+            1.0,
+            0.9538461538461539
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and slicing through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun.",
+        "score": [
+            0.5121951219512195,
+            0.6774193548387096,
+            0.5833333333333334
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny coat and a wagging tail, as it plays and interacts with its surroundings on a sunny afternoon.",
+        "score": [
+            0.3225806451612903,
+            0.3225806451612903,
+            0.3225806451612903
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny weather.",
+        "score": [
+            0.23684210526315788,
+            0.2903225806451613,
+            0.2608695652173913
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun and the freedom of the open space.",
+        "score": [
+            0.41509433962264153,
+            0.7096774193548387,
+            0.5238095238095237
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is likely running and playing in a field of vibrant wildflowers on a warm and sunny afternoon.",
+        "score": [
+            0.325,
+            0.41935483870967744,
+            0.36619718309859156
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm sunlight and the fresh air.",
+        "score": [
+            0.40816326530612246,
+            0.6451612903225806,
+            0.5000000000000001
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is running and playing in a field of vibrant wildflowers, enjoying the warm sunshine and the fresh air.",
+        "score": [
+            0.2926829268292683,
+            0.3870967741935484,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.9117647058823529,
+            1.0,
+            0.9538461538461539
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun and the freedom to run and play.",
+        "score": [
+            0.41509433962264153,
+            0.7096774193548387,
+            0.5238095238095237
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun and the freedom of being outside.",
+        "score": [
+            0.4230769230769231,
+            0.7096774193548387,
+            0.5301204819277108
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with its tail wagging happily as it plays and interacts with its surroundings on a sunny afternoon.",
+        "score": [
+            0.32142857142857145,
+            0.2903225806451613,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm sunshine and the fresh air.",
+        "score": [
+            0.40816326530612246,
+            0.6451612903225806,
+            0.5000000000000001
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is likely to be running and playing in the field of vibrant wildflowers, enjoying the warm sunshine and the fresh air. The dog's fur is fluffy and golden, and it is likely to be barking and jumping around, full of excitement and energy.",
+        "score": [
+            0.208955223880597,
+            0.45161290322580644,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with its tail wagging happily as it plays and interacts with its surroundings on a sunny afternoon.",
+        "score": [
+            0.32142857142857145,
+            0.2903225806451613,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with its tail wagging happily as it runs through a field of vibrant wildflowers on a warm and sunny afternoon. The dog's fur is golden and fluffy, and it seems to be enjoying the freedom and excitement of being in the great outdoors.",
+        "score": [
+            0.2545454545454545,
+            0.45161290322580644,
+            0.32558139534883723
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with its tail wagging happily as it runs through a field of vibrant wildflowers on a warm and sunny afternoon.",
+        "score": [
+            0.45161290322580644,
+            0.45161290322580644,
+            0.45161290322580644
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny afternoon.",
+        "score": [
+            0.2631578947368421,
+            0.3225806451612903,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny afternoon.",
+        "score": [
+            0.2631578947368421,
+            0.3225806451612903,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny weather.",
+        "score": [
+            0.23684210526315788,
+            0.2903225806451613,
+            0.2608695652173913
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is likely to be running or jumping around, enjoying the sunny weather and the freedom to play and explore its surroundings. The dog's fur is likely to be fluffy and well-groomed, and it may be wearing a collar or harness. The dog's body language and behavior suggest that it is happy and content, and it is likely to be interacting with other animals or people in a friendly and playful manner.",
+        "score": [
+            0.12371134020618557,
+            0.3870967741935484,
+            0.1875
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with its tail wagging happily as it plays and interacts with its surroundings on a sunny afternoon.",
+        "score": [
+            0.32142857142857145,
+            0.2903225806451613,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun and the freedom of being in its natural environment.",
+        "score": [
+            0.4,
+            0.7096774193548387,
+            0.5116279069767441
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the warm sunshine and the fresh air.",
+        "score": [
+            0.23809523809523808,
+            0.3225806451612903,
+            0.273972602739726
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny afternoon.",
+        "score": [
+            0.2631578947368421,
+            0.3225806451612903,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny weather and the fresh air.",
+        "score": [
+            0.21428571428571427,
+            0.2903225806451613,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog as it barks and wags its tail while playing in the sun.",
+        "score": [
+            0.391304347826087,
+            0.2903225806451613,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun and the freedom of being outdoors.",
+        "score": [
+            0.4230769230769231,
+            0.7096774193548387,
+            0.5301204819277108
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny weather and the fresh air.",
+        "score": [
+            0.21428571428571427,
+            0.2903225806451613,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is likely running or playing in a field of vibrant wildflowers, enjoying the warm sunshine and the freedom of being outdoors.",
+        "score": [
+            0.29545454545454547,
+            0.41935483870967744,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is likely running or playing in a field of vibrant wildflowers, enjoying the warm sunshine and the freedom of being outdoors.",
+        "score": [
+            0.29545454545454547,
+            0.41935483870967744,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking shiny and well-groomed. It is running and playing in a field of vibrant wildflowers, enjoying the warm sunshine and the fresh air.",
+        "score": [
+            0.2857142857142857,
+            0.3870967741935484,
+            0.3287671232876712
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is interacting with its surroundings in a playful and carefree manner, enjoying the warm sunshine and the vibrant wildflowers around it.",
+        "score": [
+            0.2727272727272727,
+            0.3870967741935484,
+            0.32
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.7586206896551724,
+            0.7096774193548387,
+            0.7333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny weather and the fresh air.",
+        "score": [
+            0.21428571428571427,
+            0.2903225806451613,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail. It is running and playing in a field of vibrant wildflowers on a warm and sunny afternoon. The dog's tail is slicing through the air like a banner of pure happiness.",
+        "score": [
+            0.40384615384615385,
+            0.6774193548387096,
+            0.5060240963855421
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny afternoon.",
+        "score": [
+            0.2631578947368421,
+            0.3225806451612903,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and slicing through the air like a banner of pure happiness. The dog is surrounded by vibrant wildflowers, and the warm afternoon sun is shining brightly, creating a beautiful and lively scene.",
+        "score": [
+            0.44680851063829785,
+            0.6774193548387096,
+            0.5384615384615384
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with its tail wagging and its fur looking soft and fluffy. It is interacting with its surroundings in a playful and energetic way, enjoying the sunny afternoon.",
+        "score": [
+            0.2631578947368421,
+            0.3225806451612903,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with its tail wagging happily as it plays and interacts with its surroundings on a sunny afternoon.",
+        "score": [
+            0.32142857142857145,
+            0.2903225806451613,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like it is joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.8857142857142857,
+            1.0,
+            0.9393939393939393
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a wagging tail and a happy expression on its face. It is interacting with its surroundings in a playful and carefree manner, enjoying the sunny weather and the freedom to run and play.",
+        "score": [
+            0.24444444444444444,
+            0.3548387096774194,
+            0.2894736842105263
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "The fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.967741935483871,
+            0.967741935483871,
+            0.967741935483871
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8125,
+            0.8387096774193549,
+            0.8253968253968254
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its tail is wagging, slicing through the air like a banner of pure happiness.",
+        "score": [
+            0.7575757575757576,
+            0.8064516129032258,
+            0.7812499999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8125,
+            0.8387096774193549,
+            0.8253968253968254
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8666666666666667,
+            0.8387096774193549,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers on a warm afternoon. Its wagging tail slices through the air like a banner of pure happiness.",
+        "score": [
+            0.8125,
+            0.8387096774193549,
+            0.8253968253968254
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm sunshine and the freedom of the open space.",
+        "score": [
+            0.38461538461538464,
+            0.6451612903225806,
+            0.4819277108433735
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with a wagging tail and a playful demeanor. It is barking and running around in a field of vibrant wildflowers, enjoying the warm sunshine and the beautiful scenery.",
+        "score": [
+            0.3076923076923077,
+            0.3870967741935484,
+            0.34285714285714286
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and energetic dog, with a shiny, golden coat and a wagging tail that slices through the air like a banner of pure happiness. The dog is bounding through a field of vibrant wildflowers, enjoying the warm afternoon sun and the freedom of the open space.",
+        "score": [
+            0.41509433962264153,
+            0.7096774193548387,
+            0.5238095238095237
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever is described as joyfully bounding through a field of vibrant wildflowers, with its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.9117647058823529,
+            1.0,
+            0.9538461538461539
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "A fluffy golden retriever looks like a joyful and happy dog, with a wagging tail and a playful demeanor. It is interacting with its surroundings in a happy and carefree way, enjoying the sunny weather and the freedom to run and play.",
+        "score": [
+            0.2619047619047619,
+            0.3548387096774194,
+            0.3013698630136986
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "prediction": "The fluffy golden retriever is joyfully bounding through a field of vibrant wildflowers, its wagging tail slicing through the air like a banner of pure happiness under the warm afternoon sun.",
+        "score": [
+            0.967741935483871,
+            0.967741935483871,
+            0.967741935483871
+        ]
+    }
+}

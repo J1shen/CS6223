@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "Stares.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "Stares.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "Stares.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "Stares.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out the window.",
+        "score": [
+            0.7647058823529411,
+            0.40625,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out the window.",
+        "score": [
+            0.7647058823529411,
+            0.40625,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out the window.",
+        "score": [
+            0.7647058823529411,
+            0.40625,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the butterflies.",
+        "score": [
+            0.7777777777777778,
+            0.4375,
+            0.56
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the butterflies.",
+        "score": [
+            0.7777777777777778,
+            0.4375,
+            0.56
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the butterflies.",
+        "score": [
+            0.7777777777777778,
+            0.4375,
+            0.56
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking outside.",
+        "score": [
+            0.8,
+            0.375,
+            0.5106382978723405
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the view.",
+        "score": [
+            0.7222222222222222,
+            0.40625,
+            0.52
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out at the butterflies.",
+        "score": [
+            0.7777777777777778,
+            0.4375,
+            0.56
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill, looking outside.",
+        "score": [
+            0.7333333333333333,
+            0.34375,
+            0.4680851063829787
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is perched on the sunlit windowsill, looking out the window.",
+        "score": [
+            0.7647058823529411,
+            0.40625,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver cat with emerald green eyes is perched gracefully on the sunlit windowsill, its sleek fur glistening like polished metal as it watches the fluttering butterflies dance in the garden below.",
+        "prediction": "The silver cat with emerald green eyes is sitting on the sunlit windowsill and looking outside.",
+        "score": [
+            0.6875,
+            0.34375,
+            0.4583333333333333
+        ]
+    }
+}

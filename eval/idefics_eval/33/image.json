@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a serene lake with trees and a clear sky. The dog appears to be enjoying the water, and the setting sun creates a beautiful and peaceful atmosphere.",
+        "score": [
+            0.19607843137254902,
+            0.3448275862068966,
+            0.25
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a serene lake with trees and a clear sky. The dog appears to be enjoying the water, and the setting sun casts a warm glow over the entire scene.",
+        "score": [
+            0.18867924528301888,
+            0.3448275862068966,
+            0.2439024390243903
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a serene lake with trees and a clear sky. The dog appears to be enjoying the water, and the setting sun casts a warm, golden light over the entire scene.",
+        "score": [
+            0.18518518518518517,
+            0.3448275862068966,
+            0.24096385542168677
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is running through the water, creating a splash, and is captured in a moment of joy and activity. The setting sun casts a warm, golden light over the scene, creating a serene and picturesque backdrop. The dog's fur is wet and slightly ruffled, and its ears are flapping in the wind. The water around the dog is calm, with small ripples and splashes indicating the dog's movement. The sky is clear, with the sun low on the horizon, and the trees and landscape in the background are softly illuminated by the",
+        "score": [
+            0.11009174311926606,
+            0.41379310344827586,
+            0.17391304347826092
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is running through the water, creating a splash, and is captured in a moment of joy and activity. The setting sun casts a warm, golden light over the scene, creating a serene and picturesque atmosphere. The dog's fur is wet and ruffled, and its tongue is hanging out, indicating that it is having a great time. The water is calm and reflects the colors of the sky, adding to the peaceful and idyllic feel of the image.",
+        "score": [
+            0.11702127659574468,
+            0.3793103448275862,
+            0.17886178861788618
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is running through the water, creating a splash, and appears to be enjoying itself. The setting sun is casting a warm, golden light over the scene, creating a serene and picturesque atmosphere. The dog's fur is glistening with water droplets, and its ears are flapping in the wind. The background features a calm lake or river, with trees and possibly a distant shore. The overall mood of the image is one of joy and freedom, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.11650485436893204,
+            0.41379310344827586,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the image, a golden retriever is captured in a serene and picturesque setting at sunset. The dog is in the water, with its front legs partially submerged and its body slightly tilted forward, as if it is either about to jump or is in the middle of a playful splash. The dog's fur is light brown, and it has a friendly and energetic expression on its face, with its mouth open and tongue out, suggesting it is either barking or panting happily. The dog's ears are perked up, and its eyes are wide open, giving it a lively and alert appearance.\n\nThe background of the image features a tranquil",
+        "score": [
+            0.09821428571428571,
+            0.3793103448275862,
+            0.15602836879432624
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the image, a golden retriever is captured in a picturesque setting at sunset. The dog is in the water, with its front legs partially submerged and its back legs still on the shore. The dog appears to be enjoying itself, as indicated by its open mouth and happy expression. The water around the dog is slightly splashing, creating small waves and droplets. The background features a serene lake or river, with the sun setting behind the dog, casting a warm, golden light over the scene. The sky is clear, with a few clouds scattered, and the sun's rays are visible, creating a beautiful and tranquil atmosphere. The",
+        "score": [
+            0.11926605504587157,
+            0.4482758620689655,
+            0.1884057971014493
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the image, a golden retriever is captured in a serene and picturesque setting at sunset. The dog is in the water, with its front legs partially submerged and its body slightly tilted forward, as if it is either running or jumping into the water. The dog has a joyful expression, with its mouth open and ears perked up, suggesting it is either excited or happy. The fur of the dog is light brown, and it appears to be well-groomed.\n\nThe background of the image features a tranquil lake or river, with gentle ripples on the water's surface. The sun is setting, casting a warm, golden light",
+        "score": [
+            0.10091743119266056,
+            0.3793103448275862,
+            0.15942028985507248
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the image, a golden retriever is captured in a serene and picturesque setting at sunset. The dog is positioned in the water, with its front legs partially submerged and its body slightly tilted forward, as if it is either running or jumping into the water. The dog's fur is light brown, and it has a friendly and energetic expression, with its mouth open and tongue out, suggesting it is either barking or panting happily. The water around the dog creates a splash, with droplets of water flying up and around it, adding a dynamic and lively element to the scene.\n\nThe background of the image features a tranquil lake or",
+        "score": [
+            0.09821428571428571,
+            0.3793103448275862,
+            0.15602836879432624
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is enjoying the moment, and the setting sun creates a beautiful and picturesque view. The water splashes around the dog, and the sky is painted with warm colors of orange and yellow. The dog's fur is glistening with water droplets, and its tail is wagging happily. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.1566265060240964,
+            0.4482758620689655,
+            0.23214285714285718
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is enjoying the moment, and the setting sun creates a beautiful and picturesque view. The dog's fur is glistening with water droplets, and the sun's reflection can be seen on the water. The sky is painted with warm colors, and the trees in the background add to the serene and peaceful atmosphere. The dog's joyful expression and the tranquil setting make the scene a heartwarming and memorable moment.",
+        "score": [
+            0.13793103448275862,
+            0.41379310344827586,
+            0.20689655172413793
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the image, there is a golden retriever dog in the water, with a sunset in the background. The dog is in the foreground, and the sunset is in the background.",
+        "score": [
+            0.3870967741935484,
+            0.41379310344827586,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, creating a joyful and lively atmosphere. The setting sun and the calm water create a serene and picturesque backdrop for the dog's playful activity.",
+        "score": [
+            0.22448979591836735,
+            0.3793103448275862,
+            0.282051282051282
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a lake, trees, and a sunset sky. The dog is likely enjoying the water and the beautiful scenery.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a picturesque and serene atmosphere. The dog appears to be enjoying its time in the water, and the setting sun adds a warm and peaceful ambiance to the image.",
+        "score": [
+            0.20689655172413793,
+            0.41379310344827586,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a beautiful and serene atmosphere. The dog appears to be enjoying its time in the water, and the setting sun adds a warm and peaceful ambiance to the image.",
+        "score": [
+            0.20689655172413793,
+            0.41379310344827586,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is enjoying the moment and seems to be having a great time. The setting is picturesque, with the sun setting and the sky turning orange and yellow. The water is calm, and the dog is splashing around, creating small waves. The overall atmosphere is peaceful and serene, with the dog's joyful expression adding to the beauty of the scene.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a lake, trees, and a sunset sky. The dog is likely enjoying the water and the beautiful scenery.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and peaceful atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and peaceful atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and peaceful atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a lake, trees, and a sunset sky. The dog is likely enjoying the water and the beautiful scenery.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a serene lake with trees and a clear sky. The dog appears to be enjoying the moment, and the setting sun adds a warm and peaceful atmosphere to the image.",
+        "score": [
+            0.18518518518518517,
+            0.3448275862068966,
+            0.24096385542168677
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is surrounded by a beautiful and serene environment, with the sun setting in the background, creating a picturesque and peaceful atmosphere. The dog appears to be enjoying its time in the water, and the setting sun adds a warm and cozy ambiance to the scene.",
+        "score": [
+            0.19672131147540983,
+            0.41379310344827586,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is enjoying the moment and seems to be having a great time. The setting is picturesque, with the sun setting and creating a beautiful view. The dog's joy and the serene environment make the scene a lovely and peaceful one.",
+        "score": [
+            0.19298245614035087,
+            0.3793103448275862,
+            0.25581395348837205
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, creating a joyful and lively atmosphere. The setting sun and the calm water create a serene and picturesque background, making the moment even more beautiful and memorable.",
+        "score": [
+            0.21568627450980393,
+            0.3793103448275862,
+            0.275
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a picturesque and serene atmosphere. The dog appears to be enjoying its time in the water, and the setting sun adds a warm and peaceful ambiance to the scene.",
+        "score": [
+            0.20689655172413793,
+            0.41379310344827586,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is splashing around it. The sky is a beautiful orange color, and the sun is setting. The dog is enjoying the moment, and the scene is full of joy and happiness.",
+        "score": [
+            0.21818181818181817,
+            0.41379310344827586,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light of the sun. The dog's fur is glistening, and the sun's rays are reflecting off the water, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.1864406779661017,
+            0.3793103448275862,
+            0.24999999999999994
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light of the sun. The dog's fur is glistening with water droplets, and the sun's rays are casting a warm glow over the entire scene. The setting sun is creating a peaceful and serene atmosphere, and the dog's joyful expression adds to the overall sense of happiness and contentment.",
+        "score": [
+            0.15294117647058825,
+            0.4482758620689655,
+            0.22807017543859653
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, sparkling effect. The sun is setting, casting a warm, golden light over the scene, and the dog is enjoying the moment.",
+        "score": [
+            0.22448979591836735,
+            0.3793103448275862,
+            0.282051282051282
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is splashing around it. The sun is setting, creating a beautiful and peaceful atmosphere. The dog is enjoying the moment, and the setting sun adds to the serene and picturesque scene.",
+        "score": [
+            0.2,
+            0.3793103448275862,
+            0.26190476190476186
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, sparkling effect. The sun is setting, casting a warm, golden light over the scene, and the dog is enjoying the moment.",
+        "score": [
+            0.22448979591836735,
+            0.3793103448275862,
+            0.282051282051282
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a lake, trees, and a sunset sky. The dog is likely enjoying the water and the beautiful scenery.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is enjoying the moment, and the setting sun creates a beautiful and picturesque view.",
+        "score": [
+            0.3,
+            0.3103448275862069,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The dog's fur is glistening, and the sun's rays are reflecting off the water, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.19642857142857142,
+            0.3793103448275862,
+            0.2588235294117647
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light of the sun. The dog's fur is glistening, and the sun's rays are reflecting off its coat, creating a stunning visual. The overall atmosphere is one of joy and tranquility, with the dog's playful antics and the serene natural setting combining to create a picturesque moment.",
+        "score": [
+            0.14457831325301204,
+            0.41379310344827586,
+            0.21428571428571427
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The setting sun is casting a warm glow over the scene, making it look like a peaceful and idyllic moment.",
+        "score": [
+            0.2037037037037037,
+            0.3793103448275862,
+            0.2650602409638554
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The setting sun is casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, as the dog enjoys its time in the water.",
+        "score": [
+            0.1643835616438356,
+            0.41379310344827586,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The dog's fur is glistening, and the sun's rays are casting a warm glow over the entire scene. The background features a serene landscape with trees and a clear sky, adding to the peaceful and idyllic atmosphere.",
+        "score": [
+            0.1643835616438356,
+            0.41379310344827586,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, sparkling effect. The sun is setting, casting a warm, golden light over the scene, and the dog is enjoying the moment.",
+        "score": [
+            0.22448979591836735,
+            0.3793103448275862,
+            0.282051282051282
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating small splashes around it. The sun is setting in the background, casting a warm glow over the scene. The dog is the main focus of the image, and it appears to be enjoying its time in the water.",
+        "score": [
+            0.1875,
+            0.41379310344827586,
+            0.2580645161290323
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The dog's fur is glistening, and the sun's rays are reflecting off its coat, creating a stunning visual. The setting sun casts a warm glow over the entire scene, making it even more picturesque.",
+        "score": [
+            0.15714285714285714,
+            0.3793103448275862,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the sunlight. The sky is painted with warm colors, and the overall atmosphere is peaceful and serene.",
+        "score": [
+            0.22916666666666666,
+            0.3793103448275862,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The setting sun is casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, as the dog enjoys its time in the water.",
+        "score": [
+            0.1643835616438356,
+            0.41379310344827586,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is splashing around it. The sun is setting, creating a beautiful and picturesque scene.",
+        "score": [
+            0.2631578947368421,
+            0.3448275862068966,
+            0.2985074626865672
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is surrounded by a beautiful and serene environment, with the sun setting in the background and trees and a clear sky visible. The dog appears to be enjoying its time in the water, and the overall atmosphere of the scene is peaceful and idyllic.",
+        "score": [
+            0.23333333333333334,
+            0.4827586206896552,
+            0.31460674157303375
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect. The sky is painted with warm colors, and the sun is setting, casting a golden glow over the entire scene. The dog's fur is glistening with water droplets, and its tail is wagging happily as it enjoys the moment. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.13333333333333333,
+            0.41379310344827586,
+            0.20168067226890754
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating small splashes around it. The sun is setting in the background, casting a warm glow over the scene. The dog is enjoying the moment, and the setting sun adds to the peaceful and serene atmosphere of the image.",
+        "score": [
+            0.171875,
+            0.3793103448275862,
+            0.23655913978494625
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect. The sky is painted with warm colors, and the sun is setting, casting a golden glow over the entire scene. The dog's fur is glistening with water droplets, and its tail is wagging happily. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.1411764705882353,
+            0.41379310344827586,
+            0.21052631578947367
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3235294117647059,
+            0.3793103448275862,
+            0.3492063492063492
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is enjoying the moment and seems to be having a great time. The sun is setting, creating a beautiful and picturesque setting.",
+        "score": [
+            0.2631578947368421,
+            0.3448275862068966,
+            0.2985074626865672
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the sun is setting in the background, creating a picturesque and peaceful atmosphere.",
+        "score": [
+            0.3142857142857143,
+            0.3793103448275862,
+            0.34375
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The dog's fur is glistening, and the sun's rays are reflecting off its coat, creating a stunning visual. The overall atmosphere is one of joy and tranquility, with the dog enjoying its time in the water and the sun setting in the background.",
+        "score": [
+            0.1518987341772152,
+            0.41379310344827586,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the sun is setting in the background, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3142857142857143,
+            0.3793103448275862,
+            0.34375
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the entire scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sky is painted with warm colors, and the sun is setting, casting a golden glow over the entire scene. The dog's fur is glistening with water droplets, and its tail is wagging happily as it enjoys the moment. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.13829787234042554,
+            0.4482758620689655,
+            0.2113821138211382
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sky is painted with warm colors, and the sun is setting, casting a golden glow over the entire scene. The dog's fur is glistening with water droplets, and its tail is wagging happily as it enjoys the moment. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.13829787234042554,
+            0.4482758620689655,
+            0.2113821138211382
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun, and the water is creating a beautiful, shimmering effect in the fading light. The sun is setting, casting a warm glow over the scene, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and tranquility, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a picturesque and serene atmosphere.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, with the sun setting in the background. The sky is painted with warm colors, and the dog's fur is glistening with water droplets. The overall atmosphere is one of joy and relaxation, capturing a moment of pure happiness and connection between the dog and its environment.",
+        "score": [
+            0.19718309859154928,
+            0.4827586206896552,
+            0.27999999999999997
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a beautiful sunset with a clear sky, trees, and a body of water. The dog appears to be enjoying the moment, and the setting sun adds a serene and peaceful atmosphere to the image.",
+        "score": [
+            0.1896551724137931,
+            0.3793103448275862,
+            0.25287356321839083
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a beautiful sunset with a clear sky, trees, and a body of water. The dog appears to be enjoying the moment, and the setting sun adds a serene and peaceful atmosphere to the image.",
+        "score": [
+            0.1896551724137931,
+            0.3793103448275862,
+            0.25287356321839083
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a lake, trees, and a sunset sky. The dog is likely enjoying the water and the beautiful scenery.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a beautiful and serene atmosphere. The dog appears to be enjoying its time in the water, and the setting sun adds a warm and peaceful ambiance to the image.",
+        "score": [
+            0.20689655172413793,
+            0.41379310344827586,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a beautiful and serene atmosphere. The dog appears to be enjoying the water and the moment, and the setting sun adds a warm and peaceful ambiance to the image.",
+        "score": [
+            0.1896551724137931,
+            0.3793103448275862,
+            0.25287356321839083
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a lake, trees, and a sunset sky. The dog is likely enjoying the water and the beautiful scenery.",
+        "score": [
+            0.23809523809523808,
+            0.3448275862068966,
+            0.2816901408450704
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is in the water, with the sun setting in the background. The dog is likely enjoying the water and the beautiful sunset.",
+        "score": [
+            0.3448275862068966,
+            0.3448275862068966,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is in the water, with the sun setting in the background. The dog is likely enjoying the water and the beautiful sunset.",
+        "score": [
+            0.3448275862068966,
+            0.3448275862068966,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is running into the water, creating a splash. The dog is in the foreground, and the background features a beautiful sunset with the sun setting over a lake. The sky is painted with warm colors, and the water reflects the sky's hues. The dog's fur is wet, and it appears to be enjoying the moment. The overall atmosphere is serene and peaceful, capturing the joy and freedom of the dog in its natural environment.",
+        "score": [
+            0.18072289156626506,
+            0.5172413793103449,
+            0.26785714285714285
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The image depicts a golden retriever in a picturesque setting at sunset. The dog is in the water, with its front legs outstretched and its mouth open, as if it is about to jump out of the water. The dog is brown and has a fluffy coat. The water is calm, with small ripples and a few droplets of water visible on the dog's fur. In the background, there is a sunset with a clear sky, and the sun is setting, casting a warm glow over the scene. The sky is a mix of orange, yellow, and pink hues. The overall mood of the image is serene and",
+        "score": [
+            0.1651376146788991,
+            0.6206896551724138,
+            0.26086956521739135
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is splashing and having fun in the water, and the sun is setting in the background, creating a beautiful and picturesque setting.",
+        "score": [
+            0.3157894736842105,
+            0.41379310344827586,
+            0.3582089552238805
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The image depicts a golden retriever in a picturesque setting at sunset. The dog is in the water, with its front legs partially submerged and its head and body above the waterline. The dog appears to be enjoying the moment, as it is smiling and has its mouth open. The water around the dog is splashing, indicating movement and activity. The background features a serene landscape with trees and a clear sky, suggesting a peaceful and calm environment. The sun is setting, casting a warm glow over the scene, adding to the serene and picturesque atmosphere.",
+        "score": [
+            0.125,
+            0.41379310344827586,
+            0.19200000000000003
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the image, a golden retriever is in the water, with its mouth open and a joyful expression on its face. The dog is surrounded by water splashes and ripples. The background features a beautiful sunset with a clear sky, trees, and a body of water, possibly a lake or a river. The scene is serene and picturesque, capturing the beauty of nature and the joy of the dog.",
+        "score": [
+            0.18840579710144928,
+            0.4482758620689655,
+            0.2653061224489796
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a beautiful sunset with a clear sky, trees, and a body of water. The dog appears to be enjoying the moment, and the setting sun adds a serene and peaceful atmosphere to the image.",
+        "score": [
+            0.1896551724137931,
+            0.3793103448275862,
+            0.25287356321839083
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the background features a beautiful sunset with a clear sky, trees, and a body of water. The dog appears to be enjoying the moment, and the setting sun adds a serene and peaceful atmosphere to the image.",
+        "score": [
+            0.1896551724137931,
+            0.3793103448275862,
+            0.25287356321839083
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a picturesque and serene atmosphere. The dog appears to be enjoying the water, and the setting sun adds a warm and peaceful ambiance to the image.",
+        "score": [
+            0.2,
+            0.3793103448275862,
+            0.26190476190476186
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is in the foreground, and the sun is setting in the background, creating a beautiful and serene atmosphere. The dog appears to be enjoying the water and the moment, and the setting sun adds a warm and peaceful ambiance to the image.",
+        "score": [
+            0.1896551724137931,
+            0.3793103448275862,
+            0.25287356321839083
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in the water at sunset. The dog is running towards the camera, creating a splash in the water. The dog is brown and has a happy expression on its face. The sun is setting, casting a warm glow over the scene. The sky is a mix of orange and yellow, with some clouds visible. The water is calm, with small ripples around the dog. The background shows a blurred view of trees and the sky.",
+        "score": [
+            0.17857142857142858,
+            0.5172413793103449,
+            0.26548672566371684
+        ]
+    }
+}

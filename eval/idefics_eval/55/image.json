@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is attached to a plant. The background of the image is blurred, but it appears to be a natural setting with plants and possibly flowers.",
+        "score": [
+            0.20833333333333334,
+            0.4,
+            0.273972602739726
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants.",
+        "score": [
+            0.3103448275862069,
+            0.36,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants.",
+        "score": [
+            0.3103448275862069,
+            0.36,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants.",
+        "score": [
+            0.3103448275862069,
+            0.36,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants.",
+        "score": [
+            0.3103448275862069,
+            0.36,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants.",
+        "score": [
+            0.3103448275862069,
+            0.36,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the image, there is a spider in the center of its web, which is located in a sunlit garden. The spider is positioned in the middle of the web, which is intricately connected by fine, white threads. The web is suspended between two plants, and the sunlight is casting a warm glow on the scene, highlighting the delicate structure of the web and the spider's body. The plants in the background are green and lush, with some flowers visible, adding a touch of color to the image. The overall composition of the image captures the serene and natural beauty of the garden, with the spider and its web being the focal",
+        "score": [
+            0.10619469026548672,
+            0.48,
+            0.1739130434782609
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the image, there is a spider in the center of its web, which is located in the corner of a sunlit garden. The spider is positioned on the web, which is intricately designed with radial threads extending from the center. The web appears to be well-maintained, with the spider's presence indicating that it is likely an active and thriving web. The garden setting is characterized by green foliage and plants, which provide a natural backdrop to the web. The sunlight casts a warm glow on the scene, highlighting the details of the spider and its web. The overall composition of the image suggests a serene and peaceful environment, with",
+        "score": [
+            0.13392857142857142,
+            0.6,
+            0.218978102189781
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the image, there is a spider in the center of its web. The spider is positioned in the middle of the web, which is attached to a plant. The web is intricately designed with multiple radial lines converging towards the center, where the spider is located. The spider's body is visible, and it appears to be stationary, possibly resting or waiting for prey. The web is illuminated by sunlight, which creates a bright and well-lit scene. The background of the image is blurred, focusing attention on the spider and its web.",
+        "score": [
+            0.10638297872340426,
+            0.4,
+            0.16806722689075632
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the image, there is a spider in the center of its web, which is attached to a plant. The background of the image is blurred, but it appears to be a garden with plants and flowers. The sun is shining brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.20833333333333334,
+            0.4,
+            0.273972602739726
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web with a spider in the center. The spider is positioned in the middle of the web, and the web is surrounded by green plants and flowers. The sunlight is creating a warm and inviting atmosphere in the garden.",
+        "score": [
+            0.2,
+            0.4,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web with a spider in the center. The spider is positioned in the middle of the web, and the web is surrounded by green plants and flowers. The sunlight is creating a warm and inviting atmosphere in the garden.",
+        "score": [
+            0.2,
+            0.4,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web with a spider in the center. The spider is positioned in the middle of the web, and the sunlight is creating a beautiful and serene atmosphere around it.",
+        "score": [
+            0.225,
+            0.36,
+            0.27692307692307694
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants. The sunlight is creating a warm and inviting atmosphere in the garden.",
+        "score": [
+            0.24390243902439024,
+            0.4,
+            0.30303030303030304
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants. The sun is shining brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.225,
+            0.36,
+            0.27692307692307694
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web with a spider in the center. The spider is positioned in the middle of the web, which is made up of fine, white threads. The web is intricately designed, with a complex pattern of lines and intersections. The spider is a brownish-black color with a distinctive white marking on its back. It is actively moving around the web, possibly hunting for prey or repairing the web. The garden is filled with green plants and flowers, and the sunlight is creating a warm and inviting atmosphere.",
+        "score": [
+            0.11224489795918367,
+            0.44,
+            0.1788617886178862
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate patterns. The web is illuminated by the sunlight, creating a beautiful and serene scene.",
+        "score": [
+            0.2,
+            0.36,
+            0.2571428571428571
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is attached to a plant. The spider is brown and black in color, and it is surrounded by the intricate and delicate web. The sunlight is shining through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1694915254237288,
+            0.4,
+            0.23809523809523808
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is made up of fine, white threads. The spider is brown and black in color, and it is surrounded by the intricate web. The sun is shining brightly, casting a warm glow over the scene.",
+        "score": [
+            0.1724137931034483,
+            0.4,
+            0.24096385542168677
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is made up of fine, white threads. The spider is brown and black in color, and it has eight legs. The web is positioned in a way that it is catching the sunlight, which creates a beautiful and serene scene.",
+        "score": [
+            0.15873015873015872,
+            0.4,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is made up of fine, white threads. The spider is brown and black in color, and it has eight legs. The web is attached to a plant stem, and there are some green leaves in the background. The sunlight is creating a warm and cozy atmosphere in the garden.",
+        "score": [
+            0.1388888888888889,
+            0.4,
+            0.20618556701030927
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate structure. The web is made up of thin, delicate threads that are connected to each other, forming a complex pattern. The spider is using its eight legs to move around the web, and it is also using its web to catch prey. The sun is shining brightly, casting a warm glow over the scene, and the garden is filled with various plants and flowers.",
+        "score": [
+            0.10526315789473684,
+            0.4,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate patterns. The sunlight is creating a warm and inviting atmosphere, and the garden is full of greenery and life.",
+        "score": [
+            0.2,
+            0.4,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is illuminated by the sunlight. The spider is surrounded by the intricate and delicate strands of the web, which are glistening with dew. The background of the image is slightly blurred, but it appears to be a lush and green garden, with plants and flowers visible.",
+        "score": [
+            0.14492753623188406,
+            0.4,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is illuminated by the sunlight. The web is intricately designed with delicate lines and patterns. The spider is stationary, possibly waiting for prey or resting. The garden is filled with greenery, and the sunlight creates a warm and inviting atmosphere.",
+        "score": [
+            0.15873015873015872,
+            0.4,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The spider is likely using the web to catch prey, and the sunlight is illuminating the web, making it visible and creating a beautiful and serene scene.",
+        "score": [
+            0.16129032258064516,
+            0.4,
+            0.22988505747126436
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The spider is a brownish color with a distinctive pattern on its back. The web is glistening with dew, and the sunlight is casting a warm glow on the entire scene.",
+        "score": [
+            0.18333333333333332,
+            0.44,
+            0.25882352941176473
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is made up of fine, white threads. The spider is brown and black in color, and it has eight legs. The web is attached to a plant, and the sunlight is creating a warm glow around the scene.",
+        "score": [
+            0.16393442622950818,
+            0.4,
+            0.23255813953488375
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web with a spider in the center. The spider is surrounded by the web, which is made up of thin, white threads. The sun is shining brightly, creating a warm and inviting atmosphere in the garden.",
+        "score": [
+            0.2127659574468085,
+            0.4,
+            0.27777777777777785
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The spider is likely using the web to catch prey, and the sunlight is illuminating the web, making it visible and creating a beautiful and serene scene.",
+        "score": [
+            0.16129032258064516,
+            0.4,
+            0.22988505747126436
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sun's rays are shining through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.18,
+            0.36,
+            0.23999999999999996
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. The spider web is made up of thin, white threads that are intricately connected. The sun's rays are shining through the web, creating a beautiful and delicate pattern.",
+        "score": [
+            0.21951219512195122,
+            0.36,
+            0.27272727272727276
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sun's rays are shining through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.18,
+            0.36,
+            0.23999999999999996
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sun's rays are shining through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.18,
+            0.36,
+            0.23999999999999996
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, surrounded by the intricate and delicate strands. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.21428571428571427,
+            0.36,
+            0.26865671641791045
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sun is shining brightly, casting a warm glow over the scene. The spider is likely using the web to catch prey, and the web is a testament to the spider's skill and patience. The garden is full of life and beauty, and the spider is just one of the many creatures that call this place home.",
+        "score": [
+            0.11827956989247312,
+            0.44,
+            0.1864406779661017
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The spider is likely using the web to catch prey, such as insects, and the web is a crucial part of its survival. The sunlit garden provides a bright and warm environment for the spider to thrive.",
+        "score": [
+            0.16666666666666666,
+            0.48,
+            0.24742268041237112
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful, warm glow around it. The spider is surrounded by the intricate and delicate patterns of the web, which are highlighted by the sunlight. The garden is full of greenery, with plants and flowers adding to the serene and peaceful atmosphere.",
+        "score": [
+            0.15942028985507245,
+            0.44,
+            0.23404255319148934
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful, warm glow around it. The spider is surrounded by the intricate and delicate patterns of the web, and the light is highlighting the details of the web and the spider's body. The garden is full of green plants and flowers, and the overall atmosphere is peaceful and serene.",
+        "score": [
+            0.14102564102564102,
+            0.44,
+            0.21359223300970875
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web. The spider is surrounded by green plants and flowers, and the overall atmosphere is serene and peaceful.",
+        "score": [
+            0.19230769230769232,
+            0.4,
+            0.25974025974025977
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful, warm glow around it. The spider is surrounded by delicate, intricate patterns of the web, and the light is casting shadows and highlights on the web, making it look like a work of art. The garden is full of green plants and flowers, and the overall atmosphere is peaceful and serene.",
+        "score": [
+            0.1375,
+            0.44,
+            0.20952380952380953
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful, warm glow around it. The spider is surrounded by the intricate and delicate patterns of the web, and the light is highlighting the details of the web and the spider. The garden is full of green plants and flowers, and the overall atmosphere is peaceful and serene.",
+        "score": [
+            0.14473684210526316,
+            0.44,
+            0.2178217821782178
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful, warm glow around it. The spider is surrounded by delicate, intricate patterns of the web, and the light is casting shadows and highlights on the web, making it look like a magical, shimmering tapestry. The garden is full of green plants and flowers, and the overall atmosphere is peaceful and serene.",
+        "score": [
+            0.1375,
+            0.44,
+            0.20952380952380953
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants. The sun is shining brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.225,
+            0.36,
+            0.27692307692307694
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, which is attached to a plant. The spider is brown and black in color, and it is surrounded by the intricate and delicate web. The web is made up of thin, white threads that are carefully arranged in a crisscross pattern. The sunlight is shining brightly, creating a warm and inviting atmosphere in the garden. The plant is tall and green, with small, delicate flowers at the top. The background of the image is slightly blurred, but it appears to be a lush and vibrant garden with various plants",
+        "score": [
+            0.10810810810810811,
+            0.48,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the intricate and delicate strands of the web. The sunlight is filtering through the web, creating a beautiful and serene scene.",
+        "score": [
+            0.1875,
+            0.36,
+            0.24657534246575344
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and the sunlight is creating a beautiful and intricate pattern on the web.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate and delicate structure. The web is made up of thin, glistening threads that are stretched out in a crisscross pattern. The spider is a small, brown creature with eight legs, and it is perched on a small, round, white object that could be a flower or a piece of fruit. The sun is shining brightly, casting a warm glow over the scene and making the spider's web sparkle.",
+        "score": [
+            0.11,
+            0.44,
+            0.176
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate and delicate structure. The web is made up of thin, glistening threads that are stretched out in a crisscross pattern. The spider is a small, brown creature with eight legs, and it is perched on a small, round, white object that could be a flower or a piece of fruit. The sun is shining brightly, casting a warm glow over the scene and making the spider's web sparkle.",
+        "score": [
+            0.11,
+            0.44,
+            0.176
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate patterns. The web is glistening in the sunlight, and the spider's body is slightly blurred due to the motion blur effect.",
+        "score": [
+            0.16981132075471697,
+            0.36,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate patterns. The web is glistening in the sunlight, and the spider's body is slightly blurred due to the motion blur effect.",
+        "score": [
+            0.16981132075471697,
+            0.36,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by green plants.",
+        "score": [
+            0.3103448275862069,
+            0.36,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate spider spinning a glistening web in the corner of a sunlit garden, each thread shimmering like silver under the morning dew.",
+        "prediction": "In the corner of a sunlit garden, there is a spider web. A spider is sitting in the center of the web, and it is surrounded by the web's intricate patterns. The web is glistening in the sunlight, and the spider's body is slightly blurred, indicating that it is in motion. The background of the image is slightly out of focus, with some greenery visible, suggesting that the garden is lush and vibrant.",
+        "score": [
+            0.13333333333333333,
+            0.4,
+            0.2
+        ]
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the document.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is used as a metaphor to illustrate the beauty and tranquility that can be found in the world. The author uses this image to contrast with the increasing addiction and technological progress that is also discussed in the text.",
+        "score": [
+            0.2545454545454545,
+            0.56,
+            0.35
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the opening paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is a metaphorical description used to illustrate the idea that if people don't think you're weird, you're living badly. The author uses this image to emphasize the growing gap between what is considered normal and what is considered eccentric or unusual in society.",
+        "score": [
+            0.20967741935483872,
+            0.52,
+            0.29885057471264365
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the document.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the text: \"A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.\"",
+        "score": [
+            0.5555555555555556,
+            1.0,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first part of the text, which is not directly related to the rest of the content.",
+        "score": [
+            0.37142857142857144,
+            0.52,
+            0.43333333333333335
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first part of the text, where the author discusses the App Store approval process and how it has harmed Apple's reputation with programmers.",
+        "score": [
+            0.3023255813953488,
+            0.52,
+            0.38235294117647056
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"The Secret Weapon\" in the article \"The Blub Paradox.\"",
+        "score": [
+            0.41379310344827586,
+            0.48,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the text \"November 2009\" under the section \"How could you make a device programmers liked better than the iPhone?\".",
+        "score": [
+            0.35135135135135137,
+            0.52,
+            0.4193548387096775
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the beginning of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the beginning of the document.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the content of the provided text. The text is about programming languages, specifically Lisp, and its advantages and disadvantages. The image of the spider and its web is not mentioned or described in the text.",
+        "score": [
+            0.23214285714285715,
+            0.52,
+            0.32098765432098764
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\".",
+        "score": [
+            0.2,
+            0.56,
+            0.2947368421052632
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the beginning of the article, where the author mentions that it is from a talk given at the 2001 Franz Developer Symposium.",
+        "score": [
+            0.35,
+            0.56,
+            0.4307692307692308
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the section titled \"The Blub Paradox\" of the document.",
+        "score": [
+            0.48148148148148145,
+            0.52,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the section titled \"Lisp code is made of Lisp data objects. A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.\".",
+        "score": [
+            0.46296296296296297,
+            1.0,
+            0.6329113924050632
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the essay.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the main topic of the document, which focuses on startups and the challenges of starting a business. However, it is a vivid and poetic description that could be used to illustrate the delicate and intricate nature of building a successful startup.",
+        "score": [
+            0.22580645161290322,
+            0.56,
+            0.3218390804597701
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"October 2015\" in the document.",
+        "score": [
+            0.48,
+            0.48,
+            0.48
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"The Secret Weapon\" in the section \"The Blub Paradox.\"",
+        "score": [
+            0.41379310344827586,
+            0.48,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the beginning of the essay, where the author starts by describing the summer of 1995 when he and his friend Robert Morris started a startup called Viaweb.",
+        "score": [
+            0.28888888888888886,
+            0.52,
+            0.3714285714285714
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"The Blub Paradox\" in the section \"The Secret Weapon.\"",
+        "score": [
+            0.41379310344827586,
+            0.48,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Aikido for Startups\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the opening paragraph of the essay.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Counterintuitive\" by Paul Graham.",
+        "score": [
+            0.5,
+            0.48,
+            0.4897959183673469
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the content of the provided text. The text is a collection of essays and articles on various topics, including startups, programming languages, and the nature of technology. The image of the spider spinning its web is not mentioned or described in any of the essays or articles.",
+        "score": [
+            0.19117647058823528,
+            0.52,
+            0.27956989247311825
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"The Secret Weapon\" in the section \"The Blub Paradox\".",
+        "score": [
+            0.41379310344827586,
+            0.48,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first section of the text, where the author discusses the App Store approval process and how it has harmed Apple's reputation with programmers.",
+        "score": [
+            0.3023255813953488,
+            0.52,
+            0.38235294117647056
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Aikido for Startups\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Aikido for Startups\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Aikido for Startups\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first part of the sixth and last counterintuitive point: that the way to get startup ideas is not to try to think of startup ideas.",
+        "score": [
+            0.32558139534883723,
+            0.56,
+            0.411764705882353
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"Counterintuitive\" by Paul Graham.",
+        "score": [
+            0.5,
+            0.48,
+            0.4897959183673469
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the section titled \"Ideas\" of the text.",
+        "score": [
+            0.52,
+            0.52,
+            0.52
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the beginning of the text, where the author mentions it as a metaphor to describe the work of startup founders.",
+        "score": [
+            0.34210526315789475,
+            0.52,
+            0.41269841269841273
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"November 2009\" in the document.",
+        "score": [
+            0.48,
+            0.48,
+            0.48
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Aikido for Startups\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"Counterintuitive\" by Paul Graham.",
+        "score": [
+            0.5,
+            0.48,
+            0.4897959183673469
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"October 2014\" under the section \"Ideas\".",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"Detecting Bias in Selection Processes\" by Paul Graham.",
+        "score": [
+            0.42857142857142855,
+            0.48,
+            0.4528301886792452
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"The Tree Structure of Large Organizations\" by Paul Graham.",
+        "score": [
+            0.41379310344827586,
+            0.48,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Corporate Development\" by Paul Graham.",
+        "score": [
+            0.48,
+            0.48,
+            0.48
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the section titled \"The Blub Paradox\" of the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.3939393939393939,
+            0.52,
+            0.44827586206896547
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Counterintuitive\" by Paul Graham.",
+        "score": [
+            0.5,
+            0.48,
+            0.4897959183673469
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Counterintuitive\" by Paul Graham.",
+        "score": [
+            0.5,
+            0.48,
+            0.4897959183673469
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the essay \"October 2015\" by Paul Graham.",
+        "score": [
+            0.48,
+            0.48,
+            0.48
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the main topic of the document, which discusses the challenges of working in large organizations and the benefits of working in small groups. However, it can be interpreted as a metaphor for the delicate balance and intricate connections that exist within a small group, much like the spider's web.",
+        "score": [
+            0.19718309859154928,
+            0.56,
+            0.29166666666666663
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"How to Avoid Copying the Wrong Things\" by Paul Graham.",
+        "score": [
+            0.4,
+            0.48,
+            0.4363636363636364
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the opening paragraph of the essay.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The World Is a Mess, But It's Not All Bad\" by Paul Graham.",
+        "score": [
+            0.35294117647058826,
+            0.48,
+            0.4067796610169491
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Just Learn\" by Paul Graham.",
+        "score": [
+            0.48,
+            0.48,
+            0.48
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"How to Start a Startup\" by Paul Graham.",
+        "score": [
+            0.42857142857142855,
+            0.48,
+            0.4528301886792452
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"What Your Target Looks Like from the Back\" by Paul Graham.",
+        "score": [
+            0.41935483870967744,
+            0.52,
+            0.46428571428571425
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"Design and Research\" by Paul Graham.",
+        "score": [
+            0.46153846153846156,
+            0.48,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the first paragraph of the text.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the main topic of the document, which discusses the acceleration of technological progress and its impact on addiction. However, it can be interpreted as a metaphor for the intricate and delicate nature of technological progress, which can be both beautiful and dangerous.",
+        "score": [
+            0.20634920634920634,
+            0.52,
+            0.29545454545454547
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the main topic of the document, which discusses the acceleration of technological progress and its impact on addiction. However, it can be interpreted as a metaphor for the intricate and delicate nature of the web of technological advancements and their potential consequences.",
+        "score": [
+            0.20634920634920634,
+            0.52,
+            0.29545454545454547
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is the opening description of the document.",
+        "score": [
+            0.5652173913043478,
+            0.52,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is in the first paragraph of the first text.",
+        "score": [
+            0.52,
+            0.52,
+            0.52
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the content of the provided text. The text discusses the importance of determining whether a startup is default alive or default dead, the dangers of hiring too fast, and the issues with the App Store approval process. The image of the spider spinning its web is not mentioned or relevant to the text.",
+        "score": [
+            0.1891891891891892,
+            0.56,
+            0.2828282828282828
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the content of the provided text. The text discusses the App Store approval process, the harm it has caused to Apple's reputation with programmers, and the company's fundamental problem of not understanding software. The image of the spider spinning its web is not mentioned or relevant to the text.",
+        "score": [
+            0.19444444444444445,
+            0.56,
+            0.288659793814433
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is not directly related to the content of the provided text. The text discusses the App Store approval process, Apple's reputation with programmers, and the challenges of software development. The image of the spider spinning its web is not mentioned or relevant to the text.",
+        "score": [
+            0.22580645161290322,
+            0.56,
+            0.3218390804597701
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is a metaphorical description used to illustrate the harm caused by the App Store approval process.",
+        "score": [
+            0.375,
+            0.48,
+            0.42105263157894735
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first part of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"The fatal pinch.\"",
+        "score": [
+            0.5217391304347826,
+            0.48,
+            0.4999999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the text \"October 2015\" in the document.",
+        "score": [
+            0.48,
+            0.48,
+            0.48
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.52,
+            0.5306122448979592
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate spider spins its silken web between two sunlit branches, glistening with tiny droplets of morning dew that catch the light like scattered diamonds.",
+        "prediction": "The scene described as featuring a delicate spider spinning its silken web between two sunlit branches is from the essay \"How to Become a Hacker\" by Eric Raymond.",
+        "score": [
+            0.42857142857142855,
+            0.48,
+            0.4528301886792452
+        ]
+    }
+}

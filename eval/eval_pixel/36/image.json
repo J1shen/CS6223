@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long.\"",
+        "score": [
+            0.6666666666666666,
+            0.9090909090909091,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\nGreat Barrier Reef is approximately 2.300 kilometers long naturally.",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"The world of startups is so unpredictable that you need to be able to modify your dreams on the fly.\"",
+        "score": [
+            0.07692307692307693,
+            0.18181818181818182,
+            0.10810810810810811
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long.\"",
+        "score": [
+            0.6666666666666666,
+            0.9090909090909091,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2.300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is: \"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "The Great Barrier Reef is approximately 2,300 kilometers long naturally.",
+        "prediction": "The sentence in the picture is:\n\n\"Great Barrier Reef is approximately 2,300 kilometers long naturally.\"",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    }
+}

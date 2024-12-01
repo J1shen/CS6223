@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The image depicts a serene and picturesque scene of a calm lake at sunset. The sky is painted with warm, golden hues, indicating the setting sun. The sky is adorned with delicate white clouds that are scattered across the vibrant orange sky, creating a soft and ethereal backdrop. The sun, now low on the horizon, casts its gentle rays across the water, creating a shimmering effect on the lake's surface. The lake itself is calm, with gentle ripples reflecting the colors of the sky and the sun's rays. The overall atmosphere is tranquil and peaceful, capturing the beauty of nature at its finest.",
+        "score": [
+            0.1619047619047619,
+            0.7083333333333334,
+            0.26356589147286824
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The image depicts a serene and picturesque scene of a calm lake at sunset. The sky is painted with warm, golden hues, indicating the setting sun. The sky is adorned with delicate white clouds that are scattered across the vibrant orange sky, creating a soft and ethereal backdrop. The sun, now low on the horizon, casts its gentle rays across the water, creating a shimmering effect on the lake's surface. The lake itself is calm, with gentle ripples reflecting the colors of the sky and the sun's light. The overall atmosphere is tranquil and peaceful, capturing the beauty of nature at its most serene moment.",
+        "score": [
+            0.1588785046728972,
+            0.7083333333333334,
+            0.2595419847328244
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting against a vibrant orange sky. The tranquil atmosphere and the play of light and color create a peaceful and visually stunning image.",
+        "score": [
+            0.28,
+            0.5833333333333334,
+            0.3783783783783784
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting against a vibrant orange sky. The tranquil atmosphere and the natural beauty of the scene create a sense of peace and serenity. The golden hues of the setting sun add a warm and inviting touch to the scene, while the delicate white clouds provide a soft contrast against the vibrant orange sky. The calm lake reflects the beauty of the sky, creating a harmonious and balanced composition. The overall mood of the scene is one of tranquility and natural beauty, evoking a sense of",
+        "score": [
+            0.16521739130434782,
+            0.7916666666666666,
+            0.27338129496402874
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The image depicts a serene and picturesque scene of a calm lake at sunset. The sky is painted with warm, golden hues, indicating the setting sun. The sky is adorned with delicate white clouds that are scattered across the vibrant orange sky, creating a soft and ethereal backdrop. The sun itself is not prominently visible, but its presence is suggested by the golden light that bathes the entire scene. The lake's surface is calm, reflecting the colors of the sky, and the gentle ripples on the water add a sense of tranquility to the image. The horizon is lined with a series of hills or mountains, which are softly illuminated by",
+        "score": [
+            0.15178571428571427,
+            0.7083333333333334,
+            0.24999999999999997
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque sunset over a calm lake, characterized by the golden hues of the setting sun and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the reflection of the sun on the water create a peaceful and calming visual experience.",
+        "score": [
+            0.37254901960784315,
+            0.7916666666666666,
+            0.5066666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The image depicts a serene and picturesque scene of a calm lake during sunset. The sky is painted with warm, golden hues, indicating the setting sun. The sky is adorned with delicate white clouds that are scattered across the vibrant orange sky, creating a soft and ethereal backdrop. The sun itself is not prominently visible, but its presence is suggested by the golden light that bathes the entire scene. The lake's surface is calm, reflecting the colors of the sky, creating a mirror-like effect. The water appears to be still, with gentle ripples that suggest a peaceful atmosphere. The horizon is lined with a series of hills or mountains,",
+        "score": [
+            0.15315315315315314,
+            0.7083333333333334,
+            0.2518518518518518
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque sunset over a calm lake, characterized by the golden hues of the setting sun and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the reflection of the sun on the water create a peaceful and calming visual experience.",
+        "score": [
+            0.37254901960784315,
+            0.7916666666666666,
+            0.5066666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The image depicts a serene and picturesque scene of a calm lake at sunset. The sky is painted with warm, golden hues, indicating the setting sun. The sky is adorned with delicate white clouds that are scattered across the vibrant orange sky, creating a soft and ethereal backdrop. The sun itself is not prominently visible, but its presence is suggested by the golden light that bathes the entire scene. The lake's surface is calm, reflecting the colors of the sky, creating a mirror-like effect. The water appears to be still, with gentle ripples that suggest a peaceful atmosphere. The horizon is lined with a series of hills or mountains,",
+        "score": [
+            0.15315315315315314,
+            0.7083333333333334,
+            0.2518518518518518
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "A peaceful and serene sunset.",
+        "score": [
+            0.2,
+            0.041666666666666664,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.26785714285714285,
+            0.625,
+            0.375
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.33962264150943394,
+            0.75,
+            0.4675324675324676
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.26785714285714285,
+            0.625,
+            0.375
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and idyllic setting, evoking a sense of calm and serenity. The lake's stillness and the soft light of the setting sun add to the overall tranquility of the scene, making it a perfect setting for relaxation and reflection.",
+        "score": [
+            0.21176470588235294,
+            0.75,
+            0.33027522935779813
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall peaceful ambiance of the scene. The sky's vibrant orange color, likely due to the setting sun, adds a sense of warmth and tranquility to the scene. The delicate white clouds floating across the sky add a touch of softness and",
+        "score": [
+            0.16666666666666666,
+            0.7916666666666666,
+            0.27536231884057966
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall tranquility of the scene. The sky's vibrant orange color, likely due to the setting sun, adds a sense of warmth and coziness to the image. The delicate white clouds floating across the sky add a touch of softness and",
+        "score": [
+            0.168141592920354,
+            0.7916666666666666,
+            0.2773722627737226
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall tranquility of the scene. The sky's vibrant orange color, likely due to the setting sun, adds a sense of warmth and coziness to the image. The delicate white clouds floating across the sky add a touch of softness and",
+        "score": [
+            0.168141592920354,
+            0.7916666666666666,
+            0.2773722627737226
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall tranquility of the scene, while the clouds and sky provide a dynamic and ever-changing backdrop that enhances the beauty of the landscape.",
+        "score": [
+            0.1875,
+            0.75,
+            0.3
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall tranquility of the scene. The sky's vibrant orange hue, likely due to the setting sun, adds a touch of warmth and beauty to the landscape. The delicate white clouds floating across the sky add a sense of movement and contrast to",
+        "score": [
+            0.16521739130434782,
+            0.7916666666666666,
+            0.27338129496402874
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's calmness reflects the beauty of the sky, while the white clouds add a touch of softness and lightness to the scene. The vibrant orange sky suggests a beautiful sunset, which is often associated with a sense of closure and new beginnings. This description paints a vivid picture of a peaceful and picturesque natural landscape,",
+        "score": [
+            0.168141592920354,
+            0.7916666666666666,
+            0.2773722627737226
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the beautiful colors of the sky and clouds create a peaceful and calming environment.",
+        "score": [
+            0.2777777777777778,
+            0.625,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle movement of the clouds add to the overall peacefulness of the scene, making it a perfect setting for relaxation and contemplation.",
+        "score": [
+            0.21428571428571427,
+            0.75,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the beautiful colors of the sky and clouds create a peaceful and calming environment.",
+        "score": [
+            0.2777777777777778,
+            0.625,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle movement of the clouds add to the overall peacefulness of the scene, making it a perfect setting for relaxation and contemplation.",
+        "score": [
+            0.21428571428571427,
+            0.75,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall peaceful ambiance of the scene. The sky's vibrant orange color, likely due to the setting sun, adds a sense of warmth and tranquility to the scene. The delicate white clouds floating across the sky add a touch of softness and",
+        "score": [
+            0.16666666666666666,
+            0.7916666666666666,
+            0.27536231884057966
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The image captures the beauty of nature and the changing colors of the sky as the sun sets, creating a visually stunning and calming scene.",
+        "score": [
+            0.2222222222222222,
+            0.75,
+            0.34285714285714286
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and inviting setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the beautiful colors of the sky and clouds create a peaceful and calming environment, evoking a sense of serenity and tranquility.",
+        "score": [
+            0.2459016393442623,
+            0.625,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing scene, evoking a sense of peace and natural beauty.",
+        "score": [
+            0.2830188679245283,
+            0.625,
+            0.38961038961038963
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's calmness reflects the beauty of the sky, while the white clouds add a touch of softness and lightness to the scene. The vibrant orange sky suggests a beautiful sunset, which is often associated with a sense of closure and a new beginning. This description paints a vivid picture of a peaceful and picturesque natural landscape",
+        "score": [
+            0.16666666666666666,
+            0.7916666666666666,
+            0.27536231884057966
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and inviting setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2459016393442623,
+            0.625,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and natural beauty.",
+        "score": [
+            0.2830188679245283,
+            0.625,
+            0.38961038961038963
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The calm lake reflects the sky, adding to the overall harmony of the scene. The delicate white clouds and the vibrant orange sky suggest a clear and pleasant day, contributing to the overall beauty and tranquility of the scene.",
+        "score": [
+            0.2,
+            0.7916666666666666,
+            0.31932773109243695
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall peaceful ambiance of the scene. The delicate white clouds floating across the vibrant orange sky suggest a clear and pleasant day, further enhancing the serene and picturesque nature of the scene.",
+        "score": [
+            0.18269230769230768,
+            0.7916666666666666,
+            0.296875
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall tranquility of the scene. The delicate white clouds floating across the vibrant orange sky suggest a clear and pleasant day, with the sun's rays casting a warm glow over the entire scene. This description paints a vivid picture of a beautiful and",
+        "score": [
+            0.16379310344827586,
+            0.7916666666666666,
+            0.2714285714285714
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a golden-hued setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.26785714285714285,
+            0.625,
+            0.375
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.26785714285714285,
+            0.625,
+            0.375
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing scene, evoking a sense of peace and tranquility.",
+        "score": [
+            0.2727272727272727,
+            0.625,
+            0.37974683544303794
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.26785714285714285,
+            0.625,
+            0.375
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.2631578947368421,
+            0.625,
+            0.37037037037037035
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.26785714285714285,
+            0.625,
+            0.375
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious blend of colors create a peaceful and captivating scene, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a sense of peace and tranquility, evoking a feeling of serenity and calmness. The setting sun casts a warm glow over the scene, adding to the overall peaceful ambiance. The delicate white clouds floating across the vibrant orange sky add a touch of softness and lightness to the scene, enhancing the overall beauty and tranquility of the landscape.",
+        "score": [
+            0.1919191919191919,
+            0.7916666666666666,
+            0.30894308943089427
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the natural beauty of the scene create a sense of peace and tranquility.",
+        "score": [
+            0.2830188679245283,
+            0.625,
+            0.38961038961038963
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a golden-hued setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a golden-hued setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a golden-hued setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a golden-hued setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and inviting setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.3103448275862069,
+            0.75,
+            0.4390243902439025
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2459016393442623,
+            0.625,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun with golden hues, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.2641509433962264,
+            0.5833333333333334,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the natural beauty of the scene create a sense of peace and tranquility.",
+        "score": [
+            0.2830188679245283,
+            0.625,
+            0.38961038961038963
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and idyllic setting, evoking a sense of calm and serenity. The image is likely taken during the late afternoon or early evening, as the sun is setting, casting a golden glow over the scene. The lake's calm surface reflects the colors of the sky, adding to the overall beauty of the scene. The delicate white clouds are scattered across the sky, adding a touch of soft",
+        "score": [
+            0.1592920353982301,
+            0.75,
+            0.2627737226277372
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape with a calm lake, a setting sun casting golden hues, and delicate white clouds drifting across a vibrant orange sky.",
+        "score": [
+            0.4827586206896552,
+            0.5833333333333334,
+            0.5283018867924529
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun with golden hues, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and natural beauty.",
+        "score": [
+            0.2857142857142857,
+            0.5833333333333334,
+            0.3835616438356164
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape with a calm lake, a setting sun casting golden hues, and delicate white clouds drifting across a vibrant orange sky.",
+        "score": [
+            0.4827586206896552,
+            0.5833333333333334,
+            0.5283018867924529
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape with a calm lake, a setting sun casting golden hues, and delicate white clouds drifting across a vibrant orange sky.",
+        "score": [
+            0.4827586206896552,
+            0.5833333333333334,
+            0.5283018867924529
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun with golden hues, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and visually appealing scene.",
+        "score": [
+            0.32558139534883723,
+            0.5833333333333334,
+            0.41791044776119407
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, bathed in the warm, golden hues of a setting sun. The sky above is painted with delicate white clouds, which contrast beautifully against the vibrant orange sky. The overall atmosphere is tranquil and peaceful, with the soft light of the setting sun casting a gentle glow over the entire scene.",
+        "score": [
+            0.2698412698412698,
+            0.7083333333333334,
+            0.3908045977011494
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun with golden hues, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and natural beauty.",
+        "score": [
+            0.2857142857142857,
+            0.5833333333333334,
+            0.3835616438356164
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky.",
+        "score": [
+            0.45454545454545453,
+            0.625,
+            0.5263157894736842
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and visually appealing scene, evoking a sense of calm and serenity.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of calm and serenity.",
+        "score": [
+            0.33962264150943394,
+            0.75,
+            0.4675324675324676
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape with a calm lake, a golden sunset, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and tranquility.",
+        "score": [
+            0.28888888888888886,
+            0.5416666666666666,
+            0.3768115942028985
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a golden-hued setting sun, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and tranquility.",
+        "score": [
+            0.3191489361702128,
+            0.625,
+            0.4225352112676056
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun with golden hues, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and natural beauty.",
+        "score": [
+            0.2857142857142857,
+            0.5833333333333334,
+            0.3835616438356164
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun with golden hues, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and tranquility.",
+        "score": [
+            0.2916666666666667,
+            0.5833333333333334,
+            0.38888888888888895
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. This tranquil and breathtaking view evokes a sense of peace and tranquility, with the natural elements harmoniously blending together to create a visually stunning and calming atmosphere.",
+        "score": [
+            0.25,
+            0.625,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and tranquility.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The combination of these elements creates a tranquil and visually appealing atmosphere, evoking a sense of peace and tranquility.",
+        "score": [
+            0.28846153846153844,
+            0.625,
+            0.3947368421052631
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and captivating view, evoking a sense of serenity and natural beauty.",
+        "score": [
+            0.3333333333333333,
+            0.75,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the harmonious colors create a peaceful and visually appealing setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.35294117647058826,
+            0.75,
+            0.48
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and inviting setting, evoking a sense of calm and serenity. The calm lake reflects the sky, adding to the overall harmony of the scene. The golden hues of the setting sun suggest a time of day when the sun is either rising or setting, and the vibrant orange sky indicates a beautiful sunset or sunrise. The delicate white clouds drifting across the sky add a touch of softness",
+        "score": [
+            0.16379310344827586,
+            0.7916666666666666,
+            0.2714285714285714
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the natural beauty of the scene create a sense of peace and tranquility.",
+        "score": [
+            0.2830188679245283,
+            0.625,
+            0.38961038961038963
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the natural beauty of the scene create a sense of peace and serenity.",
+        "score": [
+            0.2830188679245283,
+            0.625,
+            0.38961038961038963
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The image depicts a serene and picturesque scene of a calm lake at sunset. The sky is painted with warm, golden hues, indicating the setting sun. The sky is adorned with delicate white clouds that are scattered across the vibrant orange sky, creating a soft and ethereal backdrop. The sun itself is not visible, but its presence is felt through the golden light that bathes the entire scene. The lake's surface is calm, reflecting the colors of the sky, creating a mirror-like effect. The water is gently rippling, with small waves that add a sense of movement to the otherwise tranquil scene. The horizon is lined with a range of",
+        "score": [
+            0.15178571428571427,
+            0.7083333333333334,
+            0.24999999999999997
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.3103448275862069,
+            0.75,
+            0.4390243902439025
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.3103448275862069,
+            0.75,
+            0.4390243902439025
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.3103448275862069,
+            0.75,
+            0.4390243902439025
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.3103448275862069,
+            0.75,
+            0.4390243902439025
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky and clouds create a peaceful and inviting setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.3103448275862069,
+            0.75,
+            0.4390243902439025
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall peaceful ambiance of the scene. The sky's vibrant orange color, likely due to the setting sun, adds a sense of warmth and tranquility to the scene. The delicate white clouds floating across the sky add a touch of softness and",
+        "score": [
+            0.16666666666666666,
+            0.7916666666666666,
+            0.27536231884057966
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The image captures the beauty of nature and the changing colors of the sky as the sun sets, creating a visually stunning and calming scene.",
+        "score": [
+            0.2222222222222222,
+            0.75,
+            0.34285714285714286
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, the golden hues of a setting sun, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sky create a peaceful and inviting setting, evoking a sense of calm and serenity. The lake's stillness and the gentle play of light on its surface add to the overall peaceful ambiance of the scene. The sky's vibrant orange tones, combined with the white clouds, create a striking contrast that enhances the beauty of the scene. This description captures the essence of a tranquil and picturesque natural setting, perfect for relaxation",
+        "score": [
+            0.1565217391304348,
+            0.75,
+            0.25899280575539574
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and idyllic setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a calm lake reflecting the golden hues of the setting sun, while delicate white clouds drift lazily across the vibrant orange sky.",
+        "prediction": "The scene described in the document is a serene and picturesque landscape featuring a calm lake, a setting sun that casts golden hues across the sky, and delicate white clouds drifting across a vibrant orange sky. The tranquil atmosphere and the warm colors of the sunset create a peaceful and inviting setting, evoking a sense of calm and serenity.",
+        "score": [
+            0.2542372881355932,
+            0.625,
+            0.3614457831325301
+        ]
+    }
+}

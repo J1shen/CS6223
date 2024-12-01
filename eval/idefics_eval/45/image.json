@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light. The web is made up of fine, white silk threads that are carefully woven together to form a complex pattern. The dew on the branches and the web glistens in the sunlight, creating a sparkling effect that adds to the web's beauty. The web is suspended in the air, with the branches providing support and stability. The early morning light casts a soft glow on the web, highlighting its delicate details and making it stand out against the background of the natural environment.",
+        "score": [
+            0.1388888888888889,
+            0.45454545454545453,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light.",
+        "score": [
+            0.4166666666666667,
+            0.30303030303030304,
+            0.3508771929824562
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light. The web is made up of fine, white silk threads that are carefully woven together to form a complex pattern. The dew on the branches and the web glistens in the sunlight, creating a sparkling effect that adds to the web's beauty. The web is a testament to the skill and patience of the spider that created it, and it serves as a reminder of the intricate and delicate balance of nature.",
+        "score": [
+            0.13402061855670103,
+            0.3939393939393939,
+            0.2
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light. The web is made up of fine, white silk threads that are carefully woven together to form a complex pattern. The dew on the branches and the web glistens in the sunlight, creating a sparkling effect that adds to the web's beauty. The web is suspended in the air, with the branches providing support and stability. The early morning light casts a soft glow on the web, highlighting its delicate details and making it stand out against the background of the natural environment.",
+        "score": [
+            0.1388888888888889,
+            0.45454545454545453,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light.",
+        "score": [
+            0.4166666666666667,
+            0.30303030303030304,
+            0.3508771929824562
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light. The web is made up of fine, white silk threads that are carefully woven together to form a complex pattern. The dew on the branches and the web glistens in the sunlight, creating a sparkling effect that adds to the web's beauty. The web is suspended in the air, with the branches providing support and stability. The early morning light casts a soft glow on the web, highlighting its delicate details and making it stand out against the background of the natural surroundings.",
+        "score": [
+            0.1388888888888889,
+            0.45454545454545453,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and sparkling structure that is draped between two dew-kissed branches in the early morning light.",
+        "score": [
+            0.375,
+            0.2727272727272727,
+            0.3157894736842105
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glowing, intricate, and sparkling structure that is draped between two dew-kissed branches in the early morning light.",
+        "score": [
+            0.375,
+            0.2727272727272727,
+            0.3157894736842105
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glowing, intricate, and sparkling orb in the early morning light.",
+        "score": [
+            0.4375,
+            0.21212121212121213,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a bright white orb weaver spider web.",
+        "score": [
+            0.25,
+            0.09090909090909091,
+            0.13333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a central hub and radiating threads that connect to the surrounding branches. The early morning light casts a soft glow on the web, making it stand out against the background of the branches and the surrounding foliage. The dew-kissed branches add a touch of sparkle to the scene, as the droplets of water glisten in the light.",
+        "score": [
+            0.17391304347826086,
+            0.36363636363636365,
+            0.2352941176470588
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a beautiful contrast between the web's transparency and the dewdrops that cling to the branches. The dewdrops sparkle like tiny jewels, adding to the web's ethereal beauty. The web's intricate patterns and the way it glistens in the morning light make it a stunning sight to behold.",
+        "score": [
+            0.15384615384615385,
+            0.42424242424242425,
+            0.22580645161290328
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a beautiful and ethereal scene. The dew on the branches adds a touch of sparkle and highlights the intricate details of the web.",
+        "score": [
+            0.20634920634920634,
+            0.3939393939393939,
+            0.2708333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the natural surroundings.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a central hub and radiating threads that connect to the surrounding branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural environment.",
+        "score": [
+            0.2222222222222222,
+            0.30303030303030304,
+            0.2564102564102564
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a central hub and radiating threads that connect to the branches. The early morning light casts a soft glow on the web, making it stand out against the background of the branches and the green foliage.",
+        "score": [
+            0.2127659574468085,
+            0.30303030303030304,
+            0.25
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is made up of a series of interconnected lines that form a complex pattern, with the dew drops hanging from the tips of the threads, creating a sparkling effect. The web is so delicate that it seems to glow in the soft light of the morning sun, making it a truly breathtaking sight.",
+        "score": [
+            0.1728395061728395,
+            0.42424242424242425,
+            0.2456140350877193
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is made up of a series of interconnected lines that form a complex pattern, with the dew drops creating a sparkling effect on the threads. The light from the sun casts a soft glow on the web, making it stand out against the background of the natural surroundings.",
+        "score": [
+            0.18421052631578946,
+            0.42424242424242425,
+            0.25688073394495414
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a shimmering effect on the dewdrops that cling to the threads. The web appears to be a masterpiece of nature, with its symmetrical patterns and delicate structure.",
+        "score": [
+            0.19402985074626866,
+            0.3939393939393939,
+            0.26
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden rays of the sun, creating a beautiful and ethereal scene.",
+        "score": [
+            0.28888888888888886,
+            0.3939393939393939,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a central hub and radiating threads that connect to the surrounding branches. The early morning light casts a soft glow on the web, making it stand out against the background of the branches. The dew-kissed branches add a touch of moisture and shine to the scene, making the web appear even more delicate and fragile.",
+        "score": [
+            0.16417910447761194,
+            0.3333333333333333,
+            0.22000000000000003
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the rising sun, creating a beautiful and ethereal scene. The dew on the branches adds a touch of sparkle and highlights the intricate details of the web, making it appear almost magical.",
+        "score": [
+            0.18840579710144928,
+            0.3939393939393939,
+            0.2549019607843137
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the natural surroundings.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the natural surroundings.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural surroundings. The dew on the branches adds a touch of sparkle to the web, making it look like it's covered in tiny diamonds. The web is so delicate that it seems to be almost ethereal, as if it's floating in the air.",
+        "score": [
+            0.13953488372093023,
+            0.36363636363636365,
+            0.20168067226890754
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is made up of a series of interconnected lines that form a complex pattern, with the dew drops hanging from the tips of the threads, creating a sparkling effect. The web is so delicate that it seems to glow in the early morning light, and it appears to be a masterpiece of nature's craftsmanship.",
+        "score": [
+            0.1566265060240964,
+            0.3939393939393939,
+            0.22413793103448273
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which casts a gentle glow on the web and makes it stand out against the background of the natural surroundings. The dew on the branches adds a touch of sparkle to the web, making it look even more delicate and ethereal.",
+        "score": [
+            0.16455696202531644,
+            0.3939393939393939,
+            0.23214285714285712
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a central hub and radiating threads that connect to the surrounding branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural environment.",
+        "score": [
+            0.2222222222222222,
+            0.30303030303030304,
+            0.2564102564102564
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful.",
+        "score": [
+            0.275,
+            0.3333333333333333,
+            0.3013698630136986
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's delicate and mesmerizing appearance.",
+        "score": [
+            0.1864406779661017,
+            0.3333333333333333,
+            0.23913043478260868
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it stand out against the background of the natural surroundings. The web is so fine that it appears almost ethereal, and the dew drops that cling to it add a touch of sparkle and shine.",
+        "score": [
+            0.17142857142857143,
+            0.36363636363636365,
+            0.23300970873786409
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the natural surroundings.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the slightly blurred background of the natural surroundings. The dew on the branches adds a touch of sparkle to the web, making it look like it's covered in tiny diamonds. The web is so delicate that it seems to be almost ethereal, as if it's floating in the air.",
+        "score": [
+            0.13636363636363635,
+            0.36363636363636365,
+            0.1983471074380165
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a complex pattern of threads. The early morning light casts a soft glow on the web, making it stand out against the background of the dew-kissed branches. The web is made up of thin, glistening strands that are carefully woven together to form a strong and resilient structure. The dew drops on the branches create a sparkling effect, adding to the overall beauty of the scene.",
+        "score": [
+            0.15384615384615385,
+            0.36363636363636365,
+            0.21621621621621623
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a central hub and radiating threads that connect to the surrounding branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural environment.",
+        "score": [
+            0.2222222222222222,
+            0.30303030303030304,
+            0.2564102564102564
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is strong enough to hold its shape and form.",
+        "score": [
+            0.1746031746031746,
+            0.3333333333333333,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it shimmer and sparkle. The web is so fine that it appears almost ethereal, as if it's made of a gossamer material. The dew drops on the branches create tiny, sparkling highlights that add to the web's beauty.",
+        "score": [
+            0.16,
+            0.36363636363636365,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.1896551724137931,
+            0.3333333333333333,
+            0.24175824175824173
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it stand out against the background of the natural surroundings. The web is so fine that it appears almost ethereal, as if it were made of a gossamer material. The dew drops on the branches add a touch of sparkle to the web, making it look like a shimmering, iridescent veil.",
+        "score": [
+            0.13953488372093023,
+            0.36363636363636365,
+            0.20168067226890754
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it stand out against the background of the natural surroundings. The web is so fine that it appears almost ethereal, as if it were made of a gossamer material. The dew drops on the branches create a sparkling effect, adding to the beauty and delicacy of the web.",
+        "score": [
+            0.14457831325301204,
+            0.36363636363636365,
+            0.2068965517241379
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it stand out against the background of the natural surroundings. The web is so fine that it seems almost ethereal, and the dew drops that cling to it add to its beauty, creating a sparkling effect.",
+        "score": [
+            0.16901408450704225,
+            0.36363636363636365,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural surroundings. The dew on the branches adds a touch of sparkle to the web, making it appear even more beautiful and delicate.",
+        "score": [
+            0.18461538461538463,
+            0.36363636363636365,
+            0.24489795918367346
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure, with a web of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural surroundings. The web is so delicate that it seems to be almost ethereal, and the dew-kissed branches add a touch of freshness and tranquility to the scene.",
+        "score": [
+            0.16216216216216217,
+            0.36363636363636365,
+            0.22429906542056074
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The dew drops on the branches create a beautiful contrast with the web, adding to the overall ethereal and enchanting appearance of the scene.",
+        "score": [
+            0.1875,
+            0.36363636363636365,
+            0.24742268041237112
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is strong enough to hold its shape and form.",
+        "score": [
+            0.1746031746031746,
+            0.3333333333333333,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is strong enough to hold its shape and form.",
+        "score": [
+            0.1746031746031746,
+            0.3333333333333333,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost invisible threads that are stretched between two dew-kissed branches in the early morning light. The web is so fine that it seems to shimmer and glow in the soft, golden light of dawn, and the dew drops on the branches create a beautiful contrast with the web's delicate structure.",
+        "score": [
+            0.20634920634920634,
+            0.3939393939393939,
+            0.2708333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is strong enough to hold its shape and form.",
+        "score": [
+            0.1746031746031746,
+            0.3333333333333333,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it appear almost ethereal and magical. The web is so fine that it seems to shimmer and dance in the gentle breeze, and the dew drops that cling to the threads create tiny, sparkling jewels that add to the web's beauty.",
+        "score": [
+            0.14285714285714285,
+            0.3333333333333333,
+            0.2
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches in the early morning light. The web is so fine that it seems to shimmer and glow in the soft, golden light, and the dew drops on the branches create a beautiful contrast with the web's delicate structure.",
+        "score": [
+            0.19672131147540983,
+            0.36363636363636365,
+            0.2553191489361702
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful.",
+        "score": [
+            0.275,
+            0.3333333333333333,
+            0.3013698630136986
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches in the early morning light. The web is so fine that it seems to shimmer and glow in the soft, golden light of the rising sun, creating a beautiful and ethereal scene.",
+        "score": [
+            0.24074074074074073,
+            0.3939393939393939,
+            0.29885057471264365
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it stand out against the background of the natural surroundings. The web appears to be a masterpiece of engineering, with each strand carefully placed to capture any unsuspecting insects that might wander by.",
+        "score": [
+            0.17647058823529413,
+            0.36363636363636365,
+            0.23762376237623764
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are stretched between two dew-kissed branches in the early morning light. The web is so fine that it almost seems to glow in the sunlight, and the dew drops that cling to the threads create a sparkling effect that adds to the web's beauty. The web is perfectly symmetrical and appears to be a work of art, with each strand carefully placed to create a strong and stable structure.",
+        "score": [
+            0.12941176470588237,
+            0.3333333333333333,
+            0.18644067796610167
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure, with a fine network of threads that are glistening with dew. The early morning light casts a soft glow on the web, making it stand out against the background of the branches. The web is perfectly balanced, with each strand carefully placed to catch any unsuspecting insects that might wander by. The dew-kissed branches provide a stark contrast to the web, with their rough texture and dark color. The overall effect is one of natural beauty and wonder, as the spiderweb seems to be a tiny, intricate work of art.",
+        "score": [
+            0.12871287128712872,
+            0.3939393939393939,
+            0.19402985074626866
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a intricate and beautiful structure with a complex pattern of threads. The early morning light casts a soft glow on the web, making it stand out against the background of the dew-kissed branches. The web is made up of thin, glistening strands that are carefully woven together to form a strong and resilient structure. The dew drops on the branches create a sparkling effect, adding to the overall beauty of the scene.",
+        "score": [
+            0.15384615384615385,
+            0.36363636363636365,
+            0.21621621621621623
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear to shimmer and sparkle. The web is so fine that it seems to be almost invisible, yet it is still strong enough to hold its shape and form.",
+        "score": [
+            0.171875,
+            0.3333333333333333,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, almost translucent threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it appear to shimmer and sparkle. The dew drops on the branches create a beautiful contrast with the web, adding to the overall ethereal and enchanting appearance of the scene.",
+        "score": [
+            0.18461538461538463,
+            0.36363636363636365,
+            0.24489795918367346
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's shimmering appearance.",
+        "score": [
+            0.19298245614035087,
+            0.3333333333333333,
+            0.24444444444444444
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft, golden glow on the web, making it stand out against the background of the natural surroundings. The web is so fine that it appears almost ethereal, and the dew drops on the branches add a touch of sparkle to the scene.",
+        "score": [
+            0.17142857142857143,
+            0.36363636363636365,
+            0.23300970873786409
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's delicate and mesmerizing appearance.",
+        "score": [
+            0.1864406779661017,
+            0.3333333333333333,
+            0.23913043478260868
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural surroundings. The dew on the branches adds a touch of sparkle to the web, making it look like it's covered in tiny diamonds. The web is so delicate that it seems to be almost ethereal, as if it's floating in the air.",
+        "score": [
+            0.13953488372093023,
+            0.36363636363636365,
+            0.20168067226890754
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is made up of numerous thin, almost invisible strands that are connected to each other, forming a complex pattern. The dew on the branches creates a sparkling effect on the web, making it shimmer and glow in the sunlight. The web appears to be a masterpiece of nature, with its delicate and precise design.",
+        "score": [
+            0.15853658536585366,
+            0.3939393939393939,
+            0.22608695652173913
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's delicate and mesmerizing appearance.",
+        "score": [
+            0.1864406779661017,
+            0.3333333333333333,
+            0.23913043478260868
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it appear almost ethereal and beautiful. The dew drops on the branches create a sparkling effect, adding to the web's delicate and mesmerizing appearance.",
+        "score": [
+            0.1864406779661017,
+            0.3333333333333333,
+            0.23913043478260868
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which casts a gentle glow on the delicate strands, making them appear almost ethereal. The dew-kissed branches provide a stark contrast to the web, with their dark, textured surfaces and the tiny droplets of water that cling to them, adding to the overall beauty of the scene.",
+        "score": [
+            0.16279069767441862,
+            0.42424242424242425,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, making it stand out against the blurred background of the natural scenery.",
+        "score": [
+            0.26,
+            0.3939393939393939,
+            0.3132530120481928
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the background of the natural surroundings. The dew on the branches adds a touch of sparkle to the web, making it look even more delicate and ethereal.",
+        "score": [
+            0.1875,
+            0.36363636363636365,
+            0.24742268041237112
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a shimmering effect on the dewdrops that cling to the web. The web appears to be a masterpiece of nature, with its delicate patterns and intricate details.",
+        "score": [
+            0.19402985074626866,
+            0.3939393939393939,
+            0.26
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light. The web is made up of fine, white silk threads that are carefully woven together to form a complex pattern. The dew on the branches adds a touch of sparkle and shine to the web, making it look even more delicate and ethereal. The early morning light casts a soft glow on the web, highlighting its intricate details and making it stand out against the background of the natural surroundings.",
+        "score": [
+            0.1702127659574468,
+            0.48484848484848486,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate, and glistening structure that is draped between two dew-kissed branches in the early morning light. The web is made up of fine, white silk threads that are carefully woven together to form a complex pattern. The dew on the branches adds a touch of sparkle and shine to the web, making it look like it is covered in tiny diamonds. The early morning light casts a soft, golden glow on the web, highlighting its delicate details and making it stand out against the background of the natural surroundings.",
+        "score": [
+            0.15463917525773196,
+            0.45454545454545453,
+            0.2307692307692308
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the natural scenery.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a glistening, intricate network of fine, white silk threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a beautiful and ethereal scene. The dew on the branches adds a touch of sparkle and highlights the delicate nature of the spiderweb.",
+        "score": [
+            0.203125,
+            0.3939393939393939,
+            0.26804123711340205
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a beautiful and ethereal scene. The dew on the branches adds a touch of sparkle and highlights the intricate details of the web.",
+        "score": [
+            0.20634920634920634,
+            0.3939393939393939,
+            0.2708333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are stretched between two dew-kissed branches. The early morning light casts a soft glow on the web, making it stand out against the blurred background of the green foliage.",
+        "score": [
+            0.2727272727272727,
+            0.36363636363636365,
+            0.3116883116883117
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which casts a gentle glow on the web and the surrounding leaves. The dew on the branches creates a sparkling effect, adding to the beauty and delicacy of the spiderweb.",
+        "score": [
+            0.19117647058823528,
+            0.3939393939393939,
+            0.25742574257425743
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a beautiful and ethereal scene. The dew on the branches adds a touch of sparkle and highlights the intricate details of the web.",
+        "score": [
+            0.20634920634920634,
+            0.3939393939393939,
+            0.2708333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a white, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a beautiful and ethereal scene.",
+        "score": [
+            0.28888888888888886,
+            0.3939393939393939,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a shimmering effect on the dewdrops that cling to the web. The web appears to be a masterpiece of nature, with its symmetrical patterns and delicate structure.",
+        "score": [
+            0.19402985074626866,
+            0.3939393939393939,
+            0.26
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate spiderweb glistening in the early morning light, draped between two dew-kissed branches, its intricate patterns shimmering like fine lace against the soft green backdrop of the awakening forest.",
+        "prediction": "The delicate spiderweb looks like a beautiful, intricate network of fine, glistening threads that are draped between two dew-kissed branches in the early morning light. The web is illuminated by the soft, golden light of the sun, which creates a shimmering effect on the dewdrops that cling to the web. The web appears to be a masterpiece of nature, with its symmetrical patterns and delicate structure.",
+        "score": [
+            0.19402985074626866,
+            0.3939393939393939,
+            0.26
+        ]
+    }
+}

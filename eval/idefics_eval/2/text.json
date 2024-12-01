@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after the bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water and its paws crunching on the carpet of fallen leaves.",
+        "score": [
+            0.5428571428571428,
+            0.5428571428571428,
+            0.5428571428571428
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.68,
+            0.4857142857142857,
+            0.5666666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and its paws crunching on a carpet of fallen leaves.",
+        "score": [
+            0.6,
+            0.6,
+            0.6
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee in the crisp autumn air.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.9259259259259259,
+            0.7142857142857143,
+            0.8064516129032259
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            1.0,
+            0.4857142857142857,
+            0.6538461538461539
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water and its paws crunching on the carpet of fallen leaves.",
+        "score": [
+            0.5714285714285714,
+            0.5714285714285714,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.9259259259259259,
+            0.7142857142857143,
+            0.8064516129032259
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and its paws crunching on a carpet of fallen leaves.",
+        "score": [
+            0.6,
+            0.6,
+            0.6
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee in the crisp autumn air.",
+        "score": [
+            0.9375,
+            0.42857142857142855,
+            0.588235294117647
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and its paws crunching on the carpet of fallen leaves beneath it.",
+        "score": [
+            0.5675675675675675,
+            0.6,
+            0.5833333333333333
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and its paws crunching on the carpet of fallen leaves.",
+        "score": [
+            0.6,
+            0.6,
+            0.6
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air.",
+        "score": [
+            0.9333333333333333,
+            0.4,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.9259259259259259,
+            0.7142857142857143,
+            0.8064516129032259
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.6086956521739131,
+            0.4,
+            0.48275862068965525
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.68,
+            0.4857142857142857,
+            0.5666666666666667
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.6521739130434783,
+            0.42857142857142855,
+            0.5172413793103448
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully running and playing.",
+        "score": [
+            0.7368421052631579,
+            0.4,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.68,
+            0.4857142857142857,
+            0.5666666666666667
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.68,
+            0.4857142857142857,
+            0.5666666666666667
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.6521739130434783,
+            0.42857142857142855,
+            0.5172413793103448
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully.",
+        "score": [
+            0.875,
+            0.4,
+            0.5490196078431373
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully and energetically.",
+        "score": [
+            0.7777777777777778,
+            0.4,
+            0.5283018867924528
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, exhibiting its natural instincts and abilities as a hunting and retrieving breed.",
+        "score": [
+            0.5555555555555556,
+            0.42857142857142855,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, displaying its natural instincts and abilities as a retriever.",
+        "score": [
+            0.5833333333333334,
+            0.4,
+            0.4745762711864407
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.92,
+            0.6571428571428571,
+            0.7666666666666667
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully running and playing.",
+        "score": [
+            0.7368421052631579,
+            0.4,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.696969696969697,
+            0.6571428571428571,
+            0.676470588235294
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully running and playing.",
+        "score": [
+            0.7368421052631579,
+            0.4,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully running and playing.",
+        "score": [
+            0.7368421052631579,
+            0.4,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, joyfully running and playing.",
+        "score": [
+            0.7368421052631579,
+            0.4,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            0.9411764705882353,
+            0.45714285714285713,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            1.0,
+            0.4857142857142857,
+            0.6538461538461539
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "The majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            0.9629629629629629,
+            0.7428571428571429,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee in the crisp autumn air.",
+        "score": [
+            0.9375,
+            0.42857142857142855,
+            0.588235294117647
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, with its fur glistening like sunlight on water, and a carpet of fallen leaves crunching beneath its paws.",
+        "score": [
+            0.7428571428571429,
+            0.7428571428571429,
+            0.7428571428571429
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever chases after a bright yellow frisbee in the crisp autumn air, with its fur glistening like sunlight on water.",
+        "score": [
+            0.6521739130434783,
+            0.42857142857142855,
+            0.5172413793103448
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "score": [
+            1.0,
+            0.7714285714285715,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A majestic golden retriever, with its fur glistening like sunlight on water, joyfully chases after a bright yellow frisbee soaring through the crisp autumn air, while a carpet of fallen leaves crunches beneath its paws.",
+        "prediction": "A majestic golden retriever joyfully chases after a bright yellow frisbee soaring through the crisp autumn air.",
+        "score": [
+            1.0,
+            0.4857142857142857,
+            0.6538461538461539
+        ]
+    }
+}

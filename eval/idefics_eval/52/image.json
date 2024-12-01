@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden window sill. The cat is looking out the window, which has a greenish tint. The background outside the window is blurred, but it appears to be a natural setting, possibly a garden or a park. The cat has a striped pattern on its fur, with a mix of brown and black stripes. Its eyes are green, and it has a small, pink nose. The cat's ears are perked up, and it seems to be in a relaxed state, possibly enjoying the view outside. The window sill is made of wood and has a smooth surface. The lighting in the",
+        "score": [
+            0.06363636363636363,
+            0.2916666666666667,
+            0.10447761194029849
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking out the window.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden window sill. The cat is looking out the window, which has a greenish tint. The background outside the window is blurred, indicating that the focus is on the cat. The cat has a striped pattern on its fur and is positioned in a relaxed manner, with its front paws resting on the window sill.",
+        "score": [
+            0.109375,
+            0.2916666666666667,
+            0.15909090909090912
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking out the window.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking out the window.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking out the window.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden window sill, looking out the window. The cat has a striped pattern on its fur and is gazing outside. The window has a glass pane, and the background outside is blurred, suggesting that the focus is on the cat.",
+        "score": [
+            0.14285714285714285,
+            0.2916666666666667,
+            0.1917808219178082
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden window sill. The cat has a brown and black striped pattern on its fur and is looking out the window. The window has a glass pane, and the background outside is blurred, indicating that the focus is on the cat. The cat's eyes are green, and it has a small black nose. The window sill is made of wood, and there is a reflection of light on the surface, suggesting that the photo was taken during the day.",
+        "score": [
+            0.07865168539325842,
+            0.2916666666666667,
+            0.1238938053097345
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden window sill. The cat has a brown and black striped pattern on its fur and is looking out the window. The window has a glass pane, and the background outside is blurred, suggesting that the photo was taken in a room with natural light. The cat's eyes are green, and it has a small black nose and a pink tongue. The window sill is made of wood, and there is a shadow on the right side of the image, indicating that the sun is shining from the left side.",
+        "score": [
+            0.07,
+            0.2916666666666667,
+            0.11290322580645162
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "A tabby cat is lying on a window.",
+        "score": [
+            0.5,
+            0.16666666666666666,
+            0.25
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a table or a windowsill. The cat is looking out the window, which has a greenish tint, indicating that it might be a glass window. The cat's fur is a mix of brown and black stripes, and it has green eyes. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.09523809523809523,
+            0.25,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a table or a windowsill. The cat is looking out the window, which has a greenish tint, indicating that it might be a glass window. The cat's fur is brown and black, with a distinctive tabby pattern. The background is blurred, focusing attention on the cat.",
+        "score": [
+            0.1016949152542373,
+            0.25,
+            0.14457831325301204
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a table or a windowsill. The cat is looking out the window, which has a greenish tint, indicating that it might be a glass window. The background is blurred, focusing attention on the cat. The cat has a striped pattern on its fur, which is a common characteristic of tabby cats. The cat's ears are perked up, and its eyes are wide open, suggesting that it is alert and possibly curious about what it sees outside. The overall scene is calm and serene, with the cat seemingly enjoying the view from its elevated position.",
+        "score": [
+            0.07476635514018691,
+            0.3333333333333333,
+            0.12213740458015265
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a table or a windowsill. The cat is in a relaxed position, with its front paws resting on the surface and its head turned slightly to the side. The cat's fur is a mix of brown and black stripes, and its eyes are green. The background is blurred, but it appears to be a room with a window, as there is a reflection of light on the surface. The cat's ears are perked up, and it seems to be looking at something outside the window.",
+        "score": [
+            0.08080808080808081,
+            0.3333333333333333,
+            0.13008130081300814
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a table or a windowsill. The cat is looking out the window, which has a greenish tint, indicating that it might be a glass window. The cat's fur is a mix of brown and black stripes, and it has a white belly. The background is blurred, but it appears to be a natural setting, possibly a garden or a park, with some greenery visible. The cat's ears are perked up, and it seems to be observing something outside.",
+        "score": [
+            0.06521739130434782,
+            0.25,
+            0.10344827586206896
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window at a green, blurry background.",
+        "score": [
+            0.22727272727272727,
+            0.20833333333333334,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its head turned slightly to the side. The background shows a green, out-of-focus view, possibly of a garden or a park.",
+        "score": [
+            0.12280701754385964,
+            0.2916666666666667,
+            0.1728395061728395
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window at a green, blurry background.",
+        "score": [
+            0.22727272727272727,
+            0.20833333333333334,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat is resting its front paws on the window sill and is gazing outside. The window has a greenish tint, and the background outside is blurred, suggesting that the scene is taken during the day.",
+        "score": [
+            0.10714285714285714,
+            0.25,
+            0.15
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat is resting its front paws on the window sill and has a calm expression on its face. The window is open, and the cat is enjoying the sunlight and the view outside. The background is slightly blurred, but it appears to be a natural setting, possibly a garden or a park.",
+        "score": [
+            0.0958904109589041,
+            0.2916666666666667,
+            0.1443298969072165
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.11627906976744186,
+            0.20833333333333334,
+            0.14925373134328357
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which includes a window and possibly some greenery outside.",
+        "score": [
+            0.14634146341463414,
+            0.25,
+            0.1846153846153846
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, possibly indicating a sunny day.",
+        "score": [
+            0.16216216216216217,
+            0.25,
+            0.19672131147540983
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a windowsill, and looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken in a well-lit area with natural light.",
+        "score": [
+            0.12,
+            0.25,
+            0.16216216216216217
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a windowsill, with a blurry background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.10869565217391304,
+            0.20833333333333334,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a windowsill, with a blurry background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.10869565217391304,
+            0.20833333333333334,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.10869565217391304,
+            0.20833333333333334,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window at a green, blurry background.",
+        "score": [
+            0.22727272727272727,
+            0.20833333333333334,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a table or a windowsill, and looking out the window. The cat is described as having green eyes and a striped pattern on its fur. The background is blurry, but it appears to be a natural setting, possibly a garden or a park.",
+        "score": [
+            0.13559322033898305,
+            0.3333333333333333,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the sunlight is creating a warm and cozy atmosphere.",
+        "score": [
+            0.13333333333333333,
+            0.25,
+            0.1739130434782609
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.11627906976744186,
+            0.20833333333333334,
+            0.14925373134328357
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its head turned slightly to the side. The background is blurry, with a greenish tint, suggesting that the window is open and the cat is looking outside.",
+        "score": [
+            0.11475409836065574,
+            0.2916666666666667,
+            0.16470588235294117
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, possibly indicating a sunny day.",
+        "score": [
+            0.17647058823529413,
+            0.25,
+            0.20689655172413793
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside.",
+        "score": [
+            0.17857142857142858,
+            0.20833333333333334,
+            0.1923076923076923
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a table or a windowsill, and is looking out the window. The cat is described as having green eyes and a striped pattern on its fur. The background is blurry, but it appears to be a natural setting, possibly a garden or a park.",
+        "score": [
+            0.13333333333333333,
+            0.3333333333333333,
+            0.19047619047619044
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window at a green, blurry background.",
+        "score": [
+            0.22727272727272727,
+            0.20833333333333334,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its head turned slightly to the side. The background is blurry, with a greenish tint, suggesting that the window is open and the cat is looking outside.",
+        "score": [
+            0.11475409836065574,
+            0.2916666666666667,
+            0.16470588235294117
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window ledge, looking out the window. The cat is in a room with a glass window, and the background is blurred, showing a greenish hue, possibly indicating a natural setting outside.",
+        "score": [
+            0.11904761904761904,
+            0.20833333333333334,
+            0.15151515151515152
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its head turned slightly to the side. The background is blurry, but it appears to be a natural setting, possibly a garden or a park, with greenery visible through the window. The cat's fur is brown and black, and it has a distinctive tabby pattern. The scene is well-lit, suggesting that it is daytime.",
+        "score": [
+            0.08602150537634409,
+            0.3333333333333333,
+            0.13675213675213677
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a table or a counter, and looking out the window. The cat is described as having green eyes and a striped pattern on its fur. The background is blurry, but it appears to be a natural setting, possibly a garden or a park, with greenery visible.",
+        "score": [
+            0.12903225806451613,
+            0.3333333333333333,
+            0.18604651162790697
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a table or a counter, and is looking out the window. The cat is described as having a shiny coat and is sitting in a relaxed position. The window has a greenish tint, and the outside view is blurred, but it appears to be a natural setting, possibly a garden or a park.",
+        "score": [
+            0.08695652173913043,
+            0.25,
+            0.12903225806451613
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene involving a tabby cat sitting on a wooden surface, possibly a table or a counter, with a blurry background that includes a window and a greenish hue. The cat is looking intently at something, possibly a bird or another animal outside the window.",
+        "score": [
+            0.10416666666666667,
+            0.20833333333333334,
+            0.1388888888888889
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene involving a tabby cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a greenish hue. The cat is looking out the window, and the scene is described as having a warm and cozy atmosphere.",
+        "score": [
+            0.11764705882352941,
+            0.25,
+            0.15999999999999998
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a table or a counter, and looking out the window. The cat is described as having green eyes and a striped pattern on its fur. The window has a greenish tint, and the outside view is blurred, but it appears to be a natural setting, possibly a garden or a park.",
+        "score": [
+            0.11940298507462686,
+            0.3333333333333333,
+            0.1758241758241758
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a table or a windowsill, and looking out the window. The cat is described as having green eyes and a striped pattern on its fur. The background is blurry, but it appears to be a natural setting, possibly a garden or a park, with trees and plants visible.",
+        "score": [
+            0.125,
+            0.3333333333333333,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside.",
+        "score": [
+            0.17857142857142858,
+            0.20833333333333334,
+            0.1923076923076923
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene involving a tabby cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its body leaning slightly forward. The window is open, allowing the cat to enjoy the view outside. The background is blurred, but it appears to be a natural setting, possibly a garden or a park. The cat's fur is described as having a striped pattern, and its eyes are green. The overall mood of the scene is calm and serene, with the cat seemingly enjoying the peacefulness of its surroundings.",
+        "score": [
+            0.07476635514018691,
+            0.3333333333333333,
+            0.12213740458015265
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its body leaning slightly forward. The background is blurry, with a greenish tint, indicating that the window is open and the cat is looking outside.",
+        "score": [
+            0.11864406779661017,
+            0.2916666666666667,
+            0.1686746987951807
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside.",
+        "score": [
+            0.17857142857142858,
+            0.20833333333333334,
+            0.1923076923076923
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.15384615384615385,
+            0.25,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a greenish hue. The cat is looking out the window, and the image is taken from a low angle, giving the cat a larger-than-life appearance.",
+        "score": [
+            0.09259259259259259,
+            0.20833333333333334,
+            0.1282051282051282
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a counter, with a blurred background that includes a window and a greenish hue. The cat is looking towards the window, and its ears are visible.",
+        "score": [
+            0.14285714285714285,
+            0.25,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe any scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a counter, with a blurry background that includes a window and a greenish hue. The cat is looking straight ahead, and its fur has a striped pattern.",
+        "score": [
+            0.16279069767441862,
+            0.2916666666666667,
+            0.20895522388059704
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings.",
+        "score": [
+            0.2857142857142857,
+            0.16666666666666666,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a table or a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.10869565217391304,
+            0.20833333333333334,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the lighting suggests that it is daytime.",
+        "score": [
+            0.11627906976744186,
+            0.20833333333333334,
+            0.14925373134328357
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat is in a relaxed position, with its front paws resting on the window sill and its head turned slightly to the side. The background shows a blurred view of the outside, with some greenery visible.",
+        "score": [
+            0.12962962962962962,
+            0.2916666666666667,
+            0.1794871794871795
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document does not describe a scene involving a tabby cat and its surroundings. The document contains a passage about the addictive nature of technological progress and the increasing number of things we like that are becoming more addictive.",
+        "score": [
+            0.10256410256410256,
+            0.16666666666666666,
+            0.12698412698412698
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.15384615384615385,
+            0.25,
+            0.1904761904761905
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, possibly indicating a sunny day.",
+        "score": [
+            0.17647058823529413,
+            0.25,
+            0.20689655172413793
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window at a green, blurry background.",
+        "score": [
+            0.22727272727272727,
+            0.20833333333333334,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.14285714285714285,
+            0.25,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a windowsill, and looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.13333333333333333,
+            0.25,
+            0.1739130434782609
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a windowsill, and looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the focus is on the cat.",
+        "score": [
+            0.13636363636363635,
+            0.25,
+            0.1764705882352941
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.14285714285714285,
+            0.25,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking out the window.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking out the window.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and possibly some greenery outside. The cat is looking out the window, and the overall setting suggests a calm and serene environment.",
+        "score": [
+            0.1111111111111111,
+            0.20833333333333334,
+            0.14492753623188406
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a table or a windowsill. The cat is in a relaxed position, with its front paws resting on the surface and its head turned slightly to the side. The cat's fur is a mix of brown and black stripes, and its eyes are a bright green. The background is blurred, but it appears to be a room with a window, as there is a reflection of light on the surface. The cat's ears are perked up, and it seems to be looking at something outside the window.",
+        "score": [
+            0.07920792079207921,
+            0.3333333333333333,
+            0.128
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and a greenish outdoor scene. The cat has a striped pattern on its fur and is looking towards the window.",
+        "score": [
+            0.16666666666666666,
+            0.2916666666666667,
+            0.2121212121212121
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and a greenish outdoor scene. The cat is looking out the window, and its fur has a striped pattern.",
+        "score": [
+            0.17073170731707318,
+            0.2916666666666667,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking towards the camera with its green eyes. The cat's ears are perked up, and it has a small nose and whiskers. The wooden surface it is sitting on is illuminated by sunlight, creating a warm and cozy atmosphere.",
+        "score": [
+            0.1038961038961039,
+            0.3333333333333333,
+            0.15841584158415842
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The image depicts a tabby cat sitting on a wooden surface, possibly a windowsill, with a blurred background that includes a window and some greenery outside. The cat has a striped pattern on its fur and is looking towards the camera with its green eyes. The cat's ears are perked up, and it has a small nose and whiskers. The wooden surface it is sitting on is illuminated by sunlight, creating a warm and cozy atmosphere.",
+        "score": [
+            0.1038961038961039,
+            0.3333333333333333,
+            0.15841584158415842
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The scene described involves a tabby cat sitting on a wooden window sill, looking out the window. The cat is described as having green eyes and a brown and black striped coat. The window has a greenish background, and the cat is in a relaxed position, with its front paws resting on the window sill.",
+        "score": [
+            0.12727272727272726,
+            0.2916666666666667,
+            0.1772151898734177
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden surface, possibly a windowsill, and looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.13333333333333333,
+            0.25,
+            0.1739130434782609
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the photo was taken through a window.",
+        "score": [
+            0.14285714285714285,
+            0.25,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A tabby cat lounges lazily on the sun-warmed windowsill, its emerald eyes half-closed as dappled sunlight dances across its soft, striped fur.",
+        "prediction": "The document describes a scene where a tabby cat is sitting on a wooden window sill, looking out the window. The cat has green eyes and is surrounded by a blurry background, which suggests that the window is open and the cat is enjoying the view outside.",
+        "score": [
+            0.1276595744680851,
+            0.25,
+            0.16901408450704225
+        ]
+    }
+}

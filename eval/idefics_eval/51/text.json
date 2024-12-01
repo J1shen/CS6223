@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7741935483870968,
+            0.96,
+            0.8571428571428571
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7741935483870968,
+            0.96,
+            0.8571428571428571
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7741935483870968,
+            0.96,
+            0.8571428571428571
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7741935483870968,
+            0.96,
+            0.8571428571428571
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7407407407407407,
+            0.8,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat has striking green eyes and its fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.6774193548387096,
+            0.84,
+            0.75
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light. The cat appears to be an overreaching one with fussy tastes and a rigidly enforced house style.",
+        "score": [
+            0.5,
+            0.84,
+            0.6268656716417911
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light. The cat is in a beautiful setting, and the description emphasizes its relaxed and serene appearance.",
+        "score": [
+            0.5121951219512195,
+            0.84,
+            0.6363636363636365
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily on a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.8,
+            0.8000000000000002
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "A tabby cat with striking green eyes is lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8275862068965517,
+            0.96,
+            0.888888888888889
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur appears to shimmer like golden silk in the afternoon light.",
+        "score": [
+            0.7142857142857143,
+            0.8,
+            0.7547169811320756
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7407407407407407,
+            0.8,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8620689655172413,
+            1.0,
+            0.9259259259259259
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7407407407407407,
+            0.8,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "A tabby cat with striking green eyes is lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8275862068965517,
+            0.96,
+            0.888888888888889
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "A tabby cat with striking green eyes is lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.8275862068965517,
+            0.96,
+            0.888888888888889
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7407407407407407,
+            0.8,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.7692307692307693,
+            0.8,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall. The cat's fur is shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.7407407407407407,
+            0.8,
+            0.7692307692307692
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat lounging lazily atop a sun-warmed stone wall, with its fur shimmering like golden silk in the afternoon light.",
+        "score": [
+            0.84,
+            0.84,
+            0.8399999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A tabby cat with striking green eyes lounges lazily atop a sun-warmed stone wall, its fur shimmering like golden silk in the afternoon light.",
+        "prediction": "The scene describes a tabby cat with striking green eyes lounging lazily atop a sun-warmed stone wall. The cat's fur shimmers like golden silk in the afternoon light.",
+        "score": [
+            0.8,
+            0.96,
+            0.8727272727272728
+        ]
+    }
+}

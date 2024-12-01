@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are an increasing number of things we need it for.\"",
+        "score": [
+            0.11764705882352941,
+            0.2,
+            0.14814814814814817
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are an increasing number of things we need it for.\"",
+        "score": [
+            0.11764705882352941,
+            0.2,
+            0.14814814814814817
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are an increasing number of things we need it for.\"",
+        "score": [
+            0.11764705882352941,
+            0.2,
+            0.14814814814814817
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft wasn't the embarrassment of the people they hired. It was the people they never got. And you",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are an increasing number of things we need it for. At the extreme end of the spectrum are crack and meth. Food has been transformed by a combination of factory farming and innovations in food processing into something with way more immediate bang for the buck, and you can see the results in any town in America. Checkers and solitaire have been replaced by World of Warcraft and FarmVille. TV has become much more engaging, and even so it can't compete with Facebook.\"",
+        "score": [
+            0.04395604395604396,
+            0.4,
+            0.07920792079207922
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you.\"",
+        "score": [
+            0.05128205128205128,
+            0.2,
+            0.0816326530612245
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no sentence in the picture.",
+        "score": [
+            0.2857142857142857,
+            0.2,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you.\"",
+        "score": [
+            0.05128205128205128,
+            0.2,
+            0.0816326530612245
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft was not the embarrassment of the people they hired. It was the people they never got. And you",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft was not the embarrassment of the people they hired. It was the",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft was'the embarrassment of the people they hired. And you know who got them? Google and Apple",
+        "score": [
+            0.027522935779816515,
+            0.3,
+            0.05042016806722689
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft was'the embarrassment of the people they hired. And you know who got them? Google and Apple",
+        "score": [
+            0.027522935779816515,
+            0.3,
+            0.05042016806722689
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft was'the embarrassment of the people they hired. And you know who got them? Google and Apple",
+        "score": [
+            0.027522935779816515,
+            0.3,
+            0.05042016806722689
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you.\"",
+        "score": [
+            0.05128205128205128,
+            0.2,
+            0.0816326530612245
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you.\"",
+        "score": [
+            0.05128205128205128,
+            0.2,
+            0.0816326530612245
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are seven continents in our entire world system.",
+        "score": [
+            1.0,
+            0.9,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are seven continents in our entire world system.",
+        "score": [
+            1.0,
+            0.9,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are seven continents in our entire world system.",
+        "score": [
+            1.0,
+            0.9,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are seven continents in our entire world system.",
+        "score": [
+            1.0,
+            0.9,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"Want to start a startup? Get funded by Y Combinator.\"",
+        "score": [
+            0.13043478260869565,
+            0.3,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no sentence in the picture.",
+        "score": [
+            0.2857142857142857,
+            0.2,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no sentence in the picture.",
+        "score": [
+            0.2857142857142857,
+            0.2,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.06451612903225806,
+            0.2,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft wasn't the embarrassment of the people they hired. It was the",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the one that stands out is:\n\n\"There are several sentences in the picture, but the one that stands out is:\"\n\nThis sentence is itself a part of the larger text in the image.",
+        "score": [
+            0.07317073170731707,
+            0.3,
+            0.11764705882352941
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There is another reason founders don't ask themselves whether they're default alive or default dead: they assume it will be easy to raise more money.\"",
+        "score": [
+            0.030303030303030304,
+            0.1,
+            0.04651162790697675
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"The secret weapon Eric Raymond has written an essay called \"How to Become a Hacker,\" and in it, among other things, he tells would-be hackers what languages they should learn.\"",
+        "score": [
+            0.02702702702702703,
+            0.1,
+            0.0425531914893617
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There is another reason founders don't ask themselves whether they're default alive or default dead: they assume it will be easy to raise more money.\"",
+        "score": [
+            0.030303030303030304,
+            0.1,
+            0.04651162790697675
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no picture provided in the given text.",
+        "score": [
+            0.2222222222222222,
+            0.2,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no picture provided in the given text.",
+        "score": [
+            0.2222222222222222,
+            0.2,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no picture provided in the given text.",
+        "score": [
+            0.2222222222222222,
+            0.2,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no picture provided in the given text.",
+        "score": [
+            0.2222222222222222,
+            0.2,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several sentences in the picture, but the most prominent one is:\"\n\nThis sentence is repeated multiple times in the image, indicating that there are multiple sentences present in the picture.",
+        "score": [
+            0.06666666666666667,
+            0.3,
+            0.1090909090909091
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the most prominent one is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.07894736842105263,
+            0.3,
+            0.125
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are several reasons why the world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.13636363636363635,
+            0.3,
+            0.18749999999999997
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.1,
+            0.05
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no sentence in the picture.",
+        "score": [
+            0.2857142857142857,
+            0.2,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"The fatal pinch is default dead + slow growth + not enough time to fix it.\"",
+        "score": [
+            0.05,
+            0.1,
+            0.06666666666666667
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care.  One is that these users are the people they want as employees.  If your company seems evil, the best programmers won't work for you.",
+        "score": [
+            0.06060606060606061,
+            0.2,
+            0.0930232558139535
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care.  One is that these users are the people they want as employees.  If your company seems evil, the best programmers won't work for you.",
+        "score": [
+            0.06060606060606061,
+            0.2,
+            0.0930232558139535
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no sentence in the picture.",
+        "score": [
+            0.2857142857142857,
+            0.2,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care.  One is that these users are the people they want as employees.  If your company seems evil, the best programmers won't work for you.",
+        "score": [
+            0.06060606060606061,
+            0.2,
+            0.0930232558139535
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no sentence in the picture.",
+        "score": [
+            0.2857142857142857,
+            0.2,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are a couple reasons they should care.  One is that these users are the people they want as employees.  If your company seems evil, the best programmers won't work for you.",
+        "score": [
+            0.06060606060606061,
+            0.2,
+            0.0930232558139535
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the one that stands out is:\n\n\"There are several sentences in the picture, but the one that stands out is:\"\n\nThis sentence is likely part of a larger text or conversation, but it doesn't provide enough context to determine the full meaning or purpose of the text.",
+        "score": [
+            0.05357142857142857,
+            0.3,
+            0.09090909090909091
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Women with hammer.\"",
+        "score": [
+            0.1111111111111111,
+            0.1,
+            0.10526315789473685
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not.\"",
+        "score": [
+            0.08823529411764706,
+            0.3,
+            0.13636363636363635
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not.\"",
+        "score": [
+            0.08823529411764706,
+            0.3,
+            0.13636363636363635
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no picture provided in the given text.",
+        "score": [
+            0.2222222222222222,
+            0.2,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Women with hammer.\"",
+        "score": [
+            0.1111111111111111,
+            0.1,
+            0.10526315789473685
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not.",
+        "score": [
+            0.10714285714285714,
+            0.3,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not.",
+        "score": [
+            0.10714285714285714,
+            0.3,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There is no picture provided in the given text.",
+        "score": [
+            0.2222222222222222,
+            0.2,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not.\"",
+        "score": [
+            0.08823529411764706,
+            0.3,
+            0.13636363636363635
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several ideas mixed together in the concept of Worse is Better, which is why people are still arguing about whether worse is actually better or not.",
+        "score": [
+            0.10714285714285714,
+            0.3,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"I'm designing a new dialect of Lisp.\"",
+        "score": [
+            0.07142857142857142,
+            0.1,
+            0.08333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.1,
+            0.05
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.1,
+            0.05
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.1,
+            0.05
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.1,
+            0.05
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are only two things you need initially: an idea and co-founders.",
+        "score": [
+            0.15384615384615385,
+            0.2,
+            0.17391304347826086
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"I'm designing a new dialect of Lisp.\"",
+        "score": [
+            0.07142857142857142,
+            0.1,
+            0.08333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.06451612903225806,
+            0.2,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"I'm designing a new dialect of Lisp.\"",
+        "score": [
+            0.07142857142857142,
+            0.1,
+            0.08333333333333333
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.06451612903225806,
+            0.2,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are an increasing number of things we need it for.\"",
+        "score": [
+            0.11764705882352941,
+            0.2,
+            0.14814814814814817
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are an increasing number of things we need it for.\"",
+        "score": [
+            0.11764705882352941,
+            0.2,
+            0.14814814814814817
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven Continents in our entire World System.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is: \"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.06451612903225806,
+            0.2,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft wasn't the embarrassment of the people they hired. It was the",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.06451612903225806,
+            0.2,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "There are several sentences in the picture, but the one that stands out is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"\n\nThis sentence is from the article \"The Future of Handheld Devices\" by Paul Graham, and it discusses the issue of Apple's policies regarding the iPhone SDK and how they affect developers.",
+        "score": [
+            0.04225352112676056,
+            0.3,
+            0.07407407407407407
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.06451612903225806,
+            0.2,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft wasn't the embarrassment of the people they hired. It was the",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are a couple reasons they should care. One is that these users are the people they want as employees. If your company seems evil, the best programmers won't work for you. That hurt Microsoft a lot starting in the 90s. Programmers started to feel sheepish about working there. It seemed like selling out. When people from Microsoft were talking to other programmers and they mentioned where they worked, there were a lot of self-deprecating jokes about having gone over to the dark side. But the real problem for Microsoft wasn't the embarrassment of the people they hired. It was the",
+        "score": [
+            0.02727272727272727,
+            0.3,
+            0.049999999999999996
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There are seven continents in our entire world geography system.",
+        "prediction": "The sentence in the picture is:\n\n\"There are seven continents in our entire world system.\"",
+        "score": [
+            0.6,
+            0.9,
+            0.7200000000000001
+        ]
+    }
+}

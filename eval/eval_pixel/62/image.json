@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the World's Largest Ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the World's Largest Rainforest.\"",
+        "score": [
+            0.5333333333333333,
+            0.7272727272727273,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the World's Largest Rainforest.\"",
+        "score": [
+            0.5333333333333333,
+            0.7272727272727273,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the World's Largest Rainforest.\"",
+        "score": [
+            0.5333333333333333,
+            0.7272727272727273,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the World's Largest Rainforest Ecosystem.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, \nAaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for\nreading drafts of this.\"",
+        "score": [
+            0.06666666666666667,
+            0.18181818181818182,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical ecosystem.\"",
+        "score": [
+            0.625,
+            0.9090909090909091,
+            0.7407407407407406
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the World's Largest Rainforest.\"",
+        "score": [
+            0.5333333333333333,
+            0.7272727272727273,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is:\n\n\"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest tropical rainforest.\"",
+        "score": [
+            0.5625,
+            0.8181818181818182,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "The Amazon rainforest is the world's largest tropical ecosystem region.",
+        "prediction": "The sentence in the picture is: \"The Amazon Rainforest is the world's largest ecosystem.\"",
+        "score": [
+            0.6,
+            0.8181818181818182,
+            0.6923076923076923
+        ]
+    }
+}

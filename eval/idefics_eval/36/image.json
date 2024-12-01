@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever dog joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field, adding a pop of color to the scene. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.16666666666666666,
+            0.4827586206896552,
+            0.247787610619469
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever dog joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field, adding a pop of color to the scene. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.16666666666666666,
+            0.4827586206896552,
+            0.247787610619469
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The image depicts a golden retriever dog joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The dog's mouth is open, and its tongue is hanging out, indicating that it is panting or barking.\n\nThe field of wildflowers is filled with various types of flowers, predominantly orange and yellow, which contrast beautifully with the green grass. The flowers are in full bloom, and their petals are slightly blurred, giving a sense",
+        "score": [
+            0.1320754716981132,
+            0.4827586206896552,
+            0.20740740740740737
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The image depicts a golden retriever dog running through a field of vibrant orange wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a joyful expression on its face, with its mouth open and tongue out. The background is blurred, emphasizing the dog and the flowers. The flowers are tall and have bright orange petals, and they are scattered throughout the field. The grass is green and lush, and the overall scene is bright and sunny, suggesting a pleasant day.",
+        "score": [
+            0.1188118811881188,
+            0.41379310344827586,
+            0.18461538461538457
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever dog joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its mouth open, as if it is barking or panting. The dog has a light brown coat and is surrounded by a variety of wildflowers with bright orange petals. The background is blurred, emphasizing the dog and the flowers. The sunlight casts a warm glow on the scene, highlighting the dog's fur and the flowers. The overall atmosphere of the image is one of joy and freedom, capturing the carefree spirit of the dog as it runs through the",
+        "score": [
+            0.13761467889908258,
+            0.5172413793103449,
+            0.21739130434782614
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The image depicts a golden retriever dog joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog has a happy expression on its face, with its mouth open and tongue out, suggesting it is barking or howling with excitement. The dog's fur is a light golden color, and it appears to be in good health and condition.\n\nThe field of wildflowers is filled with various types of flowers, predominantly orange and yellow, which contrast beautifully with the green grass. The flowers are of different sizes and shapes, adding to",
+        "score": [
+            0.1308411214953271,
+            0.4827586206896552,
+            0.20588235294117643
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The image depicts a golden retriever dog running through a field of vibrant orange flowers. The dog is captured mid-stride, with its mouth open and ears flapping, conveying a sense of joy and freedom. The dog's fur is a light golden color, and it appears to be in motion, with its legs and tail visible. The background is blurred, emphasizing the dog and the flowers. The flowers are bright orange, and they are scattered throughout the field, adding a pop of color to the scene. The overall atmosphere of the image is one of happiness and natural beauty.",
+        "score": [
+            0.12,
+            0.41379310344827586,
+            0.18604651162790695
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The image depicts a golden retriever dog running through a field of vibrant orange flowers. The dog is captured mid-stride, with its mouth open and ears flapping, exuding a sense of joy and freedom. The dog's fur is a rich, golden color, and it appears to be in motion, with its legs and tail clearly visible. The background is blurred, emphasizing the dog and the flowers. The flowers are numerous and scattered throughout the field, adding a colorful and lively atmosphere to the scene. The sunlight casts a warm glow on the dog and the flowers, enhancing the overall brightness and vibrancy of the image.",
+        "score": [
+            0.11214953271028037,
+            0.41379310344827586,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The image depicts a golden retriever dog running through a field of vibrant orange flowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog has a joyful expression on its face, with its mouth open and tongue out, suggesting it is barking or howling. The dog's fur is light brown, and it appears to be in good health and condition.\n\nThe field of flowers is lush and green, with tall grass and numerous orange flowers scattered throughout. The flowers are in full bloom, and their bright colors contrast with the green foliage, creating a visually appealing scene. The background",
+        "score": [
+            0.10909090909090909,
+            0.41379310344827586,
+            0.17266187050359713
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, with its head held high and its tail wagging excitedly. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including yellow, orange, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.13,
+            0.4482758620689655,
+            0.20155038759689922
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are perked up, and its tail is wagging energetically as it bounds through the field. The wildflowers, with their bright orange petals, add a pop of color to the scene, creating a picturesque and lively atmosphere. The background is slightly blurred, emphasizing the dog's dynamic movement and the vibrant flowers.",
+        "score": [
+            0.15476190476190477,
+            0.4482758620689655,
+            0.23008849557522124
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are perked up, and its tail is wagging energetically as it bounds through the field. The wildflowers, with their bright orange petals, add a pop of color to the scene, creating a picturesque and lively atmosphere. The background is slightly blurred, emphasizing the dog's dynamic movement and the vibrant flowers.",
+        "score": [
+            0.15476190476190477,
+            0.4482758620689655,
+            0.23008849557522124
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, with its head held high and its tongue hanging out, indicating its excitement and joy. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is blurred, with a focus on the dog and the flowers. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.125,
+            0.4482758620689655,
+            0.19548872180451127
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a picturesque meadow filled with a variety of wildflowers, predominantly orange in color. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and energy. The dog's ears are flared back, and its tongue is hanging out, indicating its excitement. The background is blurred, emphasizing the dog's dynamic movement and the vibrant colors of the flowers. The overall atmosphere is one of freedom and happiness, as the dog seems to be enjoying its time in the open field.",
+        "score": [
+            0.12359550561797752,
+            0.3793103448275862,
+            0.1864406779661017
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are flared back, and its tongue is hanging out, giving it a playful and carefree expression. The wildflowers, with their bright orange petals, create a colorful backdrop that contrasts beautifully with the dog's fur. The sunlight casts a warm glow over the scene, highlighting the dog's fur and the flowers. The overall atmosphere is one of happiness and freedom, as the dog seems to be enjoying its time in the",
+        "score": [
+            0.12380952380952381,
+            0.4482758620689655,
+            0.19402985074626866
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its tongue out and ears flapping, and it appears to be having a great time. The flowers are bright and colorful, with a mix of yellow, orange, and purple hues, and they are scattered throughout the field. The background is slightly blurred, with a few more flowers visible, but the focus is on the dog and its joyful expression.",
+        "score": [
+            0.11764705882352941,
+            0.3448275862068966,
+            0.17543859649122806
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its tongue out and ears flapping, and it appears to be having a great time. The flowers are in full bloom, with their bright orange petals creating a colorful backdrop for the dog's playful antics. The background is slightly blurred, emphasizing the dog's joyful expression and the vibrant colors of the flowers.",
+        "score": [
+            0.125,
+            0.3448275862068966,
+            0.1834862385321101
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its tongue out and ears flapping, and it appears to be running or jumping with excitement. The flowers are in full bloom, with bright orange petals and green stems, and they are scattered throughout the field. The background is slightly blurred, with a warm, golden light illuminating the scene, suggesting a sunny day.",
+        "score": [
+            0.11392405063291139,
+            0.3103448275862069,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-leap, with its front legs off the ground and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, focusing attention on the dog and the flowers. The overall mood of the image is one of joy and freedom, capturing the carefree spirit of the dog as it runs through the field.",
+        "score": [
+            0.13861386138613863,
+            0.4827586206896552,
+            0.21538461538461542
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is mid-air, with its front legs extended and its tail wagging excitedly. The flowers are bright and colorful, with a variety of shades of yellow, orange, and purple. The background is slightly blurred, with a focus on the dog and the flowers. The overall mood of the image is one of joy and freedom, capturing the carefree spirit of the dog as it plays in the field.",
+        "score": [
+            0.1348314606741573,
+            0.41379310344827586,
+            0.20338983050847456
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, and its fur is golden and fluffy. The dog's tail is wagging, and it looks happy and excited. The wildflowers are bright and colorful, with a variety of colors such as yellow, orange, and purple. The background is slightly blurred, with a focus on the dog and the flowers. The overall mood of the image is one of joy and happiness.",
+        "score": [
+            0.12222222222222222,
+            0.3793103448275862,
+            0.18487394957983191
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, with its head held high and its tail wagging excitedly. The dog's fur is golden and fluffy, and it appears to be in motion, as if it is running or jumping. The wildflowers are bright and colorful, with a variety of colors such as yellow, orange, and purple. The flowers are tall and slender, and they sway gently in the breeze. The background is blurred, with a focus on the dog and the flowers. The overall mood",
+        "score": [
+            0.12264150943396226,
+            0.4482758620689655,
+            0.1925925925925926
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are perked up, and its tail is wagging energetically as it bounds through the field. The wildflowers, with their bright yellow petals, add a pop of color to the scene, creating a picturesque and lively atmosphere. The background is slightly blurred, emphasizing the dog's dynamic movement and the vibrant flowers.",
+        "score": [
+            0.15476190476190477,
+            0.4482758620689655,
+            0.23008849557522124
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue hanging out, indicating that it is happy and carefree. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field of wild",
+        "score": [
+            0.11926605504587157,
+            0.4482758620689655,
+            0.1884057971014493
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue hanging out, indicating its excitement and joy. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.12380952380952381,
+            0.4482758620689655,
+            0.19402985074626866
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, as it runs with excitement. The flowers are in the background, with their bright colors contrasting against the green grass. The sky is not visible, as the focus is on the dog and the flowers.",
+        "score": [
+            0.11594202898550725,
+            0.27586206896551724,
+            0.16326530612244897
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its body tilted forward, exuding an aura of excitement and freedom. The dog's fur is a rich, golden color, and its tail is wagging energetically, adding to the overall sense of joy and movement. The wildflowers are a variety of colors, including shades of yellow, orange, and purple, and they are scattered throughout the field, creating a colorful and lively backdrop for the dog's playful leap. The background is slightly blurred, emphasizing the dog and the",
+        "score": [
+            0.1346153846153846,
+            0.4827586206896552,
+            0.21052631578947364
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.1891891891891892,
+            0.4827586206896552,
+            0.27184466019417475
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs off the ground and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, but it appears to be a sunny day with a clear sky.",
+        "score": [
+            0.16666666666666666,
+            0.4482758620689655,
+            0.24299065420560748
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, create a colorful backdrop for the dog's playful moment. The sunlight casts a warm glow over the scene, highlighting the dog's fur and the flowers. The overall atmosphere is one of happiness and freedom, as the dog revels in the joy of running and playing",
+        "score": [
+            0.1188118811881188,
+            0.41379310344827586,
+            0.18461538461538457
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, create a colorful backdrop for the dog's playful moment. The sunlight casts a warm glow over the scene, highlighting the dog's fur and the flowers. The overall atmosphere is one of happiness and freedom, as the dog revels in the joy of running and playing",
+        "score": [
+            0.1188118811881188,
+            0.41379310344827586,
+            0.18461538461538457
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are perked up, and its tail is wagging energetically as it bounds through the field. The wildflowers, in various shades of yellow, orange, and purple, create a colorful backdrop for the dog's playful antics. The sunlight casts a warm glow over the scene, highlighting the dog's fur and the vibrant colors of the flowers. The overall atmosphere is one of carefree joy and natural beauty.",
+        "score": [
+            0.13,
+            0.4482758620689655,
+            0.20155038759689922
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, are scattered throughout the field, adding a pop of color to the scene. The sunlight casts a warm glow over the entire scene, highlighting the dog's fur and the vibrant colors of the flowers. The background is slightly blurred, emphasizing the dog's dynamic movement and",
+        "score": [
+            0.1188118811881188,
+            0.41379310344827586,
+            0.18461538461538457
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are flared back, and its tail is wagging energetically, creating a dynamic and lively atmosphere. The wildflowers, with their bright colors and delicate petals, contrast beautifully with the dog's fur, adding a touch of natural beauty to the scene. The background is slightly blurred, emphasizing the dog's movement and the vibrant colors of the flowers. The overall mood of the image is one of happiness and freedom,",
+        "score": [
+            0.11764705882352941,
+            0.41379310344827586,
+            0.183206106870229
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are perked up, and its tail is wagging energetically as it bounds through the field. The wildflowers, with their bright orange petals, create a colorful backdrop that contrasts beautifully with the dog's golden coat. The sunlight casts a warm glow over the scene, highlighting the dog's happy expression and the vibrant colors of the flowers. The overall atmosphere is one of carefree joy and natural beauty.",
+        "score": [
+            0.12871287128712872,
+            0.4482758620689655,
+            0.2
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue hanging out, indicating its excitement and joy. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field of wildflowers.",
+        "score": [
+            0.12149532710280374,
+            0.4482758620689655,
+            0.1911764705882353
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is mid-air, with its front legs extended and its body tilted forward, exuding an aura of excitement and freedom. The dog's fur is a rich, golden color, and its tail is wagging energetically, adding to the overall sense of joy and movement. The wildflowers are a variety of colors, including shades of yellow, orange, and purple, and they are scattered throughout the field, creating a colorful and lively backdrop for the dog's playful leap. The background is blurred, emphasizing the dog's dynamic motion and",
+        "score": [
+            0.1346153846153846,
+            0.4827586206896552,
+            0.21052631578947364
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its body tilted forward, exuding an aura of excitement and freedom. The dog's fur is a rich, golden color, and its tail is wagging energetically, adding to the overall sense of joy and movement. The wildflowers are a variety of colors, including shades of yellow, orange, and purple, and they are scattered throughout the field, creating a colorful and lively backdrop for the dog's playful leap. The background is blurred, emphasizing the dog's dynamic motion",
+        "score": [
+            0.1346153846153846,
+            0.4827586206896552,
+            0.21052631578947364
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its body tilted forward, exuding an aura of excitement and freedom. The dog's fur is a rich, golden color, and its ears are flapping back, adding to the dynamic motion captured in the image. The wildflowers surrounding the dog are a variety of bright orange and yellow hues, creating a vivid contrast against the dog's fur and the green grass. The background is blurred, emphasizing the dog and the flowers as the focal point of the image. The overall atmosphere of",
+        "score": [
+            0.12844036697247707,
+            0.4827586206896552,
+            0.20289855072463772
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, create a colorful backdrop for the dog's playful antics. The sunlight casts a warm glow over the scene, highlighting the dog's fur and the flowers. The overall atmosphere is one of carefree joy and natural beauty.",
+        "score": [
+            0.10869565217391304,
+            0.3448275862068966,
+            0.1652892561983471
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, create a colorful backdrop for the dog's playful antics. The sunlight casts a warm glow over the scene, highlighting the dog's fur and the flowers. The overall atmosphere is one of carefree joy and natural beauty.",
+        "score": [
+            0.10869565217391304,
+            0.3448275862068966,
+            0.1652892561983471
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is golden and fluffy, and it appears to be in a state of pure joy and excitement as it bounds through the field. The wildflowers are of various colors, including yellow, orange, and purple, and they create a beautiful and lively backdrop for the dog's playful antics. The sunlight shines brightly, casting a warm glow over the entire scene, and the air is filled with the sweet scent of the wildflowers. The dog's tail is wagging furiously as it leaps",
+        "score": [
+            0.11214953271028037,
+            0.41379310344827586,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever as the main subject. The dog is captured mid-leap, exuding joy and energy. Its fur is a rich, golden color, and it appears to be in motion, with its legs spread out and its tail wagging wildly. The background is filled with a variety of colorful wildflowers, adding to the lively and dynamic atmosphere of the image. The overall mood of the scene is one of happiness and freedom, as the dog seems to be enjoying its time in the open field.",
+        "score": [
+            0.11224489795918367,
+            0.3793103448275862,
+            0.1732283464566929
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is a rich, golden hue, and its tail is wagging excitedly as it bounds through the field. The wildflowers are a mix of different colors, including shades of yellow, orange, and purple, and they sway gently in the breeze. The background is slightly blurred, emphasizing the dog's joyful movement and the vibrant colors of the flowers. The overall atmosphere is one of happiness and freedom, capturing the carefree spirit of the dog as it plays in the field.",
+        "score": [
+            0.1346153846153846,
+            0.4827586206896552,
+            0.21052631578947364
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, and its fur is golden and fluffy. The dog's tail is wagging, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of colors such as yellow, orange, and purple. The background is slightly blurred, with a focus on the dog and the flowers. The overall mood of the image is one of joy and happiness.",
+        "score": [
+            0.11827956989247312,
+            0.3793103448275862,
+            0.18032786885245902
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and energy. The dog's ears are flared back, and its tongue is hanging out, giving it a playful and carefree expression. The background is slightly blurred, emphasizing the dog's dynamic movement and the bright colors of the wildflowers. The overall atmosphere is one of freedom and happiness, as the dog seems to be enjoying its time in the open field.",
+        "score": [
+            0.14606741573033707,
+            0.4482758620689655,
+            0.22033898305084745
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue hanging out, indicating its excitement and joy. The dog's fur is a light golden color, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.12264150943396226,
+            0.4482758620689655,
+            0.1925925925925926
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, as it runs with an expression of pure joy. The flowers are in full bloom, with their bright orange petals creating a colorful backdrop for the dog's playful antics. The background is slightly blurred, emphasizing the dog's movement and the vibrant colors of the flowers. The overall mood of the image is one of happiness and freedom, capturing the carefree spirit of the dog as it enjoys its time in the field.",
+        "score": [
+            0.10185185185185185,
+            0.3793103448275862,
+            0.1605839416058394
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, but it appears to be a grassy area with more wildflowers. The overall mood of the image is one of joy and freedom.",
+        "score": [
+            0.1590909090909091,
+            0.4827586206896552,
+            0.2393162393162393
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, with their bright colors and delicate petals, create a picturesque backdrop for the dog's playful moment. The sunlight casts a warm glow over the scene, highlighting the dog's happy expression and the beauty of the natural surroundings.",
+        "score": [
+            0.12941176470588237,
+            0.3793103448275862,
+            0.1929824561403509
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, are scattered throughout the field, adding a pop of color to the scene. The sunlight casts a warm glow over the entire scene, highlighting the dog's fur and the vibrant colors of the flowers.",
+        "score": [
+            0.1348314606741573,
+            0.41379310344827586,
+            0.20338983050847456
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, in various shades of yellow, orange, and purple, are scattered throughout the field, adding a pop of color to the scene. The sunlight casts a warm glow over the entire scene, highlighting the dog's fur and the vibrant colors of the flowers.",
+        "score": [
+            0.1348314606741573,
+            0.41379310344827586,
+            0.20338983050847456
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is golden and fluffy, and it appears to be in a state of pure joy and excitement as it runs and plays in the field. The wildflowers are of various colors, including yellow, orange, and purple, and they create a beautiful and lively backdrop for the dog's playful antics. The scene is full of energy and life, capturing the carefree and happy spirit of the dog as it enjoys its time in the field.",
+        "score": [
+            0.13,
+            0.4482758620689655,
+            0.20155038759689922
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is golden and fluffy, and it appears to be in a state of pure joy and excitement as it bounds through the field. The wildflowers are of various colors, including yellow, orange, and purple, and they create a beautiful and lively backdrop for the dog's playful antics. The sunlight shines brightly, casting a warm glow over the entire scene, and the air is filled with the sweet scent of the wildflowers. The dog's tail is wagging energetically, and",
+        "score": [
+            0.11428571428571428,
+            0.41379310344827586,
+            0.1791044776119403
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is a rich, golden color, and it is captured mid-leap, with its front legs off the ground and its tail wagging excitedly. The wildflowers are a mix of different colors, including yellow, orange, and purple, and they are scattered throughout the field, creating a beautiful and lively backdrop for the dog's joyful expression. The sunlight is bright and warm, casting a warm glow over the entire scene, and the overall atmosphere is one of happiness and freedom.",
+        "score": [
+            0.10576923076923077,
+            0.3793103448275862,
+            0.16541353383458646
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's tail is wagging energetically, and its ears are flapping in the wind. The wildflowers, with their bright orange petals, create a colorful backdrop that contrasts beautifully with the dog's golden coat. The sunlight casts a warm glow over the scene, highlighting the dog's happy expression and the vibrant colors of the flowers.",
+        "score": [
+            0.12790697674418605,
+            0.3793103448275862,
+            0.19130434782608696
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tail wagging excitedly. The dog's fur is a light golden color, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.12871287128712872,
+            0.4482758620689655,
+            0.2
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and energy. The dog's ears are flapping, and its tongue is hanging out, indicating its excitement. The wildflowers, with their bright orange petals, create a colorful backdrop that contrasts beautifully with the dog's fur. The background is slightly blurred, emphasizing the dog's dynamic movement and the vibrant colors of the flowers. The overall atmosphere is one of happiness and freedom, capturing the carefree spirit of the dog as it frolics in the field",
+        "score": [
+            0.11650485436893204,
+            0.41379310344827586,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, indicating excitement and joy. The dog's fur is golden and fluffy, and it appears to be in motion, as if it is running or jumping. The background of the image is blurred, with the flowers and grass creating a soft, natural setting. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field of wildflowers.",
+        "score": [
+            0.10679611650485436,
+            0.3793103448275862,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy, with the golden retriever's joyful leap capturing the essence of freedom and happiness. The vibrant wildflowers add a touch of color and beauty to the scene, creating a picturesque and lively atmosphere.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy. The golden retriever is in the center, leaping with joy and excitement. The field of wildflowers is vibrant and colorful, with a variety of flowers in different shades of yellow, orange, and purple. The flowers are tall and lush, and they sway gently in the breeze. The sky is clear and blue, and the sun is shining brightly, casting a warm glow over the scene. The grass is green and lush, and it provides a soft and comfortable surface for the dog to run and play on. The overall atmosphere is one of happiness and freedom, as the dog enjoys its time",
+        "score": [
+            0.10909090909090909,
+            0.41379310344827586,
+            0.17266187050359713
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy. The golden retriever is in the center, leaping with joy and excitement. The field of wildflowers is vibrant and colorful, with a variety of different flowers in shades of yellow, orange, and purple. The flowers are tall and bright, and they sway gently in the breeze. The sky is clear and blue, and the sun is shining brightly, casting a warm glow over the scene. The grass is green and lush, and it provides a soft and comfortable surface for the dog to run and play on. The overall atmosphere is one of happiness and freedom, as the dog enjoys its time",
+        "score": [
+            0.10909090909090909,
+            0.41379310344827586,
+            0.17266187050359713
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy. The golden retriever is in the center, leaping with joy and excitement. The field of wildflowers is vibrant and colorful, with a variety of flowers in different shades of yellow, orange, and purple. The flowers are tall and bright, and they create a beautiful backdrop for the dog's joyful leap. The sky is clear and blue, and the sun is shining brightly, casting a warm glow over the entire scene. The grass is green and lush, and it provides a soft and inviting surface for the dog to run and play on. The overall atmosphere is one of happiness and freedom,",
+        "score": [
+            0.1,
+            0.3793103448275862,
+            0.15827338129496404
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy, with the golden retriever's joyful leap capturing the essence of freedom and happiness. The vibrant wildflowers add a touch of color and beauty to the scene, creating a picturesque and lively atmosphere.",
+        "score": [
+            0.24390243902439024,
+            0.3448275862068966,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, with its head held high and its tail wagging excitedly. The dog's fur is golden and fluffy, and it appears to be in mid-leap, with its front paws off the ground. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and purple. The flowers are tall and slender, with long stems that sway gently in the breeze. The background of the image is blurred, with a soft focus that emphasizes",
+        "score": [
+            0.12380952380952381,
+            0.4482758620689655,
+            0.19402985074626866
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the center of the image, with its head held high and its tail wagging excitedly. The dog's fur is golden and fluffy, and it appears to be in mid-leap, with its front paws off the ground. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and purple. The flowers are tall and slender, with long stems and delicate petals. The background of the image is blurred, with a focus on the dog and the flowers",
+        "score": [
+            0.11428571428571428,
+            0.41379310344827586,
+            0.1791044776119403
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tail wagging excitedly. The flowers are in full bloom, with their bright orange petals creating a colorful backdrop for the dog's joyful expression. The background is slightly blurred, emphasizing the dog's movement and the vibrant colors of the flowers.",
+        "score": [
+            0.136986301369863,
+            0.3448275862068966,
+            0.19607843137254902
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head and front legs visible, and its body partially obscured by the flowers. The dog's fur is golden and fluffy, and it has a happy expression on its face. The flowers are bright and colorful, with a mix of yellow, orange, and purple hues. The background is slightly blurred, with a few more flowers visible. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field of wildflowers",
+        "score": [
+            0.11009174311926606,
+            0.41379310344827586,
+            0.17391304347826092
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head and front legs visible, and its body partially obscured by the flowers. The dog's fur is golden and fluffy, and it has a happy expression on its face. The flowers are bright and colorful, with a mix of yellow, orange, and white petals. The background is slightly blurred, with a few more flowers visible. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.11214953271028037,
+            0.41379310344827586,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever as the main subject. The dog is captured mid-leap, exuding joy and excitement. The dog's fur is a rich, golden color, and its tail is wagging energetically, adding to the overall sense of movement and energy in the image. The wildflowers surrounding the dog are a mix of colors, including yellow, orange, and purple, creating a visually appealing contrast with the dog's fur. The background is blurred, focusing attention on the dog and the flowers. The overall mood of the image is one of happiness and",
+        "score": [
+            0.09615384615384616,
+            0.3448275862068966,
+            0.15037593984962408
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever as the main subject. The dog is captured in mid-leap, exuding joy and excitement. The dog's fur is a rich, golden color, and its tail is wagging energetically, adding to the overall sense of movement and energy in the image. The wildflowers surrounding the dog are a mix of colors, including yellow, orange, and purple, creating a visually appealing contrast with the dog's fur. The background is blurred, focusing attention on the dog and the flowers. The overall mood of the image is one of happiness",
+        "score": [
+            0.09615384615384616,
+            0.3448275862068966,
+            0.15037593984962408
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is picturesque and full of life. The golden retriever, with its fluffy fur and wagging tail, is the focal point of the image. It is leaping through a field of vibrant wildflowers, which are in full bloom and add a splash of color to the scene. The flowers are of various shades of yellow, orange, and purple, creating a beautiful contrast with the golden retriever's fur. The dog's joyful expression and energetic movement add to the lively atmosphere of the image. The background is blurred, emphasizing the dog and the flowers, and the overall composition of the image is one of joy and freedom.",
+        "score": [
+            0.1388888888888889,
+            0.5172413793103449,
+            0.21897810218978103
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is a rich, golden color, and it appears to be in mid-leap, with its front legs off the ground and its tail wagging excitedly. The wildflowers are of various shades of yellow, orange, and purple, and they are scattered throughout the field, creating a beautiful and lively backdrop for the dog's joyful expression. The sky above is clear and blue, allowing the sunlight to shine down on the scene, illuminating the dog and the flowers.",
+        "score": [
+            0.09803921568627451,
+            0.3448275862068966,
+            0.15267175572519084
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is golden and fluffy, and it appears to be in a state of pure joy and excitement as it runs and plays in the field. The wildflowers are of various colors, including yellow, orange, and purple, and they are in full bloom, creating a beautiful and lively backdrop for the dog's playful antics. The sky above is clear and blue, allowing the sunlight to shine down on the scene, adding to the overall brightness and vibrancy of the image.",
+        "score": [
+            0.11428571428571428,
+            0.41379310344827586,
+            0.1791044776119403
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is a rich, golden color, and it is captured mid-leap, with its front legs off the ground and its tail wagging excitedly. The wildflowers are a mix of different colors, including yellow, orange, and purple, and they are scattered throughout the field. The background is slightly blurred, emphasizing the dog's joyful expression and the vibrant colors of the flowers. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying",
+        "score": [
+            0.10476190476190476,
+            0.3793103448275862,
+            0.16417910447761194
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, vibrant field of wildflowers, with a golden retriever joyfully leaping through the colorful blooms. The dog's fur is a rich, golden color, and it appears to be in mid-leap, with its front legs off the ground and its tail wagging excitedly. The wildflowers are of various shades of yellow, orange, and purple, and they are scattered throughout the field, creating a beautiful and lively backdrop for the dog's joyful expression. The sky above is clear and blue, allowing the sunlight to shine down on the scene, casting a warm glow over the entire scene.",
+        "score": [
+            0.09615384615384616,
+            0.3448275862068966,
+            0.15037593984962408
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a lush, green field filled with vibrant wildflowers. The golden retriever, with its fluffy, golden fur, is captured mid-leap, exuding joy and excitement. The dog's ears are perked up, and its tail is wagging energetically as it bounds through the field. The wildflowers, with their bright orange petals, add a pop of color to the scene, creating a picturesque and lively atmosphere. The background is slightly blurred, emphasizing the dog's dynamic movement and the vibrant flowers.",
+        "score": [
+            0.15476190476190477,
+            0.4482758620689655,
+            0.23008849557522124
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tail wagging excitedly. The dog's fur is a light golden color, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a few more wildflowers visible. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field.",
+        "score": [
+            0.1368421052631579,
+            0.4482758620689655,
+            0.20967741935483875
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in mid-air, with its front legs extended and its tail wagging excitedly. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and purple. The background is slightly blurred, with a warm, sunny light illuminating the scene.",
+        "score": [
+            0.13580246913580246,
+            0.3793103448275862,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, indicating excitement and joy. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field of wildflowers.",
+        "score": [
+            0.12380952380952381,
+            0.4482758620689655,
+            0.19402985074626866
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is mid-air, with its front legs extended and its body tilted forward, exuding an aura of excitement and freedom. The dog's fur is a rich, golden coat, and its tail is wagging energetically, adding to the overall sense of joy and movement. The wildflowers surrounding the dog are a variety of colors, including shades of yellow, orange, and purple, creating a vibrant and lively backdrop that complements the dog's energetic leap. The background is slightly blurred, emphasizing the dog and the flowers as the focal",
+        "score": [
+            0.1346153846153846,
+            0.4827586206896552,
+            0.21052631578947364
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, indicating excitement and joy. The dog's fur is golden and fluffy, and it is surrounded by a variety of colorful wildflowers, including orange, yellow, and purple flowers. The background is slightly blurred, with a focus on the dog and the flowers in the foreground. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in the field of wildflowers.",
+        "score": [
+            0.12380952380952381,
+            0.4482758620689655,
+            0.19402985074626866
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, focusing attention on the dog and the flowers. The overall mood of the image is one of joy and freedom.",
+        "score": [
+            0.16279069767441862,
+            0.4827586206896552,
+            0.24347826086956526
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.1891891891891892,
+            0.4827586206896552,
+            0.27184466019417475
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.1891891891891892,
+            0.4827586206896552,
+            0.27184466019417475
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, focusing attention on the dog and the flowers. The overall mood of the image is one of joy and freedom.",
+        "score": [
+            0.16279069767441862,
+            0.4827586206896552,
+            0.24347826086956526
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs off the ground and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, but it appears to be a sunny day with a clear sky.",
+        "score": [
+            0.16666666666666666,
+            0.4482758620689655,
+            0.24299065420560748
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog, with its fur a warm golden color, is captured mid-stride, exuding an aura of happiness and freedom. The dog's mouth is open, and its tongue is hanging out, suggesting it is panting or barking with excitement. The background is filled with a variety of wildflowers, predominantly orange and yellow, which contrast beautifully with the dog's fur, creating a vivid and lively scene. The flowers are scattered across the grassy field, adding a touch of natural beauty to the image. The lighting in the image is",
+        "score": [
+            0.14423076923076922,
+            0.5172413793103449,
+            0.22556390977443608
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, as it runs with excitement. The flowers are in full bloom, with their bright yellow petals creating a colorful backdrop for the dog's joyful expression. The background is slightly blurred, emphasizing the dog's movement and the vibrant colors of the flowers.",
+        "score": [
+            0.12987012987012986,
+            0.3448275862068966,
+            0.18867924528301885
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, as it runs and plays in the field. The flowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is slightly blurred, with a few more flowers visible, but the focus is on the dog and its joyful expression. The overall mood of the image is one of happiness and freedom, as the dog enjoys its time in the field of wildflowers.",
+        "score": [
+            0.11650485436893204,
+            0.41379310344827586,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, as it runs with excitement. The flowers are in full bloom, with their bright yellow petals creating a colorful backdrop for the dog's joyful leap. The background is slightly blurred, emphasizing the dog's movement and the vibrant colors of the flowers.",
+        "score": [
+            0.12987012987012986,
+            0.3448275862068966,
+            0.18867924528301885
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its head held high and its tongue out, as it runs and plays in the field. The flowers are bright and colorful, with a variety of shades of yellow, orange, and purple. The background is slightly blurred, with a few more flowers visible, but the focus is on the dog and its joyful expression. The overall mood of the image is one of happiness and freedom, as the dog enjoys its time in the field of wildflowers.",
+        "score": [
+            0.11650485436893204,
+            0.41379310344827586,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its tongue out and ears flapping, and it appears to be having a great time. The flowers are bright and colorful, with a mix of yellow, orange, and purple hues, and they are scattered throughout the field. The background is slightly blurred, with a greenish tint, suggesting a natural, outdoor setting. The overall mood of the image is one of joy and freedom, as the dog seems to be enjoying its time in the field of wildflowers.",
+        "score": [
+            0.11650485436893204,
+            0.41379310344827586,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs extended and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a variety of shades of yellow, orange, and red. The background is blurred, with a focus on the dog and the flowers. The overall mood of the image is one of joy and freedom.",
+        "score": [
+            0.16091954022988506,
+            0.4827586206896552,
+            0.24137931034482757
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs off the ground, and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright and colorful, with a mix of yellow, orange, and purple hues. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.18666666666666668,
+            0.4827586206896552,
+            0.2692307692307692
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is set in a field of vibrant wildflowers, with a golden retriever joyfully leaping through the flowers. The dog is in the foreground, with its mouth open and tongue out, indicating excitement and joy. The dog's fur is golden and fluffy, and it appears to be running or jumping with its front legs off the ground. The background is blurred, with the flowers in the foreground being the main focus. The flowers are bright and colorful, with a mix of yellow, orange, and white petals. The overall mood of the image is one of happiness and freedom, as the dog seems to be enjoying its time in",
+        "score": [
+            0.09090909090909091,
+            0.3448275862068966,
+            0.14388489208633093
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is in mid-air, with its front legs off the ground and its tail wagging. The dog's fur is golden and fluffy, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, but it appears to be a sunny day with a clear sky.",
+        "score": [
+            0.16666666666666666,
+            0.4482758620689655,
+            0.24299065420560748
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog is captured mid-stride, with its front legs off the ground and its tail wagging. The dog's fur is a light golden color, and it has a happy expression on its face. The wildflowers are bright orange and yellow, and they are scattered throughout the field. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.17333333333333334,
+            0.4482758620689655,
+            0.25
+        ]
+    }
+}

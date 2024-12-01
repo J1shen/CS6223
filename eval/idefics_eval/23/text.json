@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird is described as shimmering with emerald and sapphire feathers, and it is hovering gracefully above a cluster of vibrant orange flowers. In that moment, the hummingbird is delicately sipping nectar from the flowers.",
+        "score": [
+            0.5833333333333334,
+            0.6363636363636364,
+            0.6086956521739131
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.9696969696969697,
+            0.9696969696969697,
+            0.9696969696969697
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.9696969696969697,
+            0.9696969696969697,
+            0.9696969696969697
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.9696969696969697,
+            0.9696969696969697,
+            0.9696969696969697
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is described as shimmering with emerald and sapphire feathers, delicately sipping nectar from vibrant orange flowers. The sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.7666666666666667,
+            0.696969696969697,
+            0.7301587301587302
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a shimmering creature with emerald and sapphire feathers, delicately sipping nectar from vibrant orange flowers.",
+        "score": [
+            0.6,
+            0.36363636363636365,
+            0.4528301886792453
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is described as shimmering with emerald and sapphire feathers, delicately sipping nectar from a cluster of vibrant orange flowers. The sun casts a golden glow on the dew-kissed petals, creating a serene and picturesque scene.",
+        "score": [
+            0.6666666666666666,
+            0.7878787878787878,
+            0.7222222222222221
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is described as hovering gracefully above a cluster of vibrant orange flowers. It is delicately sipping nectar from the flowers, and the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.7428571428571429,
+            0.7878787878787878,
+            0.7647058823529412
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is described as hovering gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.9,
+            0.8181818181818182,
+            0.8571428571428572
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a shimmering creature with emerald and sapphire feathers as it hovers gracefully above a cluster of vibrant orange flowers. In that moment, the hummingbird is delicately sipping nectar from the flowers while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.6875,
+            1.0,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is described as hovering gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            0.9,
+            0.8181818181818182,
+            0.8571428571428572
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a small, iridescent bird with a long, slender beak and wings that beat rapidly as it hovers above vibrant orange flowers. In that moment, the hummingbird is sipping nectar from the flowers, using its long beak to reach the nectar deep within the flower.",
+        "score": [
+            0.2857142857142857,
+            0.42424242424242425,
+            0.34146341463414637
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird with emerald and sapphire feathers is delicately sipping nectar from vibrant orange flowers, with the sun casting a golden glow on the dew-kissed petals.",
+        "score": [
+            0.7857142857142857,
+            0.6666666666666666,
+            0.721311475409836
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            0.8181818181818182,
+            0.9
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    }
+}

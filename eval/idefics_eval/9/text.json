@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document features a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field.",
+        "score": [
+            0.5789473684210527,
+            0.39285714285714285,
+            0.46808510638297873
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is the first paragraph of the document.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document features a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "score": [
+            0.7714285714285715,
+            0.9642857142857143,
+            0.8571428571428572
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is the first paragraph of the document.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is the first paragraph of the text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is a peaceful and serene one, filled with natural beauty and tranquility. The butterfly's delicate wings dance amidst cascades of purple blooms swaying gently in the warm summer breeze, creating a picturesque and idyllic setting. This scene serves as a contrast to the rest of the text, which discusses the increasing addictive nature of various substances and technologies, highlighting the importance of appreciating and valuing the simple and natural aspects of life.",
+        "score": [
+            0.28888888888888886,
+            0.9285714285714286,
+            0.44067796610169485
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document features a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "score": [
+            0.7714285714285715,
+            0.9642857142857143,
+            0.8571428571428572
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document is: \"A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.\"",
+        "score": [
+            0.8,
+            1.0,
+            0.888888888888889
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document features a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "score": [
+            0.7714285714285715,
+            0.9642857142857143,
+            0.8571428571428572
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"April 2001, rev. April 2003\" and is not related to the main topic of the document.",
+        "score": [
+            0.35135135135135137,
+            0.4642857142857143,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"November 2009\".",
+        "score": [
+            0.5217391304347826,
+            0.42857142857142855,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"April 2001, rev. April 2003\" in the document.",
+        "score": [
+            0.4482758620689655,
+            0.4642857142857143,
+            0.456140350877193
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is not directly related to the document. It is a separate image or description that is not part of the text.",
+        "score": [
+            0.125,
+            0.10714285714285714,
+            0.11538461538461538
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not related to the provided text. The text is about programming languages, specifically Lisp, and its advantages in software development.",
+        "score": [
+            0.34210526315789475,
+            0.4642857142857143,
+            0.3939393939393939
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is not directly related to the document. It is a separate image or description that is not part of the text.",
+        "score": [
+            0.125,
+            0.10714285714285714,
+            0.11538461538461538
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is not directly related to the document's content, as it is a standalone image and not part of the text.",
+        "score": [
+            0.125,
+            0.10714285714285714,
+            0.11538461538461538
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\".",
+        "score": [
+            0.19718309859154928,
+            0.5,
+            0.2828282828282828
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the beginning of the essay, where the author starts by describing the summer of 1995 when he and his friend Robert Morris started a startup called Viaweb.",
+        "score": [
+            0.30434782608695654,
+            0.5,
+            0.3783783783783784
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not part of the document.",
+        "score": [
+            0.5652173913043478,
+            0.4642857142857143,
+            0.5098039215686274
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document, which focuses on startups, programming languages, and the challenges of starting a startup. However, it can be interpreted as a metaphor for the beauty and tranquility that can be found in nature, which can be a stark contrast to the challenges and difficulties faced in the startup world.",
+        "score": [
+            0.18421052631578946,
+            0.5,
+            0.2692307692307692
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the beginning of the essay, where the author starts by describing the summer of 1995 when he and his friend Robert Morris started a startup called Viaweb.",
+        "score": [
+            0.30434782608695654,
+            0.5,
+            0.3783783783783784
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not part of the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is a metaphorical description used to convey a sense of peace and tranquility. It is not a specific scene from the document, but rather a vivid and evocative image used to illustrate a point.",
+        "score": [
+            0.2549019607843137,
+            0.4642857142857143,
+            0.3291139240506329
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document, which discusses various aspects of startups, programming languages, and the challenges of working in large organizations. However, it can be interpreted as a metaphor for the beauty and tranquility that can be found in nature, which may serve as a contrast to the complexities and challenges discussed in the document.",
+        "score": [
+            0.1794871794871795,
+            0.5,
+            0.2641509433962264
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document, which focuses on startups, programming languages, and the challenges of working in large organizations. However, it can be interpreted as a metaphor for the beauty and freedom that can be found in the natural world, which is contrasted with the constraints and limitations of working in a large organization.",
+        "score": [
+            0.18181818181818182,
+            0.5,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document, which focuses on startups, programming languages, and the challenges of starting a startup. However, it can be interpreted as a metaphor for the beauty and tranquility that can be found in the natural world, which may serve as a contrast to the often chaotic and stressful world of startups.",
+        "score": [
+            0.18181818181818182,
+            0.5,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is a metaphorical description used to convey a sense of peace and tranquility. It is not a specific scene from the document, but rather a vivid and evocative image used to illustrate a point about the contrast between the natural world and the artificial world of big companies.",
+        "score": [
+            0.2,
+            0.4642857142857143,
+            0.27956989247311825
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not a part of the provided text.",
+        "score": [
+            0.52,
+            0.4642857142857143,
+            0.49056603773584906
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the content of the document. The document discusses various topics such as the addictive nature of technology, the importance of learning programming languages, and the challenges of starting a startup. The butterfly scene is not mentioned in the document.",
+        "score": [
+            0.22950819672131148,
+            0.5,
+            0.3146067415730337
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not part of the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document. It is a metaphor used to describe the author's experience of working with startup founders and noticing a difference between programmers working on their own startups and those working for large organizations.",
+        "score": [
+            0.21311475409836064,
+            0.4642857142857143,
+            0.29213483146067415
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the first paragraph of the text.",
+        "score": [
+            0.52,
+            0.4642857142857143,
+            0.49056603773584906
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"The Secret Weapon\" in the section \"The Blub Paradox.\"",
+        "score": [
+            0.43333333333333335,
+            0.4642857142857143,
+            0.4482758620689655
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the content of the document. The document discusses various topics such as the addictive nature of technology, the importance of learning Lisp, the challenges of starting a startup, and the potential for bias in selection processes.",
+        "score": [
+            0.22413793103448276,
+            0.4642857142857143,
+            0.3023255813953489
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the essay \"Ideas\" by Paul Graham.",
+        "score": [
+            0.48,
+            0.42857142857142855,
+            0.4528301886792452
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the essay \"Detecting Bias in Selection Processes\" by Paul Graham.",
+        "score": [
+            0.41379310344827586,
+            0.42857142857142855,
+            0.42105263157894735
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document. It is a separate image used to illustrate the contrast between the natural world and the artificial world of big companies.",
+        "score": [
+            0.2653061224489796,
+            0.4642857142857143,
+            0.3376623376623377
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not part of the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document. The document is about the design of programming languages and the process of creating a new dialect of Lisp. The butterfly scene is an unrelated anecdote used to illustrate the author's preference for a simple and straightforward answer to the question \"what do you do?\" when asked by others.",
+        "score": [
+            0.16666666666666666,
+            0.4642857142857143,
+            0.24528301886792456
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the essay \"The Blub Paradox\" by Paul Graham.",
+        "score": [
+            0.4444444444444444,
+            0.42857142857142855,
+            0.43636363636363634
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"April 2001, rev. April 2003\".",
+        "score": [
+            0.46153846153846156,
+            0.42857142857142855,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"March 2008, rev. June 2008\".",
+        "score": [
+            0.46153846153846156,
+            0.42857142857142855,
+            0.4444444444444445
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is a metaphorical one, not a literal scene. It is used to illustrate the concept of a target or goal that is being pursued in the context of designing a new dialect of Lisp.",
+        "score": [
+            0.13513513513513514,
+            0.17857142857142858,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not directly related to the main topic of the document, which discusses the acceleration of technological progress and its impact on addictions. However, it can be interpreted as a metaphor for the beauty and tranquility that can be lost as technology advances and the world becomes more addictive.",
+        "score": [
+            0.19696969696969696,
+            0.4642857142857143,
+            0.2765957446808511
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document is a peaceful and serene one, featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field. The delicate wings of the butterfly dance amidst cascades of purple blooms swaying gently in the warm summer breeze. This vivid imagery evokes a sense of tranquility and natural beauty, providing a stark contrast to the more intense and complex themes discussed in the rest of the document.",
+        "score": [
+            0.3561643835616438,
+            0.9285714285714286,
+            0.5148514851485149
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is not directly related to the document. It is a separate image or description that is not part of the text.",
+        "score": [
+            0.125,
+            0.10714285714285714,
+            0.11538461538461538
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is a vivid and peaceful one, featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field. The butterfly's delicate wings dance amidst cascades of purple blooms swaying gently in the warm summer breeze. This serene and picturesque setting evokes a sense of tranquility and natural beauty, providing a stark contrast to the more intense and complex themes discussed in the document.",
+        "score": [
+            0.38235294117647056,
+            0.9285714285714286,
+            0.5416666666666667
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described in the document is a vivid and peaceful one, featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field. The butterfly's delicate wings dance amidst cascades of purple blooms swaying gently in the warm summer breeze. The image evokes a sense of tranquility and beauty, and it serves as a contrast to the more serious and complex topics discussed in the document.",
+        "score": [
+            0.37681159420289856,
+            0.9285714285714286,
+            0.5360824742268041
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described is not directly related to the document. It is a separate image or description that is not part of the text.",
+        "score": [
+            0.125,
+            0.10714285714285714,
+            0.11538461538461538
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not related to the document provided. It seems to be an unrelated image or description.",
+        "score": [
+            0.36363636363636365,
+            0.42857142857142855,
+            0.3934426229508197
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\".",
+        "score": [
+            0.19718309859154928,
+            0.5,
+            0.2828282828282828
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is from the text \"October 2015\" in the document.",
+        "score": [
+            0.5,
+            0.4642857142857143,
+            0.4814814814814815
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A brilliant orange butterfly flutters gracefully above the sun-drenched lavender field, its delicate wings dancing amidst cascades of purple blooms swaying gently in the warm summer breeze.",
+        "prediction": "The scene described as featuring a brilliant orange butterfly fluttering gracefully above a sun-drenched lavender field is not present in the provided text.",
+        "score": [
+            0.5416666666666666,
+            0.4642857142857143,
+            0.5
+        ]
+    }
+}

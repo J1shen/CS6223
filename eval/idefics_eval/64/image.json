@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water at a lake, chasing after a bright orange frisbee. The dog appears to be enjoying the activity and is likely engaged in a game of fetch. The frisbee is in the air, and the dog is mid-stride, indicating that it is actively pursuing the toy. The water splashes around the dog, creating a dynamic and lively atmosphere. The background shows a blurred landscape with trees and possibly more water, suggesting that the scene is set in a natural, outdoor environment. The overall mood of the image is one of joy and playfulness, capturing",
+        "score": [
+            0.1588785046728972,
+            0.4722222222222222,
+            0.23776223776223776
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water, chasing after a bright orange frisbee. The dog is fully engaged in the activity, and the water splashes around it as it runs. The background shows a serene lake with a blurred view of trees and possibly a mountain in the distance. The frisbee is prominently visible in the air, and the dog's joyful expression and the splashing water suggest a fun and lively moment.",
+        "score": [
+            0.189873417721519,
+            0.4166666666666667,
+            0.26086956521739135
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water, chasing after a bright orange frisbee. The dog is fully engaged in the activity, and the water splashes around it as it runs. The background shows a serene lake with a blurred view of trees and possibly a mountain in the distance. The frisbee is prominently visible in the air, and the dog's joyful expression and the splashing water suggest a fun and lively moment.",
+        "score": [
+            0.189873417721519,
+            0.4166666666666667,
+            0.26086956521739135
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water, chasing after a bright orange frisbee. The dog appears to be enjoying the activity and is likely having a fun time. The background shows a serene and picturesque lake setting with trees and a clear sky, indicating a pleasant and sunny day. The frisbee is in mid-air, suggesting that the dog is actively pursuing it. The water splashes around the dog, adding to the dynamic and lively atmosphere of the image.",
+        "score": [
+            0.17647058823529413,
+            0.4166666666666667,
+            0.24793388429752067
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water at a lake, chasing after a bright orange frisbee. The dog appears to be enjoying the activity and is likely engaged in a game of fetch. The frisbee is in the air, and the dog is mid-stride, indicating that it is actively pursuing the toy. The water around the dog is splashing, and the background shows a blurred, natural landscape, possibly with trees and hills, suggesting that the location is outdoors and likely in a park or nature reserve. The overall mood of the image is one of joy and playfulness, capturing the",
+        "score": [
+            0.1588785046728972,
+            0.4722222222222222,
+            0.23776223776223776
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water, chasing after a bright orange frisbee. The dog appears to be enjoying the activity and is likely having a fun time. The frisbee is in the air, and the dog is mid-stride, indicating that it is actively pursuing the toy. The background shows a serene and picturesque lake setting, with trees and possibly hills in the distance, suggesting a peaceful and natural environment. The dog's fur is wet, indicating that it has been playing in the water, and its tongue is hanging out, which is a common sign of a happy and energetic dog",
+        "score": [
+            0.13761467889908258,
+            0.4166666666666667,
+            0.20689655172413793
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water, chasing after a bright orange frisbee. The dog appears to be enjoying the activity and is likely having a fun time. The background shows a serene and picturesque lake setting with trees and a clear sky, indicating a pleasant day. The frisbee is in mid-air, suggesting the dog is actively pursuing it. The water splashes around the dog, adding to the dynamic and lively atmosphere of the image.",
+        "score": [
+            0.18292682926829268,
+            0.4166666666666667,
+            0.2542372881355932
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing in the water, chasing a bright orange frisbee. The dog is in motion, with its tongue out and its fur slightly wet, indicating it is having fun and enjoying the activity. The frisbee is in the air, and the dog is likely trying to catch it. The background shows a serene lake with a blurred, out-of-focus view of trees and possibly a mountain, suggesting a peaceful and natural setting. The overall atmosphere is lively and joyful, capturing the playful nature of the dog and the outdoor activity.",
+        "score": [
+            0.1414141414141414,
+            0.3888888888888889,
+            0.20740740740740743
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the image, a golden retriever is running towards the water, chasing after a bright orange frisbee. The dog appears to be in motion, with its tongue out and ears flapping, indicating excitement and enthusiasm. The frisbee is in the air, slightly ahead of the dog, suggesting that the dog is actively pursuing it. The background shows a serene lake with gentle ripples on the water, indicating a calm environment. The scene is set outdoors, likely during the day, given the bright lighting and the clear visibility of the frisbee and the dog.\n\nThe dog's fur is golden, and it has a long",
+        "score": [
+            0.1346153846153846,
+            0.3888888888888889,
+            0.19999999999999998
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the image, a golden retriever is running through the water, chasing after a bright orange frisbee. The dog appears to be in motion, with its front legs slightly lifted off the ground, and its tail is wagging. The frisbee is in the air, slightly ahead of the dog, and the dog's mouth is open, suggesting it is barking or panting. The background shows a body of water, likely a lake, with a blurred, greenish background that could be trees or foliage. The water appears to be calm, with small ripples around the dog's legs as it runs through it.",
+        "score": [
+            0.14705882352941177,
+            0.4166666666666667,
+            0.2173913043478261
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and the surrounding environment. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, contributing to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, with its sun-drenched surface, suggests that the weather is warm and sunny, which adds to the overall positive and lively atmosphere of the scene. The dog's actions",
+        "score": [
+            0.12149532710280374,
+            0.3611111111111111,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall positive and lively atmosphere of the scene.",
+        "score": [
+            0.12871287128712872,
+            0.3611111111111111,
+            0.1897810218978102
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is enjoying the game of fetch. The frisbee is bright orange, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of energy and excitement, highlighting the joy and",
+        "score": [
+            0.11818181818181818,
+            0.3611111111111111,
+            0.1780821917808219
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.12871287128712872,
+            0.3611111111111111,
+            0.1897810218978102
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, contributing to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, contributing to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping into the water, indicating that it is enjoying the chase. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.14285714285714285,
+            0.3888888888888889,
+            0.208955223880597
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is running and jumping into the water, trying to catch the frisbee. The frisbee is in the air, and the dog is splashing water as it runs. The background shows a lake with trees and a mountain, and the sun is shining brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.17391304347826086,
+            0.3333333333333333,
+            0.22857142857142854
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and jumping into the water at a sun-drenched lake, chasing after a bright orange frisbee. The frisbee is in the air, and the dog is trying to catch it. The water is splashing around the dog as it runs.",
+        "score": [
+            0.375,
+            0.5,
+            0.42857142857142855
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is bright orange, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, indicating that it is a bright and sunny day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and joy, highlighting the playful nature of",
+        "score": [
+            0.1388888888888889,
+            0.4166666666666667,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is bright and sunny, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is bright and sunny, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and the surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is bright and sunny, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is bright and sunny, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, contributing to the overall cheerful and lively atmosphere of the scene.",
+        "score": [
+            0.1414141414141414,
+            0.3888888888888889,
+            0.20740740740740743
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and jumping into the water at a sun-drenched lake, chasing after a bright orange frisbee. The dog is mid-action, with its front legs off the ground and its mouth open, suggesting it is in the process of catching the frisbee. The frisbee is in the air, slightly blurred, indicating motion. The background shows a blurred, greenish landscape, possibly trees or hills, suggesting the scene is outdoors in a natural setting.",
+        "score": [
+            0.225,
+            0.5,
+            0.3103448275862069
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, indicating a clear and pleasant day. The dog's actions suggest that it is enjoying the activity and is likely having a good time.",
+        "score": [
+            0.12903225806451613,
+            0.3333333333333333,
+            0.18604651162790697
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is bright orange, which makes it stand out against the natural colors of the lake and the surrounding environment. The sun is shining, indicating that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and joy, capturing the essence",
+        "score": [
+            0.1388888888888889,
+            0.4166666666666667,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The bright orange frisbee is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's enthusiasm and the bright colors of the frisbee create a sense of joy and",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the game. The bright orange frisbee is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and excitement, highlighting the dog's",
+        "score": [
+            0.125,
+            0.3888888888888889,
+            0.1891891891891892
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The bright orange frisbee is the main object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and excitement, highlighting the dog",
+        "score": [
+            0.125,
+            0.3888888888888889,
+            0.1891891891891892
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The bright orange frisbee is the object of the dog's focus, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene.",
+        "score": [
+            0.14893617021276595,
+            0.3888888888888889,
+            0.21538461538461537
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and energy, capturing",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is chasing the frisbee. The frisbee is bright orange, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the scene is taking place during the day, and the water appears to be calm, allowing the dog to easily jump into it. The overall atmosphere of the scene is one of joy and playfulness, as the dog is enjoying",
+        "score": [
+            0.12037037037037036,
+            0.3611111111111111,
+            0.18055555555555555
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, indicating a clear and pleasant day. The dog's actions suggest that it is enjoying the activity and is likely having a fun time.",
+        "score": [
+            0.12903225806451613,
+            0.3333333333333333,
+            0.18604651162790697
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, indicating a clear and sunny day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and joy, capturing the essence",
+        "score": [
+            0.12962962962962962,
+            0.3888888888888889,
+            0.19444444444444445
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, indicating a clear and sunny day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and joy, capturing the essence",
+        "score": [
+            0.12962962962962962,
+            0.3888888888888889,
+            0.19444444444444445
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The frisbee is bright orange, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and joy, capturing the essence of a fun and care",
+        "score": [
+            0.12962962962962962,
+            0.3888888888888889,
+            0.19444444444444445
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the exercise. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of energy",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of joy",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the exercise. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of energy",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake and the dog's fur. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and freedom, as the dog is able to",
+        "score": [
+            0.11607142857142858,
+            0.3611111111111111,
+            0.1756756756756757
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee is a bright orange color, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of joy and excitement, making",
+        "score": [
+            0.11818181818181818,
+            0.3611111111111111,
+            0.1780821917808219
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The water splashes and ripples around the dog as it runs and jumps, creating a dynamic and",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is fully immersed in the activity of chasing the",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is fully immersed in the activity of chasing the",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue tones of the lake and surrounding environment. The sun's presence suggests a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the frisbee's bright color create a dynamic and visually appealing image, capturing the joy and excitement of the moment",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue tones of the lake and surrounding environment. The sun's presence suggests a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the frisbee's bright color create a dynamic and visually appealing image, capturing the joy and excitement of the moment",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the exercise. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of joy and excitement",
+        "score": [
+            0.11818181818181818,
+            0.3611111111111111,
+            0.1780821917808219
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the exercise. The frisbee is a bright orange color, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of joy and excitement, making",
+        "score": [
+            0.11818181818181818,
+            0.3611111111111111,
+            0.1780821917808219
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The bright orange frisbee is the focal point of the dog's attention, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, contributing to the overall positive and lively atmosphere of the scene.",
+        "score": [
+            0.14893617021276595,
+            0.3888888888888889,
+            0.21538461538461537
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and energy, highlighting",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of joy",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and excitement, highlighting the dog's",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and excitement, capturing a moment of",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake and the greenery in the background. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and excitement, capturing a moment",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake and the greenery in the background. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is fully immersed in the activity of chasing the",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, trying to catch the frisbee. The bright orange color of the frisbee stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining, indicating a bright and clear day, which adds to the overall lively and energetic atmosphere of the scene. The dog's actions and the setting suggest a moment of joy and excitement, as the dog is likely enjoying the thrill of the chase and",
+        "score": [
+            0.11711711711711711,
+            0.3611111111111111,
+            0.17687074829931973
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural green and blue colors of the lake and surrounding environment. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the game. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining brightly, suggesting that it is a clear and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee is a bright orange color, which stands out against the natural surroundings of the lake, making it easy to see. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and freedom, as the dog is",
+        "score": [
+            0.12612612612612611,
+            0.3888888888888889,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The bright orange frisbee is the main focus of the dog's attention, and it is likely that the dog is trying to catch it. The sun-drenched lake suggests that the weather is clear and bright, which adds to the overall positive and lively atmosphere of the scene. The dog's actions and the setting create a sense of joy and excitement, highlighting the simple",
+        "score": [
+            0.125,
+            0.3888888888888889,
+            0.1891891891891892
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee is a bright orange color, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The dog's actions and the bright colors of the frisbee create a sense of excitement and joy,",
+        "score": [
+            0.12727272727272726,
+            0.3888888888888889,
+            0.19178082191780818
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the game. The frisbee is bright orange, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that it is a bright and sunny day, which adds to the overall cheerful and lively atmosphere of the scene. The water splashes and ripples around the dog as it plays, creating a dynamic and lively visual effect. The",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is enjoying the game. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall lively and energetic atmosphere of the scene.",
+        "score": [
+            0.1326530612244898,
+            0.3611111111111111,
+            0.1940298507462687
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is enjoying the game. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall lively and energetic atmosphere of the scene.",
+        "score": [
+            0.1326530612244898,
+            0.3611111111111111,
+            0.1940298507462687
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall cheerful and lively atmosphere of the scene.",
+        "score": [
+            0.12871287128712872,
+            0.3611111111111111,
+            0.1897810218978102
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing at a sun-drenched lake. The dog is chasing a bright orange frisbee, which is in the air. The background is blurred, but it appears to be a natural setting with trees and possibly other animals. The dog is in motion, indicating it is actively engaged in the activity of chasing the frisbee.",
+        "score": [
+            0.25396825396825395,
+            0.4444444444444444,
+            0.32323232323232326
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing at a sun-drenched lake. The dog is chasing a bright orange frisbee, which is in the air. The background shows a blurred view of the lake and possibly some trees or plants. The dog appears to be enjoying the activity and is likely having a fun time.",
+        "score": [
+            0.27586206896551724,
+            0.4444444444444444,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and playing at a sun-drenched lake. The dog is chasing a bright orange frisbee, which is in the air. The background shows a blurred view of the lake and possibly some trees or plants. The dog appears to be enjoying its time and is likely having a fun and playful moment.",
+        "score": [
+            0.26666666666666666,
+            0.4444444444444444,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and jumping into the water, chasing a bright orange frisbee. The frisbee is in the air, and the dog is splashing water as it tries to catch it. The background shows a lake with trees and a mountain, indicating that the setting is outdoors and likely in a natural environment.",
+        "score": [
+            0.22413793103448276,
+            0.3611111111111111,
+            0.2765957446808511
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and jumping into the water while chasing a bright orange frisbee. The dog is in motion, and the water splashes around it. The background shows a lake with a blurred view of trees and possibly a mountain. The frisbee is in the air, and the dog's tongue is hanging out, indicating it is excited or panting.",
+        "score": [
+            0.2,
+            0.3611111111111111,
+            0.25742574257425743
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and jumping into the water, chasing after a bright orange frisbee. The dog is in motion, with its tongue out and its fur slightly wet from the water. The frisbee is in the air, and the dog is trying to catch it. The background shows a lake with some trees and a mountain in the distance, indicating that the scene is taking place outdoors in a natural setting.",
+        "score": [
+            0.18421052631578946,
+            0.3888888888888889,
+            0.25
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is running and jumping into the water, trying to catch the frisbee. The frisbee is in the air, and the dog is leaping towards it with its mouth open. The background is blurred, but it appears to be a sunny day with a lake and possibly some trees or plants. The dog is likely enjoying the activity and the excitement of the chase.",
+        "score": [
+            0.14457831325301204,
+            0.3333333333333333,
+            0.20168067226890757
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is running and jumping into the water, trying to catch the frisbee. The frisbee is in the air, and the dog is leaping towards it. The background is blurred, but it appears to be a lake with trees and possibly some hills in the distance. The dog is excited and focused on catching the frisbee.",
+        "score": [
+            0.14666666666666667,
+            0.3055555555555556,
+            0.19819819819819823
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is running and jumping into the water, trying to catch the frisbee. The frisbee is in the air, and the dog is leaping towards it. The background is blurred, but it appears to be a lake with trees and possibly some hills in the distance. The dog is excited and focused on catching the frisbee.",
+        "score": [
+            0.14666666666666667,
+            0.3055555555555556,
+            0.19819819819819823
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is enjoying the game. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.1326530612244898,
+            0.3611111111111111,
+            0.1940298507462687
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the image, a golden retriever is running and jumping into the water, chasing a bright orange frisbee. The dog is in mid-action, with its mouth open and tongue out, indicating excitement and enthusiasm. The frisbee is in the air, slightly blurred, suggesting motion. The background shows a lake with ripples and reflections, indicating the water's movement. The scene is set in a sunny environment, as suggested by the bright light and shadows. The dog's fur is wet, indicating it has been in the water. The overall atmosphere is lively and dynamic, capturing the joy and energy of the dog's playful activity",
+        "score": [
+            0.12264150943396226,
+            0.3611111111111111,
+            0.18309859154929578
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.12871287128712872,
+            0.3611111111111111,
+            0.1897810218978102
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog, with its golden fur, is running and jumping in the water, indicating that it is having fun and enjoying the moment. The frisbee, which is bright orange, is the object of the dog's focus, and it is likely that the dog is trying to catch it. The lake, which is sun-drenched, suggests that the weather is warm and sunny, contributing to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.12871287128712872,
+            0.3611111111111111,
+            0.1897810218978102
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is actively engaged in a playful activity. The dog is running and jumping into the water, indicating that it is having fun and enjoying the chase. The frisbee is bright orange, which stands out against the natural colors of the lake and the surrounding environment. The sun is shining, suggesting that the weather is clear and bright, which adds to the overall cheerful and lively atmosphere of the scene. The water splashes and ripples around the dog as it runs, creating a dynamic and energetic visual effect. The dog",
+        "score": [
+            0.12844036697247707,
+            0.3888888888888889,
+            0.19310344827586204
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene where a golden retriever is chasing a bright orange frisbee at a sun-drenched lake, the dog is running and jumping into the water, creating splashes. The frisbee is in the air, and the background shows a blurred view of the lake and possibly some trees.",
+        "score": [
+            0.22448979591836735,
+            0.3055555555555556,
+            0.2588235294117647
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a shiny coat is playfully splashing through the crystal-clear water of a sun-drenched lake, its tail wagging excitedly as it chases after a bright orange frisbee soaring through the air.",
+        "prediction": "In the scene, a golden retriever is running and jumping into the water, chasing after a bright orange frisbee. The dog is in motion, and the water splashes around it. The background shows a lake with trees and a mountain, indicating that the setting is outdoors and likely in a natural environment. The frisbee is in the air, suggesting that the dog is actively pursuing it.",
+        "score": [
+            0.21212121212121213,
+            0.3888888888888889,
+            0.27450980392156865
+        ]
+    }
+}

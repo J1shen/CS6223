@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunny day. The dog is fully engaged in the activity, with its fur glistening in the sunlight and water droplets splashing around it. The water appears to be calm and clear, reflecting the bright sunlight and creating a serene and picturesque setting. The dog's joyful expression and playful demeanor suggest that it is enjoying its time in the water. The overall atmosphere of the scene is one of happiness and carefree enjoyment, capturing the simple pleasures of a day spent outdoors with a beloved pet.",
+        "score": [
+            0.17757009345794392,
+            0.6551724137931034,
+            0.27941176470588236
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the image, there is a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is captured mid-action, with its front legs extended forward and its body slightly tilted to the side, indicating it is either running or jumping into the water. The dog's fur is wet and glistening, reflecting the sunlight, which creates a shimmering effect. The water around the dog is clear and reflects the light, giving it a sparkling appearance. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall scene is bright and",
+        "score": [
+            0.1834862385321101,
+            0.6896551724137931,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the image, there is a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is captured mid-action, with its front legs partially submerged in the water, and its tail wagging energetically. The dog's fur is glistening, reflecting the sunlight, and its mouth is open, possibly barking or panting. The water around the dog is rippling, indicating movement and the presence of waves. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall scene conveys a sense of joy and",
+        "score": [
+            0.18627450980392157,
+            0.6551724137931034,
+            0.29007633587786263
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever dog playing in the water. The dog is captured mid-action, with its front legs partially submerged in the water, and its back legs still on the shore. The dog's fur is golden and appears to be well-groomed, and it has a shiny, wet coat. The dog's mouth is open, and it is panting, indicating that it is enjoying the activity. The water around the dog is clear and reflects the sunlight, creating a shimmering effect. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall mood of the image",
+        "score": [
+            0.11009174311926606,
+            0.41379310344827586,
+            0.17391304347826092
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunny day. The dog is captured mid-action, with its front legs extended and its mouth open, as if it is enjoying the water. The water around the dog is rippling and splashing, indicating movement and energy. The sunlight is reflecting off the water, creating a shimmering effect that enhances the dog's golden coat. The background is blurred, focusing the viewer's attention on the dog and its playful activity. The overall atmosphere of the image is one of joy and carefree fun, capturing the essence",
+        "score": [
+            0.17592592592592593,
+            0.6551724137931034,
+            0.2773722627737226
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunny day. The dog is captured mid-action, with water droplets splashing around it, indicating that it is actively engaged in a playful activity. The golden retriever's fur is highlighted by the sunlight, giving it a radiant appearance. The water reflects the sunlight, creating a shimmering effect that enhances the overall brightness and clarity of the scene. The dog's expression and body language suggest that it is enjoying itself, adding to the lively and joyful atmosphere of the image.",
+        "score": [
+            0.18627450980392157,
+            0.6551724137931034,
+            0.29007633587786263
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever dog playing in the water. The dog is positioned in the center of the image, and it appears to be in motion, splashing water around it. The dog has a long, fluffy coat that is golden in color, and it is running or jumping in the water, creating a splash. The water is clear and reflects the sunlight, giving it a shimmering appearance. The background of the image is blurred, focusing attention on the dog and the water. The dog's mouth is open, and it seems to be panting or barking, indicating that it is enjoying the activity.\n\nThe image captures",
+        "score": [
+            0.10185185185185185,
+            0.3793103448275862,
+            0.1605839416058394
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever dog playing in the water. The dog is positioned in the center of the image, and it appears to be in motion, splashing water around itself. The dog has a long, fluffy coat that is golden in color, and it is actively engaged in an activity that involves water, possibly swimming or running through the water. The water is clear and reflects the sunlight, creating a shimmering effect. The background of the image is blurred, focusing attention on the dog and the water.\n\nThe dog's mouth is open, and its tongue is hanging out, indicating that it is panting or barking.",
+        "score": [
+            0.10185185185185185,
+            0.3793103448275862,
+            0.1605839416058394
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The document does not provide information about the specific scene or the dog's coat. However, it does mention that the dog is playfully splashing in the water.",
+        "score": [
+            0.25,
+            0.2413793103448276,
+            0.24561403508771928
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake.",
+        "score": [
+            1.0,
+            0.6551724137931034,
+            0.7916666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and the clarity of the water suggests that it is a calm and serene environment.",
+        "score": [
+            0.40384615384615385,
+            0.7241379310344828,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is in the foreground, and its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The dog's tail is wagging, indicating that it is enjoying the water and the moment. The water around the dog is calm and clear, with ripples created by the dog's movements. The sunlight is casting a warm glow over the scene, creating a serene and peaceful atmosphere. The background is blurred, focusing the viewer's attention on the dog and the water.",
+        "score": [
+            0.17592592592592593,
+            0.6551724137931034,
+            0.2773722627737226
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond\" depicts a joyful and carefree moment. The golden retriever, with its shiny, golden fur, is enjoying a refreshing and fun time in the water. The pond is described as crystal-clear, indicating that the water is clean and transparent, allowing for a clear view of the dog's playful actions. The sunlit setting suggests that the scene is taking place during a bright and sunny day, adding to the overall cheerful atmosphere. The dog's playful splashing in the water indicates that it is",
+        "score": [
+            0.18691588785046728,
+            0.6896551724137931,
+            0.29411764705882354
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sunlight, and its shimmering coat suggests that it is either wet or has a shiny, healthy fur. The crystal-clear waters of the lake indicate that it is a clean and well-maintained body of water, perfect for a dog to play in. The sunlit setting suggests that it is a bright and sunny day, ideal for outdoor activities like playing in the water.",
+        "score": [
+            0.20408163265306123,
+            0.6896551724137931,
+            0.3149606299212599
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque scene. The dog's playful behavior suggests it is having a fun and carefree moment, possibly chasing after fish or simply enjoying the water. The overall atmosphere of the scene is one of joy and relaxation, with the dog and the water creating a harmonious and peaceful environment.",
+        "score": [
+            0.19444444444444445,
+            0.7241379310344828,
+            0.30656934306569344
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit pond. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque setting. The dog's playful behavior suggests it is having a fun and carefree moment, possibly chasing after fish or simply enjoying the water. The overall atmosphere of the scene is one of joy and relaxation, with the dog's playful splashing adding to the lively and cheerful ambiance.",
+        "score": [
+            0.1834862385321101,
+            0.6896551724137931,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sunlight, and its shimmering coat suggests that it is either wet or has a shiny, healthy fur. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2631578947368421,
+            0.6896551724137931,
+            0.380952380952381
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The shimmering coat suggests that the dog's fur is glistening in the sunlight, adding to the overall beauty of the scene. The crystal-clear waters of the lake provide a perfect backdrop for the dog's playful splashing, making it a picturesque and enjoyable moment for both the dog and any observers.",
+        "score": [
+            0.21875,
+            0.7241379310344828,
+            0.33599999999999997
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is actively engaged in playfully splashing in the water. The water is described as crystal-clear, indicating that it is transparent and free of any visible impurities. The sunlit aspect of the scene suggests that the water is illuminated by the sun's rays, creating a bright and cheerful atmosphere. The overall setting appears to be a serene and picturesque location, likely a lake, where the dog is",
+        "score": [
+            0.21153846153846154,
+            0.7586206896551724,
+            0.3308270676691729
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws above the surface. The water around the dog is rippling and creating small waves as it moves. The sunlight is reflecting off the water, creating a shimmering effect on the dog's coat. The dog appears to be enjoying itself, and its tail is wagging happily. The scene is peaceful and serene, with the only sound being the gentle splashing of the dog in the water.",
+        "score": [
+            0.21212121212121213,
+            0.7241379310344828,
+            0.328125
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws above the surface. The sunlight reflects off the water, creating a shimmering effect on the dog's coat. The dog appears to be enjoying itself, as it is splashing and playing in the water.",
+        "score": [
+            0.31343283582089554,
+            0.7241379310344828,
+            0.4375
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shiny, golden fur, is enjoying a fun-filled time in the water. The lake is described as crystal-clear, indicating that the water is transparent and reflects the sunlight, creating a beautiful and serene environment. The sunlit aspect of the scene suggests that the weather is bright and sunny, adding to the overall cheerful atmosphere. The dog's playful splashing in the water indicates that it is having a great time, and",
+        "score": [
+            0.19811320754716982,
+            0.7241379310344828,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is actively engaged in playfully splashing in the crystal-clear waters of a sunlit lake. The scene is set in a serene and picturesque environment, with the sun providing ample light and illuminating the water, making it appear crystal-clear. The dog's playful behavior suggests a sense of freedom and joy, as it is fully immersed in the activity of splashing in the water. The overall atmosphere",
+        "score": [
+            0.20192307692307693,
+            0.7241379310344828,
+            0.3157894736842105
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described in the document is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its fur glistening in the sunlight. The water appears to be calm and clear, reflecting the sun's rays and creating a serene and picturesque scene. The dog's playful nature is evident from its actions, as it is splashing and enjoying the water. The overall atmosphere of the scene is one of joy and tranquility, with the dog's playful antics adding to the beauty of the natural setting.",
+        "score": [
+            0.19047619047619047,
+            0.6896551724137931,
+            0.2985074626865672
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond. The dog appears to be enjoying the water, and the sunlight is reflecting off its fur, creating a shimmering effect. The water is described as crystal-clear, indicating that it is likely a calm and serene environment. The overall atmosphere of the scene is one of joy and playfulness, as the dog is engaging in a fun activity.",
+        "score": [
+            0.25925925925925924,
+            0.7241379310344828,
+            0.38181818181818183
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully immersed in the water, with its fur glistening in the sunlight. The water appears to be calm and clear, reflecting the surrounding environment. The dog's playful behavior suggests that it is enjoying its time in the water, possibly chasing after something or simply frolicking around. The overall atmosphere of the scene is one of joy and relaxation, with the dog's presence adding a sense of liveliness and energy to the tranquil setting of the lake.",
+        "score": [
+            0.19230769230769232,
+            0.6896551724137931,
+            0.30075187969924816
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque setting. The dog's playful behavior suggests that it is having a fun and carefree moment, possibly chasing after fish or simply enjoying the water. The overall atmosphere of the scene is one of tranquility and joy, with the dog's playful antics adding to the beauty of the natural surroundings.",
+        "score": [
+            0.1981981981981982,
+            0.7586206896551724,
+            0.3142857142857143
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays reflecting off the water's surface. The lake's clarity suggests that it is a pristine and well-maintained body of water, providing a perfect environment for the dog to play and have fun. The sunlit aspect of the scene indicates that it is likely a bright and sunny day, which adds to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.20588235294117646,
+            0.7241379310344828,
+            0.32061068702290074
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the bright sunlight reflecting off its fur, creating a beautiful and serene moment.",
+        "score": [
+            0.4444444444444444,
+            0.6896551724137931,
+            0.5405405405405405
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and the crystal-clear water suggests that the lake is clean and free of pollution. The dog's shimmering coat indicates that it is well-groomed and healthy, and the sunlit setting suggests that the weather is pleasant and sunny.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and the clarity of the water suggests that it is a calm and serene environment.",
+        "score": [
+            0.40384615384615385,
+            0.7241379310344828,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and the crystal-clear water suggests that the lake is clean and pristine. The dog's shimmering coat indicates that it is well-groomed and healthy, and the sunlit setting suggests that the weather is pleasant and bright.",
+        "score": [
+            0.28,
+            0.7241379310344828,
+            0.40384615384615385
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shiny, golden fur, is enjoying a fun-filled time in the water. The lake is described as crystal-clear, indicating that the water is transparent and reflects the sunlight, creating a beautiful and serene environment. The sunlit aspect of the scene suggests that the weather is bright and sunny, adding to the overall cheerful atmosphere. The dog's playful splashing in the water indicates that it is having a great time, and",
+        "score": [
+            0.19811320754716982,
+            0.7241379310344828,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque scene. The dog's playful behavior suggests it is having a fun and carefree moment, possibly chasing after a stick or simply frolicking in the water. The overall atmosphere of the scene is one of joy and relaxation, with the dog and the water creating a harmonious and peaceful environment.",
+        "score": [
+            0.19090909090909092,
+            0.7241379310344828,
+            0.302158273381295
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its lustrous fur, is engaging in playful splashing activities in the clear and refreshing waters of a sunlit lake. The sunlight is likely reflecting off the water, creating a shimmering effect that enhances the beauty of the scene. The dog's playful behavior suggests a sense of freedom and enjoyment, as it is likely experiencing the simple pleasures of life. The clear water and bright sunlight contribute to the overall serene and picturesque",
+        "score": [
+            0.20754716981132076,
+            0.7586206896551724,
+            0.32592592592592595
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the dog's reflection can be seen on the surface. The dog's tail is wagging excitedly as it splashes around, creating small waves. The sun is shining brightly, casting a warm glow over the entire scene. The water is calm and still, with only a few ripples caused by the dog's playful movements. The dog's ears are perked up, and it seems to be",
+        "score": [
+            0.20754716981132076,
+            0.7586206896551724,
+            0.32592592592592595
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the dog's reflection can be seen on the surface. The dog's tail is wagging excitedly as it splashes around, creating small waves that ripple across the lake. The sun is shining brightly, casting a warm glow over the entire scene. The dog's joyful expression and playful demeanor suggest that it is enjoying its time in the water.",
+        "score": [
+            0.2222222222222222,
+            0.7586206896551724,
+            0.34375
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the dog's reflection can be seen on the surface. The dog's tail is wagging excitedly as it splashes around, creating small waves. The sunlight is reflecting off the water, creating a shimmering effect. The scene is peaceful and serene, with the only sound being the dog's playful splashing.",
+        "score": [
+            0.23333333333333334,
+            0.7241379310344828,
+            0.35294117647058826
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water around it is calm and reflects the light, creating a beautiful and serene scene. The dog appears to be enjoying itself, as it splashes and plays in the water.",
+        "score": [
+            0.328125,
+            0.7241379310344828,
+            0.45161290322580655
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog's fur glistens in the sunlight, and its joyful barks echo through the air as it frolics in the water. The lake's surface is calm and undisturbed, reflecting the vibrant colors of the sky above. The scene is serene and picturesque, capturing the carefree spirit of the dog and the beauty of nature.",
+        "score": [
+            0.28,
+            0.7241379310344828,
+            0.40384615384615385
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit pond. The scene is likely taking place during a sunny day, as indicated by the mention of sunlight. The dog's playful behavior suggests that it is enjoying the water and the moment, and the crystal-clear waters imply that the pond is clean and well-maintained. The overall atmosphere of the scene is one of",
+        "score": [
+            0.19811320754716982,
+            0.7241379310344828,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog's fur is glistening in the sunlight, and its tail is wagging excitedly as it frolics in the water. The lake's surface is calm and undisturbed, reflecting the surrounding trees and sky. The scene is serene and picturesque, capturing the joy and carefree nature of the dog as it enjoys its time in the water.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog's fur is glistening in the sunlight, and its tail is wagging excitedly as it frolics in the water. The lake's surface is calm and undisturbed, reflecting the vibrant colors of the sky above. The scene is serene and picturesque, capturing the joy and carefree spirit of the dog as it enjoys its time in the water.",
+        "score": [
+            0.26582278481012656,
+            0.7241379310344828,
+            0.38888888888888884
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described in the document is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun. The sunlit aspect of the scene suggests that it is a bright and cheerful day, adding to the overall positive and lively atmosphere of the scene.",
+        "score": [
+            0.19811320754716982,
+            0.7241379310344828,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described in the document is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun. The sunlit aspect of the scene suggests that it is a bright and cheerful day, adding to the overall positive and lively atmosphere of the scene.",
+        "score": [
+            0.19811320754716982,
+            0.7241379310344828,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely set in a serene and picturesque environment, with the sun providing ample light and warmth to the setting. The dog's playful behavior suggests a sense of freedom and enjoyment, as it is likely experiencing the simple pleasures of life. The crystal-clear waters of the lake add to the tranquil and refreshing",
+        "score": [
+            0.2037037037037037,
+            0.7586206896551724,
+            0.3211678832116788
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is enjoying the cool water and the bright sunlight reflecting off its fur, creating a beautiful and serene moment. The water is crystal-clear, allowing the dog to see clearly underwater and playfully splash around. The sunlit lake adds to the tranquil and picturesque setting, making it a perfect spot for the dog to have fun and enjoy the day.",
+        "score": [
+            0.23529411764705882,
+            0.6896551724137931,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully immersed in the water, its fur glistening in the sunlight. The water is so clear that the bottom of the lake is visible, and the sunlight reflects off the surface, creating a shimmering effect. The dog appears to be enjoying itself, as it is splashing and playing in the water.",
+        "score": [
+            0.2876712328767123,
+            0.7241379310344828,
+            0.4117647058823529
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws above the surface. The water is so clear that the dog's fur and the surrounding environment are visible, creating a vivid and refreshing scene. The sunlight reflects off the water, adding a shimmering effect to the dog's coat and the lake's surface. The dog appears to be enjoying its time in the water, as it is splashing and playing around.",
+        "score": [
+            0.20833333333333334,
+            0.6896551724137931,
+            0.32
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely taking place during a sunny day, as the water is described as crystal-clear and the sun is shining. The dog's playful behavior suggests that it is enjoying the water and the moment, and the clear water indicates a serene and peaceful environment.",
+        "score": [
+            0.23232323232323232,
+            0.7931034482758621,
+            0.359375
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely taking place during a sunny day, as the water is described as crystal-clear and the sun is shining. The dog's playful behavior suggests that it is enjoying the water and the moment, and the clear water indicates a serene and peaceful environment.",
+        "score": [
+            0.23232323232323232,
+            0.7931034482758621,
+            0.359375
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely taking place during a sunny day, as the water is described as crystal-clear and the sun is shining. The dog's playful behavior suggests that it is enjoying the water and the moment, and the clear water indicates a serene and peaceful environment.",
+        "score": [
+            0.23232323232323232,
+            0.7931034482758621,
+            0.359375
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely taking place during a sunny day, as the water is described as crystal-clear and the sun is shining. The dog's playful behavior suggests that it is enjoying the water and the moment, and the clear water indicates a serene and peaceful environment.",
+        "score": [
+            0.23232323232323232,
+            0.7931034482758621,
+            0.359375
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described in the document is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is enjoying the water, and its shimmering coat reflects the sunlight, creating a beautiful and serene image. The water is crystal-clear, allowing for a clear view of the dog's playful movements. The sun is shining brightly, providing ample light for the scene, and the overall atmosphere is one of joy and tranquility.",
+        "score": [
+            0.24390243902439024,
+            0.6896551724137931,
+            0.36036036036036034
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque setting. The dog's playful behavior suggests that it is having a fun and carefree moment, possibly chasing after fish or simply enjoying the water. The scene captures a joyful and lively moment in nature, showcasing the beauty of the dog and its interaction with the natural environment.",
+        "score": [
+            0.2037037037037037,
+            0.7586206896551724,
+            0.3211678832116788
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake.",
+        "score": [
+            1.0,
+            0.6551724137931034,
+            0.7916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake.",
+        "score": [
+            1.0,
+            0.6551724137931034,
+            0.7916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond.",
+        "score": [
+            0.9473684210526315,
+            0.6206896551724138,
+            0.75
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake.",
+        "score": [
+            1.0,
+            0.6551724137931034,
+            0.7916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the reflection of the dog and the surrounding environment can be seen on its surface. The sun is shining brightly, casting a warm glow over the scene. The dog appears to be enjoying itself, as it splashes and plays in the water.",
+        "score": [
+            0.24691358024691357,
+            0.6896551724137931,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond.",
+        "score": [
+            0.9473684210526315,
+            0.6206896551724138,
+            0.75
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws above the surface. Its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The water around the dog is calm and clear, allowing for a perfect view of the dog's playful movements. The sun is shining brightly, casting a warm glow over the scene and creating a serene and peaceful atmosphere.",
+        "score": [
+            0.23076923076923078,
+            0.7241379310344828,
+            0.35000000000000003
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake.",
+        "score": [
+            1.0,
+            0.6551724137931034,
+            0.7916666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws above the surface. Its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The water around the dog is calm and still, with only a few ripples caused by the dog's playful movements. The scene is serene and peaceful, with the dog enjoying its time in the water.",
+        "score": [
+            0.22727272727272727,
+            0.6896551724137931,
+            0.3418803418803419
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, allowing the dog to see through it and playfully splash around. The scene is likely taking place during a warm and sunny day, as indicated by the mention of the sunlit lake. The dog's shimmering coat suggests that it is well-groomed and healthy, and its playful behavior indicates that it is in a happy and carefree",
+        "score": [
+            0.2018348623853211,
+            0.7586206896551724,
+            0.31884057971014496
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the dog's reflection can be seen on the surface. The dog appears to be enjoying itself, as it is splashing around and creating small waves. The sun is shining brightly, casting a warm glow over the scene. The lake is surrounded by trees and greenery, adding to the serene and peaceful atmosphere.",
+        "score": [
+            0.2391304347826087,
+            0.7586206896551724,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the dog's reflection can be seen on the surface. The dog appears to be enjoying itself, as it is splashing and playing in the water. The scene is peaceful and serene, with the only sound being the dog's playful splashing.",
+        "score": [
+            0.25925925925925924,
+            0.7241379310344828,
+            0.38181818181818183
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and the crystal-clear water suggests that the lake is clean and free of pollution. The dog's shimmering coat indicates that it is well-groomed and healthy, and the sunlit lake adds to the overall serene and peaceful atmosphere of the scene.",
+        "score": [
+            0.2625,
+            0.7241379310344828,
+            0.38532110091743116
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, its fur glistening in the sunlight. The water is so clear that the dog's reflection can be seen on the surface. The dog appears to be enjoying itself, as it is splashing and playing in the water. The scene is peaceful and serene, with the only sound being the dog's playful splashing.",
+        "score": [
+            0.25925925925925924,
+            0.7241379310344828,
+            0.38181818181818183
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely taking place during a sunny day, as the water is described as crystal-clear and the sun is shining. The dog's playful behavior suggests that it is enjoying the water and the moment, and the shimmering coat indicates that the dog's fur is glistening in the sunlight. The overall",
+        "score": [
+            0.2169811320754717,
+            0.7931034482758621,
+            0.34074074074074073
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is engaging in playful splashing activities in the crystal-clear waters of a sunlit lake. The scene is likely taking place during a sunny day, as the water is described as crystal-clear and the sun is shining. The dog's playful behavior suggests that it is enjoying the water and the moment, and the shimmering coat indicates that the dog's fur is glistening in the sunlight. The overall",
+        "score": [
+            0.2169811320754717,
+            0.7931034482758621,
+            0.34074074074074073
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and the crystal-clear water suggests that the lake is clean and free of pollution. The sunlit aspect of the scene indicates that it is a bright and sunny day, which adds to the overall pleasant and lively atmosphere of the scene.",
+        "score": [
+            0.26582278481012656,
+            0.7241379310344828,
+            0.38888888888888884
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described as \"A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake\" depicts a joyful and carefree moment. The golden retriever, with its shimmering coat, is actively engaged in playfully splashing in the crystal-clear waters of a sunlit lake. The scene is set in a serene and picturesque environment, with the sun providing ample light and illuminating the water, making it appear crystal-clear. The dog's playful behavior suggests a sense of freedom and joy, as it is fully immersed in the activity of splashing in the water. The overall atmosphere",
+        "score": [
+            0.20192307692307693,
+            0.7241379310344828,
+            0.3157894736842105
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the warmth of the sun, and its shimmering coat suggests that it is either wet or has a reflective surface. The crystal-clear waters of the lake indicate that it is a calm and serene environment, perfect for a dog to play and have fun.",
+        "score": [
+            0.2727272727272727,
+            0.7241379310344828,
+            0.3962264150943396
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully immersed in the water, with its fur glistening in the sunlight. The water appears to be calm and clear, reflecting the surrounding environment. The dog's playful behavior suggests it is enjoying the water and possibly engaging in a fun activity. The overall atmosphere of the scene is serene and joyful, capturing the beauty of nature and the simple pleasures of a dog's playtime.",
+        "score": [
+            0.21739130434782608,
+            0.6896551724137931,
+            0.3305785123966942
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully immersed in the water, with its fur glistening in the sunlight. The water appears to be calm and clear, reflecting the surrounding environment. The dog's playful behavior suggests it is enjoying the water and possibly engaging in a fun activity. The overall atmosphere of the scene is serene and joyful, capturing the beauty of nature and the simple pleasures of a dog's playtime.",
+        "score": [
+            0.21739130434782608,
+            0.6896551724137931,
+            0.3305785123966942
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays reflecting off the water's surface. The golden retriever's fur is glistening, indicating that it is either wet or has been recently bathed. The water appears to be calm and clear, allowing for a good view of the dog's playful movements. The sun is likely shining brightly, casting a warm glow over the scene and making the water sparkle. The overall atmosphere of the image is one of joy and",
+        "score": [
+            0.1875,
+            0.7241379310344828,
+            0.29787234042553196
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays reflecting off the water's surface. The golden retriever's fur is glistening, indicating that it is either wet or has been recently bathed. The water appears to be calm and clear, allowing for a good view of the dog's playful movements. The sun is likely shining brightly, casting a warm glow over the scene and making the water sparkle. The overall atmosphere of the image is one of joy and",
+        "score": [
+            0.1875,
+            0.7241379310344828,
+            0.29787234042553196
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The scene described is of a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque setting. The dog's playful behavior suggests it is having a fun and carefree moment, possibly chasing after fish or simply enjoying the water. The overall atmosphere of the scene is one of joy and relaxation, with the dog's shimmering coat catching the sunlight and adding to the beauty of the scene.",
+        "score": [
+            0.18584070796460178,
+            0.7241379310344828,
+            0.295774647887324
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is in the foreground, and its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The dog's ears are perked up, and it appears to be enjoying the water, with its tongue hanging out and its tail wagging. The water around the dog is calm and clear, with ripples caused by the dog's movements. The sunlight creates a shimmering effect on the water's surface, adding to the serene and picturesque scene. The background is blurred",
+        "score": [
+            0.17757009345794392,
+            0.6551724137931034,
+            0.27941176470588236
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is captured mid-action, with its front legs extended forward and its body slightly tilted to the side, indicating a joyful and energetic moment. The dog's fur is golden and appears to be well-groomed, reflecting the sunlight and giving it a radiant appearance. The water around the dog is clear and reflects the sunlight, creating a sparkling effect. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall scene conveys a sense of freedom and",
+        "score": [
+            0.18181818181818182,
+            0.6896551724137931,
+            0.28776978417266186
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is captured mid-action, with its front legs extended forward and its body slightly tilted to the side, indicating a joyful and energetic moment. The dog's fur is golden and appears to be well-groomed, reflecting the sunlight and giving it a radiant appearance. The water around the dog is clear and reflects the sunlight, creating a sparkling effect. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall scene conveys a sense of freedom and",
+        "score": [
+            0.18181818181818182,
+            0.6896551724137931,
+            0.28776978417266186
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the image, there is a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is in the foreground, and its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The dog's mouth is open, and it seems to be enjoying the water, as indicated by its playful demeanor. The water around the dog is rippling, creating a dynamic and lively scene. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall atmosphere of the image is one of joy and freedom",
+        "score": [
+            0.1834862385321101,
+            0.6896551724137931,
+            0.2898550724637681
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is captured mid-action, with its front legs extended and its body partially submerged in the water. The sunlight creates a shimmering effect on the dog's coat, highlighting its golden fur. The water around the dog is clear and reflects the light, creating a sparkling effect. The overall atmosphere of the scene is one of joy and playfulness, as the dog appears to be enjoying its time in the water.",
+        "score": [
+            0.22916666666666666,
+            0.7586206896551724,
+            0.35200000000000004
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws above the surface. Its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The water around the dog is calm and clear, with small ripples caused by the dog's movements. The background of the image is blurred, with a few out-of-focus spots of light, possibly from the sun or other sources.",
+        "score": [
+            0.22580645161290322,
+            0.7241379310344828,
+            0.3442622950819672
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is mid-action, with its front paws in the water and its tail wagging excitedly. The sunlight reflects off the water, creating a shimmering effect that highlights the dog's fur. The background is blurred, emphasizing the dog as the main subject of the image.",
+        "score": [
+            0.3181818181818182,
+            0.7241379310344828,
+            0.4421052631578947
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is mid-action, with its front paws in the water and its tail wagging excitedly. The sunlight reflects off the water, creating a shimmering effect that highlights the dog's fur. The background is blurred, emphasizing the dog as the main subject of the image.",
+        "score": [
+            0.3181818181818182,
+            0.7241379310344828,
+            0.4421052631578947
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is fully submerged in the water, with its head and front paws visible above the surface. Its fur is glistening in the sunlight, reflecting the light and giving it a radiant appearance. The water around the dog is calm and undisturbed, with only a few ripples caused by the dog's playful movements. The background of the image is blurred, emphasizing the dog as the main subject.",
+        "score": [
+            0.23863636363636365,
+            0.7241379310344828,
+            0.358974358974359
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque setting. The dog's playful behavior suggests that it is having a fun and carefree moment, possibly chasing after fish or simply enjoying the water. The overall atmosphere of the scene is one of joy and relaxation, with the dog and the water creating a harmonious and peaceful environment.",
+        "score": [
+            0.2018348623853211,
+            0.7586206896551724,
+            0.31884057971014496
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog's fur is glistening in the sunlight, and its tail is wagging excitedly as it frolics in the water. The lake's surface is calm and reflective, creating a beautiful mirror-like effect. The dog's joyful expression and the serene surroundings make for a peaceful and idyllic scene.",
+        "score": [
+            0.3,
+            0.7241379310344828,
+            0.42424242424242425
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit pond. The dog appears to be enjoying the water, and the sunlight is reflecting off its fur, giving it a radiant appearance. The water is described as crystal-clear, indicating that it is likely a calm and serene environment. The overall atmosphere of the scene is one of joy and relaxation, as the dog seems to be having a delightful time in the water.",
+        "score": [
+            0.2441860465116279,
+            0.7241379310344828,
+            0.3652173913043478
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is mid-action, with its front paws in the water and its tail wagging excitedly. The sunlight creates a shimmering effect on the dog's fur as it splashes and plays in the water. The water is crystal-clear, allowing the reflection of the dog and the surrounding environment to be seen. The scene is set in a serene and picturesque location, with the dog bringing joy and energy to the tranquil setting.",
+        "score": [
+            0.22340425531914893,
+            0.7241379310344828,
+            0.3414634146341463
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "The image depicts a golden retriever with a shimmering coat playfully splashing in the crystal-clear waters of a sunlit lake. The dog is captured mid-action, with its front legs extended forward and its body slightly tilted to one side, indicating a joyful and energetic moment. The dog's fur is golden and appears to be well-groomed, reflecting the sunlight and giving it a radiant appearance. The water around the dog is clear and reflects the sunlight, creating a sparkling effect. The background of the image is blurred, focusing the viewer's attention on the dog and the water. The overall scene conveys a sense of freedom and",
+        "score": [
+            0.18181818181818182,
+            0.6896551724137931,
+            0.28776978417266186
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake, droplets sparkling like diamonds as they catch the afternoon sun.",
+        "prediction": "In the scene described, a golden retriever with a shimmering coat is playfully splashing in the crystal-clear waters of a sunlit lake. The dog is likely enjoying the cool water and the refreshing sensation of the sun's rays on its fur. The water appears to be calm and clear, reflecting the sunlight and creating a serene and picturesque setting. The dog's playful behavior suggests that it is having a fun and carefree moment, possibly chasing after a stick or simply frolicking in the water. The overall atmosphere of the scene is one of joy and relaxation, with the dog's playful antics adding to the sense of tranquility",
+        "score": [
+            0.1981981981981982,
+            0.7586206896551724,
+            0.3142857142857143
+        ]
+    }
+}

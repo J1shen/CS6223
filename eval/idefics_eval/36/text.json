@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like this: A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8529411764705882,
+            1.0,
+            0.9206349206349206
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like this: A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8529411764705882,
+            1.0,
+            0.9206349206349206
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like this: A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8529411764705882,
+            1.0,
+            0.9206349206349206
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like this: A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8529411764705882,
+            1.0,
+            0.9206349206349206
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene described in the document is one of a golden retriever joyfully leaping through a field of vibrant wildflowers. The dog's fur is glistening like sunlit honey, and as it runs, it sends a cascade of petals swirling in the gentle afternoon breeze. The image evokes a sense of joy, freedom, and the beauty of nature.",
+        "score": [
+            0.3793103448275862,
+            0.7586206896551724,
+            0.5057471264367817
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8529411764705882,
+            1.0,
+            0.9206349206349206
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers. The image is set in a gentle afternoon breeze, with a cascade of petals swirling around the dog as it plays in the field.",
+        "score": [
+            0.5319148936170213,
+            0.8620689655172413,
+            0.6578947368421053
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever is running and playing in a field of vibrant wildflowers. The dog is leaping and jumping, and the wildflowers are swaying and moving in the gentle afternoon breeze. The dog's fur is glistening in the sunlight, and the overall atmosphere is one of joy and freedom.",
+        "score": [
+            0.21666666666666667,
+            0.4482758620689655,
+            0.2921348314606742
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is one of pure joy and freedom as the golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers. The gentle afternoon breeze carries a cascade of petals swirling around the dog as it frolics in the field. The dog's tail is wagging wildly, and its ears are flapping in the wind, adding to the overall sense of exuberance and happiness. The wildflowers, with their bright colors and delicate petals, create a picturesque backdrop for the dog's playful antics, making the scene a truly idyllic and heartwarming moment.",
+        "score": [
+            0.24242424242424243,
+            0.8275862068965517,
+            0.37499999999999994
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever is happily running and playing in a field of colorful wildflowers. The dog is leaping and jumping with joy, surrounded by the vibrant and lively flowers. The flowers are of different colors, adding to the overall beauty and liveliness of the scene. The dog's fur is glistening in the sunlight, and the overall atmosphere is one of happiness and freedom.",
+        "score": [
+            0.13513513513513514,
+            0.3448275862068966,
+            0.1941747572815534
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is one of pure joy and freedom as the golden retriever, with its fur glistening like sunlit honey, leaps through a field of vibrant wildflowers. The dog's tail is wagging wildly, and it sends a cascade of petals swirling in the gentle afternoon breeze. The dog's movements are full of energy and enthusiasm, and it seems to be enjoying the simple pleasure of running and playing in the beautiful natural setting. The wildflowers add a touch of color and vibrancy to the scene, and the overall atmosphere is one of happiness and contentment.",
+        "score": [
+            0.27835051546391754,
+            0.9310344827586207,
+            0.42857142857142855
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment, with the golden retriever, full of energy and joy, leaping through a field of vibrant wildflowers. The dog's fur is glistening in the sunlight, and the wildflowers are swaying gently in the gentle afternoon breeze. The overall atmosphere is one of peace and happiness, with the dog's playful and carefree nature adding to the sense of joy and freedom.",
+        "score": [
+            0.22857142857142856,
+            0.5517241379310345,
+            0.3232323232323232
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The dog's joyful energy and the colorful wildflowers create a picturesque and lively atmosphere, filled with the sounds of the dog's playful barks and the gentle rustling of the flowers in the breeze.",
+        "score": [
+            0.359375,
+            0.7931034482758621,
+            0.4946236559139785
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The dog's joyful expression and the colorful wildflowers create a picturesque and lively atmosphere, filled with energy and happiness.",
+        "score": [
+            0.3877551020408163,
+            0.6551724137931034,
+            0.48717948717948717
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment in nature, with a golden retriever, a breed of dog known for its friendly and energetic nature, joyfully leaping through a field of vibrant wildflowers. The dog's fur is glistening in the sunlight, and the wildflowers are in full bloom, creating a colorful and lively backdrop for the dog's playful activity. The gentle afternoon breeze stirs the petals of the flowers, adding to the overall sense of tranquility and joy in the scene.",
+        "score": [
+            0.20238095238095238,
+            0.5862068965517241,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever is joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.7586206896551724,
+            0.7096774193548386
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is one of pure joy and freedom as the golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers. The gentle afternoon breeze carries the petals of the flowers, creating a picturesque and serene atmosphere. The dog's exuberant movements and the colorful flowers create a beautiful and lively scene, filled with the essence of nature and happiness.",
+        "score": [
+            0.31343283582089554,
+            0.7241379310344828,
+            0.4375
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is picturesque and serene, with a golden retriever exuding joy and energy as it leaps through a field of vibrant wildflowers. The dog's fur glistens in the sunlight, and the petals of the wildflowers swirl around it, creating a beautiful and lively atmosphere. The gentle breeze carries the sweet scent of the flowers, adding to the overall sense of tranquility and happiness. The dog's joyful expression and the vibrant colors of the wildflowers create a harmonious and uplifting scene, capturing the essence of nature's beauty and the simple pleasures in life.",
+        "score": [
+            0.16666666666666666,
+            0.5517241379310345,
+            0.256
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8148148148148148,
+            0.7586206896551724,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The dog's joyful expression and the colorful wildflowers create a picturesque and lively atmosphere, symbolizing happiness and freedom.",
+        "score": [
+            0.3958333333333333,
+            0.6551724137931034,
+            0.49350649350649356
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The dog's joyful leap sends a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.6444444444444445,
+            1.0,
+            0.7837837837837839
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8148148148148148,
+            0.7586206896551724,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8148148148148148,
+            0.7586206896551724,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is one of pure joy and freedom as the golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.717948717948718,
+            0.9655172413793104,
+            0.8235294117647058
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8148148148148148,
+            0.7586206896551724,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is picturesque and serene, with the golden retriever, full of energy and joy, leaping through a field of vibrant wildflowers. The dog's fur glistens in the sunlight, and the petals of the wildflowers swirl around it as it runs, creating a beautiful and lively image.",
+        "score": [
+            0.25,
+            0.41379310344827586,
+            0.31168831168831174
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8148148148148148,
+            0.7586206896551724,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of vibrant wildflowers, creating a cascade of petals in the gentle afternoon breeze.",
+        "score": [
+            0.5454545454545454,
+            0.6206896551724138,
+            0.5806451612903226
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is one of pure joy and freedom as the golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.717948717948718,
+            0.9655172413793104,
+            0.8235294117647058
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of vibrant wildflowers, creating a joyful and carefree atmosphere. The dog's fur is glistening in the sunlight, and the wildflowers are in full bloom, adding to the vibrant colors of the scene. The dog's tail is wagging happily as it plays and explores the field, surrounded by the natural beauty of the wildflowers.",
+        "score": [
+            0.16,
+            0.41379310344827586,
+            0.23076923076923078
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy. The golden retriever is in the center, leaping with joy and excitement. The field of wildflowers is vibrant and colorful, with a variety of different flowers in different shades of yellow, orange, red, and purple. The flowers are tall and lush, and they sway gently in the breeze. The sunlight is bright and warm, casting a golden glow over the entire scene. The grass is green and lush, and it provides a soft and comfortable surface for the dog to run and play on. The overall atmosphere is one of happiness and freedom, as the dog enjoys its time in the beautiful",
+        "score": [
+            0.10909090909090909,
+            0.41379310344827586,
+            0.17266187050359713
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of vibrant colors and energy. The golden retriever is leaping with joy, sending a cascade of petals swirling in the gentle afternoon breeze. The dog's fur glistens like sunlit honey, and the wildflowers are a mix of different colors, creating a beautiful and lively atmosphere.",
+        "score": [
+            0.3,
+            0.5172413793103449,
+            0.379746835443038
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is full of life and energy, with the golden retriever's joyful leap creating a cascade of petals swirling in the gentle afternoon breeze. The vibrant wildflowers add a splash of color to the scene, and the dog's enthusiasm is contagious, making the moment feel truly magical.",
+        "score": [
+            0.28,
+            0.4827586206896552,
+            0.35443037974683544
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is described as a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8148148148148148,
+            0.7586206896551724,
+            0.7857142857142857
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment, with the golden retriever running and playing in a field of vibrant wildflowers. The dog is likely jumping and leaping with excitement, surrounded by the colorful and lively flowers. The image evokes a sense of joy and freedom, as the dog is enjoying its time in the open space.",
+        "score": [
+            0.20689655172413793,
+            0.41379310344827586,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene is one of pure joy and freedom as the golden retriever, with its fur glistening like sunlit honey, leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping happily in a field filled with vibrant wildflowers. The dog's fur is glistening in the sunlight, and the flowers are swaying gently in the breeze. The overall atmosphere is one of joy and freedom, as the dog seems to be enjoying its time in the open space.",
+        "score": [
+            0.15384615384615385,
+            0.3448275862068966,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of vibrant wildflowers. The dog is full of energy and joy, and the wildflowers are colorful and lush, creating a picturesque and lively atmosphere.",
+        "score": [
+            0.25,
+            0.3793103448275862,
+            0.3013698630136986
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of vibrant wildflowers. The dog is full of energy and joy, and the wildflowers are colorful and lush, creating a picturesque and lively atmosphere.",
+        "score": [
+            0.25,
+            0.3793103448275862,
+            0.3013698630136986
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of vibrant wildflowers, creating a joyful and picturesque image.",
+        "score": [
+            0.3448275862068966,
+            0.3448275862068966,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment, with the golden retriever running and playing in a field of vibrant wildflowers. The dog is likely jumping and leaping with excitement, surrounded by the colorful and lively flowers. The field is full of life and energy, and the dog's joyful expression and movements add to the overall sense of happiness and freedom.",
+        "score": [
+            0.15873015873015872,
+            0.3448275862068966,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of vibrant wildflowers. The dog is full of energy and excitement, and the wildflowers are colorful and lush, creating a picturesque and joyful atmosphere.",
+        "score": [
+            0.25,
+            0.3793103448275862,
+            0.3013698630136986
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment, with the golden retriever running and playing in a field of colorful wildflowers. The dog's fur is glistening in the sunlight, and the flowers are swaying gently in the breeze. The overall atmosphere is one of joy and freedom, as the dog enjoys its time in the open space.",
+        "score": [
+            0.1694915254237288,
+            0.3448275862068966,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The gentle afternoon breeze is causing a cascade of petals to swirl around the dog, creating a picturesque and idyllic atmosphere.",
+        "score": [
+            0.48,
+            0.8275862068965517,
+            0.6075949367088608
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The gentle afternoon breeze stirs the petals of the wildflowers, creating a cascade of colors and a sense of tranquility and joy.",
+        "score": [
+            0.43137254901960786,
+            0.7586206896551724,
+            0.55
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.7435897435897436,
+            1.0,
+            0.8529411764705882
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene depicts a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers. The gentle afternoon breeze stirs the petals, creating a cascade of swirling colors around the dog. The image captures the carefree and playful nature of the dog as it frolics in the field, surrounded by the beauty of nature.",
+        "score": [
+            0.4,
+            0.8275862068965517,
+            0.5393258426966292
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever is running and playing in a field of vibrant wildflowers. The dog is leaping with joy, and the wildflowers are colorful and lush, creating a picturesque and idyllic setting.",
+        "score": [
+            0.21428571428571427,
+            0.3103448275862069,
+            0.2535211267605634
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, with its fur glistening like sunlit honey, and a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.6363636363636364,
+            0.7241379310344828,
+            0.6774193548387097
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and lively moment where a golden retriever is running and jumping through a field of colorful wildflowers. The dog is full of energy and enthusiasm, and the wildflowers are vibrant and lush, creating a picturesque and joyful atmosphere.",
+        "score": [
+            0.22727272727272727,
+            0.3448275862068966,
+            0.273972602739726
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene landscape with a golden retriever as the main subject. The dog is in the center of the image, and it is captured in mid-leap, with its body gracefully arched and its tail wagging excitedly. The dog's fur is glistening in the sunlight, and its joyful expression is evident on its face. The field of wildflowers is vibrant and colorful, with a variety of flowers in different shades of yellow, pink, purple, and blue. The flowers are scattered across the field, creating a sense of abundance and natural beauty. The gentle breeze rustles the flowers, adding to",
+        "score": [
+            0.16037735849056603,
+            0.5862068965517241,
+            0.2518518518518518
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a beautiful and serene moment where a golden retriever, with its fur glistening like sunlit honey, is joyfully leaping through a field of vibrant wildflowers. The gentle afternoon breeze stirs up a cascade of petals, creating a picturesque and idyllic setting.",
+        "score": [
+            0.4888888888888889,
+            0.7586206896551724,
+            0.5945945945945945
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8461538461538461,
+            0.7586206896551724,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever, with its fur glistening like sunlit honey, joyfully leaps through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "prediction": "The scene looks like a golden retriever, with its fur glistening like sunlit honey, joyfully leaping through a field of vibrant wildflowers, sending a cascade of petals swirling in the gentle afternoon breeze.",
+        "score": [
+            0.8787878787878788,
+            1.0,
+            0.9354838709677419
+        ]
+    }
+}

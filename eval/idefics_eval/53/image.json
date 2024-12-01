@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched on its web, which is intricately woven and glistening with dew. The web is positioned in a way that it appears to be a perfect balance of strength and beauty. The spider is a vibrant red color with distinctive markings, and it seems to be in the midst of its daily activities, possibly hunting for prey or repairing its web. The garden itself is lush and green, with various plants and flowers in the background, creating a serene and natural setting. The sunlight casts a warm glow over the scene, highlighting the spider's web",
+        "score": [
+            0.09821428571428571,
+            0.4074074074074074,
+            0.158273381294964
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched on a web that it has skillfully constructed. The web is intricately designed with a complex pattern of threads that radiate from a central point, forming a symmetrical and almost perfect circle. The spider is positioned at the center of the web, its body slightly raised, and its legs spread out, giving it a sense of balance and control. The web is glistening with dew, and the sunlight casts a golden glow on the spider and its web, highlighting the intricate details and the delicate nature of the spider's work. The",
+        "score": [
+            0.11009174311926606,
+            0.4444444444444444,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its web. The spider is positioned at the center of the web, which is intricately woven with fine, glistening threads. The web is a complex network of lines that radiate outward from the spider, forming a perfect geometric pattern. The spider's body is a vibrant red color with distinctive markings, and it is actively moving, likely in search of prey or to maintain the integrity of its web. The web is suspended between two points, possibly the tips of leaves or small twigs, and it glistens with dew or spider silk, giving it",
+        "score": [
+            0.102803738317757,
+            0.4074074074074074,
+            0.16417910447761194
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its web. The spider is positioned at the center of the web, which is intricately woven with fine, glistening threads. The web is a complex network of lines that radiate from a central point, forming a symmetrical pattern. The spider's body is a vibrant red color with distinctive markings, and it appears to be actively engaged in its web-building process. The web is suspended between two points, possibly branches or stems, and the surrounding area is filled with green foliage, indicating a lush and vibrant garden environment. The sunlight casts a warm glow on",
+        "score": [
+            0.10091743119266056,
+            0.4074074074074074,
+            0.16176470588235295
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its web. The spider is positioned at the center of the web, which is intricately woven with fine, glistening threads. The web is a complex network of lines that radiate from a central point, forming a symmetrical pattern. The spider's body is a vibrant red color with distinctive markings, and it appears to be actively engaged in its web-building process. The web is suspended between two points, possibly branches or stems, and the sunlight casts a warm glow on the scene, highlighting the spider's work and the delicate nature of its web. The",
+        "score": [
+            0.10091743119266056,
+            0.4074074074074074,
+            0.16176470588235295
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its web. The spider is positioned at the center of the web, which is intricately woven with fine, glistening threads. The web is a complex network of lines that radiate from a central point, forming a symmetrical pattern. The spider's body is a vibrant red color with distinctive markings, and it appears to be actively engaged in its web-building process. The web is suspended between two points, possibly branches or stems, and it glistens with dew or spider silk, giving it a shimmering appearance. The background of the image is blurred",
+        "score": [
+            0.10377358490566038,
+            0.4074074074074074,
+            0.16541353383458646
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its web. The spider is positioned at the center of the web, which is intricately woven with fine, glistening threads. The web is a complex network of lines that radiate from a central point, forming a symmetrical pattern. The spider's body is a vibrant red color with distinctive markings, and it appears to be actively engaged in its web-building process. The web is suspended between two points, possibly branches or stems, and the sunlight casts a warm glow on the scene, highlighting the delicate nature of the spider's work. The background of the",
+        "score": [
+            0.10091743119266056,
+            0.4074074074074074,
+            0.16176470588235295
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched in the center of its web, which is intricately spun and glistening with dew. The web is a complex network of fine, silken threads that radiate from a central point, forming a perfect orb web. The spider's body is a vibrant orange-red color with a distinctive pattern of black markings, and it is positioned in the center of the web, seemingly surveying its surroundings. The web is set against a backdrop of lush green foliage, with the sunlight casting a warm glow over the scene. The garden appears to be",
+        "score": [
+            0.11009174311926606,
+            0.4444444444444444,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched in the center of its web, which is intricately spun and glistening with dew. The web is a complex network of fine, silken threads that radiate from a central point, forming a perfect orb web. The spider's body is a vibrant red color with distinctive markings, and it appears to be in the process of repairing or maintaining its web. The web is positioned against a backdrop of lush green foliage, with sunlight filtering through the leaves, creating a warm and inviting atmosphere. The garden is filled with various plants and flowers",
+        "score": [
+            0.10909090909090909,
+            0.4444444444444444,
+            0.1751824817518248
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "A spider is sitting in the center of its web.",
+        "score": [
+            0.5,
+            0.18518518518518517,
+            0.2702702702702703
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.1388888888888889,
+            0.37037037037037035,
+            0.20202020202020202
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the fine details of its craftsmanship. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a vital part of the ecosystem, helping to catch insects and other small creatures that might otherwise harm the garden.",
+        "score": [
+            0.09523809523809523,
+            0.37037037037037035,
+            0.15151515151515152
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the fine details of its craftsmanship. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a vital part of the ecosystem, helping to catch prey and protect the spider from predators.",
+        "score": [
+            0.09900990099009901,
+            0.37037037037037035,
+            0.15625
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the fine details of its craftsmanship. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a vital part of the ecosystem, helping to catch prey and protect the spider from predators.",
+        "score": [
+            0.09900990099009901,
+            0.37037037037037035,
+            0.15625
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.1388888888888889,
+            0.37037037037037035,
+            0.20202020202020202
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the web, highlighting its delicate beauty and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the web, highlighting the delicate details and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves its web with precision and care. The sunlight casts a warm glow on the web, highlighting the delicate details and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its web. The spider is meticulously weaving a complex pattern of silk threads, creating a symmetrical and intricate structure that will serve as its home and trap for prey. The sunlight casts a warm glow on the spider's web, highlighting the fine details of its craftsmanship. The garden, with its lush green foliage and vibrant flowers, provides a serene and picturesque backdrop for this natural scene. The spider's web is a testament to its patience and skill, as it carefully threads each strand with precision and care.",
+        "score": [
+            0.11764705882352941,
+            0.4444444444444444,
+            0.18604651162790695
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and beautiful structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.15714285714285714,
+            0.4074074074074074,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a trap for its prey.",
+        "score": [
+            0.1276595744680851,
+            0.4444444444444444,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and beautiful structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.15714285714285714,
+            0.4074074074074074,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the intricate patterns and details of its work. The spider's web is a marvel of nature, showcasing the spider's skill and patience as it works tirelessly to create a safe and efficient hunting ground.",
+        "score": [
+            0.13924050632911392,
+            0.4074074074074074,
+            0.20754716981132074
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning the intricate threads that will serve as its trap for catching prey. The web is a marvel of engineering, with its symmetrical patterns and strong yet flexible structure. The spider's movements are precise and methodical, as it skillfully weaves the web into place. The sunlight casts a warm glow on the scene, highlighting the spider's work and the surrounding garden, which is filled with various plants and flowers. The garden is a peaceful and serene environment, providing the perfect setting for the spider's activities.",
+        "score": [
+            0.10185185185185185,
+            0.4074074074074074,
+            0.16296296296296298
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a trap for its prey.",
+        "score": [
+            0.1276595744680851,
+            0.4444444444444444,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a intricate and beautiful structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.16176470588235295,
+            0.4074074074074074,
+            0.23157894736842105
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and wonder that can be found in even the smallest of creatures.",
+        "score": [
+            0.10679611650485436,
+            0.4074074074074074,
+            0.1692307692307692
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the intricate patterns and details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11578947368421053,
+            0.4074074074074074,
+            0.18032786885245902
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful environment for the spider to work undisturbed.",
+        "score": [
+            0.15942028985507245,
+            0.4074074074074074,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its intricate web, carefully spinning threads to create a complex pattern. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11827956989247312,
+            0.4074074074074074,
+            0.18333333333333335
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its intricate web, using its eight legs to carefully weave the threads together. The sunlight casts a warm glow on the spider and its web, highlighting the intricate patterns and details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a marvel of nature, showcasing its skill and patience as it works to create a safe and efficient trap for its prey.",
+        "score": [
+            0.1111111111111111,
+            0.4074074074074074,
+            0.1746031746031746
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and complex structure. The sunlight casts a warm glow on the spider's web, highlighting the intricate patterns and details of its work. The spider's web is a marvel of engineering and a testament to the spider's skill and patience. As the spider continues to work, it is a reminder of the beauty and wonder that can be found in even the smallest and most delicate of creatures.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting its delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.14285714285714285,
+            0.37037037037037035,
+            0.20618556701030927
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting its delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.1388888888888889,
+            0.37037037037037035,
+            0.20202020202020202
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting its delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.14285714285714285,
+            0.37037037037037035,
+            0.20618556701030927
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting its delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.14285714285714285,
+            0.37037037037037035,
+            0.20618556701030927
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.16176470588235295,
+            0.4074074074074074,
+            0.23157894736842105
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and secure home.",
+        "score": [
+            0.12087912087912088,
+            0.4074074074074074,
+            0.1864406779661017
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning the intricate threads that will serve as its home and trap for prey. The sunlight casts a warm glow on the spider's web, highlighting the delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.14666666666666667,
+            0.4074074074074074,
+            0.21568627450980393
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, using its silk threads to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are slow and deliberate, as it carefully weaves each strand into place. The sunlight casts a warm glow on the web, highlighting its beauty and the spider's skill. The garden is a peaceful and serene environment, with the spider's web being a testament to the natural world's beauty and complexity.",
+        "score": [
+            0.09900990099009901,
+            0.37037037037037035,
+            0.15625
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting its delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and beautiful structure.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its intricate web, using its silk threads to create a complex pattern. The sunlight casts a warm glow on the spider and its web, highlighting the delicate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves each thread into place, creating a beautiful and functional piece of art.",
+        "score": [
+            0.1134020618556701,
+            0.4074074074074074,
+            0.1774193548387097
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting its delicate patterns and the spider's busy activity. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.14285714285714285,
+            0.37037037037037035,
+            0.20618556701030927
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and beautiful structure.",
+        "score": [
+            0.1276595744680851,
+            0.4444444444444444,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and beautiful structure.",
+        "score": [
+            0.1276595744680851,
+            0.4444444444444444,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and effective trap for catching prey.",
+        "score": [
+            0.12371134020618557,
+            0.4444444444444444,
+            0.1935483870967742
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the delicate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a trap for its prey.",
+        "score": [
+            0.1276595744680851,
+            0.4444444444444444,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the delicate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the intricate patterns and details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful environment for the spider to work in. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and effective trap for catching prey.",
+        "score": [
+            0.12121212121212122,
+            0.4444444444444444,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its web, carefully spinning threads and weaving them into a intricate pattern. The sunlight casts a warm glow on the spider's web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its web, carefully spinning threads and weaving them into a intricate pattern. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11578947368421053,
+            0.4074074074074074,
+            0.18032786885245902
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its intricate web, using its eight legs to carefully weave the threads together. The sunlight casts a warm glow on the spider and its web, highlighting the intricate patterns and details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its intricate web, using its eight legs to carefully weave the threads together. The sunlight casts a warm glow on the spider and its web, highlighting the intricate patterns and details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully captures and entangles any unsuspecting insects that wander into its trap.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing its web, carefully spinning threads to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and effective trap for catching prey.",
+        "score": [
+            0.12371134020618557,
+            0.4444444444444444,
+            0.1935483870967742
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is busy constructing its intricate web, using its eight legs to carefully weave the threads together. The sunlight casts a warm glow on the spider and its web, highlighting the intricate patterns and details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it works tirelessly to create a safe and efficient trap for its prey.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and beautiful structure.",
+        "score": [
+            0.1276595744680851,
+            0.4444444444444444,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider's web, highlighting the intricate patterns and details of its work. The spider's web is a marvel of engineering and a testament to the spider's skill and patience. As the spider continues to work, it is surrounded by the beauty and tranquility of the garden, with plants and flowers providing a serene backdrop to its labor.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a intricate and complex structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, as it carefully weaves together the threads to create a sturdy and effective trap for catching prey.",
+        "score": [
+            0.12121212121212122,
+            0.4444444444444444,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of nature, with its symmetrical patterns and precise construction. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details and the beauty of the natural world. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's work.",
+        "score": [
+            0.10476190476190476,
+            0.4074074074074074,
+            0.16666666666666669
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11702127659574468,
+            0.4074074074074074,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity. The spider's web is a testament to its skill and patience, and it serves as a reminder of the beauty and complexity found in nature.",
+        "score": [
+            0.11458333333333333,
+            0.4074074074074074,
+            0.17886178861788615
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.15714285714285714,
+            0.4074074074074074,
+            0.22680412371134023
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of its work. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.16176470588235295,
+            0.4074074074074074,
+            0.23157894736842105
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The web is glistening with dew, and the sunlight is casting a warm glow on the spider and its web. The garden is filled with various plants and flowers, providing a serene and peaceful backdrop for the spider's activity.",
+        "score": [
+            0.15942028985507245,
+            0.4074074074074074,
+            0.22916666666666666
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads to create a complex and intricate structure. The web is glistening with dew, reflecting the sunlight and creating a beautiful and serene scene. The spider is meticulously weaving its web, using its eight legs to move and manipulate the threads. The garden is filled with various plants and flowers, providing a lush and vibrant backdrop for the spider's activity. The sunlight casts a warm glow over the entire scene, highlighting the spider's work and the natural beauty of the garden.",
+        "score": [
+            0.10576923076923077,
+            0.4074074074074074,
+            0.1679389312977099
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched on a web that it has carefully constructed. The web is intricately woven with fine threads, forming a complex pattern. The spider is busy spinning more threads, adding to its web. The sunlight casts a warm glow on the spider and its web, highlighting the intricate details of the spider's work. The garden around the spider is lush and green, with various plants and flowers adding to the serene and peaceful atmosphere.",
+        "score": [
+            0.13333333333333333,
+            0.4444444444444444,
+            0.20512820512820512
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched in the center of its web, which is intricately woven with fine, glistening threads. The web is positioned against a backdrop of green foliage, with the sunlight casting a warm glow on the scene. The spider's body is a striking shade of red and black, and it appears to be actively engaged in its web-building activities. The web itself is a complex network of radial threads that radiate from the center, forming a perfect geometric pattern. The sunlight creates a beautiful play of light and shadow on the web, highlighting its delicate",
+        "score": [
+            0.10810810810810811,
+            0.4444444444444444,
+            0.17391304347826086
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the spider and its web, highlighting the delicate details of its work. The garden around the spider is lush and vibrant, with various plants and flowers adding to the natural beauty of the scene. The spider's web is a testament to its",
+        "score": [
+            0.09821428571428571,
+            0.4074074074074074,
+            0.158273381294964
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the web, highlighting the delicate details and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the web, highlighting the delicate details and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the web, highlighting the delicate details and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of engineering, with its symmetrical patterns and precise connections. The spider's movements are methodical and deliberate, as it weaves the web with precision and care. The sunlight casts a warm glow on the web, highlighting the delicate details and the spider's industrious nature. The garden around the spider is lush and vibrant, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.0990990990990991,
+            0.4074074074074074,
+            0.15942028985507245
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of nature, with its symmetrical patterns and precise construction. The spider's movements are slow and deliberate, as it carefully weaves each strand into place. The sunlight casts a warm glow on the web, highlighting the delicate details and making the spider's work look almost magical. The garden around the spider is lush and green, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.08849557522123894,
+            0.37037037037037035,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of nature, with its symmetrical patterns and precise construction. The spider's movements are slow and deliberate, as it carefully weaves each strand into place. The sunlight casts a warm glow on the web, highlighting the delicate details and making the spider's work look almost magical. The garden around the spider is lush and green, with various plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.08849557522123894,
+            0.37037037037037035,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is constructing a web, carefully spinning threads of silk to create a complex and intricate structure. The web is a marvel of nature, with its symmetrical patterns and precise construction. The spider's movements are slow and deliberate, as it carefully weaves each strand into place. The sunlight casts a warm glow on the web, highlighting the delicate details and making the spider's work look almost magical. The garden around the spider is lush and vibrant, with green plants and flowers adding to the serene and peaceful atmosphere. The spider's web is a testament to its",
+        "score": [
+            0.08849557522123894,
+            0.37037037037037035,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is busily constructing its intricate web. The spider is positioned at the center of the web, which is made up of thin, glistening threads that radiate outward in all directions. The web is illuminated by the warm sunlight, creating a beautiful and ethereal scene. The spider's body is a striking contrast to the web, with its vibrant colors and intricate details. The garden itself is lush and green, with various plants and flowers adding to the serene and peaceful atmosphere.",
+        "score": [
+            0.12087912087912088,
+            0.4074074074074074,
+            0.1864406779661017
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate spider spinning its silken web in the corner of a sunlit garden, the morning dew glistening like tiny diamonds on the intricate threads.",
+        "prediction": "In the corner of a sunlit garden, a delicate spider is at work. The spider is perched on a web, which is intricately woven and glistening with dew. The web is positioned in a way that it captures the sunlight, creating a beautiful and serene scene. The spider is busy spinning its web, using its eight legs to move and manipulate the threads. The garden is filled with various plants and flowers, adding to the natural and peaceful atmosphere. The sunlight casts a warm glow over the entire scene, highlighting the spider's web and the surrounding environment.",
+        "score": [
+            0.11224489795918367,
+            0.4074074074074074,
+            0.176
+        ]
+    }
+}

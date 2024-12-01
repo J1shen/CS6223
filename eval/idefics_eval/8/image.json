@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever runs through a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.7142857142857143,
+            0.3333333333333333,
+            0.4545454545454545
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "Runs.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever runs through a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.7142857142857143,
+            0.3333333333333333,
+            0.4545454545454545
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5333333333333333,
+            0.26666666666666666,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5333333333333333,
+            0.26666666666666666,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5333333333333333,
+            0.26666666666666666,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the beautiful scenery and possibly playing or running around in the field. The dog might be sniffing the flowers, exploring the area, or simply basking in the warmth of the sun.",
+        "score": [
+            0.24489795918367346,
+            0.4,
+            0.30379746835443044
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the beautiful scenery and possibly playing or running around in the field. The dog might be sniffing the flowers, exploring the area, or simply basking in the warmth of the sun.",
+        "score": [
+            0.24489795918367346,
+            0.4,
+            0.30379746835443044
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon might be seen running and playing in the flowers, enjoying the sights and smells of the natural environment.",
+        "score": [
+            0.3870967741935484,
+            0.4,
+            0.39344262295081966
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be engaged in a joyful and playful activity. The dog may be running around, exploring the colorful flowers, and possibly even trying to catch or play with them. The dog's tail might be wagging excitedly as it experiences the fresh air and the pleasant surroundings. The dog may also be sniffing the flowers, taking in the scents and enjoying the sensory experience. Overall, the golden retriever is likely to be having a fun and carefree time in the field of wildflowers.",
+        "score": [
+            0.14285714285714285,
+            0.4666666666666667,
+            0.21874999999999997
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon might be seen running and playing in the flowers, enjoying the sights and smells of the natural environment. The dog might also be exploring the area, sniffing around and investigating the different plants and flowers.",
+        "score": [
+            0.25,
+            0.4,
+            0.3076923076923077
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon might be seen running and playing in the flowers, enjoying the sights and smells of the natural environment. The dog might also be exploring the area, sniffing around and investigating the different plants and flowers.",
+        "score": [
+            0.25,
+            0.4,
+            0.3076923076923077
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the sights and smells of the flowers. They might be sniffing around, exploring the area, and possibly even playing or running around in the field. The dog might also be basking in the warmth of the sun and enjoying the fresh air.",
+        "score": [
+            0.2,
+            0.4,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the beautiful scenery and possibly playing or running around in the flowers.",
+        "score": [
+            0.36666666666666664,
+            0.36666666666666664,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the beautiful scenery and possibly playing or running around in the flowers.",
+        "score": [
+            0.36666666666666664,
+            0.36666666666666664,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever, being a friendly and energetic breed, would likely be excited to explore the field of vibrant wildflowers on a warm afternoon. They might run around, sniffing and playing in the flowers, and possibly even try to catch a few of the flowers in their mouth. The dog might also enjoy the warmth of the sun and the fresh air, and could potentially take a nap in the shade of a nearby tree or bush. Overall, the golden retriever would likely have a great time enjoying the beautiful scenery and the simple pleasures of being outdoors.",
+        "score": [
+            0.14285714285714285,
+            0.4666666666666667,
+            0.21874999999999997
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the sights and smells of the flowers. The dog may be sniffing around, exploring the different types of flowers, and possibly even playing in the grass. The dog's tail might be wagging, and it may be barking or whining with excitement. The dog may also be trying to catch a ball or frisbee that has been thrown into the field. Overall, the golden retriever is likely having a fun and enjoyable time in the field of wildflowers.",
+        "score": [
+            0.13541666666666666,
+            0.43333333333333335,
+            0.20634920634920637
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the beautiful scenery and possibly playing or running around in the field.",
+        "score": [
+            0.36666666666666664,
+            0.36666666666666664,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the sights and smells of the flowers. The dog may be sniffing around, exploring the different types of flowers, and possibly even playing in the grass. The dog's tail might be wagging, indicating excitement and joy. The golden retriever may also be barking or whining, depending on its mood and the situation.",
+        "score": [
+            0.16901408450704225,
+            0.4,
+            0.23762376237623764
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "A golden retriever in a field of vibrant wildflowers on a warm afternoon is likely to be enjoying the beautiful scenery and possibly playing or running around in the field.",
+        "score": [
+            0.36666666666666664,
+            0.36666666666666664,
+            0.36666666666666664
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and playing in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in the field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.47058823529411764,
+            0.26666666666666666,
+            0.3404255319148936
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running and jumping in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.5294117647058824,
+            0.3,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever leaps joyfully through a field of vibrant wildflowers, its fur glistening under the warm afternoon sun while a gentle breeze carries the sweet scent of blooming lavender.",
+        "prediction": "The golden retriever is running in a field of vibrant wildflowers on a warm afternoon.",
+        "score": [
+            0.6,
+            0.3,
+            0.4
+        ]
+    }
+}

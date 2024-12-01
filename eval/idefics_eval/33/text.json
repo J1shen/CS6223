@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene one, where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink. This picturesque setting provides a stark contrast to the rest of the text, which discusses the negative aspects of technological progress and the increasing addictiveness of various substances and activities.",
+        "score": [
+            0.39705882352941174,
+            0.9310344827586207,
+            0.5567010309278351
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky with hues of orange and pink.",
+        "score": [
+            0.6470588235294118,
+            0.7586206896551724,
+            0.6984126984126984
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.6764705882352942,
+            0.7931034482758621,
+            0.7301587301587301
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene one, where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink. This picturesque setting contrasts with the overall theme of the document, which discusses the increasing addictiveness of various substances and activities in society. The image of the golden retriever and the sunset serves as a reminder of the importance of balance and normalcy in life, as the author suggests that people who live well and avoid excessive addictions may be considered eccentric or abnormal in a society that increasingly values instant gratification and addictive behaviors.",
+        "score": [
+            0.21100917431192662,
+            0.7931034482758621,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene one, where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink. This picturesque setting provides a stark contrast to the rest of the document, which discusses the negative aspects of technological progress and the increasing addictiveness of various substances and activities.",
+        "score": [
+            0.359375,
+            0.7931034482758621,
+            0.4946236559139785
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and picturesque one, featuring a golden retriever with a shiny coat playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7297297297297297,
+            0.9310344827586207,
+            0.8181818181818181
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene one, where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.6764705882352942,
+            0.7931034482758621,
+            0.7301587301587301
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset, where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.5365853658536586,
+            0.7586206896551724,
+            0.6285714285714286
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.5365853658536586,
+            0.7586206896551724,
+            0.6285714285714286
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playing in a crystal-clear lake. The dog has a shiny coat, and the sky is painted in hues of orange and pink.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene one, featuring a golden retriever playing in a crystal-clear lake as the sun sets, painting the sky with hues of orange and pink. The dog is enjoying the water and the beautiful scenery, and the overall atmosphere is one of tranquility and joy.",
+        "score": [
+            0.40384615384615385,
+            0.7241379310344828,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake.",
+        "score": [
+            0.56,
+            0.4827586206896552,
+            0.5185185185185185
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake.",
+        "score": [
+            0.47619047619047616,
+            0.3448275862068966,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque one where a golden retriever is playing in a crystal-clear lake as the sun sets, painting the sky with hues of orange and pink.",
+        "score": [
+            0.6774193548387096,
+            0.7241379310344828,
+            0.7
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset, where a golden retriever is playfully splashing in a crystal-clear lake. The dog is enjoying the serene and beautiful environment, and the sky is painted in hues of orange and pink.",
+        "score": [
+            0.4634146341463415,
+            0.6551724137931034,
+            0.5428571428571429
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset, where a golden retriever is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake. The dog is enjoying the serene and beautiful environment, and the sky is painted in hues of orange and pink.",
+        "score": [
+            0.4634146341463415,
+            0.6551724137931034,
+            0.5428571428571429
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset, where a golden retriever is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playing in a crystal-clear lake. The dog is splashing in the water, and the sky is painted in hues of orange and pink.",
+        "score": [
+            0.47368421052631576,
+            0.6206896551724138,
+            0.5373134328358208
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque one where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.71875,
+            0.7931034482758621,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playing in a crystal-clear lake. The dog is splashing in the water, and the sun is setting, painting the sky with hues of orange and pink.",
+        "score": [
+            0.4878048780487805,
+            0.6896551724137931,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake.",
+        "score": [
+            0.47619047619047616,
+            0.3448275862068966,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake. The dog is surrounded by a beautiful landscape with a golden retriever coat and a sky painted in hues of orange and pink.",
+        "score": [
+            0.4090909090909091,
+            0.6206896551724138,
+            0.49315068493150693
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake. The dog is enjoying the beautiful view of the sky painted in hues of orange and pink.",
+        "score": [
+            0.5,
+            0.6551724137931034,
+            0.5671641791044776
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset, where a golden retriever is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.6764705882352942,
+            0.7931034482758621,
+            0.7301587301587301
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playing in a picturesque setting at sunset. The dog is splashing in a crystal-clear lake, and the sky is painted in hues of orange and pink. The dog's shiny coat and the serene environment create a peaceful and idyllic atmosphere.",
+        "score": [
+            0.34,
+            0.5862068965517241,
+            0.43037974683544306
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playing in the water. The dog is splashing in the crystal-clear lake, and the sky is painted in hues of orange and pink.",
+        "score": [
+            0.5,
+            0.6551724137931034,
+            0.5671641791044776
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7105263157894737,
+            0.9310344827586207,
+            0.8059701492537312
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink. The dog's joyful activity is set against the backdrop of a beautiful sunset, creating a picturesque and calming atmosphere.",
+        "score": [
+            0.42592592592592593,
+            0.7931034482758621,
+            0.5542168674698795
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene one, featuring a golden retriever with a shiny coat playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7297297297297297,
+            0.9310344827586207,
+            0.8181818181818181
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake. The dog has a shiny coat, and the sky is painted in hues of orange and pink.",
+        "score": [
+            0.5,
+            0.6551724137931034,
+            0.5671641791044776
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a peaceful and serene moment where a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky with hues of orange and pink.",
+        "score": [
+            0.6470588235294118,
+            0.7586206896551724,
+            0.6984126984126984
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.7857142857142857,
+            0.7586206896551724,
+            0.7719298245614034
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "The scene described is a picturesque setting at sunset where a golden retriever is playfully splashing in a crystal-clear lake. The sky is painted in hues of orange and pink, creating a serene and beautiful atmosphere.",
+        "score": [
+            0.4864864864864865,
+            0.6206896551724138,
+            0.5454545454545455
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a golden retriever with a shiny coat playfully splashing in the crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "prediction": "In the scene described, a golden retriever with a shiny coat is playfully splashing in a crystal-clear lake as the sun sets, painting the sky in hues of orange and pink.",
+        "score": [
+            0.8125,
+            0.896551724137931,
+            0.8524590163934426
+        ]
+    }
+}

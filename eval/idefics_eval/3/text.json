@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a serene and peaceful environment where a silver cat with striking green eyes is lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a relaxed and comfortable position, enjoying the warmth and light of the sun. The scene is set in a tranquil and cozy atmosphere, with the cat being the central focus of the description.",
+        "score": [
+            0.3142857142857143,
+            0.9565217391304348,
+            0.47311827956989244
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a serene and peaceful environment where a silver cat with striking green eyes is lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a calm and relaxed state, enjoying the warmth and light of the sun. The scene is set in a cozy and comfortable home, where the cat is the center of attention, and the natural beauty of the outdoors is reflected in the gentle movement of the leaves and the soft light of the sun.",
+        "score": [
+            0.24175824175824176,
+            0.9565217391304348,
+            0.38596491228070173
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a serene and peaceful environment where a silver cat with striking green eyes is lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat appears to be enjoying the warmth and tranquility of the moment, and the scene evokes a sense of calm and relaxation.",
+        "score": [
+            0.39285714285714285,
+            0.9565217391304348,
+            0.5569620253164557
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill. The cat is lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.7586206896551724,
+            0.9565217391304348,
+            0.8461538461538461
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a relaxed and leisurely state, enjoying the warmth and light of the sun. The windowsill is a cozy spot for the cat to rest and observe its surroundings, and the leaves outside create a gentle and soothing background for the scene.",
+        "score": [
+            0.26865671641791045,
+            0.782608695652174,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a room with a shiny screen and a loud disk, but the cat seems to be enjoying the peaceful and serene environment.",
+        "score": [
+            0.375,
+            0.782608695652174,
+            0.5070422535211269
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "A silver cat with striking green eyes is lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a serene and peaceful environment, enjoying the warmth and light of the sun. The windowsill is a cozy spot for the cat to relax and observe its surroundings.",
+        "score": [
+            0.39285714285714285,
+            0.9565217391304348,
+            0.5569620253164557
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "A silver cat with striking green eyes is lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.9166666666666666,
+            0.9565217391304348,
+            0.9361702127659574
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a relaxed and leisurely state, enjoying the warmth and tranquility of its surroundings.",
+        "score": [
+            0.46153846153846156,
+            0.782608695652174,
+            0.5806451612903226
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside. The cat is in a relaxed and leisurely state, enjoying the warmth and the gentle movement of the leaves. The overall atmosphere is calm and serene, with the cat being the central focus of the peaceful and tranquil environment.",
+        "score": [
+            0.29508196721311475,
+            0.782608695652174,
+            0.42857142857142855
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8181818181818182,
+            0.782608695652174,
+            0.8
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver cat with striking green eyes lounges on the sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "prediction": "The scene describes a silver cat with striking green eyes lounging on a sun-drenched windowsill, lazily swatting at the fluttering shadows of leaves dancing outside.",
+        "score": [
+            0.8461538461538461,
+            0.9565217391304348,
+            0.8979591836734695
+        ]
+    }
+}

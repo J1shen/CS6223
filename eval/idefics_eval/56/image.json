@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on one of the vibrant orange marigolds in the sunlit garden.",
+        "score": [
+            0.65,
+            0.5,
+            0.5652173913043479
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden.",
+        "score": [
+            0.21428571428571427,
+            0.11538461538461539,
+            0.15
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden.",
+        "score": [
+            0.21428571428571427,
+            0.11538461538461539,
+            0.15
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden.",
+        "score": [
+            0.21428571428571427,
+            0.11538461538461539,
+            0.15
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden's location.",
+        "score": [
+            0.1875,
+            0.11538461538461539,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden's location.",
+        "score": [
+            0.1875,
+            0.11538461538461539,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "Sits.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden.",
+        "score": [
+            0.21428571428571427,
+            0.11538461538461539,
+            0.15
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "Sits.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "Sits.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. The butterfly is likely sipping nectar from the marigolds, as butterflies are known to be attracted to the sweet, fragrant flowers. The iridescent blue wings of the butterfly reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The sunlit garden provides a warm and inviting environment for the butterfly to feed and bask in the sunlight.",
+        "score": [
+            0.2222222222222222,
+            0.6923076923076923,
+            0.3364485981308411
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. The butterfly is likely sipping nectar from the marigolds, as butterflies are known to feed on the sweet, energy-rich liquid found in flowers. The iridescent blue wings of the butterfly reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The sunlit garden provides a warm and inviting environment for the butterfly to rest and feed, and the marigolds offer a source of sustenance and beauty in the garden.",
+        "score": [
+            0.18085106382978725,
+            0.6538461538461539,
+            0.2833333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. The butterfly is likely sipping nectar from the marigolds, as butterflies are known to feed on the sweet, energy-rich liquid found in flowers. The iridescent blue wings of the butterfly reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The sunlit garden provides a warm and inviting environment for the butterfly to explore and find food.",
+        "score": [
+            0.2073170731707317,
+            0.6538461538461539,
+            0.3148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. The butterfly is likely sipping nectar from the marigolds, as butterflies are known to be attracted to the sweet, fragrant flowers. The iridescent blue wings of the butterfly reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The sunlit garden provides a warm and inviting environment for the butterfly to feed and bask in the sunlight.",
+        "score": [
+            0.20987654320987653,
+            0.6538461538461539,
+            0.31775700934579443
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.19736842105263158,
+            0.5769230769230769,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden. The butterfly is likely sipping nectar from the marigolds, as butterflies are known to be attracted to the sweet, fragrant flowers. The iridescent blue wings of the butterfly reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The butterfly's delicate nature and the vibrant colors of the marigolds create a picturesque scene in the sunlit garden.",
+        "score": [
+            0.23170731707317074,
+            0.7307692307692307,
+            0.35185185185185186
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. The butterfly is likely feeding on the nectar of the marigolds, as butterflies are known to be attracted to the sweet, fragrant flowers. The iridescent blue wings of the butterfly reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The butterfly's delicate nature and the vibrant colors of the marigolds create a picturesque scene in the sunlit garden.",
+        "score": [
+            0.21428571428571427,
+            0.6923076923076923,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering around a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which is a source of energy for the butterfly. As it flutters around the marigolds, the butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The butterfly may also be using the marigolds as a resting place or a place to lay its eggs.",
+        "score": [
+            0.20238095238095238,
+            0.6538461538461539,
+            0.3090909090909091
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which are rich in nutrients and provide a source of energy for the butterfly. As the butterfly flutters above the marigolds, it will use its proboscis to extract the nectar from the flowers. The iridescent blue wings of the butterfly will reflect the sunlight, creating a beautiful and striking visual effect.",
+        "score": [
+            0.21176470588235294,
+            0.6923076923076923,
+            0.32432432432432434
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering around a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which is a source of energy for the butterfly. As it flutters around the marigolds, the butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and mesmerizing sight. The butterfly may also be using the marigolds as a place to rest and bask in the warmth of the sun.",
+        "score": [
+            0.2,
+            0.6538461538461539,
+            0.3063063063063063
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds provide a bright and colorful backdrop for the butterfly, enhancing its natural beauty.",
+        "score": [
+            0.23880597014925373,
+            0.6153846153846154,
+            0.3440860215053763
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is likely to be sipping nectar from the vibrant orange marigolds in the sunlit garden. Butterflies are attracted to flowers with nectar, which is a source of energy for them. The iridescent blue wings of the butterfly are a result of the way the microscopic scales on its wings reflect light, giving it a shimmering appearance. The butterfly's wings are also covered with tiny hairs that help it to sense its environment and navigate.",
+        "score": [
+            0.14634146341463414,
+            0.46153846153846156,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the marigolds due to their bright color and the nectar they provide. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast with the orange marigolds. As the butterfly flutters above the marigolds, it may be collecting nectar from the flowers or simply enjoying the warmth and light of the sun.",
+        "score": [
+            0.21176470588235294,
+            0.6923076923076923,
+            0.32432432432432434
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sunlight. The butterfly's iridescent blue wings reflect the light, creating a beautiful and striking visual effect. The marigolds provide a bright and colorful backdrop for the butterfly, enhancing its natural beauty.",
+        "score": [
+            0.23880597014925373,
+            0.6153846153846154,
+            0.3440860215053763
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds.",
+        "score": [
+            0.26785714285714285,
+            0.5769230769230769,
+            0.36585365853658536
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sunlight. The butterfly's iridescent blue wings reflect the light, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.19736842105263158,
+            0.5769230769230769,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.19736842105263158,
+            0.5769230769230769,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is likely to be sipping nectar from the vibrant orange marigolds in the sunlit garden. Butterflies are attracted to flowers with nectar, which is a source of energy for them. The iridescent blue wings of the butterfly are a result of the way the microscopic scales on its wings reflect light, giving it a shimmering appearance. The butterfly's proboscis, a long, tube-like structure, is used to reach into the flower to drink the nectar.",
+        "score": [
+            0.14457831325301204,
+            0.46153846153846156,
+            0.2201834862385321
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering around a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which is a source of energy for the butterfly. As it flutters around the marigolds, the butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The butterfly may also be using the marigolds as a place to rest and hide from predators.",
+        "score": [
+            0.2073170731707317,
+            0.6538461538461539,
+            0.3148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.24324324324324326,
+            0.6923076923076923,
+            0.36000000000000004
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.24324324324324326,
+            0.6923076923076923,
+            0.36000000000000004
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, sipping nectar from the flowers.",
+        "score": [
+            0.6,
+            0.5769230769230769,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing. The butterfly's presence above the marigolds suggests that it is feeding on the nectar of the flowers, which is a common behavior for butterflies.",
+        "score": [
+            0.18181818181818182,
+            0.6923076923076923,
+            0.28800000000000003
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is likely to be sipping nectar from the vibrant orange marigolds in the sunlit garden. Butterflies are attracted to flowers with nectar, which is a source of energy for them. The iridescent blue wings of the butterfly are a result of the way the microscopic scales on its wings reflect light, giving it a shimmering appearance. The butterfly's proboscis, a long, tube-like structure, is used to reach into the flower to drink the nectar.",
+        "score": [
+            0.14457831325301204,
+            0.46153846153846156,
+            0.2201834862385321
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4444444444444444,
+            0.6153846153846154,
+            0.5161290322580646
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering around a patch of vibrant orange marigolds in a sunlit garden, feeding on the nectar of the flowers. Butterflies are attracted to bright colors and sweet fragrances, and marigolds are known for their bright orange petals and strong scent. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful contrast with the orange marigolds.",
+        "score": [
+            0.2463768115942029,
+            0.6538461538461539,
+            0.3578947368421053
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering around a patch of vibrant orange marigolds in a sunlit garden, feeding on the nectar of the flowers. Butterflies are attracted to bright colors and sweet fragrances, and marigolds are known for their bright orange petals and strong scent. As the butterfly flutters around the marigolds, it will use its long proboscis to extract the nectar from the flowers, which will provide it with the energy it needs to fly and reproduce.",
+        "score": [
+            0.2,
+            0.6538461538461539,
+            0.3063063063063063
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be attracted to the vibrant orange marigolds in a sunlit garden. Butterflies are known to be drawn to bright colors, especially orange and yellow, as these colors are often associated with nectar-rich flowers. The butterfly may land on the marigolds to feed on the nectar, which is a source of energy for them. The sunlit garden provides the perfect environment for the butterfly to fly and search for food, as the warmth and light can help to activate its wings and enhance its ability to fly.",
+        "score": [
+            0.14432989690721648,
+            0.5384615384615384,
+            0.2276422764227642
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.24324324324324326,
+            0.6923076923076923,
+            0.36000000000000004
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's delicate wings, making the scene even more picturesque.",
+        "score": [
+            0.2465753424657534,
+            0.6923076923076923,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The butterfly's delicate nature and the vibrant colors of the marigolds create a picturesque scene in the sunlit garden.",
+        "score": [
+            0.2702702702702703,
+            0.7692307692307693,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The butterfly's delicate nature and the vibrant colors of the marigolds create a picturesque scene in the sunlit garden.",
+        "score": [
+            0.2702702702702703,
+            0.7692307692307693,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking visual effect. The marigolds, with their bright orange petals, provide a stark contrast to the butterfly's blue wings, making the scene even more visually appealing.",
+        "score": [
+            0.24324324324324326,
+            0.6923076923076923,
+            0.36000000000000004
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be attracted to the vibrant orange marigolds in a sunlit garden. Butterflies are known to be drawn to bright and colorful flowers, as they serve as a source of nectar for them. The iridescent blue wings of the butterfly may also help it to blend in with the blue sky, making it easier for it to fly and find more flowers. As the butterfly flutters above the patch of marigolds, it may also be using its proboscis to drink the nectar from the flowers, which is essential for its survival.",
+        "score": [
+            0.14,
+            0.5384615384615384,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering around a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which is a source of energy for the butterfly. As it flutters around the marigolds, the butterfly's iridescent blue wings will reflect the sunlight, creating a beautiful and striking visual effect. The butterfly may also be using the marigolds as a place to rest and hide from predators.",
+        "score": [
+            0.20481927710843373,
+            0.6538461538461539,
+            0.3119266055045872
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be attracted to the vibrant orange marigolds in a sunlit garden. Butterflies are known to be drawn to bright colors, especially orange and yellow, as these colors are often associated with nectar-rich flowers. The butterfly may land on the marigolds to feed on the nectar, which is a source of energy for them. The sunlit garden provides the perfect environment for the butterfly to fly and search for nectar, as the warmth and light from the sun help to activate the nectar in the flowers.",
+        "score": [
+            0.14583333333333334,
+            0.5384615384615384,
+            0.22950819672131148
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be attracted to the vibrant orange marigolds in a sunlit garden. Butterflies are known to be drawn to bright and colorful flowers, as they serve as a source of nectar for them. The iridescent blue wings of the butterfly may also help it to blend in with the blue sky, making it easier for it to fly and find more flowers. As the butterfly flutters above the patch of marigolds, it may also be collecting pollen and transferring it to other flowers, playing a crucial role in the pollination process.",
+        "score": [
+            0.14,
+            0.5384615384615384,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden, as it is attracted to the nectar of the flowers. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast with the bright orange marigolds. The butterfly's delicate nature and the vibrant colors of the marigolds create a picturesque scene in the sunlit garden.",
+        "score": [
+            0.2702702702702703,
+            0.7692307692307693,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which are rich in nutrients and provide a source of energy for the butterfly. As the butterfly flutters above the marigolds, it will be able to feed on the nectar and bask in the warmth of the sun, which is essential for its survival. The iridescent blue wings of the butterfly will also reflect the sunlight, creating a beautiful and striking visual effect in the garden.",
+        "score": [
+            0.19,
+            0.7307692307692307,
+            0.30158730158730157
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be seen fluttering above a patch of vibrant orange marigolds in a sunlit garden. The butterfly is attracted to the nectar of the marigolds, which are rich in nutrients and provide a source of energy for the butterfly. As the butterfly flutters above the marigolds, it will be able to feed on the nectar and bask in the warmth of the sun, which is essential for its survival. The iridescent blue wings of the butterfly will also reflect the sunlight, creating a beautiful and striking visual effect in the garden.",
+        "score": [
+            0.19,
+            0.7307692307692307,
+            0.30158730158730157
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is likely to be sipping nectar from the vibrant orange marigolds in the sunlit garden. Butterflies are attracted to flowers with nectar, which is a source of energy for them. The iridescent blue wings of the butterfly may also help it to blend in with the blue sky or to attract mates.",
+        "score": [
+            0.2033898305084746,
+            0.46153846153846156,
+            0.28235294117647064
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be resting or feeding on the nectar of the vibrant orange marigolds in a sunlit garden. Butterflies are attracted to flowers with nectar, which they use as a source of energy. The iridescent blue wings of the butterfly may also serve as a visual attractant to other butterflies or as a warning signal to potential predators.",
+        "score": [
+            0.21212121212121213,
+            0.5384615384615384,
+            0.30434782608695654
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden. It is likely sipping nectar from the flowers or basking in the warmth of the sun.",
+        "score": [
+            0.4166666666666667,
+            0.5769230769230769,
+            0.48387096774193544
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden, likely feeding on the nectar of the flowers or basking in the warmth of the sunlight.",
+        "score": [
+            0.4444444444444444,
+            0.6153846153846154,
+            0.5161290322580646
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "A delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched above a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.8,
+            0.6153846153846154,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully above a patch of vibrant orange marigolds, its dance a mesmerizing contrast against the sunlit garden backdrop.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a patch of vibrant orange marigolds in a sunlit garden.",
+        "score": [
+            0.75,
+            0.5769230769230769,
+            0.6521739130434783
+        ]
+    }
+}

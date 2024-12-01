@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The next 40 years will bring us some wonderful things. I don't mean to imply they're all to be avoided. Alcohol is a dangerous drug, but I'd rather live in a world with wine than one without.\"",
+        "score": [
+            0.043478260869565216,
+            0.16666666666666666,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The next 40 years will bring us some wonderful things. I don't mean to imply they're all to be avoided. Alcohol is a dangerous drug, but I'd rather live in a world with wine than one without.\"",
+        "score": [
+            0.043478260869565216,
+            0.16666666666666666,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.625,
+            0.8333333333333334,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.\"",
+        "score": [
+            0.03125,
+            0.08333333333333333,
+            0.045454545454545456
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.022222222222222223,
+            0.08333333333333333,
+            0.03508771929824561
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best.\"",
+        "score": [
+            0.034482758620689655,
+            0.08333333333333333,
+            0.04878048780487805
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.\"",
+        "score": [
+            0.03125,
+            0.08333333333333333,
+            0.045454545454545456
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"You can probably take it as a rule of thumb from now on that if people don't think you're weird, you're living badly.\"",
+        "score": [
+            0.03125,
+            0.08333333333333333,
+            0.045454545454545456
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath the appoximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5294117647058824,
+            0.75,
+            0.6206896551724139
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The secret weapon was simpler than they realized. No one was leaking news of their features to us. We were just able to develop software faster than anyone thought possible.\"",
+        "score": [
+            0.05555555555555555,
+            0.16666666666666666,
+            0.08333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"breath the appoximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5294117647058824,
+            0.75,
+            0.6206896551724139
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"breath the approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5882352941176471,
+            0.8333333333333334,
+            0.6896551724137931
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath the appoximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5294117647058824,
+            0.75,
+            0.6206896551724139
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath the appoximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5294117647058824,
+            0.75,
+            0.6206896551724139
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.058823529411764705,
+            0.08333333333333333,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath the appoximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5294117647058824,
+            0.75,
+            0.6206896551724139
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath the approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5882352941176471,
+            0.8333333333333334,
+            0.6896551724137931
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"I would have been delighted if I'd realized in college that there were parts of the real world where gaming the system mattered less than others, and a few where it hardly mattered at all.\"",
+        "score": [
+            0.023809523809523808,
+            0.08333333333333333,
+            0.037037037037037035
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The company may not be incorporated, but if you start to get significant numbers of users, you've started it, whether you realize it yet or not.\"",
+        "score": [
+            0.030303030303030304,
+            0.08333333333333333,
+            0.04444444444444444
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The fatal pinch is default dead + slow growth + not enough time to fix it.\"",
+        "score": [
+            0.05,
+            0.08333333333333333,
+            0.0625
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The company may not be incorporated, but if you start to get significant numbers of users, you've started it, whether you realize it yet or not.\"",
+        "score": [
+            0.030303030303030304,
+            0.08333333333333333,
+            0.04444444444444444
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The company may not be incorporated, but if you start to get significant numbers of users, you've started it, whether you realize it yet or not.\"",
+        "score": [
+            0.030303030303030304,
+            0.08333333333333333,
+            0.04444444444444444
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The company may not be incorporated, but if you start to get significant numbers of users, you've started it, whether you realize it yet or not.\"",
+        "score": [
+            0.030303030303030304,
+            0.08333333333333333,
+            0.04444444444444444
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Most people won't, unfortunately. Which means that as the world becomes more addictive, the two senses in which one can live a normal life will be driven ever further apart. One sense of \"normal\" is statistically normal: what everyone else does. The other is the sense we mean when we talk about the normal operating range of a piece of machinery: what works best.\"",
+        "score": [
+            0.04225352112676056,
+            0.25,
+            0.07228915662650602
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"breath the approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5882352941176471,
+            0.8333333333333334,
+            0.6896551724137931
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The secret weapon Eric Raymond has written an essay called \"How to Become a Hacker,\" and in it, among other things, he tells would-be hackers what languages they should learn.\"",
+        "score": [
+            0.02702702702702703,
+            0.08333333333333333,
+            0.04081632653061225
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The secret weapon Eric Raymond has written an essay called \"How to Become a Hacker,\" and in it, among other things, he tells would-be hackers what languages they should learn.\"",
+        "score": [
+            0.02702702702702703,
+            0.08333333333333333,
+            0.04081632653061225
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.037037037037037035,
+            0.08333333333333333,
+            0.05128205128205128
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"Notes[1]\".",
+        "score": [
+            0.125,
+            0.08333333333333333,
+            0.1
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"You can adjust the amount of freedom you get by scaling the size of company you work for. If you start the company, you'll have the most freedom. If you become one of the first 10 employees you'll have almost as much freedom as the founders. Even a company with 100 people will feel different from one with 1000.\"",
+        "score": [
+            0.029850746268656716,
+            0.16666666666666666,
+            0.05063291139240506
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The way to succeed in a startup is not to be an expert on startups, but to be an expert on your users and the problem you're solving for them.\"",
+        "score": [
+            0.02702702702702703,
+            0.08333333333333333,
+            0.04081632653061225
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"breath approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.625,
+            0.8333333333333334,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The fatal pinch is default dead + slow growth + not enough time to fix it.\"",
+        "score": [
+            0.05,
+            0.08333333333333333,
+            0.0625
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The screen's too shiny, and the disk is surprisingly loud, but it's so beautiful that you can't make yourself care.\"",
+        "score": [
+            0.034482758620689655,
+            0.08333333333333333,
+            0.04878048780487805
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The people who come to us from big companies often seem kind of conservative. It's hard to say how much is because big companies made them that way, and how much is the natural conservatism that made them work for the big companies in the first place. But certainly a large part of it is learned.\"",
+        "score": [
+            0.015873015873015872,
+            0.08333333333333333,
+            0.02666666666666667
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Imagine what it would do to you if at mile 20 of a marathon, someone ran up beside you and said \"You must feel really tired.  Would you like to stop and take a rest?\"",
+        "score": [
+            0.024390243902439025,
+            0.08333333333333333,
+            0.037735849056603765
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"",
+        "score": [
+            0.010416666666666666,
+            0.08333333333333333,
+            0.018518518518518517
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"",
+        "score": [
+            0.010416666666666666,
+            0.08333333333333333,
+            0.018518518518518517
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"Notes[1]\".",
+        "score": [
+            0.125,
+            0.08333333333333333,
+            0.1
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Imagine what it would do to you if at mile 20 of a marathon, someone ran up beside you and said \"You must feel really tired. Would you like to stop and take a rest?\" Conversations with corp dev are like that but worse, because the suggestion of stopping gets combined in your mind with the imaginary high price you think they'll offer.\"",
+        "score": [
+            0.014285714285714285,
+            0.08333333333333333,
+            0.024390243902439022
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, \nJames Bracy, Gabor Cselle,\nPatrick Collison, Jason Freedman, John Gruber, Joe Hewitt, Jessica Livingston,\nRobert Morris, Teng Siong Ong, Nikhil Pandit, Savraj Singh, and Jared Tame for reading drafts of this.\"",
+        "score": [
+            0.022222222222222223,
+            0.08333333333333333,
+            0.03508771929824561
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Women with hammer.\"",
+        "score": [
+            0.1111111111111111,
+            0.08333333333333333,
+            0.09523809523809525
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Women with hammer.\"",
+        "score": [
+            0.1111111111111111,
+            0.08333333333333333,
+            0.09523809523809525
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, \nJames Bracy, Gabor Cselle,\nPatrick Collison, Jason Freedman, John Gruber, Joe Hewitt, Jessica Livingston,\nRobert Morris, Teng Siong Ong, Nikhil Pandit, Savraj Singh, and Jared Tame for reading drafts of this.\"",
+        "score": [
+            0.022222222222222223,
+            0.08333333333333333,
+            0.03508771929824561
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The secret weapon was simpler than they realized. No one was leaking news of their features to us. We were just able to develop software faster than anyone thought possible.\"",
+        "score": [
+            0.05555555555555555,
+            0.16666666666666666,
+            0.08333333333333333
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"The sentence in the picture is: \"",
+        "score": [
+            0.010416666666666666,
+            0.08333333333333333,
+            0.018518518518518517
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Women with hammer.\"",
+        "score": [
+            0.1111111111111111,
+            0.08333333333333333,
+            0.09523809523809525
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Imagine what it would do to you if at mile 20 of a marathon, someone ran up beside you and said \"You must feel really tired. Would you like to stop and take a rest?\" Conversations with corp dev are like that but worse, because the suggestion of stopping gets combined in your mind with the imaginary high price you think they'll offer.\"",
+        "score": [
+            0.014285714285714285,
+            0.08333333333333333,
+            0.024390243902439022
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Imagine what it would do to you if at mile 20 of a marathon, someone ran up beside you and said \"You must feel really tired. Would you like to stop and take a rest?\" Conversations with corp dev are like that but worse, because the suggestion of stopping gets combined in your mind with the imaginary high price you think they'll offer.\"",
+        "score": [
+            0.014285714285714285,
+            0.08333333333333333,
+            0.024390243902439022
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"I'm designing a new dialect of Lisp.\"",
+        "score": [
+            0.07142857142857142,
+            0.08333333333333333,
+            0.07692307692307691
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Imagine what it would do to you if at mile 20 of a marathon, someone ran up beside you and said \"You must feel really tired.  Would you like to stop and take a rest?\"  Conversations with corp dev are like that but worse, because the suggestion of stopping gets combined in your mind with the imaginary high price you think they'll offer.\"",
+        "score": [
+            0.014285714285714285,
+            0.08333333333333333,
+            0.024390243902439022
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.03333333333333333,
+            0.08333333333333333,
+            0.04761904761904761
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Imagine what it would do to you if at mile 20 of a marathon, someone ran up beside you and said \"You must feel really tired.  Would you like to stop and take a rest?\"  Conversations with corp dev are like that but worse, because the suggestion of stopping gets combined in your mind with the imaginary high price you think they'll offer.\"",
+        "score": [
+            0.014285714285714285,
+            0.08333333333333333,
+            0.024390243902439022
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.022222222222222223,
+            0.08333333333333333,
+            0.03508771929824561
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"You had to for guests.\"",
+        "score": [
+            0.09090909090909091,
+            0.08333333333333333,
+            0.08695652173913043
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.058823529411764705,
+            0.08333333333333333,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"I don't think Apple realizes how badly the App Store approval process is broken. Or rather, I don't think they realize how much it matters that it's broken.\"",
+        "score": [
+            0.02702702702702703,
+            0.08333333333333333,
+            0.04081632653061225
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"I don't think Apple realizes how badly the App Store approval process is broken. Or rather, I don't think they realize how much it matters that it's broken.\"",
+        "score": [
+            0.02702702702702703,
+            0.08333333333333333,
+            0.04081632653061225
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"I don't think Apple realizes how badly the App Store approval process is broken.\"",
+        "score": [
+            0.047619047619047616,
+            0.08333333333333333,
+            0.060606060606060615
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.017857142857142856,
+            0.08333333333333333,
+            0.029411764705882353
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.034482758620689655,
+            0.08333333333333333,
+            0.04878048780487805
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Kill-or-cure strategies are optimal for VCs because they're protected by the portfolio effect.\"",
+        "score": [
+            0.045454545454545456,
+            0.08333333333333333,
+            0.05882352941176471
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Several people I talked to mentioned how much they liked the iPhone SDK. The problem is not Apple's products but their policies.\"",
+        "score": [
+            0.034482758620689655,
+            0.08333333333333333,
+            0.04878048780487805
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Want to start a startup? Get funded by Y Combinator.\"",
+        "score": [
+            0.0625,
+            0.08333333333333333,
+            0.07142857142857144
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Want to start a startup? Get funded by Y Combinator.\"",
+        "score": [
+            0.0625,
+            0.08333333333333333,
+            0.07142857142857144
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"breath the approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5882352941176471,
+            0.8333333333333334,
+            0.6896551724137931
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"breath the approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.5882352941176471,
+            0.8333333333333334,
+            0.6896551724137931
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "Most humans breathe approximately 600-1,000 times in one hour period.",
+        "prediction": "The sentence in the picture is:\n\n\"Approximately 600-1,000 times in one hour period.\"",
+        "score": [
+            0.6,
+            0.75,
+            0.6666666666666665
+        ]
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a detailed description of the ladybug's appearance, but it can be inferred that the ladybug is delicate and clinging to the edge of a vibrant green leaf in the morning sun.",
+        "score": [
+            0.35135135135135137,
+            0.40625,
+            0.37681159420289856
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a detailed description of the ladybug's appearance, but it can be inferred that the ladybug is delicate and clinging to the edge of a vibrant green leaf in the morning sun.",
+        "score": [
+            0.35135135135135137,
+            0.40625,
+            0.37681159420289856
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a detailed description of the ladybug's appearance, but it can be inferred that the ladybug is delicate and clinging to the edge of a vibrant green leaf in the morning sun.",
+        "score": [
+            0.35135135135135137,
+            0.40625,
+            0.37681159420289856
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a description of the ladybug's appearance, so we cannot answer that question based on the given text.",
+        "score": [
+            0.17391304347826086,
+            0.125,
+            0.14545454545454545
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a detailed description of the ladybug's appearance, but it can be inferred that the ladybug is delicate and has a vibrant green leaf as its background.",
+        "score": [
+            0.21875,
+            0.21875,
+            0.21875
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a detailed description of the ladybug's appearance, but it can be inferred that the ladybug is delicate and has a vibrant green leaf as its background. The morning sun likely provides a warm and gentle light, highlighting the ladybug's colors and details.",
+        "score": [
+            0.1836734693877551,
+            0.28125,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a description of the ladybug's appearance, so we cannot answer that question based on the given text.",
+        "score": [
+            0.17391304347826086,
+            0.125,
+            0.14545454545454545
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The document does not provide a description of the ladybug's appearance, so we cannot answer that question based on the given text.",
+        "score": [
+            0.17391304347826086,
+            0.125,
+            0.14545454545454545
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The ladybug is red with black spots and white markings.",
+        "score": [
+            0.4,
+            0.125,
+            0.19047619047619047
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The ladybug is red with black spots.",
+        "score": [
+            0.5714285714285714,
+            0.125,
+            0.20512820512820512
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black exoskeleton with white spots on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sunlight. The background is slightly blurred, emphasizing the ladybug's sharp details.",
+        "score": [
+            0.26229508196721313,
+            0.5,
+            0.3440860215053763
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sun. The background is a soft blur of green, with the sun's rays creating a warm glow around the ladybug.",
+        "score": [
+            0.29411764705882354,
+            0.625,
+            0.4
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug and the leaf.",
+        "score": [
+            0.29310344827586204,
+            0.53125,
+            0.3777777777777777
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug and the leaf.",
+        "score": [
+            0.29310344827586204,
+            0.53125,
+            0.3777777777777777
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, and the ladybug's body is slightly reflected in the water droplets.",
+        "score": [
+            0.21794871794871795,
+            0.53125,
+            0.3090909090909091
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf is covered with tiny water droplets, which reflect the light and add to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sun. The background is a soft, out-of-focus blur of green, with the sun's rays creating a warm glow around the ladybug.",
+        "score": [
+            0.2465753424657534,
+            0.5625,
+            0.34285714285714286
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sunlight. The leaf has a smooth texture and is slightly curled at the edges. The background is blurred, emphasizing the ladybug and the leaf.",
+        "score": [
+            0.23529411764705882,
+            0.5,
+            0.31999999999999995
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with its legs gripping the leaf's surface. The ladybug's wings are folded against its body, and it appears to be basking in the warm sunlight. The leaf is covered in tiny water droplets, which reflect the light and create a sparkling effect.",
+        "score": [
+            0.21212121212121213,
+            0.4375,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug and the leaf.",
+        "score": [
+            0.29310344827586204,
+            0.53125,
+            0.3777777777777777
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible as it stands on the leaf, and the sunlight is creating a warm glow around it.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with its legs spread out for balance. The morning sun casts a warm glow on the ladybug and the leaf, creating a beautiful scene.",
+        "score": [
+            0.32653061224489793,
+            0.5,
+            0.39506172839506176
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with morning sunlight creating a warm glow around it. The ladybug's legs are visible, and it appears to be in a resting position.",
+        "score": [
+            0.32653061224489793,
+            0.5,
+            0.39506172839506176
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be in a relaxed position. The leaf has dew drops on its surface, and the ladybug is surrounded by a soft, out-of-focus background that emphasizes its delicate form.",
+        "score": [
+            0.1875,
+            0.46875,
+            0.26785714285714285
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a resting position. The leaf has water droplets on its surface, which reflect the sunlight and create a beautiful, shimmering effect.",
+        "score": [
+            0.2318840579710145,
+            0.5,
+            0.31683168316831684
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black body with white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be taking in the surroundings.",
+        "score": [
+            0.25,
+            0.40625,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with its legs firmly gripping the leaf's surface. The morning sun casts a warm glow on the ladybug and the leaf, creating a beautiful contrast between the ladybug's dark spots and the green leaf.",
+        "score": [
+            0.25862068965517243,
+            0.46875,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be taking in the surroundings.",
+        "score": [
+            0.23636363636363636,
+            0.40625,
+            0.2988505747126437
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, orange-red exoskeleton with black spots. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is slightly blurred, emphasizing the ladybug's sharp focus.",
+        "score": [
+            0.2982456140350877,
+            0.53125,
+            0.3820224719101123
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be in a state of stillness, possibly observing its surroundings. The leaf has dew drops on its surface, which reflect the sunlight and create a sparkling effect.",
+        "score": [
+            0.19736842105263158,
+            0.46875,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a resting position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which reflect the sunlight and add to the overall beauty of the scene.",
+        "score": [
+            0.23076923076923078,
+            0.5625,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, and the ladybug's body is slightly reflected in the water droplets.",
+        "score": [
+            0.21794871794871795,
+            0.53125,
+            0.3090909090909091
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with morning sunlight creating a warm glow around it. The ladybug's legs are visible, and it appears to be in a resting position.",
+        "score": [
+            0.32653061224489793,
+            0.5,
+            0.39506172839506176
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white spots on its back. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be taking in the sunlight.",
+        "score": [
+            0.2545454545454545,
+            0.4375,
+            0.3218390804597701
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be in a state of alertness, possibly preparing to take flight. The leaf's texture and the dew drops on its surface create a beautiful contrast with the ladybug's smooth, polished body.",
+        "score": [
+            0.2077922077922078,
+            0.5,
+            0.29357798165137616
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are spread out, providing stability as it clings to the leaf. The leaf's texture and veins are clearly visible, and the ladybug's antennae are extended, helping it sense its surroundings.",
+        "score": [
+            0.21739130434782608,
+            0.46875,
+            0.297029702970297
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with its legs gripping the leaf's surface. The morning sun casts a warm glow on the ladybug, highlighting its intricate details and the dew drops that glisten on the leaf.",
+        "score": [
+            0.2830188679245283,
+            0.46875,
+            0.35294117647058826
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton, and it is perched on the edge of a vibrant green leaf, basking in the warm sunlight.",
+        "score": [
+            0.42857142857142855,
+            0.375,
+            0.39999999999999997
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with its legs gripping the leaf's surface. The morning sun casts a warm glow on the ladybug and the leaf, creating a beautiful contrast between the ladybug's dark spots and the green leaf.",
+        "score": [
+            0.2631578947368421,
+            0.46875,
+            0.33707865168539325
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be taking in the sunlight. The leaf is slightly curled, and there are small water droplets glistening on its surface.",
+        "score": [
+            0.18571428571428572,
+            0.40625,
+            0.25490196078431376
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sunlight. The background is a soft, out-of-focus green, which emphasizes the ladybug's bright colors.",
+        "score": [
+            0.296875,
+            0.59375,
+            0.3958333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the sunlight and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or walking. The leaf has water droplets on its surface, which are reflecting the sunlight and adding to the overall brightness of the scene.",
+        "score": [
+            0.21052631578947367,
+            0.5,
+            0.2962962962962963
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black body with white spots. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be taking in the view of its surroundings.",
+        "score": [
+            0.2545454545454545,
+            0.4375,
+            0.3218390804597701
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white spots on its back. It is perched on the edge of a vibrant green leaf, facing towards the morning sun. The sunlight reflects off its body, making it look even more vibrant and beautiful.",
+        "score": [
+            0.2826086956521739,
+            0.40625,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, facing towards the morning sun. The sunlight creates a warm glow around the ladybug, highlighting its intricate details and making it stand out against the leaf's backdrop.",
+        "score": [
+            0.2545454545454545,
+            0.4375,
+            0.3218390804597701
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, orange-red exoskeleton with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.36538461538461536,
+            0.59375,
+            0.45238095238095233
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, orange-red exoskeleton with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The morning sun casts a warm glow on the scene, highlighting the ladybug's colors and the dew drops on the leaf.",
+        "score": [
+            0.2535211267605634,
+            0.5625,
+            0.34951456310679613
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white spots, and it is perched on the edge of a vibrant green leaf, basking in the warm sunlight.",
+        "score": [
+            0.4,
+            0.375,
+            0.38709677419354843
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, orange-red exoskeleton with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug's sharp details.",
+        "score": [
+            0.288135593220339,
+            0.53125,
+            0.37362637362637363
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug's sharp details.",
+        "score": [
+            0.29310344827586204,
+            0.53125,
+            0.3777777777777777
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a state of stillness, possibly observing its surroundings. The leaf has dew drops on it, which reflect the sunlight and add to the overall beauty of the scene.",
+        "score": [
+            0.23684210526315788,
+            0.5625,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a state of stillness, possibly observing its surroundings. The leaf has water droplets on its surface, which reflect the sunlight and add to the overall beauty of the scene.",
+        "score": [
+            0.22077922077922077,
+            0.53125,
+            0.3119266055045872
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white spots on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The morning sun casts a warm glow on the ladybug and the leaf, creating a beautiful and serene scene.",
+        "score": [
+            0.3269230769230769,
+            0.53125,
+            0.40476190476190477
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white spots on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The morning sun casts a warm glow on the ladybug and the leaf, creating a beautiful and serene scene.",
+        "score": [
+            0.3269230769230769,
+            0.53125,
+            0.40476190476190477
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton, with its wings folded neatly against its body. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The morning sun casts a warm glow on the scene, highlighting the ladybug's intricate details and the texture of the leaf.",
+        "score": [
+            0.2982456140350877,
+            0.53125,
+            0.3820224719101123
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, orange-red exoskeleton with black spots. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.3877551020408163,
+            0.59375,
+            0.46913580246913583
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sun.",
+        "score": [
+            0.32,
+            0.5,
+            0.39024390243902435
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are spread out, and it appears to be in a state of alertness, possibly preparing to take flight. The dew drops on the leaf create a sparkling effect, adding to the overall beauty of the scene.",
+        "score": [
+            0.189873417721519,
+            0.46875,
+            0.2702702702702703
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The leaf has water droplets on its surface, reflecting the sunlight and adding to the overall beauty of the scene.",
+        "score": [
+            0.2328767123287671,
+            0.53125,
+            0.32380952380952377
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which reflect the light and add to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white markings on its back. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the warmth of the morning sun.",
+        "score": [
+            0.32075471698113206,
+            0.53125,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton, with its wings folded neatly against its body. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The morning sun casts a warm glow on the scene, highlighting the ladybug's intricate details and the texture of the leaf.",
+        "score": [
+            0.2982456140350877,
+            0.53125,
+            0.3820224719101123
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black body with white spots. It is perched on the edge of a vibrant green leaf, basking in the warm sunlight. The ladybug's legs are spread out, and it appears to be taking in the view of its surroundings. The leaf is slightly curled, and the ladybug's antennae are extended, as if it is sensing its environment. The sunlight creates a soft glow around the ladybug, highlighting its intricate details and making it stand out against the green leaf.",
+        "score": [
+            0.16853932584269662,
+            0.46875,
+            0.24793388429752064
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red and black exoskeleton with white spots. It is perched on the edge of a vibrant green leaf, basking in the warm sunlight. The ladybug's legs are spread out, and it appears to be taking in the surroundings. The leaf is covered in tiny water droplets, which reflect the light and create a beautiful, shimmering effect.",
+        "score": [
+            0.20634920634920634,
+            0.40625,
+            0.2736842105263158
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, orange-red exoskeleton with black spots. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug and the leaf.",
+        "score": [
+            0.30357142857142855,
+            0.53125,
+            0.38636363636363635
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are spread out, and it appears to be taking in the morning sunlight. The background is a soft blur of green, with the sun's rays creating a warm glow around the ladybug.",
+        "score": [
+            0.29411764705882354,
+            0.625,
+            0.4
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or flying. The background is blurred, emphasizing the ladybug and the leaf.",
+        "score": [
+            0.29310344827586204,
+            0.53125,
+            0.3777777777777777
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which are reflecting the sunlight and adding to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a resting position, possibly taking in the sunlight or surveying its surroundings. The leaf has dew drops on it, which are glistening in the sunlight, adding to the overall serene and peaceful atmosphere of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red and black spotted exoskeleton. It is perched on the edge of a vibrant green leaf, with the morning sun casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a resting position, possibly taking in the sunlight or surveying its surroundings. The leaf has dew drops on it, which are glistening in the sunlight, adding to the overall serene and peaceful atmosphere of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The morning sun casts a warm glow on the ladybug and the leaf, creating a beautiful and serene scene.",
+        "score": [
+            0.36,
+            0.5625,
+            0.43902439024390244
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which are glistening in the sunlight, adding to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which are reflecting the sunlight and adding to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which are reflecting the sunlight and adding to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a vibrant red body with black spots and white markings. It is perched on the edge of a green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf is slightly wet, with dew drops glistening on its surface, and the ladybug's body is reflected in the dew drops, adding to the overall beauty of the scene.",
+        "score": [
+            0.1797752808988764,
+            0.5,
+            0.2644628099173554
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which are reflecting the sunlight and adding to the overall brightness of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, which is glistening with dew drops. The ladybug's legs are visible, and it appears to be in the process of crawling or standing. The background is blurred, with a gradient of green and yellow, suggesting a natural outdoor setting.",
+        "score": [
+            0.27692307692307694,
+            0.5625,
+            0.3711340206185567
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has dew drops on it, which are glistening in the sunlight, adding to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or jumping. The leaf has water droplets on its surface, which are reflecting the sunlight and creating a beautiful, sparkling effect.",
+        "score": [
+            0.2054794520547945,
+            0.46875,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny, red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or jumping. The leaf has water droplets on its surface, which are reflecting the sunlight and adding to the overall brightness of the scene.",
+        "score": [
+            0.21052631578947367,
+            0.5,
+            0.2962962962962963
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which reflect the light and add to the overall beauty of the scene.",
+        "score": [
+            0.2125,
+            0.53125,
+            0.30357142857142855
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is perched on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in a relaxed position, possibly enjoying the warmth of the sun. The leaf has water droplets on its surface, which are reflecting the light and adding to the overall beauty of the scene.",
+        "score": [
+            0.20987654320987653,
+            0.53125,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is standing on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or walking. The leaf has water droplets on its surface, which are reflecting the sunlight and adding to the overall brightness of the scene.",
+        "score": [
+            0.21052631578947367,
+            0.5,
+            0.2962962962962963
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate ladybug, its crimson shell dotted with jet-black spots, clings to the edge of a vibrant green leaf, glistening with morning dew under the soft glow of the rising sun.",
+        "prediction": "The delicate ladybug has a shiny red body with black spots and white markings. It is standing on the edge of a vibrant green leaf, and the morning sun is casting a warm glow on its body. The ladybug's legs are visible, and it appears to be in motion, possibly crawling or walking. The leaf has water droplets on its surface, which are reflecting the sunlight and adding to the overall brightness of the image.",
+        "score": [
+            0.21052631578947367,
+            0.5,
+            0.2962962962962963
+        ]
+    }
+}

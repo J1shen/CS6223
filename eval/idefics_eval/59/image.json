@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene.",
+        "score": [
+            0.6153846153846154,
+            0.8421052631578947,
+            0.7111111111111111
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.47058823529411764,
+            0.8421052631578947,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of peace and tranquility. The butterfly's iridescent blue wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning contrast that adds to the overall beauty of the scene. The gentle breeze carries the butterfly effortlessly among the sunflowers, creating a sense of movement and life. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking backdrop for the butterfly, making it stand out even more. The warm afternoon",
+        "score": [
+            0.1509433962264151,
+            0.8421052631578947,
+            0.256
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of peace and tranquility. The butterfly's iridescent blue wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a harmonious and picturesque image. The gentle breeze carries the butterfly effortlessly among the sunflowers, adding to the serene atmosphere of the scene.",
+        "score": [
+            0.2191780821917808,
+            0.8421052631578947,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided does not match any specific information from the given text.",
+        "score": [
+            0.15384615384615385,
+            0.10526315789473684,
+            0.125
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning visual effect. The gentle breeze carries the butterfly effortlessly, adding to the peaceful atmosphere of the scene. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking contrast to the butterfly's blue wings, making the scene even more captivating.",
+        "score": [
+            0.1839080459770115,
+            0.8421052631578947,
+            0.3018867924528302
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning visual effect. The gentle breeze carries the butterfly effortlessly, adding to the peaceful atmosphere of the scene. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking contrast to the butterfly's blue wings, making the image even more captivating.",
+        "score": [
+            0.1839080459770115,
+            0.8421052631578947,
+            0.3018867924528302
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the text is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6666666666666666,
+            0.8421052631578947,
+            0.744186046511628
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The image described in the document is a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.68,
+            0.8947368421052632,
+            0.7727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.47058823529411764,
+            0.8421052631578947,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.47058823529411764,
+            0.8421052631578947,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.47058823529411764,
+            0.8421052631578947,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8,
+            0.8421052631578947,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The image described in the document is a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.68,
+            0.8947368421052632,
+            0.7727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8,
+            0.8421052631578947,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.47058823529411764,
+            0.8421052631578947,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.47058823529411764,
+            0.8421052631578947,
+            0.6037735849056604
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of peace and tranquility. The butterfly's iridescent blue wings shimmer in the sunlight, reflecting the colors of the sky and adding to the overall beauty of the scene. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking contrast to the butterfly's blue wings, creating a visually appealing and harmonious composition. The warm afternoon breeze gently rustles the petals of the sunflowers, adding a sense of movement and life to the scene",
+        "score": [
+            0.14953271028037382,
+            0.8421052631578947,
+            0.25396825396825395
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided does not match any specific document in the given text.",
+        "score": [
+            0.23076923076923078,
+            0.15789473684210525,
+            0.18749999999999997
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is not a direct question about the document, but rather a vivid and poetic description of a butterfly with iridescent blue wings fluttering among vibrant sunflowers in the warm afternoon breeze. This description does not relate to the content of the document, which discusses various topics such as the addictive nature of technology, the importance of understanding software, the challenges of starting a startup, and the role of design in programming languages.",
+        "score": [
+            0.2,
+            0.7894736842105263,
+            0.31914893617021284
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided does not match any specific document or text. It seems to be a vivid and poetic description of a butterfly in a natural setting.",
+        "score": [
+            0.1111111111111111,
+            0.15789473684210525,
+            0.13043478260869565
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided does not match any specific document in the given text.",
+        "score": [
+            0.23076923076923078,
+            0.15789473684210525,
+            0.18749999999999997
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "A butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            1.0,
+            0.8421052631578947,
+            0.9142857142857143
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is not a direct question about the document, but rather a vivid and poetic description of a butterfly with iridescent blue wings fluttering among vibrant sunflowers in the warm afternoon breeze. This description does not relate to the content of the document, which discusses various topics such as the App Store, programming languages, corporate development, and design.",
+        "score": [
+            0.25,
+            0.7894736842105263,
+            0.379746835443038
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided in the document is of a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.6538461538461539,
+            0.8947368421052632,
+            0.7555555555555555
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided does not match any specific information from the given text.",
+        "score": [
+            0.15384615384615385,
+            0.10526315789473684,
+            0.125
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is not a question, but rather a vivid and poetic description of a delicate butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze. This description does not require a question to be answered, as it is a standalone passage of descriptive prose.",
+        "score": [
+            0.3333333333333333,
+            0.8947368421052632,
+            0.48571428571428565
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided does not match any specific information from the given text.",
+        "score": [
+            0.15384615384615385,
+            0.10526315789473684,
+            0.125
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is not a question, but rather a vivid and poetic description of a delicate butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze. This description does not require a question to be answered, as it is a standalone passage of descriptive prose.",
+        "score": [
+            0.3333333333333333,
+            0.8947368421052632,
+            0.48571428571428565
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The description provided is of a butterfly with iridescent blue wings fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.7619047619047619,
+            0.8421052631578947,
+            0.8
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning visual effect. The gentle breeze carries the butterfly effortlessly, adding to the peaceful atmosphere of the scene. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking contrast to the butterfly's blue wings, making the image even more captivating.",
+        "score": [
+            0.1839080459770115,
+            0.8421052631578947,
+            0.3018867924528302
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene.",
+        "score": [
+            0.6153846153846154,
+            0.8421052631578947,
+            0.7111111111111111
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "A butterfly with iridescent blue wings is described as fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8421052631578947,
+            0.8421052631578947,
+            0.8421052631578947
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning contrast between the softness of the butterfly and the boldness of the flowers. The butterfly's gentle movements add to the peaceful atmosphere, as it flutters from one sunflower to another, sipping nectar and enjoying the warmth of the sun. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking backdrop for the butterfly's graceful dance, making this scene a",
+        "score": [
+            0.1509433962264151,
+            0.8421052631578947,
+            0.256
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning contrast between the natural beauty of the butterfly and the vibrant flowers. The butterfly's gentle movements add to the peaceful atmosphere, as it flutters from one sunflower to another, sipping nectar and enjoying the warmth of the sun. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking backdrop for the butterfly's graceful dance, making this scene a picturesque and captivating",
+        "score": [
+            0.14814814814814814,
+            0.8421052631578947,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning contrast between the natural beauty of the butterfly and the vibrant flowers. The butterfly's gentle movements add to the peaceful atmosphere, as it flutters from one sunflower to another, sipping nectar and enjoying the warmth of the sun. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking backdrop for the butterfly's graceful dance, making this scene a picturesque and captivating",
+        "score": [
+            0.14814814814814814,
+            0.8421052631578947,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene. The butterfly's wings shimmer in the sunlight, reflecting the colors of the sunflowers, creating a stunning visual effect. The sunflowers, with their bright yellow petals and dark brown centers, provide a striking contrast to the butterfly's blue wings, making the scene even more captivating. The warm afternoon breeze gently rustles the petals of the sunflowers, adding a sense of movement and life to the image. The overall atmosphere is one of tranquility and natural beauty, with the butterfly and sun",
+        "score": [
+            0.14814814814814814,
+            0.8421052631578947,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "A beautiful butterfly with iridescent blue wings is described as fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8,
+            0.8421052631578947,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of peace and tranquility.",
+        "score": [
+            0.48484848484848486,
+            0.8421052631578947,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "A beautiful butterfly with iridescent blue wings is described as fluttering gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8,
+            0.8421052631578947,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze is described as a beautiful and serene scene, evoking a sense of peace and tranquility.",
+        "score": [
+            0.48484848484848486,
+            0.8421052631578947,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant sunflowers, dancing in the warm afternoon breeze.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings that flutters gracefully among vibrant sunflowers in the warm afternoon breeze.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    }
+}

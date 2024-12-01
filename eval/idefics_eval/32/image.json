@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk and sturdy branches reaching towards the sky. The leaves, a vibrant yellow, are scattered across the ground, creating a carpet of autumnal color. The sunlight filters through the leaves, casting a warm glow over the scene. The tree is set against a backdrop of a soft, misty landscape, with other trees and a distant horizon visible through the haze. The ground is covered with a mix of green grass and fallen leaves, adding to the autumnal atmosphere.",
+        "score": [
+            0.1,
+            0.3448275862068966,
+            0.1550387596899225
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk and sturdy branches reaching towards the sky. The leaves, a mix of green and yellow, are scattered on the ground, creating a carpet of autumn foliage. The sunlight filters through the leaves, casting a warm glow on the scene. The tree is set against a backdrop of a serene landscape, with a soft, misty horizon and a few distant trees. The overall atmosphere is tranquil and picturesque, capturing the essence of an autumn day.",
+        "score": [
+            0.1134020618556701,
+            0.3793103448275862,
+            0.17460317460317462
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk and sturdy branches reaching out towards the sky. The leaves, a vibrant yellow, are scattered across the ground, creating a carpet of autumnal color. The sunlight filters through the leaves, casting a warm glow over the scene. The tree is set against a backdrop of a soft, misty landscape, with other trees and a distant horizon visible through the haze. The ground is covered with a mix of green grass and fallen leaves, adding to the autumnal atmosphere.",
+        "score": [
+            0.09900990099009901,
+            0.3448275862068966,
+            0.15384615384615388
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk and sturdy branches reaching out towards the sky. The leaves, a vibrant shade of yellow, are scattered across the ground, creating a carpet of autumn foliage. The sunlight filters through the leaves, casting a warm glow over the scene. The tree is set against a backdrop of a soft, misty landscape, with a few distant trees and a hint of a meadow in the background. The overall atmosphere is serene and tranquil, with the tree being the focal point of the image.",
+        "score": [
+            0.10476190476190476,
+            0.3793103448275862,
+            0.16417910447761194
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk rooted firmly into the ground. The leaves, a mix of green and yellow, are scattered around the base of the tree, creating a carpet of fallen foliage. The sunlight filters through the leaves, casting a warm glow over the scene. The tree's branches extend outward, providing a sense of grandeur and shelter. The ground beneath the tree is covered with grass, and the surrounding area appears to be a serene, natural landscape.",
+        "score": [
+            0.13541666666666666,
+            0.4482758620689655,
+            0.20800000000000002
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk and sturdy branches reaching towards the sky. The leaves, a vibrant shade of yellow, are scattered across the ground, creating a carpet of autumn foliage. The sunlight filters through the leaves, casting a warm glow over the scene. The tree is set against a backdrop of a serene landscape, with a soft, misty atmosphere that adds to the tranquil ambiance. The ground is covered with a mix of green grass and fallen leaves, enhancing the autumnal theme. The overall composition of the image captures the",
+        "score": [
+            0.10185185185185185,
+            0.3793103448275862,
+            0.1605839416058394
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk rooted firmly into the ground. The leaves, a mix of green and yellow, drape gracefully over the branches, creating a natural, serene backdrop. The sunlight filters through the leaves, casting a warm glow over the scene. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The tree's branches extend outward, providing a sense of grandeur and stability. The surrounding area appears to be a grassy field, with a soft, grassy texture and a",
+        "score": [
+            0.11650485436893204,
+            0.41379310344827586,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk rooted firmly into the ground. The leaves, a mix of green and yellow, are scattered around the base of the tree, creating a carpet of fallen foliage. The sunlight filters through the leaves, casting a warm glow over the scene. The tree's branches extend outward, forming a canopy that provides shade and shelter. The ground beneath the tree is covered with grass, and the surrounding area appears to be a serene and peaceful landscape, possibly a park or a forest.",
+        "score": [
+            0.125,
+            0.4482758620689655,
+            0.19548872180451127
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled trunk rooted firmly into the ground. The leaves, a mix of yellow and orange hues, are scattered around the base of the tree, creating a carpet of fallen foliage. The sunlight filters through the leaves, casting a warm, golden glow over the scene. The tree's branches extend outward, forming a canopy that provides shade and shelter. The ground beneath the tree is covered with a lush, green grass, and the surrounding area appears to be a serene, natural landscape. The sky is not visible in",
+        "score": [
+            0.12037037037037036,
+            0.4482758620689655,
+            0.1897810218978102
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of golden-yellow leaves. The tree stands tall, its thick, gnarled trunk rooted firmly into the ground. The leaves, in full autumn color, drape gracefully over the branches, creating a natural, picturesque scene. The sunlight filters through the leaves, casting a warm glow on the ground below, where a carpet of fallen leaves lies, adding to the serene and tranquil atmosphere. The tree's branches stretch out in various directions, providing a sense of depth and scale to the image. The ground is covered with a mix of green grass and the fallen leaves, creating a natural,",
+        "score": [
+            0.1111111111111111,
+            0.41379310344827586,
+            0.17518248175182483
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by fallen leaves on the ground, indicating that it is autumn. The sunlight filters through the leaves, creating a warm and inviting atmosphere. The tree's branches are sturdy and spread out, providing ample shade. The scene is serene and peaceful, with the tree standing tall and proud.",
+        "score": [
+            0.14492753623188406,
+            0.3448275862068966,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a full canopy of yellow leaves. The tree is positioned in a natural setting, with a grassy area beneath it and a clear sky above. The leaves are scattered on the ground, creating a carpet of yellow and green. The tree's branches are thick and sturdy, and its trunk is robust. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.1232876712328767,
+            0.3103448275862069,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by fallen leaves on the ground, and the sunlight is filtering through the leaves, creating a warm and inviting atmosphere. The tree is positioned in a natural setting, possibly a forest or a park, with a soft, blurred background that suggests a serene and peaceful environment.",
+        "score": [
+            0.13432835820895522,
+            0.3103448275862069,
+            0.18750000000000003
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and branches extending upwards. The tree is covered with yellow leaves, and there are fallen leaves scattered on the ground. The sky is visible through the gaps in the tree's branches, and the sun is shining through the leaves, creating a warm and inviting atmosphere. The tree is surrounded by a grassy area, and there are other trees in the background.",
+        "score": [
+            0.1232876712328767,
+            0.3103448275862069,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, and its leaves are a vibrant yellow, suggesting that it is autumn. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, creating a warm and inviting atmosphere. The ground below the tree is covered with fallen leaves, adding to the autumnal theme. The tree's roots are visible, indicating its deep connection to the earth. The overall scene is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the breeze.",
+        "score": [
+            0.08333333333333333,
+            0.3103448275862069,
+            0.13138686131386862
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is positioned in a grassy area, with fallen leaves scattered around its base. The sunlight filters through the leaves, creating a warm and inviting atmosphere. The tree's branches are sturdy and spread out, providing ample shade and shelter. The scene is serene and peaceful, with the tree standing tall and proud, surrounded by its fallen leaves.",
+        "score": [
+            0.14473684210526316,
+            0.3793103448275862,
+            0.20952380952380953
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, and its leaves are a vibrant yellow, suggesting that it is autumn. The tree is set against a backdrop of a soft, misty sky, with the sun peeking through the leaves, casting a warm glow over the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, indicating its deep connection to the earth. The overall scene is serene and picturesque, capturing the beauty of nature in the fall season.",
+        "score": [
+            0.08737864077669903,
+            0.3103448275862069,
+            0.13636363636363635
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with the sun peeking through the leaves, casting a warm glow on the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, indicating its deep connection to the earth. The overall scene is serene and picturesque, capturing the beauty of nature in",
+        "score": [
+            0.08108108108108109,
+            0.3103448275862069,
+            0.1285714285714286
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree's trunk is thick and sturdy, with a rough texture, and its roots are firmly embedded in the ground. The ground around the tree is covered with fallen leaves, adding to the autumnal atmosphere. The sunlight filters through the leaves, casting a warm glow on the scene. The overall mood of the image is serene and peaceful, with the tree being",
+        "score": [
+            0.10810810810810811,
+            0.41379310344827586,
+            0.17142857142857146
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its gnarled branches stretching out in various directions, creating a sense of grandeur and strength. The leaves, a mix of green and yellow, are scattered on the ground, indicating the changing seasons, possibly autumn. The sunlight filters through the leaves, casting a warm glow on the scene, highlighting the intricate details of the tree's bark and the surrounding environment. The ground is covered with a carpet of fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, anchoring it firmly into the earth, and the",
+        "score": [
+            0.09345794392523364,
+            0.3448275862068966,
+            0.14705882352941177
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a full canopy of yellow leaves. The tree is positioned in a natural setting, with a clear sky visible through the branches. The leaves are scattered on the ground, creating a carpet of yellow and brown hues. The tree's trunk is thick and sturdy, with a rough texture. The scene is serene and peaceful, with no other objects or people visible.",
+        "score": [
+            0.12857142857142856,
+            0.3103448275862069,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a full canopy of yellow leaves. The tree is positioned in a natural setting, with a clear sky visible through the branches. The leaves are scattered on the ground, creating a carpet of yellow and orange hues. The tree's trunk is thick and sturdy, with a rough texture. The scene is serene and peaceful, with the tree standing tall and proud.",
+        "score": [
+            0.14285714285714285,
+            0.3448275862068966,
+            0.20202020202020202
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and branches extending upwards. The tree is covered with yellow leaves, which are scattered on the ground. The leaves are of various sizes and shapes, and they appear to be in the process of falling. The ground is covered with a layer of fallen leaves, and there is a sense of autumn in the scene. The sky is not visible in the image, but the lighting suggests it might be daytime.",
+        "score": [
+            0.10975609756097561,
+            0.3103448275862069,
+            0.16216216216216217
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by fallen leaves on the ground, and the sunlight is filtering through the leaves, creating a warm and inviting atmosphere. The tree is positioned in a natural setting, possibly a forest or a park, with a clear sky visible through the branches.",
+        "score": [
+            0.15873015873015872,
+            0.3448275862068966,
+            0.21739130434782608
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and branches extending upwards. The tree is covered with yellow leaves, indicating that it is in the fall season. The leaves are scattered on the ground, creating a carpet of yellow and brown hues. The tree is surrounded by a grassy area, and the sky is visible through the gaps in the branches.",
+        "score": [
+            0.171875,
+            0.3793103448275862,
+            0.23655913978494625
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and branches extending upwards. The tree is covered with yellow leaves, which are scattered on the ground. The leaves are of various sizes and shapes, and they are mostly yellow, with some of them having a reddish tint. The tree is surrounded by a grassy area, and the sky is visible in the background. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.1282051282051282,
+            0.3448275862068966,
+            0.18691588785046728
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, suggesting that it might be autumn or a time of seasonal change. The tree is set against a backdrop of a clear sky, with the sun peeking through the branches, casting a warm glow on the leaves. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, indicating its strength and stability. The overall scene is serene and picturesque, capturing",
+        "score": [
+            0.0990990990990991,
+            0.3793103448275862,
+            0.15714285714285714
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or a time of seasonal change. The tree is set against a backdrop of a soft, diffused light, which adds to the serene and peaceful atmosphere of the scene. The ground beneath the tree is covered with fallen leaves, creating a carpet of yellow and brown hues. The overall composition of the image is one of tranquility and natural beauty, with the oak tree as the central focus.",
+        "score": [
+            0.08035714285714286,
+            0.3103448275862069,
+            0.12765957446808512
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or a time of seasonal change. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, casting a warm glow over the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, indicating its deep connection to the earth. The overall scene is serene and picturesque, capturing the beauty of",
+        "score": [
+            0.08928571428571429,
+            0.3448275862068966,
+            0.14184397163120568
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its gnarled branches stretching out in all directions, creating a sense of grandeur and strength. The leaves, a mix of green and yellow, are scattered on the ground, some still clinging to the branches, while others have fallen, creating a carpet of autumnal colors. The sunlight filters through the leaves, casting dappled shadows on the ground below. The tree is set against a backdrop of a serene landscape, with a soft, misty atmosphere that adds to the tranquil ambiance of the scene. The overall mood of",
+        "score": [
+            0.10377358490566038,
+            0.3793103448275862,
+            0.16296296296296298
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, casting a warm glow over the scene. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall impression is one of tranquility and natural beauty, with the oak tree being the focal point of the image.",
+        "score": [
+            0.09259259259259259,
+            0.3448275862068966,
+            0.14598540145985403
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, suggesting that it might be autumn or a time of transition. The tree is set against a backdrop of a clear sky, with the sun peeking through the leaves, casting a warm glow on the scene. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall mood of the image is serene and peaceful, with the tree standing tall and proud, its leaves rustling",
+        "score": [
+            0.08928571428571429,
+            0.3448275862068966,
+            0.14184397163120568
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, suggesting that it might be autumn or a time of transition. The tree stands tall, with its roots firmly planted in the ground, and its leaves reaching out towards the sky. The background is blurred, focusing the viewer's attention on the tree. The overall mood of the image is serene and peaceful, with the tree as the central subject.",
+        "score": [
+            0.0891089108910891,
+            0.3103448275862069,
+            0.13846153846153844
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is positioned in a natural setting, with a grassy area beneath it and a clear sky above. The leaves are scattered on the ground, creating a carpet of yellow and green. The tree's branches are visible, extending upwards and outwards, providing shade and shelter. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.11688311688311688,
+            0.3103448275862069,
+            0.16981132075471697
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by fallen leaves on the ground, indicating that it is autumn. The leaves are scattered around the base of the tree, and some are still attached to the branches. The tree's branches are thick and sturdy, and the leaves are a vibrant yellow color, suggesting that the season is autumn. The background of the image is blurred, focusing attention on the tree and its leaves.",
+        "score": [
+            0.10344827586206896,
+            0.3103448275862069,
+            0.15517241379310345
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is positioned in a natural setting, with a grassy area beneath it and a clear sky above. The leaves are scattered on the ground, creating a carpet of yellow and green. The tree's branches are visible, extending upwards and outwards, providing shade and shelter. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.11688311688311688,
+            0.3103448275862069,
+            0.16981132075471697
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and numerous branches. The tree is covered with yellow leaves, which are scattered on the ground. The leaves are of various sizes and shapes, and they are mostly yellow, with some of them having a reddish tint. The tree is surrounded by a grassy area, and the sunlight is filtering through the leaves, creating a warm and inviting atmosphere.",
+        "score": [
+            0.17142857142857143,
+            0.41379310344827586,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, suggesting that it might be autumn or a time of transition. The tree is set against a backdrop of a soft, diffused light, which casts a warm glow on the scene. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall mood of the image is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the",
+        "score": [
+            0.08108108108108109,
+            0.3103448275862069,
+            0.1285714285714286
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of golden-yellow leaves. The tree stands tall and proud, its gnarled branches stretching out in all directions, creating a natural archway. The leaves are a vibrant shade of yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a soft, diffused light, which casts a warm glow on the scene. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall scene is serene and picturesque, with the tree being the focal point.",
+        "score": [
+            0.09090909090909091,
+            0.3103448275862069,
+            0.140625
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled branches stretching out in various directions, creating a sense of grandeur and strength. The leaves, a mix of green and yellow, are scattered across the ground, some still clinging to the branches, while others have fallen, creating a carpet of autumnal colors. The sunlight filters through the leaves, casting dappled shadows on the ground below. The tree is set against a backdrop of a soft, misty sky, adding to the serene and tranquil atmosphere of the scene. The ground is covered with a layer",
+        "score": [
+            0.10476190476190476,
+            0.3793103448275862,
+            0.16417910447761194
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree's bark is rough and textured, with deep grooves and ridges, adding to its rugged appearance. The ground beneath the tree is covered with fallen leaves, creating a soft, golden carpet. The sunlight filters through the leaves, casting dappled shadows on the ground, adding a sense of depth and dimension to the scene. The overall atmosphere is serene and",
+        "score": [
+            0.10185185185185185,
+            0.3793103448275862,
+            0.1605839416058394
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The sunlight filters through the leaves, casting a warm glow on the ground below. The tree's bark is rough and textured, with deep grooves and ridges, adding to its rugged appearance. The ground around the tree is covered with fallen leaves, creating a soft, golden carpet. The overall atmosphere is serene and peaceful, with the tree being the focal point of the",
+        "score": [
+            0.09090909090909091,
+            0.3448275862068966,
+            0.14388489208633093
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few smaller branches extending outward. The leaves are a vibrant yellow, suggesting that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with a few clouds scattered around. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The tree's trunk is robust and has a rough texture, indicating its age and strength. The overall scene is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the breeze",
+        "score": [
+            0.07964601769911504,
+            0.3103448275862069,
+            0.1267605633802817
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, suggesting that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with a soft gradient of light and shadow, indicating a sunny day. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall scene is serene and picturesque, capturing the beauty of nature in a tranquil moment.",
+        "score": [
+            0.08653846153846154,
+            0.3103448275862069,
+            0.13533834586466167
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that the season is likely autumn. The sunlight filters through the leaves, casting a warm glow on the ground below. The ground is covered with fallen leaves, adding to the autumnal atmosphere. The tree's bark is rough and textured, with deep grooves and ridges, giving it a rugged appearance. The overall scene is serene and peaceful, with the tree being the focal point of the image.",
+        "score": [
+            0.09433962264150944,
+            0.3448275862068966,
+            0.14814814814814817
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree's bark is rough and textured, adding to its rugged appearance. The ground beneath the tree is covered with fallen leaves, creating a soft, carpet-like layer. The sunlight filters through the leaves, casting dappled shadows on the ground. The overall atmosphere is serene and peaceful, with the tree being the focal point of the scene.",
+        "score": [
+            0.10476190476190476,
+            0.3793103448275862,
+            0.16417910447761194
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The sunlight filters through the leaves, casting a warm glow on the ground below. The ground is covered with fallen leaves, adding to the autumnal atmosphere. The tree's bark is rough and textured, with deep grooves and ridges, giving it a rugged appearance. The overall scene is serene and peaceful, with the tree being the focal point.",
+        "score": [
+            0.09523809523809523,
+            0.3448275862068966,
+            0.1492537313432836
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree's bark is rough and textured, with deep grooves and ridges, adding to its rugged appearance. The ground beneath the tree is covered with fallen leaves, creating a soft, golden carpet. The sunlight filters through the leaves, casting dappled shadows on the ground and highlighting the intricate patterns of the tree's branches. The overall atmosphere is serene and peaceful",
+        "score": [
+            0.11009174311926606,
+            0.41379310344827586,
+            0.17391304347826092
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree's trunk is thick and sturdy, with a rough texture, and its roots are firmly embedded in the ground. The ground around the tree is covered with fallen leaves, adding to the autumnal atmosphere. The sky above is clear, allowing the sunlight to filter through the leaves, casting a warm glow on the scene. The overall impression is one of tranquility and",
+        "score": [
+            0.10810810810810811,
+            0.41379310344827586,
+            0.17142857142857146
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled branches stretching out in various directions, creating a sense of grandeur and strength. The leaves, a vibrant yellow, are scattered across the ground, some still clinging to the branches, while others have fallen, creating a carpet of autumnal color. The sunlight filters through the leaves, casting a warm glow on the scene, highlighting the intricate details of the tree's bark and the surrounding environment. The ground beneath the tree is covered with a mix of green grass and fallen leaves, adding to the autumnal atmosphere.",
+        "score": [
+            0.09345794392523364,
+            0.3448275862068966,
+            0.14705882352941177
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The document describes a scene with an oak tree, where the leaves are in full bloom, creating a beautiful and serene atmosphere. The tree's branches are laden with leaves, and the sunlight filters through them, casting a warm glow on the ground below. The leaves are a vibrant yellow, and their gentle rustling in the breeze creates a soothing sound. The overall setting is peaceful and picturesque, with the oak tree being the central focus of the scene.",
+        "score": [
+            0.12658227848101267,
+            0.3448275862068966,
+            0.18518518518518517
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with yellow leaves, and the leaves are scattered on the ground.",
+        "score": [
+            0.29411764705882354,
+            0.1724137931034483,
+            0.2173913043478261
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with yellow leaves, and the leaves are scattered on the ground. The tree is tall and has a large canopy.",
+        "score": [
+            0.19230769230769232,
+            0.1724137931034483,
+            0.18181818181818185
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with yellow leaves, and the leaves are scattered on the ground.",
+        "score": [
+            0.29411764705882354,
+            0.1724137931034483,
+            0.2173913043478261
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, and its leaves are a vibrant yellow, suggesting that it is autumn. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, creating a warm and inviting atmosphere. The leaves are scattered on the ground, adding to the serene and peaceful ambiance of the scene.",
+        "score": [
+            0.12,
+            0.3103448275862069,
+            0.17307692307692307
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by a grassy area with fallen leaves scattered around its base. The leaves are predominantly yellow, indicating that the season might be autumn. The tree's branches are visible, extending upwards and outwards, providing a sense of its size and grandeur. The sunlight filters through the leaves, creating a dappled pattern on the ground.",
+        "score": [
+            0.16,
+            0.41379310344827586,
+            0.23076923076923078
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and branches extending upwards. The tree is surrounded by a carpet of fallen leaves, which are scattered on the ground. The leaves are predominantly yellow, indicating that the season might be autumn. The tree's leaves are still attached to the branches, and the sunlight filters through them, creating a dappled pattern on the ground. The scene is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the breeze.",
+        "score": [
+            0.12790697674418605,
+            0.3793103448275862,
+            0.19130434782608696
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The sunlight filters through the leaves, casting a warm glow on the scene. The tree's bark is rough and textured, with deep grooves and ridges, giving it a rugged appearance. The overall scene is serene and peaceful, with the tree being the focal point.",
+        "score": [
+            0.09345794392523364,
+            0.3448275862068966,
+            0.14705882352941177
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or a time of seasonal change. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The sunlight filters through the leaves, casting a warm glow on the scene. The tree's bark is rough and textured, with deep grooves and ridges, giving it a rugged appearance. The overall scene is serene and peaceful, with the tree being the",
+        "score": [
+            0.10091743119266056,
+            0.3793103448275862,
+            0.15942028985507248
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, casting a warm glow on the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, indicating its deep connection to the earth. The overall scene is one of tranquility and natural beauty, with the oak",
+        "score": [
+            0.08108108108108109,
+            0.3103448275862069,
+            0.1285714285714286
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with yellow leaves. The tree has a large, sturdy trunk with branches extending upwards and outwards. The leaves are scattered on the ground, creating a carpet of yellow and green. The sunlight filters through the leaves, casting a warm glow on the ground.",
+        "score": [
+            0.20408163265306123,
+            0.3448275862068966,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of leaves. The tree's branches are thick and sturdy, with a robust trunk that supports the weight of the leaves. The leaves are a vibrant yellow, indicating that the season is likely autumn. The sunlight filters through the leaves, creating a dappled pattern on the ground below. The tree stands tall and proud, its presence dominating the scene.",
+        "score": [
+            0.14285714285714285,
+            0.3448275862068966,
+            0.20202020202020202
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a large, sprawling canopy of leaves. The tree is positioned in a natural setting, with a clear sky visible through the gaps in the leaves. The leaves are a mix of green and yellow, indicating that the season might be autumn. The tree's trunk is sturdy and thick, with a rough texture, and its branches extend outward in various directions, providing ample shade and shelter. The leaves are clustered together, creating a dense, lush appearance. The overall scene is serene and peaceful, with the tree standing tall and proud, surrounded by its own natural environment.",
+        "score": [
+            0.10576923076923077,
+            0.3793103448275862,
+            0.16541353383458646
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of leaves. The tree is positioned in a natural setting, with a clear sky visible through the gaps in the branches. The leaves are a mix of green and yellow, indicating that the season might be autumn. The tree's trunk is sturdy and thick, with a rough texture, and its roots are firmly embedded in the ground. The leaves are scattered around the base of the tree, some of them fallen and some still clinging to the branches. The overall scene is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the breeze.",
+        "score": [
+            0.10810810810810811,
+            0.41379310344827586,
+            0.17142857142857146
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of leaves. The tree is positioned in a natural setting, with a clear sky visible through the gaps in the branches. The leaves are a mix of green and yellow, indicating that the season might be autumn. The tree's trunk is sturdy and thick, with a rough texture, and its roots are firmly embedded in the ground. The leaves are scattered around the base of the tree, some of them fallen and some still clinging to the branches. The overall scene is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the breeze.",
+        "score": [
+            0.10810810810810811,
+            0.41379310344827586,
+            0.17142857142857146
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that the season is likely autumn. The sunlight filters through the leaves, casting a warm glow on the ground below. The ground is covered with fallen leaves, adding to the autumnal atmosphere. The tree's bark is rough and textured, with deep grooves and ridges that suggest its age and resilience. The overall scene is one of tranquility and natural beauty, with the oak tree as the central focus.",
+        "score": [
+            0.09259259259259259,
+            0.3448275862068966,
+            0.14598540145985403
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by fallen leaves on the ground, indicating that it is autumn. The leaves are scattered around the base of the tree, and some are still attached to the branches. The tree is set against a backdrop of a clear sky, suggesting a calm and serene environment.",
+        "score": [
+            0.11940298507462686,
+            0.27586206896551724,
+            0.16666666666666663
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is surrounded by fallen leaves on the ground, and the sunlight is filtering through the leaves, creating a warm and inviting atmosphere. The tree is positioned in a natural setting, possibly a forest or a park, with a soft, blurred background that suggests a serene and peaceful environment.",
+        "score": [
+            0.13432835820895522,
+            0.3103448275862069,
+            0.18750000000000003
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and numerous branches. The tree is covered with yellow leaves, which are scattered on the ground. The leaves are of various sizes and shapes, and they appear to be in the process of falling. The tree is set against a backdrop of a clear sky, and the sunlight is casting shadows on the ground. The ground is covered with grass, and there are a few other trees in the background.",
+        "score": [
+            0.12345679012345678,
+            0.3448275862068966,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of golden-yellow leaves. The tree stands tall, its gnarled branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are abundant, covering the tree's branches and the ground beneath, creating a carpet of autumnal hues. The sunlight filters through the leaves, casting a warm glow on the scene, highlighting the intricate details of the tree's bark and the surrounding environment. The tree's roots are visible, indicating its deep connection to the earth. The ground is covered with fallen leaves, adding to the autumnal atmosphere. The overall scene exudes",
+        "score": [
+            0.1111111111111111,
+            0.41379310344827586,
+            0.17518248175182483
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a dense canopy of yellow leaves. The tree is positioned in a natural setting, with a clear sky visible through the gaps in the leaves. The leaves are predominantly yellow, suggesting that the season is autumn. The tree's branches are thick and sturdy, with a few smaller branches extending outward. The leaves are scattered on the ground, indicating that some have fallen. The overall scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.10588235294117647,
+            0.3103448275862069,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with yellow leaves. The tree has a large, sturdy trunk with branches extending upwards and outwards. The leaves are scattered on the ground, creating a carpet of yellow. The sunlight filters through the leaves, casting a warm glow on the ground. The tree stands tall and proud, its leaves rustling gently in the breeze.",
+        "score": [
+            0.16666666666666666,
+            0.3448275862068966,
+            0.2247191011235955
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with yellow leaves. The tree has a large, sturdy trunk with branches that spread out in all directions. The leaves are a vibrant yellow color, indicating that it might be autumn. The tree is surrounded by a grassy area, and there are some fallen leaves on the ground. The sky is visible through the branches, and it appears to be a clear day.",
+        "score": [
+            0.14492753623188406,
+            0.3448275862068966,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The scene involves an oak tree with a large number of leaves. The leaves are described as being in the process of falling, with some of them already on the ground. The tree is tall and has a thick trunk. The leaves are a mix of green and yellow, indicating that they are changing colors as the seasons change. The tree is surrounded by a grassy area, and there are other trees in the background. The overall atmosphere of the scene is calm and serene, with the focus on the natural beauty of the tree and its leaves.",
+        "score": [
+            0.11224489795918367,
+            0.3793103448275862,
+            0.1732283464566929
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a large, sprawling canopy of leaves. The tree is positioned in a natural setting, with a clear sky visible through the gaps in the leaves. The leaves are a mix of green and yellow, indicating that the season might be autumn. The tree's trunk is sturdy and thick, with a rough texture, and its branches extend outward in various directions, providing ample shade and shelter. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall scene is serene and peaceful, with the tree standing tall and proud, its leaves rustling gently in the breeze.",
+        "score": [
+            0.1,
+            0.3793103448275862,
+            0.15827338129496404
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a full canopy of yellow leaves. The tree is positioned in a natural setting, with a clear sky visible through the branches. The leaves are scattered on the ground, creating a carpet of yellow and brown hues. The tree's trunk is thick and sturdy, with a rough texture. The scene is serene and peaceful, with no other objects or people visible.",
+        "score": [
+            0.12857142857142856,
+            0.3103448275862069,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that the season is likely autumn. The tree is situated in a natural setting, with a soft, blurred background that suggests a serene and peaceful environment. The leaves are scattered on the ground, creating a carpet of color that complements the tree's majestic presence. The overall atmosphere of the image is one of tranquility and natural beauty.",
+        "score": [
+            0.09278350515463918,
+            0.3103448275862069,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and a canopy of yellow leaves. The tree is positioned in a natural setting, with a grassy area beneath it and a clear sky above. The leaves are scattered on the ground, indicating that they have fallen from the tree. The tree's branches are visible, extending upwards and outwards, providing shade and shelter. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.10256410256410256,
+            0.27586206896551724,
+            0.14953271028037385
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or a time of transition. The tree is set against a backdrop of a soft, diffused light, which adds to the serene and peaceful atmosphere of the scene. The ground beneath the tree is covered with fallen leaves, creating a carpet of golden hues that complements the tree's foliage. The overall composition of the image is one of tranquility and natural beauty, with the oak tree as",
+        "score": [
+            0.08035714285714286,
+            0.3103448275862069,
+            0.12765957446808512
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of golden-yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are vibrant and lush, with a mix of light and dark shades of yellow, indicating the changing seasons. The tree's trunk is sturdy and thick, with a rough texture, and its roots are firmly embedded in the ground. The ground beneath the tree is covered with fallen leaves, creating a carpet of autumn colors. The sky above is clear, with a soft, warm light illuminating the scene, casting a gentle glow on the tree and",
+        "score": [
+            0.09009009009009009,
+            0.3448275862068966,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, indicating that it might be autumn or a time of seasonal change. The tree is set against a backdrop of a clear sky, with the sun peeking through the leaves, casting a warm glow on the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The overall mood of the image is serene and peaceful, with the tree standing tall and proud, its leaves rust",
+        "score": [
+            0.08928571428571429,
+            0.3448275862068966,
+            0.14184397163120568
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with the sun peeking through the leaves, casting a warm glow on the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's bark is rough and textured, suggesting its age and resilience. The overall scene is serene and picturesque, capturing the beauty of nature in",
+        "score": [
+            0.08108108108108109,
+            0.3103448275862069,
+            0.1285714285714286
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, and its trunk is robust, indicating its age and strength. The leaves are a vibrant yellow, suggesting that it is autumn, and the sunlight filtering through the leaves creates a warm and inviting atmosphere. The ground beneath the tree is covered with fallen leaves, adding to the autumnal scene. The tree stands tall and proud, its presence dominating the landscape.",
+        "score": [
+            0.12048192771084337,
+            0.3448275862068966,
+            0.17857142857142858
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its branches stretching out in all directions, creating a natural archway. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is surrounded by a carpet of fallen leaves, which are scattered on the ground. The sunlight filters through the leaves, casting a warm glow on the scene. The tree's trunk is sturdy and thick, with deep grooves and ridges, suggesting its age and strength. The overall atmosphere is serene and peaceful, with the tree being the focal point of the image.",
+        "score": [
+            0.1,
+            0.3793103448275862,
+            0.15827338129496404
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its branches stretching out in all directions, creating a natural archway. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is surrounded by a carpet of fallen leaves, which are scattered on the ground. The sunlight filters through the leaves, casting a warm glow on the scene. The tree's bark is rough and textured, and its roots are visible, indicating its age and strength. The overall atmosphere of the image is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.1,
+            0.3793103448275862,
+            0.15827338129496404
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its thick, gnarled branches stretching out in various directions. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a soft, diffused light, possibly early morning or late afternoon sunlight. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The scene is serene and peaceful, with the tree being the focal point of the image.",
+        "score": [
+            0.08695652173913043,
+            0.27586206896551724,
+            0.1322314049586777
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its branches stretching out in all directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a clear blue sky, with a few other trees visible in the distance. The ground is covered with fallen leaves, adding to the autumnal atmosphere. The scene is serene and peaceful, with the tree being the focal point of the image.",
+        "score": [
+            0.09090909090909091,
+            0.3103448275862069,
+            0.140625
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a large, sturdy trunk and a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a natural archway. The leaves are vibrant yellow, indicating that it might be autumn. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The sunlight filters through the leaves, casting a warm glow on the scene. The tree is surrounded by a grassy area, and the background is slightly blurred, focusing the viewer's attention on the tree.",
+        "score": [
+            0.10526315789473684,
+            0.3448275862068966,
+            0.16129032258064516
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its gnarled branches stretching out in all directions, providing a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn, and they are scattered on the ground, creating a carpet of color beneath the tree. The sunlight filters through the leaves, casting a warm glow over the scene. The tree is rooted firmly in the ground, with its thick, sturdy trunk supporting the weight of its branches and leaves. The surrounding area is lush with green grass, and the overall atmosphere is serene and",
+        "score": [
+            0.10810810810810811,
+            0.41379310344827586,
+            0.17142857142857146
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its thick, gnarled trunk providing a sturdy base for the numerous branches that stretch out in all directions. The leaves, a vibrant shade of yellow, are scattered across the ground, creating a carpet of autumnal color. The sunlight filters through the leaves, casting a warm glow over the scene. The tree is set against a backdrop of a soft, misty sky, adding to the serene and tranquil atmosphere. The ground is covered with a mix of green grass and fallen leaves, enhancing the autumnal theme. The overall composition",
+        "score": [
+            0.10185185185185185,
+            0.3793103448275862,
+            0.1605839416058394
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and numerous branches. The tree is covered with yellow leaves, which are scattered on the ground. The leaves are of various sizes and shapes, and they are mostly yellow, with some of them having a reddish hue. The tree is surrounded by a grassy area, and the sky is visible in the background. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.12987012987012986,
+            0.3448275862068966,
+            0.18867924528301885
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large oak tree with a thick trunk and numerous branches. The tree is covered with yellow leaves, which are scattered on the ground. The leaves are of various sizes and shapes, and they are mostly yellow, with some of them having a reddish hue. The tree is surrounded by a grassy area, and the sky is visible in the background. The scene is serene and peaceful, with the tree being the central focus.",
+        "score": [
+            0.12987012987012986,
+            0.3448275862068966,
+            0.18867924528301885
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, indicating that it might be autumn or a time of seasonal change. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, casting a warm glow on the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, suggesting its age and strength. The overall scene is serene and picturesque, capturing the",
+        "score": [
+            0.08928571428571429,
+            0.3448275862068966,
+            0.14184397163120568
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a few leaves hanging down, creating a sense of depth and texture. The leaves are a vibrant yellow, suggesting that it might be autumn or a time of seasonal change. The tree is set against a backdrop of a soft, diffused light, possibly indicating a sunrise or sunset. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The overall scene is serene and picturesque, with the tree standing tall and proud, its leaves glowing in the gentle light.",
+        "score": [
+            0.08333333333333333,
+            0.3103448275862069,
+            0.13138686131386862
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a rich, dark brown color. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a soft, diffused light, possibly from the early morning or late afternoon sun. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, suggesting its robust and deep connection to the earth. The scene is serene and peaceful, with the tree standing tall and proud, its leaves",
+        "score": [
+            0.07272727272727272,
+            0.27586206896551724,
+            0.11510791366906473
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall, its branches stretching out in various directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is set against a backdrop of a clear sky, with the sun shining through the leaves, casting a warm glow over the scene. The ground below is covered with fallen leaves, adding to the autumnal atmosphere. The tree's bark is rough and textured, suggesting its age and resilience. The overall scene is serene and picturesque, capturing the beauty of nature in its",
+        "score": [
+            0.08035714285714286,
+            0.3103448275862069,
+            0.12765957446808512
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree's branches are thick and sturdy, with a robust trunk that supports the weight of the leaves. The leaves are a vibrant yellow, suggesting that it might be autumn. The ground beneath the tree is covered with fallen leaves, adding to the autumnal atmosphere. The sunlight filters through the leaves, creating a dappled pattern on the ground. The tree stands tall and proud, its presence dominating the scene.",
+        "score": [
+            0.11904761904761904,
+            0.3448275862068966,
+            0.17699115044247785
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its gnarled branches stretching out in all directions. The leaves are a vibrant yellow, indicating that it might be autumn. The tree is set against a backdrop of a serene landscape, with a soft, diffused light illuminating the scene. The ground is covered with fallen leaves, adding to the autumnal atmosphere. The tree's roots are visible, suggesting its deep connection to the earth. The overall scene exudes a sense of tranquility and natural beauty.",
+        "score": [
+            0.08421052631578947,
+            0.27586206896551724,
+            0.12903225806451613
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a large, majestic oak tree with a sprawling canopy of yellow leaves. The tree stands tall and proud, its branches stretching out in all directions, creating a sense of grandeur and strength. The leaves are a vibrant yellow, indicating that it might be autumn or late summer. The tree is situated in a grassy area, with fallen leaves scattered around its base, adding to the serene and natural atmosphere. The sunlight filters through the leaves, casting dappled shadows on the ground below. The overall scene is one of tranquility and beauty, with the tree being the focal point of the image.",
+        "score": [
+            0.10576923076923077,
+            0.3793103448275862,
+            0.16541353383458646
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a gentle breeze rustling the golden leaves of the towering oak tree, each leaf shimmering like a delicate coin in the dappled sunlight filtering through the branches.",
+        "prediction": "The image depicts a majestic oak tree with a sprawling canopy of yellow leaves, set against a backdrop of a serene landscape. The tree's gnarled branches stretch out in various directions, creating a sense of grandeur and age. The leaves, a mix of yellow and orange hues, are scattered on the ground, adding a carpet of color to the scene. The sunlight filters through the leaves, casting a warm glow over the entire composition. The tree stands tall and proud, its roots firmly embedded in the earth, symbolizing strength and endurance. The surrounding area is lush with green grass, and the sky above is a soft, gradient blend",
+        "score": [
+            0.10091743119266056,
+            0.3793103448275862,
+            0.15942028985507248
+        ]
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.696969696969697,
+            0.8518518518518519,
+            0.7666666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6571428571428571,
+            0.8518518518518519,
+            0.7419354838709677
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "Aikido for Startups is a metaphorical concept that refers to the art of using the energy of your competitors to your advantage. It is not a butterfly or any other type of insect.",
+        "score": [
+            0.15151515151515152,
+            0.18518518518518517,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "Aikido for Startups is a metaphorical concept that refers to the art of using the least amount of force to achieve the greatest impact. It is not a butterfly or any other type of insect.",
+        "score": [
+            0.17142857142857143,
+            0.2222222222222222,
+            0.1935483870967742
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a delicate orange butterfly. Its wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.38461538461538464,
+            0.37037037037037035,
+            0.3773584905660377
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.4444444444444444,
+            0.4444444444444444,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.4444444444444444,
+            0.4444444444444444,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.4444444444444444,
+            0.4444444444444444,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is an orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7352941176470589,
+            0.9259259259259259,
+            0.819672131147541
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A particularly overreaching orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8387096774193549,
+            0.9629629629629629,
+            0.896551724137931
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.4444444444444444,
+            0.4444444444444444,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a butterfly as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8333333333333334,
+            0.9259259259259259,
+            0.8771929824561403
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is an orange butterfly, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its appearance is compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.38461538461538464,
+            0.37037037037037035,
+            0.3773584905660377
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.4444444444444444,
+            0.4444444444444444,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.4444444444444444,
+            0.4444444444444444,
+            0.4444444444444444
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly with delicate wings that catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.625,
+            0.5555555555555556,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly with delicate wings that catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.625,
+            0.5555555555555556,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.6956521739130435,
+            0.5925925925925926,
+            0.6399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7419354838709677,
+            0.8518518518518519,
+            0.7931034482758621
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.7714285714285715,
+            1.0,
+            0.870967741935484
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6571428571428571,
+            0.8518518518518519,
+            0.7419354838709677
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly that flits gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6571428571428571,
+            0.8518518518518519,
+            0.7419354838709677
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight.",
+        "score": [
+            0.71875,
+            0.8518518518518519,
+            0.7796610169491525
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings catch the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.9,
+            1.0,
+            0.9473684210526316
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a vibrant orange butterfly. Its delicate wings are compared to stained glass in a cathedral, and they catch the sunlight like it.",
+        "score": [
+            0.41379310344827586,
+            0.4444444444444444,
+            0.4285714285714286
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, with its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "score": [
+            0.8709677419354839,
+            1.0,
+            0.9310344827586207
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is an orange butterfly, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.45454545454545453,
+            0.37037037037037035,
+            0.40816326530612246
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "A vibrant orange butterfly is described as flitting gracefully among the fragrant purple blooms of the lilac bushes, and its delicate wings are compared to stained glass in a cathedral.",
+        "score": [
+            0.7666666666666667,
+            0.8518518518518519,
+            0.8070175438596491
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a vibrant orange butterfly flitting gracefully among the fragrant purple blooms of the lilac bushes. Its delicate wings are compared to stained glass in a cathedral, catching the sunlight like it.",
+        "score": [
+            0.6764705882352942,
+            0.8518518518518519,
+            0.7540983606557378
+        ]
+    }
+}

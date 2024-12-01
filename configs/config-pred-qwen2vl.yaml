@@ -1,5 +1,5 @@
-prompt_dir: 'prompts'
-save_dir: 'pred'
+prompt_dir: '/mnt/workspace/Projects/CS6223/prompts_text_passkey'
+save_dir: '/mnt/workspace/Projects/CS6223/pred_text_passkey'
 
 model:
   model_provider: "Huggingface"  # "OpenAI", "Anthropic" or "Huggingface"

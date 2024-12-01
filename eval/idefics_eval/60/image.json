@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog has a joyful expression on its face, with its mouth open and tongue out, indicating it is either barking or panting. The dog's fur is light brown, and it appears to be in motion, with its legs and tail visible. The background is blurred, focusing attention on the dog. The water reflects the sunlight, creating a shimmering effect.",
+        "score": [
+            0.10256410256410256,
+            0.3076923076923077,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its hind legs still in the water. The dog's fur is light brown, and it has a happy expression with its mouth open, showing its teeth. The background is blurred, with a focus on the dog, and there are some out-of-focus green and yellow elements, possibly representing grass or foliage.",
+        "score": [
+            0.09302325581395349,
+            0.3076923076923077,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its hind legs still in the water. The dog's fur is light brown, and it has a happy expression with its mouth open, showing its teeth. The background is blurred, with a focus on the dog, and there are some out-of-focus green and yellow elements, possibly representing grass or foliage. The lighting suggests it is either early morning or late afternoon, with the sun casting a warm glow on the dog.",
+        "score": [
+            0.07476635514018691,
+            0.3076923076923077,
+            0.12030075187969924
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its hind legs still in the water. The dog's fur is light brown, and it has a happy expression with its mouth open, showing its teeth. The background is blurred, with a focus on the dog, and there are some out-of-focus green and yellow elements, possibly representing grass or foliage. The lighting suggests it is daytime, and the overall scene gives an impression of a lively and joyful moment.",
+        "score": [
+            0.0761904761904762,
+            0.3076923076923077,
+            0.12213740458015268
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its hind legs still in the water. The dog's fur is light brown, and it has a happy expression with its mouth open, showing its teeth. The background is blurred, with a focus on the dog, and there are some blurred green and yellow elements, possibly representing grass and leaves, indicating an outdoor setting.",
+        "score": [
+            0.09090909090909091,
+            0.3076923076923077,
+            0.14035087719298245
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The document describes a golden retriever playing in a park. The dog is running through a puddle, creating a splash of water. The dog has a happy expression on its face, with its mouth open and tongue out. The background is blurred, with a focus on the dog.",
+        "score": [
+            0.16666666666666666,
+            0.3076923076923077,
+            0.21621621621621623
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its hind legs still in the water. The dog has a joyful expression, with its mouth open and tongue out, suggesting it is enjoying the activity. The fur of the dog is light brown, and the sunlight is casting a warm glow on its coat, highlighting its texture and giving it a shiny appearance. The background is blurred, focusing attention on the dog and the water. The water droplets around the dog are visible, reflecting the sunlight and adding to",
+        "score": [
+            0.07964601769911504,
+            0.34615384615384615,
+            0.12949640287769784
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever with a light brown coat is running through a shallow puddle in a park. The dog has its mouth open and is smiling, showing its teeth. The background is blurred, but it looks like there are trees and grass.",
+        "score": [
+            0.23809523809523808,
+            0.38461538461538464,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever with a light brown coat is running through a shallow puddle in a park. The dog has its mouth open and is smiling, showing its teeth. The background is blurred, but it looks like there are trees and grass.",
+        "score": [
+            0.23809523809523808,
+            0.38461538461538464,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever with a light brown coat is running through a small puddle in a park. The dog has its mouth open and is looking forward. The background is blurry, but it looks like there is green grass and trees.",
+        "score": [
+            0.24390243902439024,
+            0.38461538461538464,
+            0.2985074626865672
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and playing in a park, with its fur glistening in the sunlight. It is jumping and having a great time, with its tail wagging excitedly. The dog is surrounded by green grass and trees, and the sound of its happy barks can be heard in the background.",
+        "score": [
+            0.15384615384615385,
+            0.3076923076923077,
+            0.20512820512820515
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it runs, and its mouth is open in a joyful expression. The park is filled with green grass and trees, and the sun is shining brightly overhead, casting a warm glow over the scene.",
+        "score": [
+            0.10975609756097561,
+            0.34615384615384615,
+            0.16666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree spirit.",
+        "score": [
+            0.19298245614035087,
+            0.4230769230769231,
+            0.2650602409638554
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever in a park, captured in a moment of playful activity. The dog is mid-stride, with its front legs off the ground, suggesting it is running or jumping. Its fur is a rich, golden color, and its ears are flapping back, indicating motion. The dog's tongue is hanging out, and its mouth is open, showing a joyful expression. The background is blurred, focusing attention on the dog. The scene appears to be outdoors, with natural light illuminating the dog, giving it a warm and lively appearance.",
+        "score": [
+            0.08602150537634409,
+            0.3076923076923077,
+            0.13445378151260504
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree moment.",
+        "score": [
+            0.1896551724137931,
+            0.4230769230769231,
+            0.2619047619047619
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree moment.",
+        "score": [
+            0.1896551724137931,
+            0.4230769230769231,
+            0.2619047619047619
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, which is captured in mid-stride, giving the impression of motion and joy.",
+        "score": [
+            0.1774193548387097,
+            0.4230769230769231,
+            0.25
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly as it plays, and its ears are flapping in the wind. The dog's eyes are bright and happy, and it looks like it is having the time of its life.",
+        "score": [
+            0.20689655172413793,
+            0.46153846153846156,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever in a park, captured in a moment of playful activity. The dog is mid-stride, with its front legs off the ground and its hind legs still touching the ground. Its fur is a rich, golden color, and it has a joyful expression on its face, with its mouth open and tongue hanging out. The dog's ears are perked up, and its eyes are wide open, giving it a lively and energetic appearance. The background of the image is blurred, with a few blurred trees and a hint of greenery, suggesting that the park is a natural, outdoor setting. The overall mood",
+        "score": [
+            0.08256880733944955,
+            0.34615384615384615,
+            0.13333333333333333
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its tail wagging. The background is blurred, focusing attention on the dog. The dog's fur is light brown, and it has a joyful expression on its face. The water droplets around the dog are visible, indicating the movement and the splash caused by the dog's action.",
+        "score": [
+            0.1111111111111111,
+            0.34615384615384615,
+            0.16822429906542055
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it runs, and its mouth is open in a joyful expression. The park is filled with green grass and trees, and the sound of birds can be heard in the background. The dog is having a great time, and it's clear that it loves playing in the park.",
+        "score": [
+            0.09278350515463918,
+            0.34615384615384615,
+            0.14634146341463417
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and focused, and its mouth is open in a joyful expression. The park is filled with green grass and trees, and the sound of birds can be heard in the background. The dog is having a great time, and its energy and enthusiasm are infectious.",
+        "score": [
+            0.1,
+            0.34615384615384615,
+            0.15517241379310348
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it enjoys its time in the park.",
+        "score": [
+            0.14035087719298245,
+            0.3076923076923077,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree moment.",
+        "score": [
+            0.1896551724137931,
+            0.4230769230769231,
+            0.2619047619047619
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly as it chases after a ball, its ears flapping in the wind. The dog's eyes are wide with joy, and its mouth is open in a happy grin. The background is blurred, but the focus is on the dog, capturing its energetic and carefree spirit.",
+        "score": [
+            0.14864864864864866,
+            0.4230769230769231,
+            0.22000000000000003
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in the park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly as it plays, and its ears are flapping in the wind. The dog's eyes are bright and happy, and it seems to be enjoying the fresh air and the freedom of the outdoors.",
+        "score": [
+            0.1935483870967742,
+            0.46153846153846156,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree moment.",
+        "score": [
+            0.19298245614035087,
+            0.4230769230769231,
+            0.2650602409638554
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever in a park, captured in a moment of playful activity. The dog is mid-stride, with its front legs off the ground and its hind legs still touching the ground. Its fur is a rich, golden color, and it has a joyful expression on its face, with its mouth open and tongue hanging out. The background is blurred, emphasizing the dog as the main subject. The dog's tail is wagging, and it appears to be running or jumping, suggesting a lively and energetic scene. The overall impression is one of happiness and freedom, capturing the essence of a carefree moment in a park",
+        "score": [
+            0.07272727272727272,
+            0.3076923076923077,
+            0.1176470588235294
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever in mid-stride, running through a shallow body of water. The dog's fur is a rich, golden-brown color, and its ears are flapping back as it moves. The dog's mouth is open, and its tongue is hanging out, indicating that it is panting or barking. The water splashes around the dog's legs, creating a sense of motion and energy. The background is blurred, with a few patches of greenery visible, suggesting that the scene is set in a park or a natural environment. The lighting is bright, with sunlight casting a warm glow on the dog",
+        "score": [
+            0.08490566037735849,
+            0.34615384615384615,
+            0.13636363636363638
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in the park, its fur glistening in the sunlight as it splashes through a small puddle. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball.",
+        "score": [
+            0.2727272727272727,
+            0.23076923076923078,
+            0.24999999999999994
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it runs, and its mouth is open in a joyful expression. The park is filled with green grass and trees, and the sound of birds can be heard in the background. The dog is having the time of its life, and it's clear that it loves playing in the park.",
+        "score": [
+            0.09090909090909091,
+            0.34615384615384615,
+            0.14400000000000002
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running through a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's paws are barely touching the ground as it leaps and bounds through the grass, its joyful barks filling the air. The park is filled with trees and greenery, providing a picturesque backdrop for the dog's playful antics.",
+        "score": [
+            0.125,
+            0.38461538461538464,
+            0.18867924528301888
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in the park, its fur glistening in the sunlight as it splashes through a small puddle. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear, capturing the essence of a happy and carefree moment.",
+        "score": [
+            0.19298245614035087,
+            0.4230769230769231,
+            0.2650602409638554
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.21818181818181817,
+            0.46153846153846156,
+            0.29629629629629634
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear, capturing the essence of a happy and carefree moment.",
+        "score": [
+            0.20689655172413793,
+            0.46153846153846156,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear, capturing the essence of a happy and carefree moment.",
+        "score": [
+            0.2033898305084746,
+            0.46153846153846156,
+            0.28235294117647064
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it enjoys its time in the park.",
+        "score": [
+            0.14035087719298245,
+            0.3076923076923077,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it enjoys its time in the park.",
+        "score": [
+            0.14035087719298245,
+            0.3076923076923077,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it enjoys its time in the park.",
+        "score": [
+            0.14035087719298245,
+            0.3076923076923077,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it enjoys its time in the park.",
+        "score": [
+            0.14035087719298245,
+            0.3076923076923077,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running and playing in a park, with its fur glistening in the sunlight. The dog is jumping and leaping, its tail wagging excitedly as it chases after a ball. The dog's ears are flapping in the wind, and its eyes are shining with joy. The dog is surrounded by green grass and trees, and the sound of birds can be heard in the background.",
+        "score": [
+            0.14492753623188406,
+            0.38461538461538464,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it chases after a ball, its ears flapping in the wind. The dog's joyful barks echo through the park, creating a lively atmosphere.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly as it chases after a ball, its ears flapping in the wind. The dog's joyful expression is clear, and it seems to be enjoying the freedom and exercise.",
+        "score": [
+            0.19642857142857142,
+            0.4230769230769231,
+            0.26829268292682923
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree moment.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through the park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly as it chases after a ball, its ears flapping in the wind. The dog's eyes are bright and alert, and it seems to be having the time of its life.",
+        "score": [
+            0.1864406779661017,
+            0.4230769230769231,
+            0.25882352941176473
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it chases after a ball, its ears flapping in the wind. The dog's eyes are wide open, and it looks like it is having the time of its life.",
+        "score": [
+            0.21666666666666667,
+            0.5,
+            0.3023255813953488
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's paws are barely touching the ground as it leaps and bounds, its joyful barks filling the air. The park is filled with green grass and trees, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.1282051282051282,
+            0.38461538461538464,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's paws are barely touching the ground as it leaps and bounds, its joyful barks filling the air. The park is filled with green grass and trees, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.1282051282051282,
+            0.38461538461538464,
+            0.19230769230769232
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running and jumping in the park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and happy as it enjoys its time in the park.",
+        "score": [
+            0.14035087719298245,
+            0.3076923076923077,
+            0.19277108433734938
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running and playing in a park, with its fur glistening in the sunlight. The dog is jumping and leaping, its tail wagging excitedly as it chases after a ball. The dog's ears are flapping in the wind, and its eyes are shining with joy. The dog is surrounded by green grass and trees, and the sound of birds can be heard in the background.",
+        "score": [
+            0.14492753623188406,
+            0.38461538461538464,
+            0.2105263157894737
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it chases after a ball, its ears flapping in the wind. The dog's eyes are bright and happy, and it seems to be enjoying the fresh air and the freedom of the park.",
+        "score": [
+            0.203125,
+            0.5,
+            0.28888888888888886
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in the park, its fur glistening in the sunlight as it splashes through a small puddle. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.21153846153846154,
+            0.4230769230769231,
+            0.28205128205128205
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly as it plays, and its ears are flapping in the wind. The dog's eyes are bright and happy, and it seems to be enjoying the fresh air and the freedom of being outside.",
+        "score": [
+            0.19672131147540983,
+            0.46153846153846156,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly as it plays, and its ears are flapping in the wind. The dog's eyes are bright and happy, and it seems to be enjoying the fresh air and the freedom of being outside.",
+        "score": [
+            0.19672131147540983,
+            0.46153846153846156,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is jumping and leaping, its paws barely touching the ground as it chases after the ball. The park is filled with trees and green grass, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.1388888888888889,
+            0.38461538461538464,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and it is jumping up and down with joy. The dog's ears are flapping in the wind, and its eyes are shining with happiness. The dog is surrounded by green grass and trees, and the sound of birds can be heard in the background.",
+        "score": [
+            0.125,
+            0.34615384615384615,
+            0.1836734693877551
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is jumping and leaping, its paws barely touching the ground as it chases after the ball. The park is filled with trees and green grass, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.1388888888888889,
+            0.38461538461538464,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is leaping and bounding across the grass, its paws barely touching the ground. The dog's eyes are shining with joy, and its mouth is open in a happy expression. The dog is surrounded by trees and greenery, and the sky is a clear blue above.",
+        "score": [
+            0.10843373493975904,
+            0.34615384615384615,
+            0.16513761467889906
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is leaping and bounding across the grass, its paws barely touching the ground. The dog's joyful barks can be heard echoing through the park, and its happy expression is clear to see.",
+        "score": [
+            0.12857142857142856,
+            0.34615384615384615,
+            0.18749999999999997
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is surrounded by green grass and trees, and the sound of its joyful barks can be heard in the distance.",
+        "score": [
+            0.15789473684210525,
+            0.34615384615384615,
+            0.21686746987951808
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is leaping over a small obstacle, its paws barely touching the ground. The park is filled with green grass and trees, and the dog is surrounded by the sounds of children playing and birds chirping.",
+        "score": [
+            0.1388888888888889,
+            0.38461538461538464,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.23529411764705882,
+            0.46153846153846156,
+            0.31168831168831174
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.23529411764705882,
+            0.46153846153846156,
+            0.31168831168831174
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and it seems to be having a great time.",
+        "score": [
+            0.2222222222222222,
+            0.3076923076923077,
+            0.2580645161290323
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and it seems to be having a great time.",
+        "score": [
+            0.2222222222222222,
+            0.3076923076923077,
+            0.2580645161290323
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and alert, and it seems to be having the time of its life.",
+        "score": [
+            0.15517241379310345,
+            0.34615384615384615,
+            0.2142857142857143
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is jumping and leaping, its paws barely touching the ground as it chases after the ball. The park is filled with trees and green grass, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.1388888888888889,
+            0.38461538461538464,
+            0.20408163265306123
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and alert, and it seems to be having the time of its life. The park is filled with trees and green grass, and the dog is running through the grass, creating small clouds of dirt as it goes. The dog's barks can be heard echoing through the park, adding to the joyful atmosphere.",
+        "score": [
+            0.10101010101010101,
+            0.38461538461538464,
+            0.16
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and alert, and it seems to be having the time of its life. The park is filled with green grass and trees, and the sound of birds can be heard in the background. The dog is surrounded by the beauty of nature, and it is clear that it is enjoying its time in the park.",
+        "score": [
+            0.1,
+            0.38461538461538464,
+            0.15873015873015872
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The dog is leaping and bounding across the grass, its paws barely touching the ground. The park is filled with trees and greenery, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.14705882352941177,
+            0.38461538461538464,
+            0.21276595744680854
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it plays with a ball. The dog's tail is wagging excitedly as it chases after the ball, its ears flapping in the wind. The dog's eyes are bright and alert, and its mouth is open in a joyful expression. The park is filled with green grass and trees, and the dog is surrounded by the sounds of nature.",
+        "score": [
+            0.13333333333333333,
+            0.38461538461538464,
+            0.19801980198019803
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running in a park, its fur glistening in the sunlight as it splashes through a puddle of water. The dog's tail is wagging excitedly as it plays, and its ears are flapping in the wind. The background is blurred, but the dog's joyful expression is clear and bright.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly as it plays, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having the time of its life.",
+        "score": [
+            0.21052631578947367,
+            0.46153846153846156,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having the time of its life.",
+        "score": [
+            0.2222222222222222,
+            0.46153846153846156,
+            0.3
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a great time.",
+        "score": [
+            0.20754716981132076,
+            0.4230769230769231,
+            0.2784810126582279
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a great time.",
+        "score": [
+            0.20754716981132076,
+            0.4230769230769231,
+            0.2784810126582279
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun. The background is blurred, but it looks like there are trees and grass in the park.",
+        "score": [
+            0.17142857142857143,
+            0.46153846153846156,
+            0.25000000000000006
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun. The background of the image is blurred, but it looks like there are trees and grass in the park.",
+        "score": [
+            0.1643835616438356,
+            0.46153846153846156,
+            0.24242424242424243
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The document does not provide a vivid description of a golden retriever playing in a park.",
+        "score": [
+            0.3125,
+            0.19230769230769232,
+            0.2380952380952381
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog has a joyful expression on its face, with its mouth open and ears flapping. The dog's fur is light brown, and it appears to be in motion, as indicated by the blurred background and the water droplets around it. The background is blurred, focusing attention on the dog.",
+        "score": [
+            0.1323529411764706,
+            0.34615384615384615,
+            0.19148936170212766
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The image depicts a golden retriever dog running through a shallow body of water, creating a splash. The dog appears to be in motion, with its front legs lifted off the ground and its hind legs propelling it forward. The dog's fur is light brown, and it has a joyful expression on its face, with its mouth open and tongue hanging out. The background is blurred, with a focus on the dog, and the water droplets around it are highlighted, giving a sense of movement and energy. The overall scene suggests a playful and lively moment, capturing the dog's enthusiasm and the joy of the activity.",
+        "score": [
+            0.08333333333333333,
+            0.34615384615384615,
+            0.13432835820895522
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in the park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a great time.",
+        "score": [
+            0.20754716981132076,
+            0.4230769230769231,
+            0.2784810126582279
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in the park, its fur glistening in the sunlight as it splashes through a small puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.2037037037037037,
+            0.4230769230769231,
+            0.27499999999999997
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running in a park, with its fur glistening in the sunlight. Its tail is wagging excitedly as it plays in the water, creating a splash. The dog's ears are flapping, and its tongue is hanging out, showing its joyful expression. The background is blurred, emphasizing the dog's movement and the water droplets on its fur.",
+        "score": [
+            0.13114754098360656,
+            0.3076923076923077,
+            0.1839080459770115
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a puddle of water. Its tail is wagging excitedly, and its ears are flapping in the wind. The dog's eyes are wide open, and it looks like it is having a lot of fun.",
+        "score": [
+            0.20754716981132076,
+            0.4230769230769231,
+            0.2784810126582279
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, capturing its joyful and carefree moment.",
+        "score": [
+            0.21818181818181817,
+            0.46153846153846156,
+            0.29629629629629634
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "A vivid description of a golden retriever playing in a park is: A golden retriever is running through a park, its fur glistening in the sunlight as it splashes through a small puddle of water. The dog's tail is wagging excitedly, and its ears are flapping in the wind. The background is blurred, but the focus is on the dog, which is captured in mid-stride, giving the impression of movement and joy.",
+        "score": [
+            0.16216216216216217,
+            0.46153846153846156,
+            0.24
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever, with fur glistening like sunlit honey, eagerly splashes through a puddle in the park, sending droplets flying like tiny diamonds into the air.",
+        "prediction": "The document describes a golden retriever playing in a park with a vivid description. The dog is running through a puddle of water, creating a splash. The dog's fur is golden and fluffy, and it has a happy expression on its face. The background of the image is blurred, with a focus on the dog and the water. The overall mood of the image is playful and energetic.",
+        "score": [
+            0.13043478260869565,
+            0.34615384615384615,
+            0.1894736842105263
+        ]
+    }
+}

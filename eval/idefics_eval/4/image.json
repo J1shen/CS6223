@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The document does not provide information about the butterfly's actions among the blooms of an autumn garden.",
+        "score": [
+            0.4444444444444444,
+            0.2962962962962963,
+            0.3555555555555555
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The document does not provide information about the butterfly's actions or the garden's season.",
+        "score": [
+            0.1875,
+            0.1111111111111111,
+            0.13953488372093023
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The document does not provide information about the butterfly's actions among the blooms.",
+        "score": [
+            0.2857142857142857,
+            0.14814814814814814,
+            0.1951219512195122
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "Sits on a flower.",
+        "score": [
+            0.25,
+            0.037037037037037035,
+            0.06451612903225806
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "Sits on a flower.",
+        "score": [
+            0.25,
+            0.037037037037037035,
+            0.06451612903225806
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "Sits.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and graceful creature that can be found in various parts of the world, including the Americas. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warmth of the sun. They are particularly attracted to flowers that are rich in nectar, such as those from the Asteraceae family, which includes sunflowers, daisies,",
+        "score": [
+            0.13861386138613863,
+            0.5185185185185185,
+            0.21875
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the colors of the surrounding environment, creating a beautiful and mesmerizing sight.",
+        "score": [
+            0.35714285714285715,
+            0.5555555555555556,
+            0.43478260869565216
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be sipping nectar from the vibrant blooms of an autumn garden. Butterflies are attracted to flowers with nectar, which they use as a source of energy. The iridescent blue wings of the butterfly may also serve as a visual attractant, helping the butterfly to find the flowers.",
+        "score": [
+            0.2807017543859649,
+            0.5925925925925926,
+            0.38095238095238093
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. The butterfly is perched on a bright orange flower, its wings reflecting the sunlight and creating a beautiful contrast with the flower's colors. The butterfly's delicate movements and the gentle rustling of its wings add to the serene and picturesque scene.",
+        "score": [
+            0.2786885245901639,
+            0.6296296296296297,
+            0.38636363636363635
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is likely to be a monarch butterfly, which is known for its distinctive coloration and migratory patterns. In an autumn garden, the butterfly would be attracted to the vibrant blooms of flowers, such as marigolds, zinnias, and asters, which provide nectar for the butterfly to feed on. The butterfly would land on the flowers to feed and possibly lay eggs, and it would also use the flowers as a resting place to warm up its wings and prepare for its migration to warmer climates.",
+        "score": [
+            0.13186813186813187,
+            0.4444444444444444,
+            0.2033898305084746
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the colors of the surrounding environment, creating a beautiful and mesmerizing sight.",
+        "score": [
+            0.35714285714285715,
+            0.5555555555555556,
+            0.43478260869565216
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the sunlight, creating a beautiful and mesmerizing sight. The butterfly's iridescent blue wings are a result of the way the microscopic scales on its wings reflect light, giving it a shimmering appearance. As it flutters from flower to flower, it is collecting pollen and spreading it to other plants, playing a crucial role in the pollination process. The butterfly's presence in the garden adds to the beauty and life of the autumn scene, and its",
+        "score": [
+            0.1588785046728972,
+            0.6296296296296297,
+            0.2537313432835821
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is sipping nectar from the vibrant blooms of an autumn garden.",
+        "score": [
+            0.7222222222222222,
+            0.48148148148148145,
+            0.5777777777777777
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the warm colors of the autumn flowers.",
+        "score": [
+            0.2727272727272727,
+            0.5555555555555556,
+            0.36585365853658536
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in various parts of the world. In an autumn garden, this butterfly can be seen flitting from flower to flower, sipping nectar and basking in the warm sunlight. The iridescent blue wings of the butterfly shimmer and glimmer as it flies, creating a mesmerizing display of color and light.\n\nThe butterfly's delicate wings are covered in microscopic scales that reflect light and create the iridescent effect. This phenomenon is known as structural coloration, where the microscopic structure of the",
+        "score": [
+            0.13725490196078433,
+            0.5185185185185185,
+            0.21705426356589144
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is likely to be a monarch butterfly, which is known for its distinctive coloration and migratory patterns. In an autumn garden, the butterfly would be attracted to the vibrant blooms of flowers, such as marigolds, zinnias, and asters, which provide nectar for the butterfly to feed on. The butterfly would land on the flowers to drink the nectar, and in the process, it would also help pollinate the plants. The iridescent blue wings of the butterfly would reflect the sunlight, creating a beautiful and striking visual effect among the autumn garden.",
+        "score": [
+            0.12244897959183673,
+            0.4444444444444444,
+            0.192
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the flowers and basking in the warm sunlight.",
+        "score": [
+            0.5714285714285714,
+            0.5925925925925926,
+            0.5818181818181818
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is sipping nectar from the vibrant blooms of an autumn garden.",
+        "score": [
+            0.7222222222222222,
+            0.48148148148148145,
+            0.5777777777777777
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be sipping nectar from the vibrant blooms of an autumn garden. Butterflies are attracted to flowers that provide a source of food, and they use their long, tube-shaped proboscis to extract nectar from the flowers. The iridescent blue wings of the butterfly may also serve as a visual attractant, helping the butterfly to stand out among the other flowers and potential mates.",
+        "score": [
+            0.2191780821917808,
+            0.5925925925925926,
+            0.32
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as asters, chrysanthemums, and marigolds. As they fly, they use",
+        "score": [
+            0.16326530612244897,
+            0.5925925925925926,
+            0.256
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as asters, chrysanthemums, and marigolds. As they fly, they use",
+        "score": [
+            0.16326530612244897,
+            0.5925925925925926,
+            0.256
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. This creates a shimmering effect that can appear to change color depending on the angle of the light.\n\nIn an autumn garden, these butterflies can be found flitting from flower to flower, feeding on nectar and basking in the warmth of the sun. They are particularly attracted to flowers that are rich in nectar, such",
+        "score": [
+            0.14814814814814814,
+            0.5925925925925926,
+            0.23703703703703705
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. This creates a shimmering effect that can appear almost like a rainbow.\n\nIn an autumn garden, these butterflies can be found flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as asters, chrysanthem",
+        "score": [
+            0.1553398058252427,
+            0.5925925925925926,
+            0.24615384615384614
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. The iridescence of their wings can appear to change color depending on the angle of the light and the position of the butterfly.\n\nIn an autumn garden, these butterflies can be found flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich",
+        "score": [
+            0.14814814814814814,
+            0.5925925925925926,
+            0.23703703703703705
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be found fluttering around the vibrant blooms of an autumn garden, feeding on nectar from the flowers. The butterfly's iridescent blue wings reflect light and create a shimmering effect, making it a beautiful sight to behold among the colorful flowers.",
+        "score": [
+            0.3137254901960784,
+            0.5925925925925926,
+            0.4102564102564103
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as sunflowers, zinnias, and marigolds. As they fly, they use their long",
+        "score": [
+            0.16,
+            0.5925925925925926,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as asters, chrysanthemums, and marigolds. As they fly, they use",
+        "score": [
+            0.16326530612244897,
+            0.5925925925925926,
+            0.256
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as sunflowers, zinnias, and marigolds. As they fly, they use their long",
+        "score": [
+            0.16,
+            0.5925925925925926,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as sunflowers, zinnias, and marigolds. As they fly, they use their long",
+        "score": [
+            0.16,
+            0.5925925925925926,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the flowers and basking in the warm sunlight.",
+        "score": [
+            0.5714285714285714,
+            0.5925925925925926,
+            0.5818181818181818
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden, sipping nectar from the flowers.",
+        "score": [
+            0.6086956521739131,
+            0.5185185185185185,
+            0.5599999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters among the vibrant blooms of an autumn garden, sipping nectar from the flowers and basking in the warm sunlight.",
+        "score": [
+            0.5925925925925926,
+            0.5925925925925926,
+            0.5925925925925926
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the flowers and basking in the warm sunlight.",
+        "score": [
+            0.6071428571428571,
+            0.6296296296296297,
+            0.6181818181818182
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings is likely to be found fluttering around the vibrant blooms of an autumn garden, feeding on nectar from the flowers. The butterfly's iridescent blue wings reflect light and create a shimmering effect, making it a beautiful and striking sight among the colorful flowers.",
+        "score": [
+            0.29411764705882354,
+            0.5555555555555556,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warm sunlight. They are particularly attracted to flowers that are rich in nectar, such as sunflowers, zinnias, and marigolds. As they fly, they use their long",
+        "score": [
+            0.16,
+            0.5925925925925926,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, these butterflies can be seen flitting from flower to flower, feeding on nectar and basking in the warmth of the sun. They are particularly attracted to flowers that are rich in nectar, such as asters, chrysanthemums, and marigolds. As they fly,",
+        "score": [
+            0.16326530612244897,
+            0.5925925925925926,
+            0.256
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Blue Morpho, is likely to be found in an autumn garden, where it can feed on nectar from flowers. The butterfly's iridescent blue wings are a result of the way the microscopic scales on its wings reflect light, creating a shimmering effect. As it flutters around the garden, it will be attracted to the vibrant blooms, which provide the necessary nectar for its survival. The butterfly will land on the flowers, extend its long proboscis to reach the nectar, and drink it. In the process, it will also help pollinate the",
+        "score": [
+            0.13725490196078433,
+            0.5185185185185185,
+            0.21705426356589144
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature that can be found in the vibrant blooms of an autumn garden. These butterflies are known for their striking blue wings, which are created by the way the microscopic scales on their wings reflect light. \n\nIn an autumn garden, the butterfly will likely be attracted to the nectar-rich flowers that are in bloom. These flowers provide the butterfly with the energy it needs to fly and reproduce. The butterfly will land on the flowers to feed on the nectar, and in the process, it will also help to pollinate the",
+        "score": [
+            0.14678899082568808,
+            0.5925925925925926,
+            0.23529411764705885
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Blue Morpho, is likely to be found in an autumn garden, where it can feed on nectar from flowers. The butterfly's iridescent blue wings are a result of the way the microscopic scales on its wings reflect light, creating a shimmering effect. As it flutters around the garden, the butterfly will be attracted to the vibrant blooms, which provide the necessary nectar for its survival. The butterfly will land on the flowers, extend its proboscis to drink the nectar, and then fly away to find more food sources.",
+        "score": [
+            0.1414141414141414,
+            0.5185185185185185,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Blue Morpho, is likely to be found in an autumn garden, where it can feed on nectar from flowers. The butterfly's iridescent blue wings are a result of the way the microscopic scales on its wings reflect light, creating a shimmering effect. As the butterfly flutters around the garden, it will be attracted to the vibrant blooms, which provide the necessary nectar for its survival. The butterfly will land on a flower, insert its long proboscis into the flower's nectar, and drink the sweet liquid. This process is essential for the butterfly",
+        "score": [
+            0.1346153846153846,
+            0.5185185185185185,
+            0.2137404580152672
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Blue Morpho, is a beautiful and fascinating creature that can be found in various parts of the world. In an autumn garden, this butterfly can be seen flitting from flower to flower, sipping nectar and basking in the warmth of the sun. The iridescent blue wings of the butterfly shimmer and glimmer in the sunlight, creating a stunning visual effect that is sure to captivate anyone who sees it.\n\nAs the butterfly flutters around the garden, it is likely to be attracted to the vibrant blooms of the flowers. The butterfly's long, tube-shaped",
+        "score": [
+            0.13333333333333333,
+            0.5185185185185185,
+            0.21212121212121213
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Morpho peleides, is a beautiful and fascinating creature. In an autumn garden, it can be seen flitting from flower to flower, sipping nectar and basking in the warm sunlight. The butterfly's iridescent blue wings reflect the light, creating a shimmering effect that is both captivating and mesmerizing. As it flies, it may also be seen interacting with other butterflies and insects, engaging in a dance of life and beauty in the garden.",
+        "score": [
+            0.1566265060240964,
+            0.48148148148148145,
+            0.23636363636363636
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Blue Morpho, is likely to be found in an autumn garden, where it can feed on nectar from flowers. The butterfly's iridescent blue wings are a result of the way the microscopic scales on its wings reflect light, creating a shimmering effect. This adaptation helps the butterfly to attract mates and deter predators. In an autumn garden, the butterfly will likely be searching for flowers that are still in bloom, such as asters, chrysanthemums, or sedum. It will use its long proboscis to reach into the flowers and drink the",
+        "score": [
+            0.1485148514851485,
+            0.5555555555555556,
+            0.23437499999999997
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings, such as the Blue Morpho, is likely to be found in tropical and subtropical regions. In an autumn garden, it would be a rare sight, as butterflies are generally more active during the warmer months. However, if present, the butterfly would likely be attracted to the nectar of the flowers, which are abundant in an autumn garden. The butterfly would flutter around the flowers, sipping nectar and possibly laying eggs on the plants. The iridescent blue wings of the butterfly would catch the sunlight, creating a beautiful and striking visual effect among the vibrant blooms of the autumn garden",
+        "score": [
+            0.1320754716981132,
+            0.5185185185185185,
+            0.21052631578947367
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5517241379310345,
+            0.5925925925925926,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the sunlight, creating a beautiful and mesmerizing sight. The butterfly's iridescent blue wings are a striking contrast to the warm colors of the autumn flowers, making it a stunning and graceful addition to the garden.",
+        "score": [
+            0.24242424242424243,
+            0.5925925925925926,
+            0.3440860215053763
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the backdrop of the colorful flowers.",
+        "score": [
+            0.2777777777777778,
+            0.5555555555555556,
+            0.3703703703703704
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the sunlight, creating a beautiful and mesmerizing sight.",
+        "score": [
+            0.39473684210526316,
+            0.5555555555555556,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the sunlight, creating a beautiful and mesmerizing sight.",
+        "score": [
+            0.39473684210526316,
+            0.5555555555555556,
+            0.46153846153846156
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's wings reflect the light, creating a beautiful and mesmerizing sight among the colorful flowers.",
+        "score": [
+            0.30612244897959184,
+            0.5555555555555556,
+            0.3947368421052632
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is sipping nectar from the flowers, and its wings are reflecting the sunlight, creating a beautiful and mesmerizing sight. The butterfly's iridescent blue wings are a striking contrast to the warm colors of the autumn flowers, making it a stunning and graceful addition to the garden.",
+        "score": [
+            0.24242424242424243,
+            0.5925925925925926,
+            0.3440860215053763
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's wings reflect the light, creating a beautiful and mesmerizing sight among the colorful flowers.",
+        "score": [
+            0.30612244897959184,
+            0.5555555555555556,
+            0.3947368421052632
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is perched on a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.5,
+            0.3333333333333333,
+            0.4
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the colorful flowers.",
+        "score": [
+            0.29411764705882354,
+            0.5555555555555556,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings flutters gracefully among the vibrant blooms of an autumn garden, sipping nectar from the colorful flowers and basking in the warm sunlight.",
+        "score": [
+            0.5862068965517241,
+            0.6296296296296297,
+            0.6071428571428571
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the colorful flowers.",
+        "score": [
+            0.29411764705882354,
+            0.5555555555555556,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the colorful flowers. The butterfly's delicate movements and the gentle rustling of its wings as it flutters from flower to flower add to the serene and picturesque scene of the autumn garden.",
+        "score": [
+            0.19753086419753085,
+            0.5925925925925926,
+            0.2962962962962963
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the orange and yellow hues of the flowers. The butterfly's delicate movements and the gentle rustling of its wings add to the serene and picturesque scene of the autumn garden.",
+        "score": [
+            0.20253164556962025,
+            0.5925925925925926,
+            0.3018867924528302
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the colorful flowers.",
+        "score": [
+            0.29411764705882354,
+            0.5555555555555556,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. It is likely sipping nectar from the flowers, as butterflies are known to do. The butterfly's iridescent blue wings reflect the sunlight, creating a beautiful and striking contrast against the colorful flowers.",
+        "score": [
+            0.29411764705882354,
+            0.5555555555555556,
+            0.3846153846153846
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "A delicate butterfly with iridescent blue wings is seen fluttering around the vibrant blooms of an autumn garden. The butterfly is perched on a bright orange flower, its wings reflecting the sunlight and creating a beautiful contrast with the flower's colors. The butterfly's delicate movements and the gentle rustling of its wings add to the serene and picturesque scene.",
+        "score": [
+            0.2786885245901639,
+            0.6296296296296297,
+            0.38636363636363635
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen sipping nectar from a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.45,
+            0.3333333333333333,
+            0.3829787234042553
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A delicate butterfly with iridescent blue wings flits gracefully among the vibrant blooms of an autumn garden, its fragile presence bringing life to the cool morning air.",
+        "prediction": "The delicate butterfly with iridescent blue wings is seen sipping nectar from a vibrant orange flower in the autumn garden.",
+        "score": [
+            0.45,
+            0.3333333333333333,
+            0.3829787234042553
+        ]
+    }
+}

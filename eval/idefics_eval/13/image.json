@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and smiling, surrounded by butterflies.",
+        "score": [
+            0.2777777777777778,
+            0.18518518518518517,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and smiling, and there are butterflies flying around.",
+        "score": [
+            0.23809523809523808,
+            0.18518518518518517,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and smiling, and there are butterflies flying around.",
+        "score": [
+            0.23809523809523808,
+            0.18518518518518517,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and smiling, and there are butterflies flying around.",
+        "score": [
+            0.23809523809523808,
+            0.18518518518518517,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and smiling, and there are butterflies flying around.",
+        "score": [
+            0.23809523809523808,
+            0.18518518518518517,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running with a joyful expression on its face. The dog is surrounded by a few butterflies, which are fluttering around it. The meadow is filled with green grass and various plants, and the sun shines brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.11764705882352941,
+            0.2222222222222222,
+            0.15384615384615383
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and smiling, and there are butterflies flying around.",
+        "score": [
+            0.23809523809523808,
+            0.18518518518518517,
+            0.20833333333333334
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running with a joyful expression on its face. The dog is surrounded by a few butterflies, which are fluttering around it. The meadow is filled with green grass and various plants, and the sun shines brightly, casting a warm glow over the scene.",
+        "score": [
+            0.11538461538461539,
+            0.2222222222222222,
+            0.15189873417721517
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running with a joyful expression on its face. The dog is surrounded by a few butterflies, which are fluttering around it. The meadow is filled with green grass and various plants, and the sun shines brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.11764705882352941,
+            0.2222222222222222,
+            0.15384615384615383
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running with a joyful expression on its face. The dog is surrounded by a few butterflies, which are fluttering around it. The meadow is filled with green grass and various plants, and the sun shines brightly, casting a warm glow over the scene.",
+        "score": [
+            0.11538461538461539,
+            0.2222222222222222,
+            0.15189873417721517
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with tall grass and colorful flowers, and the sky is clear and blue. The dog is having a great time, and it seems to be very happy and carefree.",
+        "score": [
+            0.15,
+            0.3333333333333333,
+            0.20689655172413793
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the lively and joyful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom of the open space.",
+        "score": [
+            0.1956521739130435,
+            0.3333333333333333,
+            0.2465753424657534
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with colorful flowers and butterflies, creating a peaceful and serene atmosphere. The dog is having a great time exploring and enjoying the outdoors.",
+        "score": [
+            0.16666666666666666,
+            0.3333333333333333,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, chasing after the butterflies and exploring the meadow. The butterflies are fluttering around, adding to the lively and joyful scene.",
+        "score": [
+            0.171875,
+            0.4074074074074074,
+            0.2417582417582417
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the company of the butterflies.",
+        "score": [
+            0.2222222222222222,
+            0.37037037037037035,
+            0.27777777777777773
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, and the butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15789473684210525,
+            0.3333333333333333,
+            0.21428571428571427
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is surrounded by tall grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The butterflies are fluttering around the dog, adding to the serene and peaceful scene.",
+        "score": [
+            0.14285714285714285,
+            0.25925925925925924,
+            0.18421052631578946
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is surrounded by tall grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The butterflies are fluttering around the dog, adding to the serene and peaceful scene.",
+        "score": [
+            0.14285714285714285,
+            0.25925925925925924,
+            0.18421052631578946
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with wildflowers and butterflies, creating a picturesque and serene environment. The dog's tail is wagging happily as it explores the meadow, and it seems to be having a great time.",
+        "score": [
+            0.16129032258064516,
+            0.37037037037037035,
+            0.2247191011235955
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with wildflowers and butterflies, creating a picturesque and serene environment. The dog's tail is wagging happily as it explores the meadow, and it seems to be having a great time.",
+        "score": [
+            0.16129032258064516,
+            0.37037037037037035,
+            0.2247191011235955
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with wildflowers and butterflies, creating a picturesque and serene environment. The dog's tail is wagging happily as it explores the meadow, and it seems to be having a great time.",
+        "score": [
+            0.16129032258064516,
+            0.37037037037037035,
+            0.2247191011235955
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow.",
+        "score": [
+            0.17647058823529413,
+            0.3333333333333333,
+            0.23076923076923078
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom of the open space.",
+        "score": [
+            0.1956521739130435,
+            0.3333333333333333,
+            0.2465753424657534
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the company of the butterflies, which are fluttering around him.",
+        "score": [
+            0.18181818181818182,
+            0.37037037037037035,
+            0.24390243902439027
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the company of the butterflies, which are fluttering around him. The scene is full of life and joy, capturing the beauty of nature and the simple pleasures of life.",
+        "score": [
+            0.13513513513513514,
+            0.37037037037037035,
+            0.198019801980198
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is surrounded by tall grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The butterflies are fluttering around the dog, adding to the serene and peaceful scene.",
+        "score": [
+            0.14285714285714285,
+            0.25925925925925924,
+            0.18421052631578946
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with green grass and colorful flowers, and the sky is clear and blue. The dog is having a great time, and it seems to be very happy and carefree.",
+        "score": [
+            0.15,
+            0.3333333333333333,
+            0.20689655172413793
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with wildflowers and butterflies, creating a picturesque and serene environment. The dog's tail is wagging happily as it explores the meadow, and it seems to be having a great time.",
+        "score": [
+            0.16129032258064516,
+            0.37037037037037035,
+            0.2247191011235955
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is filled with wildflowers and butterflies, creating a peaceful and serene atmosphere. The dog is having a great time exploring and enjoying the outdoors.",
+        "score": [
+            0.16981132075471697,
+            0.3333333333333333,
+            0.22499999999999998
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom of the open space.",
+        "score": [
+            0.1956521739130435,
+            0.3333333333333333,
+            0.2465753424657534
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the freedom of the open space, while the butterflies flutter around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the freedom of the open space, while the butterflies flutter around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the company of the butterflies, and it seems to be having a great time.",
+        "score": [
+            0.1694915254237288,
+            0.37037037037037035,
+            0.2325581395348837
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The butterflies are fluttering around the dog, adding to the serene and peaceful atmosphere of the scene.",
+        "score": [
+            0.11627906976744186,
+            0.18518518518518517,
+            0.14285714285714285
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying the beautiful day and the company of the butterflies.",
+        "score": [
+            0.19230769230769232,
+            0.37037037037037035,
+            0.25316455696202533
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.13333333333333333,
+            0.2962962962962963,
+            0.18390804597701152
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and tall grass, and the dog is exploring its surroundings, sniffing and barking happily. The sun is shining brightly, casting a warm glow over the scene.",
+        "score": [
+            0.15254237288135594,
+            0.3333333333333333,
+            0.2093023255813954
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and butterflies, creating a beautiful and peaceful scene. The dog is having a great time, and it seems to be enjoying the freedom and joy of being in nature.",
+        "score": [
+            0.14516129032258066,
+            0.3333333333333333,
+            0.20224719101123595
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and tall grass, and the sun is shining brightly overhead. The dog is having a great time, and it seems to be enjoying the freedom and joy of being in nature.",
+        "score": [
+            0.140625,
+            0.3333333333333333,
+            0.19780219780219782
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and tall grass, and the dog is exploring its surroundings, sniffing and barking happily. The sun is shining brightly, casting a warm glow over the scene.",
+        "score": [
+            0.15254237288135594,
+            0.3333333333333333,
+            0.2093023255813954
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers, and the dog is surrounded by their vibrant colors. The dog is having a great time, and its tail is wagging happily as it explores the meadow.",
+        "score": [
+            0.18333333333333332,
+            0.4074074074074074,
+            0.2528735632183908
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and butterflies, creating a beautiful and peaceful scene. The dog is having a great time, and it seems to be enjoying the freedom and joy of being in nature.",
+        "score": [
+            0.14516129032258066,
+            0.3333333333333333,
+            0.20224719101123595
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom to run and play in the open space.",
+        "score": [
+            0.16,
+            0.2962962962962963,
+            0.20779220779220778
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom of being in the open space.",
+        "score": [
+            0.1875,
+            0.3333333333333333,
+            0.24000000000000005
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the freedom and joy of being in nature, and the butterflies are fluttering around, adding to the beauty and tranquility of the scene.",
+        "score": [
+            0.15625,
+            0.37037037037037035,
+            0.21978021978021978
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying the beautiful day and the company of the butterflies.",
+        "score": [
+            0.19230769230769232,
+            0.37037037037037035,
+            0.25316455696202533
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies.",
+        "score": [
+            0.4666666666666667,
+            0.25925925925925924,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with various plants and flowers, and the dog is surrounded by a beautiful and serene environment.",
+        "score": [
+            0.1702127659574468,
+            0.2962962962962963,
+            0.2162162162162162
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and tall grass, and the dog is exploring its surroundings, sniffing and barking happily. The sun is shining brightly, casting a warm glow over the scene, and the dog is feeling carefree and joyful.",
+        "score": [
+            0.13432835820895522,
+            0.3333333333333333,
+            0.19148936170212766
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and tall grass, and the sun is shining brightly overhead. The dog is having a great time, and it seems to be enjoying the beautiful day.",
+        "score": [
+            0.15254237288135594,
+            0.3333333333333333,
+            0.2093023255813954
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is filled with wildflowers and tall grass, and the dog is exploring its surroundings, sniffing and barking happily. The sun is shining brightly, casting a warm glow over the scene, and the dog is feeling carefree and joyful.",
+        "score": [
+            0.13432835820895522,
+            0.3333333333333333,
+            0.19148936170212766
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing. The meadow is filled with green grass and colorful flowers. The dog is enjoying the beautiful day and the fresh air.",
+        "score": [
+            0.23529411764705882,
+            0.2962962962962963,
+            0.2622950819672131
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing. The meadow is filled with green grass and colorful flowers. The golden retriever is enjoying the beautiful scenery and the warm sunshine.",
+        "score": [
+            0.22857142857142856,
+            0.2962962962962963,
+            0.25806451612903225
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever seems to be enjoying the beautiful day, and the butterflies add a touch of magic to the scene.",
+        "score": [
+            0.15789473684210525,
+            0.3333333333333333,
+            0.21428571428571427
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever seems to be enjoying the beautiful day, and the butterflies add a touch of magic to the scene.",
+        "score": [
+            0.15789473684210525,
+            0.3333333333333333,
+            0.21428571428571427
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The dog is enjoying the beautiful scenery and the warm sunshine.",
+        "score": [
+            0.2692307692307692,
+            0.25925925925925924,
+            0.2641509433962264
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing happily. The sun is shining brightly, and the meadow is filled with green grass and colorful flowers. The dog is enjoying the beautiful day and the freedom of being outside.",
+        "score": [
+            0.15555555555555556,
+            0.25925925925925924,
+            0.19444444444444445
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing happily. The sun is shining brightly, and the grass is green and lush. The dog is enjoying the beautiful day and the freedom of being in the open field.",
+        "score": [
+            0.13636363636363635,
+            0.2222222222222222,
+            0.16901408450704225
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing happily. The sun is shining brightly, and the meadow is filled with green grass and colorful flowers. The dog is enjoying the beautiful day and the freedom of being in the open space.",
+        "score": [
+            0.14583333333333334,
+            0.25925925925925924,
+            0.18666666666666668
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing, enjoying the bright and warm environment. The meadow is filled with green grass and colorful flowers, and the dog is surrounded by the beauty of nature. The sun shines brightly, casting a warm glow over the scene, and the dog seems to be having a wonderful time.",
+        "score": [
+            0.0967741935483871,
+            0.2222222222222222,
+            0.1348314606741573
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is full of wildflowers, and the dog is exploring and sniffing around, taking in the sights and smells of the natural environment. The dog's fur is glistening in the sunlight, and its tail is wagging happily as it runs and plays.",
+        "score": [
+            0.18309859154929578,
+            0.48148148148148145,
+            0.26530612244897955
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing happily. The meadow is filled with green grass and colorful flowers, and the sun is shining brightly overhead. The dog is enjoying the beautiful day and the freedom of being in the open space.",
+        "score": [
+            0.12244897959183673,
+            0.2222222222222222,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing happily. The meadow is filled with green grass and colorful flowers, and the sun is shining brightly overhead. The dog is enjoying the beautiful day and the freedom to run and play in the open space.",
+        "score": [
+            0.09803921568627451,
+            0.18518518518518517,
+            0.1282051282051282
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow with the golden retriever, the dog is running and playing happily, enjoying the warm sunshine and the beautiful scenery. The butterflies are fluttering around, adding to the serene and peaceful atmosphere of the scene.",
+        "score": [
+            0.1282051282051282,
+            0.18518518518518517,
+            0.15151515151515152
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies.",
+        "score": [
+            0.4666666666666667,
+            0.25925925925925924,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is surrounded by tall grass and flowers, and the sunlight is creating a warm and inviting atmosphere. The butterflies are fluttering around the dog, adding to the serene and peaceful scene.",
+        "score": [
+            0.14893617021276595,
+            0.25925925925925924,
+            0.18918918918918917
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is full of colorful flowers and tall grass, and the dog is having a great time exploring its surroundings.",
+        "score": [
+            0.1875,
+            0.3333333333333333,
+            0.24000000000000005
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is full of colorful flowers and tall grass, and the dog is having a great time exploring its surroundings.",
+        "score": [
+            0.1875,
+            0.3333333333333333,
+            0.24000000000000005
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is full of green grass and colorful flowers, and the sky is clear and blue. The dog is having a great time, and it seems to be very happy and carefree.",
+        "score": [
+            0.16666666666666666,
+            0.37037037037037035,
+            0.2298850574712644
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is full of green grass and colorful flowers, and the sky is clear and blue. The dog is having a great time, and it seems to be very happy and carefree.",
+        "score": [
+            0.16666666666666666,
+            0.37037037037037035,
+            0.2298850574712644
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "The dog is running in the sun-drenched meadow.",
+        "score": [
+            0.5555555555555556,
+            0.18518518518518517,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the beautiful scenery. The meadow is full of green grass and colorful flowers, and the sky is clear and blue. The dog is having a great time, and it seems to be very happy and carefree.",
+        "score": [
+            0.16666666666666666,
+            0.37037037037037035,
+            0.2298850574712644
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever. The dog is running and playing in the grass, enjoying the warm sunshine and the fresh air. The meadow is full of green grass and colorful flowers, and the sky is clear and blue. The dog is having a great time, and it seems to be very happy and carefree.",
+        "score": [
+            0.16666666666666666,
+            0.37037037037037035,
+            0.2298850574712644
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies.",
+        "score": [
+            0.4666666666666667,
+            0.25925925925925924,
+            0.33333333333333337
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom of the open space.",
+        "score": [
+            0.1956521739130435,
+            0.3333333333333333,
+            0.2465753424657534
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly overhead. The golden retriever is enjoying the beautiful day and the freedom of the open space.",
+        "score": [
+            0.1956521739130435,
+            0.3333333333333333,
+            0.2465753424657534
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying the beautiful day and the company of the butterflies.",
+        "score": [
+            0.19230769230769232,
+            0.37037037037037035,
+            0.25316455696202533
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.16393442622950818,
+            0.37037037037037035,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.16393442622950818,
+            0.37037037037037035,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.16393442622950818,
+            0.37037037037037035,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.16393442622950818,
+            0.37037037037037035,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.16666666666666666,
+            0.37037037037037035,
+            0.2298850574712644
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The golden retriever is a breed of dog known for its friendly and gentle nature, and it is enjoying the beautiful scenery and the company of the butterflies. The butterflies are fluttering around the dog, adding to the serene and peaceful atmosphere of the scene.",
+        "score": [
+            0.16666666666666666,
+            0.37037037037037035,
+            0.2298850574712644
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is in the foreground, and the butterflies are flying around it. The meadow is filled with green grass and wildflowers, and the sun is shining brightly, creating a warm and inviting atmosphere.",
+        "score": [
+            0.125,
+            0.2222222222222222,
+            0.16
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the company of the butterflies, which are fluttering around him.",
+        "score": [
+            0.18181818181818182,
+            0.37037037037037035,
+            0.24390243902439027
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day, running and playing freely in the meadow. The butterflies are fluttering around, adding to the serene and peaceful scene.",
+        "score": [
+            0.15873015873015872,
+            0.37037037037037035,
+            0.2222222222222222
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers. The golden retriever is enjoying the beautiful scenery and the warm sunshine.",
+        "score": [
+            0.21621621621621623,
+            0.2962962962962963,
+            0.25
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever seems to be enjoying the beautiful day, and the butterflies add a touch of magic to the scene.",
+        "score": [
+            0.15789473684210525,
+            0.3333333333333333,
+            0.21428571428571427
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever is enjoying the beautiful day and the company of the butterflies, which are fluttering around him.",
+        "score": [
+            0.18181818181818182,
+            0.37037037037037035,
+            0.24390243902439027
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying the beautiful day and the company of the butterflies.",
+        "score": [
+            0.19607843137254902,
+            0.37037037037037035,
+            0.2564102564102564
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.16393442622950818,
+            0.37037037037037035,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, there is a golden retriever running and playing with butterflies. The meadow is filled with green grass and colorful flowers, and the sun shines brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies add a touch of whimsy and beauty to the scene.",
+        "score": [
+            0.16393442622950818,
+            0.37037037037037035,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is surrounded by tall grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The butterflies are fluttering around the dog, adding a touch of beauty and grace to the scene. The dog appears to be enjoying its time in the meadow, and the butterflies seem to be enjoying the company of the dog.",
+        "score": [
+            0.10666666666666667,
+            0.2962962962962963,
+            0.1568627450980392
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a majestic golden retriever playfully bounding through the sun-drenched meadow, its fur glistening like woven threads of sunlight as it chases after fluttering butterflies.",
+        "prediction": "In the sun-drenched meadow, a golden retriever is running and playing with butterflies. The dog is surrounded by tall grass and flowers, and the sun is shining brightly, creating a warm and inviting atmosphere. The golden retriever appears to be enjoying its time in the meadow, and the butterflies are fluttering around it, adding to the serene and peaceful scene.",
+        "score": [
+            0.13114754098360656,
+            0.2962962962962963,
+            0.18181818181818182
+        ]
+    }
+}

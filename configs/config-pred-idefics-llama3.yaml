@@ -1,0 +1,6 @@
+prompt_dir: '/mnt/workspace/Projects/CS6223/prompts'
+save_dir: '/mnt/workspace/Projects/CS6223/pred_idefics'
+
+model:
+  model_provider: "Huggingface"  # "OpenAI", "Anthropic" or "Huggingface"
+  model_name: "/mnt/workspace/ckpts/VLMs/Idefics3-8B-Llama3"

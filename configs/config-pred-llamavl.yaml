@@ -3,4 +3,4 @@ save_dir: 'pred'
 
 model:
   model_provider: "Huggingface"  # "OpenAI", "Anthropic" or "Huggingface"
-  model_name: "meta-llama/Llama-3.2-11B-Vision-Instruct"
+  model_name: "/mnt/workspace/ckpts/VLMs/Llama-3.2-11B-Vision-Instruct"

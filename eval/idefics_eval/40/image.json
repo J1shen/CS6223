@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.24,
+            0.2222222222222222,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.24,
+            0.2222222222222222,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"glowing like sunlight.\"",
+        "score": [
+            0.2,
+            0.18518518518518517,
+            0.1923076923076923
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly, and its appearance is compared to sunlight as it flits gracefully among purple blooms.",
+        "score": [
+            0.2916666666666667,
+            0.25925925925925924,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a monarch butterfly flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.4230769230769231,
+            0.4074074074074074,
+            0.4150943396226415
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.32142857142857145,
+            0.3333333333333333,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms, and its appearance is compared to sunlight.",
+        "score": [
+            0.34615384615384615,
+            0.3333333333333333,
+            0.33962264150943394
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as the butterfly's wings are said to be \"like a sunbeam.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be as beautiful as the sun.",
+        "score": [
+            0.25,
+            0.3333333333333333,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be as beautiful as the sun.",
+        "score": [
+            0.25,
+            0.3333333333333333,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be as bright as the sun.",
+        "score": [
+            0.25,
+            0.3333333333333333,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly on a sunbeam.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"flitting gracefully among purple blooms\" and \"basking in the sunlight.\"",
+        "score": [
+            0.28125,
+            0.3333333333333333,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as the butterfly's wings are said to be a \"shimmering yellow and black\" color, which is reminiscent of sunlight.",
+        "score": [
+            0.2222222222222222,
+            0.37037037037037035,
+            0.27777777777777773
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly on a sunbeam.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it has vibrant orange and black wings that shimmer in the light.",
+        "score": [
+            0.28125,
+            0.3333333333333333,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It flits gracefully among purple blooms, and its appearance is compared to sunlight, as it is described as having a \"glowing\" appearance.",
+        "score": [
+            0.3125,
+            0.37037037037037035,
+            0.3389830508474576
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It flits gracefully among purple blooms, and its appearance is compared to sunlight, as it is described as having a \"sunlit\" appearance.",
+        "score": [
+            0.3125,
+            0.37037037037037035,
+            0.3389830508474576
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be as bright as the sun.",
+        "score": [
+            0.25,
+            0.3333333333333333,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be as bright as the sun.",
+        "score": [
+            0.25,
+            0.3333333333333333,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"a butterfly of the same color as sunlight.\"",
+        "score": [
+            0.2564102564102564,
+            0.37037037037037035,
+            0.30303030303030304
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a butterfly with a vivid orange and black coloration, flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"glowing\" effect.",
+        "score": [
+            0.3125,
+            0.37037037037037035,
+            0.3389830508474576
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sunlight.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a butterfly with a vivid orange and black coloration, flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.3125,
+            0.37037037037037035,
+            0.3389830508474576
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be as bright as the sun.",
+        "score": [
+            0.25,
+            0.3333333333333333,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a butterfly in the sun.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a butterfly flitting gracefully among purple blooms, and its wings are like sunlight.\"",
+        "score": [
+            0.2777777777777778,
+            0.37037037037037035,
+            0.3174603174603175
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to be flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.2857142857142857,
+            0.37037037037037035,
+            0.3225806451612903
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a butterfly that flits gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" appearance.",
+        "score": [
+            0.38461538461538464,
+            0.37037037037037035,
+            0.3773584905660377
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it has a shimmering effect on its wings, reflecting the light and giving it a radiant appearance.",
+        "score": [
+            0.2702702702702703,
+            0.37037037037037035,
+            0.3125
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The document describes a butterfly that flits gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" appearance.",
+        "score": [
+            0.38461538461538464,
+            0.37037037037037035,
+            0.3773584905660377
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.32142857142857145,
+            0.3333333333333333,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.32142857142857145,
+            0.3333333333333333,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.32142857142857145,
+            0.3333333333333333,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it has a vibrant orange and black coloration that shines like the sun.",
+        "score": [
+            0.2564102564102564,
+            0.37037037037037035,
+            0.30303030303030304
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it has vibrant orange and black wings that shimmer in the light.",
+        "score": [
+            0.28125,
+            0.3333333333333333,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be like a \"sunlight\" in the garden.",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is the monarch butterfly. Its appearance is compared to sunlight, as it has a striking resemblance to the sun's rays.",
+        "score": [
+            0.3333333333333333,
+            0.37037037037037035,
+            0.3508771929824561
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to be flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.2857142857142857,
+            0.37037037037037035,
+            0.3225806451612903
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It flits gracefully among purple blooms, and its appearance is compared to sunlight, with its wings reflecting the light and creating a shimmering effect.",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is said to flit gracefully among purple blooms. Its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It flits gracefully among purple blooms, and its appearance is compared to sunlight, as it is described as having a \"sunlit\" look.",
+        "score": [
+            0.3125,
+            0.37037037037037035,
+            0.3389830508474576
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It flits gracefully among purple blooms, and its appearance is compared to sunlight, with its wings reflecting the light and creating a beautiful, shimmering effect.",
+        "score": [
+            0.3142857142857143,
+            0.4074074074074074,
+            0.3548387096774193
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described as flitting gracefully among purple blooms is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.35714285714285715,
+            0.37037037037037035,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as the butterfly's wings are said to be \"like a sunbeam.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as the butterfly's wings are said to be \"like a sunbeam.\"",
+        "score": [
+            0.2972972972972973,
+            0.4074074074074074,
+            0.34375
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. It is described as flitting gracefully among purple blooms. Its appearance is compared to sunlight, as it is said to be \"like a sunbeam.\"",
+        "score": [
+            0.3235294117647059,
+            0.4074074074074074,
+            0.36065573770491804
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"flitting gracefully among purple blooms\" and \"glowing in the sunlight.\"",
+        "score": [
+            0.28125,
+            0.3333333333333333,
+            0.3050847457627119
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A vibrant orange butterfly flits gracefully among the fragrant purple blooms of the lilac bushes, its delicate wings catching the sunlight like stained glass in a cathedral.",
+        "prediction": "The butterfly described in the document is a monarch butterfly. Its appearance is compared to sunlight, as it is said to be \"flitting gracefully among purple blooms\" and \"its wings are like the sun.\"",
+        "score": [
+            0.29411764705882354,
+            0.37037037037037035,
+            0.3278688524590164
+        ]
+    }
+}

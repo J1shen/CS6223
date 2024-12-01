@@ -7,7 +7,7 @@ class Qwen2VLPredictor(Predictor):
         processor = AutoProcessor.from_pretrained(model_name, trust_remote_code=True)
         model = Qwen2VLForConditionalGeneration.from_pretrained(model_name, trust_remote_code=True, torch_dtype=torch.bfloat16, device_map="auto")
         model = model.eval()
-        
+        self.device = model.device
         super().__init__(model_name, model, tokenizer, processor, input_data_list, save_dir, device)
     
     def build_input_prompt(self, input_data):
@@ -27,6 +27,7 @@ class Qwen2VLPredictor(Predictor):
                 }
             ]
         else:
+            print("Using Image data")
             messages = [
                 {
                     "role": "user",
@@ -37,7 +38,7 @@ class Qwen2VLPredictor(Predictor):
                         },
                         {
                             "type": "image",
-                            "image": image_link
+                            "image": f"/mnt/workspace/Projects/CS6223/{image_link}"
                         },
                         {
                             "type": "text",
@@ -71,6 +72,16 @@ class Qwen2VLPredictor(Predictor):
             # print(pred)
         return pred.strip()
 
+import argparse
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Predict answers for Qwen2VL.")
+    parser.add_argument("--index", type=int, default=0, help="The index of the input data to predict.")
+    parser.add_argument("--num_needles", type=int, default=1, help="The number of needles to process.")
+    # parser.add_argument("--prompt_dir", default=r'', help="The directory containing the prompts.")
+    # parser.add_argument("--save_dir", default=r'', help="The directory to save the predictions.")
+    args = parser.parse_args()
+    return args
 
 
 
@@ -82,6 +93,10 @@ if __name__ == '__main__':
     with open('configs/config-pred-qwen2vl.yaml', 'r') as file:
         config = yaml.load(file, Loader=yaml.FullLoader)
 
+    args = parse_args()
+    index = args.index
+    num_needles = args.num_needles
+
     model_provider = config['model']['model_provider']
     model_name = config['model']['model_name']
     prompt_dir = config['prompt_dir']
@@ -92,10 +107,18 @@ if __name__ == '__main__':
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     
-    predictor = Qwen2VLPredictor(
-        input_data_list=glob.glob(f'{prompt_dir}/{model_provider}_*_prompts.json'),
-        model_name=model_name,
-        save_dir=save_dir,
-        device=device
-    )
-    predictions = predictor.predict()
+    needle_type = ['text']
+    prompt_files = os.listdir(prompt_dir)
+    for needle in needle_type:
+        for prompt_file in prompt_files[index:index+num_needles]:
+            input_dir = os.path.join(prompt_dir, prompt_file)
+            input_data_list = glob.glob(f'{input_dir}/{needle}/{model_provider}_*_prompts.json')
+            if len(input_data_list) == 0:
+                break
+            predictor = Qwen2VLPredictor(
+                input_data_list=input_data_list,
+                model_name=model_name,
+                save_dir=os.path.join(f"{save_dir}/{prompt_file}", needle),
+                device=device
+            )
+            predictions = predictor.predict()

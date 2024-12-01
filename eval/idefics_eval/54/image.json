@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the bottom right corner of the image. It is a white feather with a silver sheen, and it is partially covered by the green grass.",
+        "score": [
+            0.22580645161290322,
+            0.35,
+            0.2745098039215686
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant.",
+        "score": [
+            0.2608695652173913,
+            0.3,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright on a small patch of grass.",
+        "score": [
+            0.22580645161290322,
+            0.35,
+            0.2745098039215686
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright on a small patch of grass. The feather is long and has a smooth, silky texture.",
+        "score": [
+            0.17073170731707318,
+            0.35,
+            0.22950819672131145
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the bottom right corner of the image. It is a feather with a shiny, reflective surface, and it is oriented diagonally.",
+        "score": [
+            0.2222222222222222,
+            0.3,
+            0.25531914893617025
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass and is the main focus of the image.",
+        "score": [
+            0.3125,
+            0.25,
+            0.2777777777777778
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright.",
+        "score": [
+            0.2,
+            0.25,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the bottom right corner of the image. It is a feather with a shiny, reflective surface, and it appears to be made of a metallic material.",
+        "score": [
+            0.1875,
+            0.3,
+            0.23076923076923075
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright.",
+        "score": [
+            0.2,
+            0.25,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant.",
+        "score": [
+            0.2608695652173913,
+            0.3,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as having a white and brown color.",
+        "score": [
+            0.2631578947368421,
+            0.25,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as having a white and brown color.",
+        "score": [
+            0.2631578947368421,
+            0.25,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as a feather with a white and brown color.",
+        "score": [
+            0.23809523809523808,
+            0.25,
+            0.24390243902439024
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small patch of grass near a body of water.",
+        "score": [
+            0.26666666666666666,
+            0.4,
+            0.32
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as being on the grass.",
+        "score": [
+            0.4117647058823529,
+            0.35,
+            0.37837837837837834
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant.",
+        "score": [
+            0.2608695652173913,
+            0.3,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the bottom right corner of the image. It is a feather with a shiny, reflective surface, and it appears to be slightly curved.",
+        "score": [
+            0.20689655172413793,
+            0.3,
+            0.24489795918367346
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, with a blurred background that suggests it is in motion.",
+        "score": [
+            0.18181818181818182,
+            0.3,
+            0.22641509433962265
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright.",
+        "score": [
+            0.2,
+            0.25,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned in the center of the image.",
+        "score": [
+            0.21739130434782608,
+            0.25,
+            0.23255813953488372
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small plant or grass.",
+        "score": [
+            0.28,
+            0.35,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated on a small patch of grass near a body of water.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned in the center of the image, with a blurred background that suggests it is in motion.",
+        "score": [
+            0.18181818181818182,
+            0.3,
+            0.22641509433962265
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright.",
+        "score": [
+            0.2,
+            0.25,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as having a white and brown color.",
+        "score": [
+            0.2631578947368421,
+            0.25,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as a feather with a shiny, reflective surface.",
+        "score": [
+            0.25,
+            0.25,
+            0.25
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small plant or grass.",
+        "score": [
+            0.28,
+            0.35,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated on a small patch of grass near the water.",
+        "score": [
+            0.2692307692307692,
+            0.35,
+            0.3043478260869565
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown coloration.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned in the center of the image, standing upright.",
+        "score": [
+            0.2,
+            0.25,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the bottom right corner of the image. It is a feather with a shiny, reflective surface, and it appears to be slightly curved.",
+        "score": [
+            0.20689655172413793,
+            0.3,
+            0.24489795918367346
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant.",
+        "score": [
+            0.2608695652173913,
+            0.3,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small plant or grass.",
+        "score": [
+            0.28,
+            0.35,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small plant or grass.",
+        "score": [
+            0.28,
+            0.35,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and gray color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown coloration.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a plant, possibly a grass or a small bush.",
+        "score": [
+            0.27586206896551724,
+            0.4,
+            0.32653061224489793
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small plant or grassy area, and it appears to be the only feather in the image.",
+        "score": [
+            0.1891891891891892,
+            0.35,
+            0.24561403508771934
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a white feather with a silver sheen.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a white feather with a shiny, reflective surface.",
+        "score": [
+            0.2631578947368421,
+            0.25,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a white feather with a shiny, reflective surface.",
+        "score": [
+            0.2631578947368421,
+            0.25,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant.",
+        "score": [
+            0.2608695652173913,
+            0.3,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface.",
+        "score": [
+            0.35714285714285715,
+            0.25,
+            0.2941176470588235
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant.",
+        "score": [
+            0.2608695652173913,
+            0.3,
+            0.27906976744186046
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small plant or grass.",
+        "score": [
+            0.28,
+            0.35,
+            0.3111111111111111
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a green plant, which is surrounded by water and rocks.",
+        "score": [
+            0.2,
+            0.3,
+            0.24
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright on a small patch of grass. The feather is long and has a smooth, silky texture, with a few small imperfections and a slightly curved shape.",
+        "score": [
+            0.1568627450980392,
+            0.4,
+            0.22535211267605632
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated in the center of the image, standing upright on a small patch of grass. The feather is long and has a smooth, silky texture, with a few small imperfections and a slightly curved shape.",
+        "score": [
+            0.1568627450980392,
+            0.4,
+            0.22535211267605632
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small patch of grass near a body of water.",
+        "score": [
+            0.26666666666666666,
+            0.4,
+            0.32
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated on a bed of green grass near a body of water.",
+        "score": [
+            0.32142857142857145,
+            0.45,
+            0.375
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is situated on a small patch of grass near a body of water.",
+        "score": [
+            0.2857142857142857,
+            0.4,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as a white feather with a brown tip.",
+        "score": [
+            0.25,
+            0.25,
+            0.25
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is a feather with a shiny, reflective surface.",
+        "score": [
+            0.2777777777777778,
+            0.25,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as having a white and brown color.",
+        "score": [
+            0.2631578947368421,
+            0.25,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and it is described as a feather with a white and brown color.",
+        "score": [
+            0.23809523809523808,
+            0.25,
+            0.24390243902439024
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the bottom right corner of the image. It is a feather with a white and brown color pattern.",
+        "score": [
+            0.25,
+            0.3,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a shiny, reflective surface. It is positioned on top of a small patch of grass near a body of water.",
+        "score": [
+            0.26666666666666666,
+            0.4,
+            0.32
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located in the image and has a white and brown color.",
+        "score": [
+            0.3333333333333333,
+            0.25,
+            0.28571428571428575
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver feather glimmers in the dappled sunlight, gently resting on the rustling green grass near a small, bubbling brook.",
+        "prediction": "The silver feather is located on the grass.",
+        "score": [
+            0.625,
+            0.25,
+            0.35714285714285715
+        ]
+    }
+}

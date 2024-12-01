@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet and calming fragrance into the air.",
+        "score": [
+            0.6666666666666666,
+            0.8148148148148148,
+            0.7333333333333333
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.7027027027027027,
+            0.9629629629629629,
+            0.8125
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.6875,
+            0.8148148148148148,
+            0.7457627118644067
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.7027027027027027,
+            0.9629629629629629,
+            0.8125
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly's fragile wings, creating a picturesque and calming atmosphere.",
+        "score": [
+            0.3953488372093023,
+            0.6296296296296297,
+            0.48571428571428577
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.7027027027027027,
+            0.9629629629629629,
+            0.8125
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.6875,
+            0.8148148148148148,
+            0.7457627118644067
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly's shimmering wings, creating a tranquil and picturesque scene.",
+        "score": [
+            0.38636363636363635,
+            0.6296296296296297,
+            0.47887323943661975
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun is shining, and the butterfly's fragile wings shimmer in the sunlight. This tranquil scene serves as a contrast to the increasing addiction and technological progress discussed in the rest of the text.",
+        "score": [
+            0.265625,
+            0.6296296296296297,
+            0.37362637362637363
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly's shimmering wings, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.38636363636363635,
+            0.6296296296296297,
+            0.47887323943661975
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly and the lavender, creating a picturesque and tranquil setting.",
+        "score": [
+            0.38636363636363635,
+            0.6296296296296297,
+            0.47887323943661975
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8666666666666667,
+            0.9629629629629629,
+            0.912280701754386
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a delicate butterfly flutters above a blooming lavender field, releasing a sweet fragrance into the air. The butterfly's wings shimmer in the warm sunlight, and the blooming lavender adds to the tranquil atmosphere.",
+        "score": [
+            0.3023255813953488,
+            0.48148148148148145,
+            0.37142857142857144
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful environment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly and the lavender, creating a picturesque and tranquil setting.",
+        "score": [
+            0.3953488372093023,
+            0.6296296296296297,
+            0.48571428571428577
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment in the afternoon sun, where a vibrant orange butterfly is delicately fluttering above a blooming lavender field, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm sunlight, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.32653061224489793,
+            0.5925925925925926,
+            0.42105263157894735
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a delicate and serene moment in nature where a butterfly flutters above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.6333333333333333,
+            0.7037037037037037,
+            0.6666666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a vibrant orange butterfly is fluttering delicately above blooming lavender. The butterfly's fragile wings shimmer in the warm afternoon sun, releasing a sweet, calming fragrance into the air. The image evokes a sense of tranquility and natural beauty, with the butterfly and lavender creating a picturesque and harmonious scene.",
+        "score": [
+            0.423728813559322,
+            0.9259259259259259,
+            0.5813953488372093
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil setting.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a delicate orange butterfly is fluttering above blooming lavender in the warm afternoon sun, releasing a sweet and calming fragrance into the air.",
+        "score": [
+            0.625,
+            0.7407407407407407,
+            0.6779661016949152
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful environment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil setting.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a delicate orange butterfly fluttering above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8333333333333334,
+            0.7407407407407407,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, with its shimmering wings releasing a sweet, calming fragrance into the air. The butterfly is surrounded by the blooming lavender, which is bathed in the warm sunlight of the afternoon.",
+        "score": [
+            0.4523809523809524,
+            0.7037037037037037,
+            0.5507246376811594
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.88,
+            0.8148148148148148,
+            0.8461538461538461
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly delicately fluttering above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8260869565217391,
+            0.7037037037037037,
+            0.76
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly delicately fluttering above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8260869565217391,
+            0.7037037037037037,
+            0.76
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.6875,
+            0.8148148148148148,
+            0.7457627118644067
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.85,
+            0.6296296296296297,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above a blooming lavender field, releasing a sweet, calming fragrance into the air. The butterfly's shimmering wings reflect the warm sunlight, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.3953488372093023,
+            0.6296296296296297,
+            0.48571428571428577
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a delicate orange butterfly flutters above blooming lavender in the warm afternoon sun, releasing a sweet and calming fragrance into the air.",
+        "score": [
+            0.6451612903225806,
+            0.7407407407407407,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.88,
+            0.8148148148148148,
+            0.8461538461538461
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "Aikido for Startups.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8666666666666667,
+            0.9629629629629629,
+            0.912280701754386
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment in nature, where a vibrant orange butterfly is fluttering delicately above a blooming lavender field. The butterfly's fragile wings shimmer in the warm sunlight, releasing a sweet, calming fragrance into the air. The image evokes a sense of tranquility and beauty, capturing the essence of a tranquil afternoon in a natural setting.",
+        "score": [
+            0.3770491803278688,
+            0.8518518518518519,
+            0.5227272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment in nature, where a vibrant orange butterfly is delicately fluttering above a blooming lavender field. The butterfly's wings shimmer in the warm sunlight, releasing a sweet and calming fragrance into the air. The image evokes a sense of tranquility and beauty, capturing the essence of a tranquil afternoon in a natural setting.",
+        "score": [
+            0.3442622950819672,
+            0.7777777777777778,
+            0.4772727272727273
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a delicate orange butterfly fluttering above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8333333333333334,
+            0.7407407407407407,
+            0.7843137254901961
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines down, creating a tranquil and picturesque setting.",
+        "score": [
+            0.4358974358974359,
+            0.6296296296296297,
+            0.5151515151515151
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.896551724137931,
+            0.9629629629629629,
+            0.9285714285714286
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.88,
+            0.8148148148148148,
+            0.8461538461538461
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8571428571428571,
+            0.8888888888888888,
+            0.8727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.85,
+            0.6296296296296297,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a beautiful and serene moment where a butterfly is delicately fluttering above a blooming lavender field in the warm afternoon sun. The butterfly's wings shimmer in the sunlight, releasing a sweet, calming fragrance into the air. The scene is peaceful and picturesque, evoking a sense of tranquility and natural beauty.",
+        "score": [
+            0.35185185185185186,
+            0.7037037037037037,
+            0.46913580246913583
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8333333333333334,
+            0.5555555555555556,
+            0.6666666666666667
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.45714285714285713,
+            0.5925925925925926,
+            0.5161290322580645
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8333333333333334,
+            0.5555555555555556,
+            0.6666666666666667
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is delicately fluttering above a blooming lavender field. The butterfly's wings shimmer in the warm sunlight, releasing a sweet, calming fragrance into the air. The image evokes a sense of tranquility and natural beauty, capturing the essence of a perfect afternoon in a picturesque setting.",
+        "score": [
+            0.3559322033898305,
+            0.7777777777777778,
+            0.4883720930232558
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a delicate and serene moment where a vibrant orange butterfly is fluttering above a blooming field of lavender. The butterfly's wings shimmer in the warm sunlight, releasing a sweet fragrance into the air. The image evokes a sense of peace and tranquility, capturing the beauty of nature and the gentle dance of the butterfly amidst the blooming flowers.",
+        "score": [
+            0.3225806451612903,
+            0.7407407407407407,
+            0.449438202247191
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.85,
+            0.6296296296296297,
+            0.723404255319149
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and picturesque moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a tranquil and peaceful atmosphere.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly delicately fluttering above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8260869565217391,
+            0.7037037037037037,
+            0.76
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.6875,
+            0.8148148148148148,
+            0.7457627118644067
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a beautiful and serene moment where a vibrant orange butterfly is delicately fluttering above a blooming lavender field, releasing a sweet fragrance into the air. The butterfly's shimmering wings are highlighted by the warm afternoon sun, creating a picturesque and peaceful atmosphere.",
+        "score": [
+            0.32608695652173914,
+            0.5555555555555556,
+            0.410958904109589
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8666666666666667,
+            0.9629629629629629,
+            0.912280701754386
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a butterfly fluttering delicately above blooming lavender in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8695652173913043,
+            0.7407407407407407,
+            0.7999999999999999
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.4090909090909091,
+            0.6666666666666666,
+            0.5070422535211268
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.7428571428571429,
+            0.9629629629629629,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is delicately fluttering above blooming lavender in the warm afternoon sun. The butterfly's fragile wings shimmer in the sunlight, releasing a sweet and calming fragrance into the air. The image evokes a sense of tranquility and natural beauty, providing a stark contrast to the more intense and complex themes discussed in the rest of the document.",
+        "score": [
+            0.3,
+            0.7777777777777778,
+            0.4329896907216495
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.7428571428571429,
+            0.9629629629629629,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8666666666666667,
+            0.9629629629629629,
+            0.912280701754386
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly's shimmering wings, creating a picturesque and calming atmosphere. The description evokes a sense of tranquility and beauty, contrasting with the more intense and critical topics discussed in the rest of the document.",
+        "score": [
+            0.25,
+            0.6296296296296297,
+            0.35789473684210527
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun casts a gentle glow on the butterfly and the lavender, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.3617021276595745,
+            0.6296296296296297,
+            0.4594594594594595
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly is fluttering delicately above blooming lavender in the warm afternoon sun. The butterfly's fragile wings shimmer in the sunlight, releasing a sweet, calming fragrance into the air. The image evokes a sense of tranquility and natural beauty, providing a stark contrast to the more intense and complex themes discussed in the document about technological progress, addiction, and the challenges faced by startups.",
+        "score": [
+            0.2894736842105263,
+            0.8148148148148148,
+            0.4271844660194175
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment in nature where a delicate orange butterfly is fluttering above blooming lavender, releasing a sweet fragrance into the air. The warm afternoon sun shines on the butterfly's shimmering wings, creating a tranquil and calming atmosphere.",
+        "score": [
+            0.3181818181818182,
+            0.5185185185185185,
+            0.39436619718309857
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful environment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly and the lavender, creating a picturesque and calming atmosphere.",
+        "score": [
+            0.3953488372093023,
+            0.6296296296296297,
+            0.48571428571428577
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a vibrant orange butterfly fluttering delicately above blooming lavender, with its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.8666666666666667,
+            0.9629629629629629,
+            0.912280701754386
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above a blooming lavender field, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.4,
+            0.6666666666666666,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a peaceful and serene environment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The butterfly's fragile wings shimmer in the warm afternoon sun, creating a picturesque and tranquil scene.",
+        "score": [
+            0.4186046511627907,
+            0.6666666666666666,
+            0.5142857142857143
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and picturesque moment where a vibrant orange butterfly flutters delicately above blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            0.7428571428571429,
+            0.9629629629629629,
+            0.8387096774193549
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a delicate butterfly is fluttering above a blooming lavender field, releasing a sweet fragrance into the air. The butterfly's wings shimmer in the warm sunlight, creating a picturesque and calming atmosphere.",
+        "score": [
+            0.3170731707317073,
+            0.48148148148148145,
+            0.3823529411764706
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment where a vibrant orange butterfly flutters delicately above blooming lavender, releasing a sweet, calming fragrance into the air. The warm afternoon sun shines on the butterfly and the lavender, creating a picturesque and tranquil atmosphere.",
+        "score": [
+            0.3953488372093023,
+            0.6296296296296297,
+            0.48571428571428577
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A vibrant orange butterfly flutters delicately above the blooming lavender, its fragile wings shimmering in the warm afternoon sun, releasing a sweet, calming fragrance into the air.",
+        "prediction": "The scene describes a serene and peaceful moment in the afternoon sun, where a vibrant orange butterfly is delicately fluttering above blooming lavender. The butterfly's fragile wings shimmer in the sunlight, releasing a sweet and calming fragrance into the air. This tranquil scene evokes a sense of calm and beauty, providing a contrast to the more intense and competitive world of software development discussed in the rest of the text.",
+        "score": [
+            0.29577464788732394,
+            0.7777777777777778,
+            0.42857142857142855
+        ]
+    }
+}

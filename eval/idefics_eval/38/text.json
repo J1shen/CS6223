@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and it is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6,
+            0.6585365853658537,
+            0.627906976744186
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.5,
+            0.5365853658536586,
+            0.5176470588235295
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree has gnarled branches that stretch out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.4772727272727273,
+            0.5121951219512195,
+            0.49411764705882355
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.5,
+            0.5365853658536586,
+            0.5176470588235295
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree's gnarled branches stretch out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.5813953488372093,
+            0.6097560975609756,
+            0.5952380952380952
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6190476190476191,
+            0.6341463414634146,
+            0.6265060240963854
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "A majestic oak tree stands proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            1.0,
+            0.9512195121951219,
+            0.975
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6190476190476191,
+            0.6341463414634146,
+            0.6265060240963854
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.5116279069767442,
+            0.5365853658536586,
+            0.5238095238095238
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6190476190476191,
+            0.6341463414634146,
+            0.6265060240963854
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly, its branches reaching out like welcoming arms adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.675,
+            0.6585365853658537,
+            0.6666666666666667
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is one of tranquility and beauty. The meadow is bathed in warm sunlight, casting a golden glow over the lush green grass. The grass is vibrant and healthy, with a variety of wildflowers adding splashes of color to the landscape. The air is filled with the sweet scent of blooming flowers and the gentle hum of insects. A majestic oak tree stands tall and proud, its gnarled branches stretching out like welcoming arms. The tree's leaves rustle softly in the gentle breeze, creating a soothing background noise. The meadow is a peaceful and serene place",
+        "score": [
+            0.1792452830188679,
+            0.4634146341463415,
+            0.2585034013605442
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6363636363636364,
+            0.6829268292682927,
+            0.6588235294117647
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree's gnarled branches stretch out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze. The meadow itself is bathed in sunlight, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.41818181818181815,
+            0.5609756097560976,
+            0.47916666666666663
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "A majestic oak tree stands proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            1.0,
+            0.9512195121951219,
+            0.975
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall and its gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6,
+            0.6585365853658537,
+            0.627906976744186
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like the welcoming arms of an old friend. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.673469387755102,
+            0.8048780487804879,
+            0.7333333333333334
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6363636363636364,
+            0.6829268292682927,
+            0.6588235294117647
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is one of tranquility and beauty. The majestic oak tree stands tall and proud, its gnarled branches stretching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze, creating a soothing and peaceful atmosphere. The meadow itself is bathed in sunlight, with the sun's rays casting a golden glow over the lush green grass. The air is filled with the sweet scent of blooming wildflowers, adding to the serene ambiance of the scene. The overall impression is one of natural beauty and tranquility, with the oak tree serving",
+        "score": [
+            0.25,
+            0.6585365853658537,
+            0.36241610738255037
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that stretch out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5348837209302325,
+            0.5609756097560976,
+            0.5476190476190476
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6190476190476191,
+            0.6341463414634146,
+            0.6265060240963854
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6363636363636364,
+            0.6829268292682927,
+            0.6588235294117647
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6136363636363636,
+            0.6585365853658537,
+            0.6352941176470588
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, fluttering gently in the warm breeze.",
+        "score": [
+            0.5227272727272727,
+            0.5609756097560976,
+            0.5411764705882354
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6136363636363636,
+            0.6585365853658537,
+            0.6352941176470588
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with an oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly, its branches reaching out like welcoming arms adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.675,
+            0.6585365853658537,
+            0.6666666666666667
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6136363636363636,
+            0.6585365853658537,
+            0.6352941176470588
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5714285714285714,
+            0.5853658536585366,
+            0.5783132530120483
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6363636363636364,
+            0.6829268292682927,
+            0.6588235294117647
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled tree standing proudly, its branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6190476190476191,
+            0.6341463414634146,
+            0.6265060240963854
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.717391304347826,
+            0.8048780487804879,
+            0.7586206896551724
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.6046511627906976,
+            0.6341463414634146,
+            0.6190476190476191
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5476190476190477,
+            0.5609756097560976,
+            0.5542168674698796
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5365853658536586,
+            0.5365853658536586,
+            0.5365853658536586
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5714285714285714,
+            0.5853658536585366,
+            0.5783132530120483
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with its gnarled branches reaching out like welcoming arms adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6829268292682927,
+            0.6829268292682927,
+            0.6829268292682927
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a proud oak tree standing tall. The tree's gnarled branches stretch out like welcoming arms, adorned with vibrant green leaves that gently flutter in the warm breeze.",
+        "score": [
+            0.5813953488372093,
+            0.6097560975609756,
+            0.5952380952380952
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6136363636363636,
+            0.6585365853658537,
+            0.6352941176470588
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6136363636363636,
+            0.6585365853658537,
+            0.6352941176470588
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5714285714285714,
+            0.5853658536585366,
+            0.5783132530120483
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5581395348837209,
+            0.5853658536585366,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5714285714285714,
+            0.5853658536585366,
+            0.5783132530120483
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a majestic oak tree standing proudly. The tree's gnarled branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a tall oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze. The meadow is bathed in sunlight, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.39285714285714285,
+            0.5365853658536586,
+            0.45360824742268047
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a large oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.5,
+            0.5365853658536586,
+            0.5176470588235295
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is one of tranquility and beauty. The majestic oak tree stands tall and proud, its gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze, creating a soothing and peaceful atmosphere. The meadow itself is bathed in sunlight, with the sun's rays casting a golden glow over the lush green grass. The air is filled with the sweet scent of blooming wildflowers, adding to the serene and idyllic setting.",
+        "score": [
+            0.30434782608695654,
+            0.6829268292682927,
+            0.4210526315789474
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.6428571428571429,
+            0.6585365853658537,
+            0.6506024096385543
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as majestic, with a gnarled oak tree standing proudly. The tree's branches reach out like welcoming arms, and its vibrant green leaves flutter gently in the warm breeze.",
+        "score": [
+            0.5853658536585366,
+            0.5853658536585366,
+            0.5853658536585366
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly, with gnarled branches reaching out like welcoming arms. The tree is adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            0.627906976744186,
+            0.6585365853658537,
+            0.6428571428571429
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "A majestic oak tree stands proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "score": [
+            1.0,
+            0.9512195121951219,
+            0.975
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a majestic oak tree standing proudly at the edge of a sun-drenched meadow, its gnarled branches reaching out like the welcoming arms of an old friend, adorned with vibrant green leaves that flutter gently in the warm breeze.",
+        "prediction": "The scene at the edge of a sun-drenched meadow is described as having a majestic oak tree standing proudly. The tree has gnarled branches that reach out like welcoming arms, and its leaves are vibrant green, gently fluttering in the warm breeze.",
+        "score": [
+            0.5116279069767442,
+            0.5365853658536586,
+            0.5238095238095238
+        ]
+    }
+}

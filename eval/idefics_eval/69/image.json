@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene, so it is not possible to answer that question based on the provided text.",
+        "score": [
+            0.08333333333333333,
+            0.07407407407407407,
+            0.07843137254901962
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene, so it is not possible to answer that question based on the provided text.",
+        "score": [
+            0.08333333333333333,
+            0.07407407407407407,
+            0.07843137254901962
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene. It contains a collection of unrelated texts and excerpts from various sources.",
+        "score": [
+            0.09090909090909091,
+            0.07407407407407407,
+            0.08163265306122448
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene. It contains a collection of unrelated texts and excerpts from various sources.",
+        "score": [
+            0.09090909090909091,
+            0.07407407407407407,
+            0.08163265306122448
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene. It contains a series of unrelated texts and does not mention any swaying objects or scenes.",
+        "score": [
+            0.07692307692307693,
+            0.07407407407407407,
+            0.07547169811320754
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "A sunflower.",
+        "score": [
+            1.0,
+            0.07407407407407407,
+            0.13793103448275862
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a flower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.7777777777777778,
+            0.7777777777777778,
+            0.7777777777777778
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a flower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.7777777777777778,
+            0.7777777777777778,
+            0.7777777777777778
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene, so it is not possible to answer that question based on the provided text.",
+        "score": [
+            0.08333333333333333,
+            0.07407407407407407,
+            0.07843137254901962
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene, so it is not possible to answer that question based on the provided text.",
+        "score": [
+            0.08333333333333333,
+            0.07407407407407407,
+            0.07843137254901962
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower is described as swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.7777777777777778,
+            0.7777777777777778,
+            0.7777777777777778
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document describes a sunflower swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.8148148148148148,
+            0.8148148148148148,
+            0.8148148148148148
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene.",
+        "score": [
+            0.1,
+            0.037037037037037035,
+            0.05405405405405406
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The document does not describe any specific object or scene. It contains a series of unrelated texts and excerpts from different sources.",
+        "score": [
+            0.09090909090909091,
+            0.07407407407407407,
+            0.08163265306122448
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower is described as swaying gently in the warm summer breeze, with vibrant petals that catch the sunlight like a golden crown amidst lush green grass.",
+        "score": [
+            0.7777777777777778,
+            0.7777777777777778,
+            0.7777777777777778
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a yellow sunflower swaying gently in the warm summer breeze, its vibrant petals catching the sunlight like a golden crown amidst the lush green grass.",
+        "prediction": "The sunflower.",
+        "score": [
+            0.5,
+            0.037037037037037035,
+            0.06896551724137931
+        ]
+    }
+}

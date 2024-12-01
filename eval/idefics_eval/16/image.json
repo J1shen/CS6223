@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and cheerful, suggesting a pleasant outdoor setting.",
+        "score": [
+            0.13043478260869565,
+            0.3103448275862069,
+            0.18367346938775508
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in motion, with its mouth open and ears flapping, suggesting it is either barking or panting. The dog is surrounded by a blurred background, which indicates motion blur, likely due to the dog's movement. The dog's fur is light brown, and it appears to be in a grassy area, possibly a field or a park. The grass is green and lush, and there are a few butterflies flying around the dog, adding a sense of natural beauty to the scene. The overall atmosphere of the image is lively and energetic, capturing the joy and",
+        "score": [
+            0.10091743119266056,
+            0.3793103448275862,
+            0.15942028985507248
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in motion, with its legs visible and its mouth open, suggesting it is either barking or panting. The dog has a light brown coat and is running on a grassy field. The background is blurred, focusing attention on the dog. There are three butterflies in the image, two of which are positioned near the dog's head and one near its body. The butterflies are orange and black, with distinct patterns on their wings. The overall scene is bright, indicating it is likely taken during the day, possibly in the morning or afternoon when the sun is out",
+        "score": [
+            0.0990990990990991,
+            0.3793103448275862,
+            0.15714285714285714
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is surrounded by green grass, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies.",
+        "score": [
+            0.17857142857142858,
+            0.3448275862068966,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever dog running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and cheerful, suggesting a pleasant outdoor setting.",
+        "score": [
+            0.12857142857142856,
+            0.3103448275862069,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and lively, suggesting a sunny day.",
+        "score": [
+            0.1323529411764706,
+            0.3103448275862069,
+            0.18556701030927836
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever dog running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and cheerful, suggesting a pleasant outdoor environment.",
+        "score": [
+            0.12857142857142856,
+            0.3103448275862069,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever dog running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and cheerful, suggesting a pleasant outdoor environment.",
+        "score": [
+            0.12857142857142856,
+            0.3103448275862069,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever dog running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and cheerful, suggesting a pleasant outdoor setting.",
+        "score": [
+            0.12857142857142856,
+            0.3103448275862069,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever dog running on a grassy field. The dog is in mid-stride, with its front legs off the ground and its mouth open, suggesting it is either barking or panting. The dog has a light brown coat and is running towards the left side of the image. The background is blurred, focusing attention on the dog and the grassy field. The grass appears lush and green, indicating a healthy and well-maintained environment.\n\nIn the background, there are three butterflies, each with distinct orange and black patterns, flying towards the camera. The butterflies are positioned in a triangular formation, with",
+        "score": [
+            0.10377358490566038,
+            0.3793103448275862,
+            0.16296296296296298
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and appears to be enjoying itself. The dog's fur is golden, and it has a long tail. The background is blurred, but it seems to be a park with green grass and trees. The dog is in the foreground, and it is the main focus of the image.",
+        "score": [
+            0.14516129032258066,
+            0.3103448275862069,
+            0.1978021978021978
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and appears to be enjoying itself. The dog's fur is golden, and it has a long tail. The background is blurred, but it seems to be a park with green grass and trees. The dog is in the foreground, and it is the main focus of the image.",
+        "score": [
+            0.14516129032258066,
+            0.3103448275862069,
+            0.1978021978021978
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and has a joyful expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, focusing attention on the dog.",
+        "score": [
+            0.20454545454545456,
+            0.3103448275862069,
+            0.24657534246575347
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies in the background.",
+        "score": [
+            0.25925925925925924,
+            0.2413793103448276,
+            0.25
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies flying around it.",
+        "score": [
+            0.25925925925925924,
+            0.2413793103448276,
+            0.25
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, but it looks like there are trees and possibly other animals in the park.",
+        "score": [
+            0.15789473684210525,
+            0.3103448275862069,
+            0.20930232558139533
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in motion, with its legs visible and its mouth open, suggesting it is either barking or panting. The dog's fur is light brown, and it appears to be enjoying its time in the park. The background shows a blurred green landscape, indicating that the dog is running in an open area with grass. There are also a few butterflies in the image, which are flying around the dog, adding a sense of movement and liveliness to the scene.",
+        "score": [
+            0.13043478260869565,
+            0.41379310344827586,
+            0.19834710743801653
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and trees, and there are butterflies flying around it. The dog is running towards the camera, and its ears are flapping in the wind.",
+        "score": [
+            0.16071428571428573,
+            0.3103448275862069,
+            0.21176470588235297
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a joyful expression on its face. The dog is surrounded by butterflies, and the background is blurred, emphasizing the focus on the dog.",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a joyful expression on its face. The dog is surrounded by butterflies, and the background is blurred, emphasizing the focus on the dog.",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, but it looks like there are trees and possibly other animals in the park.",
+        "score": [
+            0.15789473684210525,
+            0.3103448275862069,
+            0.20930232558139533
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies around it.",
+        "score": [
+            0.42857142857142855,
+            0.20689655172413793,
+            0.2790697674418604
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a joyful expression on its face. The dog is surrounded by butterflies, and the background is blurred, emphasizing the focus on the dog.",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with a butterfly flying near it.",
+        "score": [
+            0.375,
+            0.20689655172413793,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies around it.",
+        "score": [
+            0.42857142857142855,
+            0.20689655172413793,
+            0.2790697674418604
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with a butterfly flying near it.",
+        "score": [
+            0.375,
+            0.20689655172413793,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with a butterfly flying near it.",
+        "score": [
+            0.375,
+            0.20689655172413793,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever in a park, where the dog is running and playing with a ball. The dog is wearing a collar and has a leash attached to it. The dog is surrounded by green grass and trees, and there are other people and animals in the park.",
+        "score": [
+            0.17647058823529413,
+            0.3103448275862069,
+            0.22500000000000003
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with a butterfly flying near it.",
+        "score": [
+            0.375,
+            0.20689655172413793,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and there are butterflies around it.",
+        "score": [
+            0.3181818181818182,
+            0.2413793103448276,
+            0.27450980392156865
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and trees, and there are butterflies flying around it. The dog is running towards the camera, and its tail is wagging.",
+        "score": [
+            0.16981132075471697,
+            0.3103448275862069,
+            0.2195121951219512
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and there are butterflies flying around it.",
+        "score": [
+            0.20512820512820512,
+            0.27586206896551724,
+            0.23529411764705882
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park, with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever in a park, with the dog running and playing happily. The dog is surrounded by green grass and trees, and there are butterflies flying around. The dog is enjoying its time in the park, and the scene is full of joy and freedom.",
+        "score": [
+            0.20408163265306123,
+            0.3448275862068966,
+            0.25641025641025644
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it is running with its tongue out. The dog is surrounded by green grass and trees. There are also butterflies and a butterfly net in the scene.",
+        "score": [
+            0.18181818181818182,
+            0.27586206896551724,
+            0.2191780821917808
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever in a park, with the dog running and playing. The dog is brown and white, and there are butterflies around it. The dog is wearing a collar.",
+        "score": [
+            0.21212121212121213,
+            0.2413793103448276,
+            0.22580645161290322
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it is running with its tongue out. The dog is surrounded by green grass and trees, and there are butterflies flying around it. The dog is having fun and seems to be enjoying its time in the park.",
+        "score": [
+            0.18181818181818182,
+            0.3448275862068966,
+            0.23809523809523808
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and trees, and there are butterflies flying around it. The dog is running towards the camera, and its tail is wagging.",
+        "score": [
+            0.16981132075471697,
+            0.3103448275862069,
+            0.2195121951219512
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and trees, and there are butterflies flying around it. The dog is running towards the camera, and its ears are flapping in the wind.",
+        "score": [
+            0.16071428571428573,
+            0.3103448275862069,
+            0.21176470588235297
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and trees, and there are butterflies flying around it. The dog is running towards the camera, and its ears are flapping in the wind.",
+        "score": [
+            0.16071428571428573,
+            0.3103448275862069,
+            0.21176470588235297
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it. The dog is in the foreground, and the background is blurred, focusing attention on the dog and butterflies.",
+        "score": [
+            0.24242424242424243,
+            0.27586206896551724,
+            0.2580645161290323
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it. The dog is brown and white, and the butterflies are orange and black. The background is green, likely representing the grass in the park.",
+        "score": [
+            0.23076923076923078,
+            0.3103448275862069,
+            0.2647058823529412
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it. The dog is in the foreground, and the background is blurred, focusing attention on the dog and butterflies.",
+        "score": [
+            0.24242424242424243,
+            0.27586206896551724,
+            0.2580645161290323
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a joyful expression on its face. The dog is surrounded by butterflies, and the background is blurred, emphasizing the focus on the dog.",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a joyful expression on its face. The dog is surrounded by butterflies, and the background is blurred, emphasizing the focus on the dog.",
+        "score": [
+            0.20588235294117646,
+            0.2413793103448276,
+            0.22222222222222224
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in the foreground, and it appears to be in motion, with its mouth open and ears flapping. The dog is running on a grassy area, and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies. The overall scene is bright and cheerful, suggesting a pleasant outdoor setting.",
+        "score": [
+            0.13043478260869565,
+            0.3103448275862069,
+            0.18367346938775508
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and has a joyful expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, focusing attention on the dog.",
+        "score": [
+            0.20454545454545456,
+            0.3103448275862069,
+            0.24657534246575347
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and has a joyful expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, focusing attention on the dog.",
+        "score": [
+            0.20454545454545456,
+            0.3103448275862069,
+            0.24657534246575347
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and has a joyful expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, focusing attention on the dog.",
+        "score": [
+            0.20454545454545456,
+            0.3103448275862069,
+            0.24657534246575347
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever in a park. The dog is running and has a joyful expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, focusing attention on the dog and the butterflies.",
+        "score": [
+            0.2127659574468085,
+            0.3448275862068966,
+            0.2631578947368421
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in the foreground, and its fur is golden. The dog appears to be in motion, with its legs visible and its tail wagging. The background is blurred, but it seems to be a grassy area, possibly a park or a field. There are also butterflies in the image, which are flying around the dog.",
+        "score": [
+            0.13432835820895522,
+            0.3103448275862069,
+            0.18750000000000003
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park. The dog is brown and white, and it has a happy expression on its face. The dog is surrounded by green grass and there are butterflies flying around it. The background is blurred, but it looks like there are trees and more greenery in the park.",
+        "score": [
+            0.16071428571428573,
+            0.3103448275862069,
+            0.21176470588235297
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with a blurred background. The dog is in the foreground, and there are butterflies around it.",
+        "score": [
+            0.2692307692307692,
+            0.2413793103448276,
+            0.2545454545454545
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in motion, with its legs visible and its tail wagging. The dog appears to be enjoying its time in the park, as indicated by its happy expression. The background shows a blurred green landscape, suggesting that the park is lush and green. There are also a few butterflies in the image, which adds a touch of nature and liveliness to the scene. The overall atmosphere of the image is one of joy and freedom, as the dog seems to be enjoying its time in the park.",
+        "score": [
+            0.1111111111111111,
+            0.3793103448275862,
+            0.171875
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The scene describes a golden retriever running in a park with butterflies flying around it.",
+        "score": [
+            0.4,
+            0.20689655172413793,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A majestic golden retriever, its fur glistening like sunlight on water, frolics in the vibrant green grass of the park, occasionally stopping to chase after the fluttering orange butterflies.",
+        "prediction": "The image depicts a golden retriever running in a park. The dog is in the foreground, and its fur is golden. The dog appears to be in motion, with its legs visible and its mouth open, suggesting it is either barking or panting. The background is blurred, focusing attention on the dog. There are three butterflies in the image, two on the left side and one on the right side, all of which are orange and black. The ground is covered with green grass, and the overall scene is bright, indicating it might be daytime.",
+        "score": [
+            0.11578947368421053,
+            0.3793103448275862,
+            0.17741935483870966
+        ]
+    }
+}

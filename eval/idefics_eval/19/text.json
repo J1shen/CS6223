@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Technological progress.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the subtle and beautiful aspects of technological progress that make things more efficient and effective.",
+        "score": [
+            0.42105263157894735,
+            0.8421052631578947,
+            0.5614035087719298
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the process of technological progress and its impact on society. It symbolizes the subtle yet significant changes that occur as a result of advancements in technology, much like how a butterfly's wings reflect the beauty and complexity of nature.",
+        "score": [
+            0.25396825396825395,
+            0.8421052631578947,
+            0.3902439024390244
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used as a metaphor to describe something that is pleasant and enjoyable, but potentially dangerous or problematic.",
+        "score": [
+            0.45714285714285713,
+            0.8421052631578947,
+            0.5925925925925926
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Checkers and solitaire have been replaced by World of Warcraft and FarmVille.",
+        "score": [
+            0.08333333333333333,
+            0.05263157894736842,
+            0.06451612903225808
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used as a metaphor to describe the current state of the world, which is becoming more addictive due to technological progress.",
+        "score": [
+            0.41025641025641024,
+            0.8421052631578947,
+            0.5517241379310346
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used as a metaphor to describe something wonderful that the next 40 years will bring.",
+        "score": [
+            0.48484848484848486,
+            0.8421052631578947,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "One sense of \"normal\" is statistically normal: what everyone else does.",
+        "score": [
+            0.09090909090909091,
+            0.05263157894736842,
+            0.06666666666666667
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document describes a phenomenon as a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            0.7391304347826086,
+            0.8947368421052632,
+            0.8095238095238095
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden as a metaphor for the spread of cigarettes when they first appeared.",
+        "score": [
+            0.53125,
+            0.8947368421052632,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the Internet.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Aikido for Startups.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Aikido for Startups.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the App Store approval process.",
+        "score": [
+            0.5483870967741935,
+            0.8947368421052632,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the situation of Microsoft in the 1990s. It symbolizes the company's struggle to compete with the Rebel Alliance, which consisted of Google and Apple, and the impact of the company's moral stance on its ability to attract top talent.",
+        "score": [
+            0.2537313432835821,
+            0.8947368421052632,
+            0.39534883720930236
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Apple.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The metaphor used to describe the language Lisp.",
+        "score": [
+            0.125,
+            0.05263157894736842,
+            0.07407407407407407
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the Viaweb company when it was starting out.",
+        "score": [
+            0.5161290322580645,
+            0.8421052631578947,
+            0.6399999999999999
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The metaphorical description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used to describe the power continuum of programming languages.",
+        "score": [
+            0.5483870967741935,
+            0.8947368421052632,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the perspective of a programmer using a language that is less powerful than the most powerful language available. This metaphor is used to illustrate the idea that the programmer is not aware of the limitations of their language and is satisfied with it, while those who understand the most powerful language can see the differences in power between languages.",
+        "score": [
+            0.1951219512195122,
+            0.8421052631578947,
+            0.31683168316831684
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the potential consequences of technological progress and the increasing number of addictive things in the world.",
+        "score": [
+            0.41025641025641024,
+            0.8421052631578947,
+            0.5517241379310346
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A phone-sized device that would work as a development machine.",
+        "score": [
+            0.18181818181818182,
+            0.10526315789473684,
+            0.13333333333333333
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A particularly overreaching one with fussy tastes and a rigidly enforced house style.",
+        "score": [
+            0.23076923076923078,
+            0.15789473684210525,
+            0.18749999999999997
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the beauty and elegance of the iPhone.",
+        "score": [
+            0.5151515151515151,
+            0.8947368421052632,
+            0.6538461538461537
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the startup Viaweb, which was founded in the summer of 1995 by the author and his friend Robert Morris.",
+        "score": [
+            0.38095238095238093,
+            0.8421052631578947,
+            0.5245901639344263
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the balance between the freedom of using any programming language and the slow pace of change in programming practices.",
+        "score": [
+            0.38095238095238093,
+            0.8421052631578947,
+            0.5245901639344263
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The metaphorical description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used to describe the idea that programming languages vary in power.",
+        "score": [
+            0.5151515151515151,
+            0.8947368421052632,
+            0.6538461538461537
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is not related to the document. It is a metaphorical expression and not a part of the text.",
+        "score": [
+            0.4473684210526316,
+            0.8947368421052632,
+            0.5964912280701755
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the job listings of a company. The more an IT flavor the job descriptions had, the less dangerous the company was.",
+        "score": [
+            0.3617021276595745,
+            0.8947368421052632,
+            0.5151515151515151
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical representation of a person with misgivings about someone they are considering getting involved with, such as a cofounder, employee, investor, or acquirer.",
+        "score": [
+            0.125,
+            0.15789473684210525,
+            0.13953488372093023
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description is not related to the document.",
+        "score": [
+            0.25,
+            0.10526315789473684,
+            0.14814814814814814
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical representation of the balance between the need for technological progress and the potential negative consequences of it.",
+        "score": [
+            0.15789473684210525,
+            0.15789473684210525,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the best programmers who are attracted to Apple's iPhone.",
+        "score": [
+            0.48484848484848486,
+            0.8421052631578947,
+            0.6153846153846154
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the startup Viaweb, which was founded in the summer of 1995 by Robert Morris and Paul Graham.",
+        "score": [
+            0.4,
+            0.8421052631578947,
+            0.5423728813559322
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the software developed by Viaweb, a startup founded by Paul Graham and Robert Morris in 1995. The software, which allowed end users to build online stores, was considered a novel idea at the time and was named after it.",
+        "score": [
+            0.26153846153846155,
+            0.8947368421052632,
+            0.40476190476190477
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the concept of the Blub paradox in the context of programming languages.",
+        "score": [
+            0.45714285714285713,
+            0.8421052631578947,
+            0.5925925925925926
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Programming languages.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical representation of the delicate and often misunderstood nature of startup advice, which is given by Y Combinator partners to founders.",
+        "score": [
+            0.13636363636363635,
+            0.15789473684210525,
+            0.14634146341463414
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the nature of the world where gaming the system matters less than others, and a few where it hardly matters at all.",
+        "score": [
+            0.35555555555555557,
+            0.8421052631578947,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document does not describe a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden. This description is not related to the content of the document.",
+        "score": [
+            0.5151515151515151,
+            0.8947368421052632,
+            0.6538461538461537
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The metaphorical description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used to describe the state of a company that is thriving and successful, with a bright and promising future ahead.",
+        "score": [
+            0.40476190476190477,
+            0.8947368421052632,
+            0.5573770491803278
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the App Store approval process.",
+        "score": [
+            0.5714285714285714,
+            0.8421052631578947,
+            0.6808510638297872
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphor used to describe a device that programmers like better than the iPhone.",
+        "score": [
+            0.14285714285714285,
+            0.10526315789473684,
+            0.12121212121212122
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used as a metaphor to describe the source code of the Viaweb editor, which was written in Lisp. The editor was a wysiwyg online store builder that ran on the server and yet felt like a desktop application.",
+        "score": [
+            0.288135593220339,
+            0.8947368421052632,
+            0.43589743589743596
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Compilers are described as a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            0.8095238095238095,
+            0.8947368421052632,
+            0.8500000000000001
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the beauty and fragility of a startup.",
+        "score": [
+            0.5333333333333333,
+            0.8421052631578947,
+            0.653061224489796
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A startup.",
+        "score": [
+            0.5,
+            0.05263157894736842,
+            0.09523809523809525
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the complexity and beauty of a startup.",
+        "score": [
+            0.5333333333333333,
+            0.8421052631578947,
+            0.653061224489796
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphor used to describe an interesting problem that is on the leading edge of some technology.",
+        "score": [
+            0.17647058823529413,
+            0.15789473684210525,
+            0.16666666666666669
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe startup founders.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is described as a metaphor for the App Store approval process.",
+        "score": [
+            0.6071428571428571,
+            0.8947368421052632,
+            0.7234042553191489
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description is of a new 27\" iMac.",
+        "score": [
+            0.375,
+            0.15789473684210525,
+            0.22222222222222218
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the power of learning Latin.",
+        "score": [
+            0.5714285714285714,
+            0.8421052631578947,
+            0.6808510638297872
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the power of a programming language, specifically Lisp, in the context of the essay.",
+        "score": [
+            0.43243243243243246,
+            0.8421052631578947,
+            0.5714285714285715
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Macros, introduced by Lisp in the mid 1960s, are still terra incognita.",
+        "score": [
+            0.08333333333333333,
+            0.05263157894736842,
+            0.06451612903225808
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the subtle and potentially dangerous nature of bias in a selection process.",
+        "score": [
+            0.45714285714285713,
+            0.8421052631578947,
+            0.5925925925925926
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphor used to describe a beautiful and delicate situation or experience.",
+        "score": [
+            0.16666666666666666,
+            0.10526315789473684,
+            0.12903225806451615
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the detection of bias in a selection process without knowing anything about the applicant pool.",
+        "score": [
+            0.4473684210526316,
+            0.8947368421052632,
+            0.5964912280701755
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A group of 10 people within a large organization is described as a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            0.6206896551724138,
+            0.9473684210526315,
+            0.75
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A trap set by evil companies for the desperate and the foolish.",
+        "score": [
+            0.16666666666666666,
+            0.10526315789473684,
+            0.12903225806451615
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            0.85,
+            0.8947368421052632,
+            0.8717948717948718
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description is of a butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            0.85,
+            0.8947368421052632,
+            0.8717948717948718
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the Viaweb editor, which was written in Lisp.",
+        "score": [
+            0.5161290322580645,
+            0.8421052631578947,
+            0.6399999999999999
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "Lisp code.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the founders who are able to successfully navigate the challenges of starting a startup.",
+        "score": [
+            0.43243243243243246,
+            0.8421052631578947,
+            0.5714285714285715
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document describes a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden as a metaphor for the ideal state of a startup.",
+        "score": [
+            0.5666666666666667,
+            0.8947368421052632,
+            0.6938775510204083
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is described as a metaphor to illustrate the importance of listening and being open to new ideas and perspectives.",
+        "score": [
+            0.4722222222222222,
+            0.8947368421052632,
+            0.6181818181818182
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            1.0,
+            0.8947368421052632,
+            0.9444444444444444
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description is of a painting, not a butterfly.",
+        "score": [
+            0.3333333333333333,
+            0.15789473684210525,
+            0.21428571428571427
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical description of a beautiful and graceful object, possibly representing something pleasant and captivating.",
+        "score": [
+            0.2,
+            0.15789473684210525,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the potential for a new idea or innovation to emerge and flourish in a competitive environment.",
+        "score": [
+            0.41025641025641024,
+            0.8421052631578947,
+            0.5517241379310346
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical description of something beautiful and graceful, possibly representing a pleasant and enjoyable experience or situation.",
+        "score": [
+            0.17647058823529413,
+            0.15789473684210525,
+            0.16666666666666669
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document does not provide a description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            0.68,
+            0.8947368421052632,
+            0.7727272727272727
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical description of a startup company.",
+        "score": [
+            0.42857142857142855,
+            0.15789473684210525,
+            0.23076923076923078
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphor used to describe a startup.",
+        "score": [
+            0.2857142857142857,
+            0.10526315789473684,
+            0.15384615384615385
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used as a metaphor to describe the process of coming up with good startup ideas. The author suggests that finding a good startup idea is like discovering a beautiful butterfly in a garden, and that it requires a certain level of curiosity and a willingness to explore and discover new things.",
+        "score": [
+            0.2361111111111111,
+            0.8947368421052632,
+            0.3736263736263737
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "score": [
+            1.0,
+            0.8947368421052632,
+            0.9444444444444444
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A painting.",
+        "score": [
+            0.5,
+            0.05263157894736842,
+            0.09523809523809525
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is used as a metaphor to describe the target of a programming language design.",
+        "score": [
+            0.5,
+            0.8947368421052632,
+            0.6415094339622641
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical description of something beautiful and graceful.",
+        "score": [
+            0.25,
+            0.10526315789473684,
+            0.14814814814814814
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the world becoming more addictive due to technological progress.",
+        "score": [
+            0.5,
+            0.8421052631578947,
+            0.6274509803921569
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the beauty and tranquility of nature, contrasting with the addictive nature of technology and the world.",
+        "score": [
+            0.41025641025641024,
+            0.8421052631578947,
+            0.5517241379310346
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document does not describe a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden. This description is not related to the content of the document.",
+        "score": [
+            0.5151515151515151,
+            0.8947368421052632,
+            0.6538461538461537
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the Internet.",
+        "score": [
+            0.64,
+            0.8421052631578947,
+            0.7272727272727272
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe something beautiful and serene.",
+        "score": [
+            0.5925925925925926,
+            0.8421052631578947,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the potential for a startup to be successful and thrive, much like the butterfly in the garden.",
+        "score": [
+            0.4,
+            0.8421052631578947,
+            0.5423728813559322
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the beauty and fragility of a startup that has managed to achieve success and growth without sacrificing its core values and principles.",
+        "score": [
+            0.35555555555555557,
+            0.8421052631578947,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is described as a vivid and picturesque scene, often used to evoke a sense of beauty and tranquility.",
+        "score": [
+            0.4857142857142857,
+            0.8947368421052632,
+            0.6296296296296297
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is described as a metaphorical representation of a successful startup.",
+        "score": [
+            0.6296296296296297,
+            0.8947368421052632,
+            0.7391304347826088
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to contrast the beauty and elegance of the App Store's early days with the negative impact it has had on Apple's reputation with programmers.",
+        "score": [
+            0.34,
+            0.8947368421052632,
+            0.4927536231884058
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is described as a metaphorical representation of something beautiful and serene, often used to contrast with the more intense and chaotic aspects of life.",
+        "score": [
+            0.4146341463414634,
+            0.8947368421052632,
+            0.5666666666666667
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical description of something beautiful and graceful, used to convey a sense of elegance and serenity.",
+        "score": [
+            0.17647058823529413,
+            0.15789473684210525,
+            0.16666666666666669
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The document does not describe a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden. This phrase is not present in the text.",
+        "score": [
+            0.5666666666666667,
+            0.8947368421052632,
+            0.6938775510204083
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A metaphorical description of something beautiful and graceful, likely representing a pleasant and serene scene.",
+        "score": [
+            0.2,
+            0.15789473684210525,
+            0.17647058823529413
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "YC's most successful companies.",
+        "score": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the App Store approval process.",
+        "score": [
+            0.5483870967741935,
+            0.8947368421052632,
+            0.6799999999999999
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The description of a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the beauty and elegance of the iPhone.",
+        "score": [
+            0.5151515151515151,
+            0.8947368421052632,
+            0.6538461538461537
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A phone-sized device that would work as a development machine.",
+        "score": [
+            0.18181818181818182,
+            0.10526315789473684,
+            0.13333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "A phone-sized device that would work as a development machine.",
+        "score": [
+            0.18181818181818182,
+            0.10526315789473684,
+            0.13333333333333333
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "There is a delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden.",
+        "prediction": "The delicate butterfly with iridescent blue wings fluttering gracefully among the vibrant blooms of a sunlit garden is a metaphor used to describe the beauty and elegance of the programming language Lisp.",
+        "score": [
+            0.5,
+            0.8421052631578947,
+            0.6274509803921569
+        ]
+    }
+}

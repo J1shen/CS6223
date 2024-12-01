@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.23529411764705882,
+            0.36363636363636365,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.07142857142857142,
+            0.36363636363636365,
+            0.11940298507462686
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The secret weapon Eric Raymond has written an essay called \"How to Become a Hacker,\" and in it, among other things, he tells would-be hackers what languages they should learn.\"",
+        "score": [
+            0.08108108108108109,
+            0.2727272727272727,
+            0.125
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The fatal pinch is default dead + slow growth + not enough time to fix it.\"",
+        "score": [
+            0.15,
+            0.2727272727272727,
+            0.19354838709677416
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, \nJames Bracy, Gabor Cselle,\nPatrick Collison, Jason Freedman, John Gruber, Joe Hewitt, Jessica Livingston,\nRobert Morris, Teng Siong Ong, Nikhil Pandit, Savraj Singh, and Jared Tame for reading drafts of this.\"",
+        "score": [
+            0.044444444444444446,
+            0.18181818181818182,
+            0.07142857142857142
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef.\"",
+        "score": [
+            0.5882352941176471,
+            0.9090909090909091,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world of startups is so unpredictable that you need to be able to modify your dreams on the fly.\"",
+        "score": [
+            0.15384615384615385,
+            0.36363636363636365,
+            0.21621621621621623
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.06666666666666667,
+            0.18181818181818182,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.06666666666666667,
+            0.18181818181818182,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"Thanks to Sam Altman, Trevor Blackwell, Ross Boucher, Aaron Iba, Abby Kirigin, Ivan Kirigin, Jessica Livingston, and Robert Morris for reading drafts of this.\"",
+        "score": [
+            0.06666666666666667,
+            0.18181818181818182,
+            0.0975609756097561
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world of startups is so unpredictable that you need to be able to modify your dreams on the fly.\"",
+        "score": [
+            0.15384615384615385,
+            0.36363636363636365,
+            0.21621621621621623
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"I'm designing a new dialect of Lisp.\"",
+        "score": [
+            0.14285714285714285,
+            0.18181818181818182,
+            0.16
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.23529411764705882,
+            0.36363636363636365,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.23529411764705882,
+            0.36363636363636365,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The way Apple runs the App Store has harmed their reputation with programmers more than anything else they've ever done.\"",
+        "score": [
+            0.1111111111111111,
+            0.2727272727272727,
+            0.15789473684210525
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral ecosystem.\"",
+        "score": [
+            0.6470588235294118,
+            1.0,
+            0.7857142857142858
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.23529411764705882,
+            0.36363636363636365,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is: \"The world is more addictive than it was 40 years ago.\"",
+        "score": [
+            0.23529411764705882,
+            0.36363636363636365,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The world is more addictive than it was 40 years ago. And unless the forms of technological progress that produced these things are subject to different laws than technological progress in general, the world will get more addictive in the next 40 years than it did in the last 40.\"",
+        "score": [
+            0.07142857142857142,
+            0.36363636363636365,
+            0.11940298507462686
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "The Great Barrier Reef is the world's largest coral ecosystem.",
+        "prediction": "The sentence in the picture is:\n\n\"The Great Barrier Reef is the world's largest coral reef ecosystem.\"",
+        "score": [
+            0.6111111111111112,
+            1.0,
+            0.7586206896551725
+        ]
+    }
+}

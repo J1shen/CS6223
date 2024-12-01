@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green feathers on its back and wings, a white patch on its chest, and a long, thin beak. It is hovering above a cluster of vibrant orange flowers, its wings are spread wide, and it is in mid-flight, possibly feeding on nectar from the flowers.",
+        "score": [
+            0.2549019607843137,
+            0.3939393939393939,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green and blue feathers on its back, a white patch on its chest, and a long, thin beak. It is hovering above a cluster of vibrant orange flowers, its wings are spread wide, and it appears to be feeding on the nectar of the flowers.",
+        "score": [
+            0.28,
+            0.42424242424242425,
+            0.3373493975903614
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green feathers on its back and wings, a white patch on its chest, and a long, thin beak. It is perched on an orange flower, with its wings spread slightly, and its long beak is extended towards the flower.",
+        "score": [
+            0.1590909090909091,
+            0.21212121212121213,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has its wings spread wide as it hovers above the vibrant orange flowers. It is likely feeding on the nectar from the flowers, as hummingbirds are known to be attracted to bright colors and sweet nectar.",
+        "score": [
+            0.23076923076923078,
+            0.2727272727272727,
+            0.24999999999999994
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has its wings spread wide as it hovers above the vibrant orange flowers. It is likely feeding on the nectar from the flowers, as hummingbirds are known to be attracted to bright colors and sweet nectar.",
+        "score": [
+            0.23076923076923078,
+            0.2727272727272727,
+            0.24999999999999994
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green feathers on its back and wings, a white patch on its chest, and a long, thin beak. It is perched on an orange flower, with its wings spread wide, and its long beak is extended towards the flower.",
+        "score": [
+            0.1590909090909091,
+            0.21212121212121213,
+            0.18181818181818182
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has its wings spread wide as it hovers above the vibrant orange flowers.",
+        "score": [
+            0.4375,
+            0.21212121212121213,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has its wings spread wide as it hovers above the vibrant orange flowers.",
+        "score": [
+            0.4375,
+            0.21212121212121213,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has its wings spread wide as it hovers above the vibrant orange flowers.",
+        "score": [
+            0.4375,
+            0.21212121212121213,
+            0.2857142857142857
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has its long, thin beak extended forward as it hovers above the vibrant orange flowers. Its wings are spread wide, and it appears to be in mid-flight, possibly feeding on nectar from the flowers.",
+        "score": [
+            0.23684210526315788,
+            0.2727272727272727,
+            0.2535211267605634
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are fast-moving and beat at a rapid pace, allowing it to hover in mid-air. The hummingbird is perched on a bright orange flower, and it is drinking nectar from the flower's center.",
+        "score": [
+            0.18032786885245902,
+            0.3333333333333333,
+            0.23404255319148934
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and a green and blue iridescent sheen on its feathers. It is hovering above a cluster of vibrant orange flowers, its wings beating rapidly as it sips nectar from the blossoms.",
+        "score": [
+            0.37209302325581395,
+            0.48484848484848486,
+            0.4210526315789474
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. It is hovering above a cluster of vibrant orange flowers, its wings beating rapidly as it sips nectar from the blossoms.",
+        "score": [
+            0.35555555555555557,
+            0.48484848484848486,
+            0.41025641025641024
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are long and narrow, and it has a long, thin beak. The hummingbird is hovering above a cluster of vibrant orange flowers, and it is drinking nectar from one of the flowers. Its long beak is inserted into the flower, and it is sucking up the nectar. The hummingbird's wings are beating rapidly as it hovers in place.",
+        "score": [
+            0.19480519480519481,
+            0.45454545454545453,
+            0.2727272727272727
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended towards one of the flowers, and it appears to be feeding on the nectar.",
+        "score": [
+            0.2777777777777778,
+            0.45454545454545453,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.28846153846153844,
+            0.45454545454545453,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above a cluster of vibrant orange flowers, its wings beating rapidly as it searches for nectar.",
+        "score": [
+            0.36363636363636365,
+            0.36363636363636365,
+            0.36363636363636365
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended towards the flowers, and it is likely feeding on the nectar from the flowers.",
+        "score": [
+            0.2777777777777778,
+            0.45454545454545453,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended towards the flowers, and it is likely feeding on the nectar from the blossoms.",
+        "score": [
+            0.2777777777777778,
+            0.45454545454545453,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and wings that beat rapidly as it hovers above the vibrant orange flowers. It is collecting nectar from the flowers, which is its primary source of food.",
+        "score": [
+            0.28205128205128205,
+            0.3333333333333333,
+            0.3055555555555555
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and wings that beat rapidly as it hovers above the vibrant orange flowers. It is collecting nectar from the flowers, using its long beak to reach deep into the blossoms.",
+        "score": [
+            0.2857142857142857,
+            0.36363636363636365,
+            0.32
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and wings that beat rapidly as it hovers above the vibrant orange flowers. It is collecting nectar from the flowers by inserting its beak into the flower's center and sucking up the sweet liquid.",
+        "score": [
+            0.2553191489361702,
+            0.36363636363636365,
+            0.29999999999999993
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and a green and blue iridescent sheen on its feathers. It is hovering above a cluster of vibrant orange flowers, its wings beating rapidly as it sips nectar from the blossoms.",
+        "score": [
+            0.37209302325581395,
+            0.48484848484848486,
+            0.4210526315789474
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and a green and blue iridescent sheen on its feathers. It is hovering above a cluster of vibrant orange flowers, its wings beating rapidly as it sips nectar from the blossoms.",
+        "score": [
+            0.37209302325581395,
+            0.48484848484848486,
+            0.4210526315789474
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is likely feeding on the nectar from the flowers.",
+        "score": [
+            0.3125,
+            0.30303030303030304,
+            0.3076923076923077
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a green crown, and it has a long, thin beak. The hummingbird is hovering above vibrant orange flowers, its wings beating rapidly as it sips nectar from the blossoms.",
+        "score": [
+            0.2222222222222222,
+            0.36363636363636365,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is likely feeding on the nectar from the flowers.",
+        "score": [
+            0.3125,
+            0.30303030303030304,
+            0.3076923076923077
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a blue throat patch. The bird's wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended downward, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.22058823529411764,
+            0.45454545454545453,
+            0.29702970297029707
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green feathers on its back and chest, with a white belly and a long, thin beak. It has a long, slender body and wings that beat rapidly as it hovers above the vibrant orange flowers. The hummingbird is drinking nectar from the flowers, using its long beak to reach deep into the flower's center.",
+        "score": [
+            0.2,
+            0.36363636363636365,
+            0.25806451612903225
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are fast-moving and beat at a rapid pace, allowing it to hover in mid-air. The hummingbird is perched on a bright orange flower, its long beak inserted into the flower's center as it feeds on nectar.",
+        "score": [
+            0.16923076923076924,
+            0.3333333333333333,
+            0.22448979591836735
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a vibrant green and blue body with a long, thin beak. It is hovering above a cluster of bright orange flowers, its wings beating rapidly as it searches for nectar.",
+        "score": [
+            0.3235294117647059,
+            0.3333333333333333,
+            0.3283582089552239
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended towards the flowers, and it is likely feeding on the nectar.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green body with a blue head and a long, thin beak. It is hovering above vibrant orange flowers, sipping nectar from the flowers with its long beak.",
+        "score": [
+            0.375,
+            0.36363636363636365,
+            0.3692307692307692
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is drinking nectar from the flowers.",
+        "score": [
+            0.3448275862068966,
+            0.30303030303030304,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is drinking nectar from the flowers.",
+        "score": [
+            0.3448275862068966,
+            0.30303030303030304,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a blue crown and a red patch on its throat. The hummingbird's wings are a blur as it hovers above the vibrant orange flowers, its long, thin beak extended towards the nectar within.",
+        "score": [
+            0.18181818181818182,
+            0.30303030303030304,
+            0.22727272727272727
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended towards the flowers, and it is likely feeding on the nectar.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a small, iridescent bird with a long, slender beak and a rapid wingbeat. It hovers above vibrant orange flowers, sipping nectar from the flowers with its long, extendable tongue.",
+        "score": [
+            0.38235294117647056,
+            0.3939393939393939,
+            0.38805970149253727
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is hovering above vibrant orange flowers. It has a long, slender body with a green back and a white belly. Its wings are beating rapidly, creating a blur of motion as it hovers in place. The hummingbird's long, thin beak is extended towards the flowers, and it is likely sipping nectar from the blossoms.",
+        "score": [
+            0.1896551724137931,
+            0.3333333333333333,
+            0.24175824175824173
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a small, iridescent bird with a long, slender beak and a rapid wingbeat. It is hovering above vibrant orange flowers, and it is likely feeding on the nectar from the flowers.",
+        "score": [
+            0.3333333333333333,
+            0.36363636363636365,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a small, iridescent bird with a long, slender beak and a rapid wingbeat. It is hovering above vibrant orange flowers, and it is likely feeding on the nectar from the flowers.",
+        "score": [
+            0.3333333333333333,
+            0.36363636363636365,
+            0.34782608695652173
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is hovering above vibrant orange flowers, its iridescent feathers glistening in the sunlight. It is sipping nectar from the flowers, its long, thin beak inserted into the flower's center. The hummingbird's wings are beating rapidly, creating a blur of motion as it hovers in place.",
+        "score": [
+            0.24,
+            0.36363636363636365,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green body with a blue head and a white belly. It has a long, thin beak and its wings are spread wide as it hovers above the vibrant orange flowers. The hummingbird is drinking nectar from the flowers.",
+        "score": [
+            0.2558139534883721,
+            0.3333333333333333,
+            0.2894736842105263
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is drinking nectar from the flowers.",
+        "score": [
+            0.3448275862068966,
+            0.30303030303030304,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a blue crown and a red patch on its throat. The hummingbird's wings are a blur as it hovers above the vibrant orange flowers, its long, thin beak extended towards the nectar.",
+        "score": [
+            0.18518518518518517,
+            0.30303030303030304,
+            0.22988505747126436
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a blue throat patch. The bird's wings are long and narrow, and it has a long, thin beak. In the moment captured, the hummingbird is perched on an orange flower, its wings spread wide as it hovers in mid-air.",
+        "score": [
+            0.12121212121212122,
+            0.24242424242424243,
+            0.16161616161616163
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is drinking nectar from the flowers.",
+        "score": [
+            0.3448275862068966,
+            0.30303030303030304,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is hovering above vibrant orange flowers, its iridescent feathers glistening in the sunlight. It is sipping nectar from the flowers, its long, thin beak inserted into the flower's center. The hummingbird's wings are beating rapidly, creating a blur of motion as it hovers in place.",
+        "score": [
+            0.24,
+            0.36363636363636365,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird is hovering above vibrant orange flowers, its iridescent feathers glistening in the sunlight. It is sipping nectar from the flowers, its long, thin beak inserted into the flower's center. The hummingbird's wings are beating rapidly, creating a blur of motion as it hovers in place.",
+        "score": [
+            0.24,
+            0.36363636363636365,
+            0.2891566265060241
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a small, iridescent bird with a long, slender beak and a rapid wingbeat. It hovers above vibrant orange flowers, sipping nectar from the flowers with its long beak.",
+        "score": [
+            0.3939393939393939,
+            0.3939393939393939,
+            0.3939393939393939
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "A tiny hummingbird looks like a small, iridescent bird with a long, thin beak and wings that beat rapidly as it hovers above vibrant orange flowers. In that moment, the hummingbird is likely feeding on nectar from the flowers, using its long beak to reach deep into the flower's center.",
+        "score": [
+            0.2549019607843137,
+            0.3939393939393939,
+            0.30952380952380953
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is drinking nectar from the flowers.",
+        "score": [
+            0.3448275862068966,
+            0.30303030303030304,
+            0.32258064516129037
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and a green and blue iridescent sheen on its feathers. It is hovering above vibrant orange flowers, its wings beating rapidly as it sips nectar from the blossoms.",
+        "score": [
+            0.325,
+            0.3939393939393939,
+            0.35616438356164376
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in the sunlight. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.34210526315789475,
+            0.3939393939393939,
+            0.3661971830985915
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended downward, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.28846153846153844,
+            0.45454545454545453,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a red patch on its throat. The bird's wings are a blur as it hovers above the vibrant orange flowers, its long, thin beak extended as it sips nectar from the blossoms.",
+        "score": [
+            0.20689655172413793,
+            0.36363636363636365,
+            0.26373626373626374
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a red patch on its throat. The bird's wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.21739130434782608,
+            0.45454545454545453,
+            0.29411764705882354
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green feathers on its back and wings, with a white belly and a long, thin beak. It is perched on an orange flower, its wings are spread wide, and it is drinking nectar from the flower.",
+        "score": [
+            0.21951219512195122,
+            0.2727272727272727,
+            0.24324324324324323
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a blue throat patch. The bird's wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.22388059701492538,
+            0.45454545454545453,
+            0.3
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended forward, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.28846153846153844,
+            0.45454545454545453,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended forward, and it appears to be feeding on the nectar from one of the flowers.",
+        "score": [
+            0.2777777777777778,
+            0.45454545454545453,
+            0.3448275862068966
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has iridescent green feathers on its back and wings, with a white patch on its chest and a blue patch on its head. It has a long, thin beak and is perched on an orange flower. The hummingbird is flapping its wings rapidly as it hovers in the air, and its long tongue is extended towards the flower's nectar.",
+        "score": [
+            0.14285714285714285,
+            0.2727272727272727,
+            0.18749999999999997
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is drinking nectar from one of the flowers.",
+        "score": [
+            0.3225806451612903,
+            0.30303030303030304,
+            0.3125
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak. Its feathers are a mix of green, blue, and white, with a white belly and a green back. The hummingbird is hovering above a cluster of vibrant orange flowers, its wings beating rapidly as it sips nectar from the flowers.",
+        "score": [
+            0.28846153846153844,
+            0.45454545454545453,
+            0.3529411764705882
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a slender body with a long, pointed beak and iridescent feathers that shimmer in shades of green, blue, and purple. Its wings are beating rapidly as it hovers above the vibrant orange flowers, sipping nectar from the blossoms.",
+        "score": [
+            0.30952380952380953,
+            0.3939393939393939,
+            0.3466666666666667
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green back and a white belly. Its head is adorned with a black cap and a blue throat patch. The bird's wings are a blur as it hovers above the vibrant orange flowers, its long, thin beak extended as it sips nectar from the blossoms.",
+        "score": [
+            0.21428571428571427,
+            0.36363636363636365,
+            0.2696629213483146
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a green and blue body with a long, thin beak. It is hovering above vibrant orange flowers, and it is likely feeding on the nectar from the flowers.",
+        "score": [
+            0.3125,
+            0.30303030303030304,
+            0.3076923076923077
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's beak is long and pointed, and it is likely sipping nectar from one of the flowers.",
+        "score": [
+            0.3,
+            0.45454545454545453,
+            0.3614457831325301
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from the flowers.",
+        "score": [
+            0.29411764705882354,
+            0.45454545454545453,
+            0.35714285714285715
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A tiny hummingbird, shimmering with emerald and sapphire feathers, hovers gracefully above a cluster of vibrant orange flowers, delicately sipping nectar while the sun casts a golden glow on the dew-kissed petals.",
+        "prediction": "The tiny hummingbird has a long, slender body with a green and blue iridescent sheen. Its wings are spread wide, and it is hovering above a cluster of vibrant orange flowers. The hummingbird's long, thin beak is extended, and it appears to be feeding on the nectar from one of the flowers.",
+        "score": [
+            0.2830188679245283,
+            0.45454545454545453,
+            0.3488372093023256
+        ]
+    }
+}

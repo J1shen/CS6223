@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly overhead.",
+        "score": [
+            0.7368421052631579,
+            0.6666666666666666,
+            0.7
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly overhead.",
+        "score": [
+            0.7368421052631579,
+            0.6666666666666666,
+            0.7
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly overhead.",
+        "score": [
+            0.7368421052631579,
+            0.6666666666666666,
+            0.7
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly.",
+        "score": [
+            0.7567567567567568,
+            0.6666666666666666,
+            0.7088607594936708
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly overhead.",
+        "score": [
+            0.7368421052631579,
+            0.6666666666666666,
+            0.7
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly overhead.",
+        "score": [
+            0.7368421052631579,
+            0.6666666666666666,
+            0.7
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly overhead.",
+        "score": [
+            0.7368421052631579,
+            0.6666666666666666,
+            0.7
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at a blooming cherry blossom tree. The delicate pink petals of the tree are swirling softly overhead.",
+        "score": [
+            0.6666666666666666,
+            0.6666666666666666,
+            0.6666666666666666
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly in the breeze.",
+        "score": [
+            0.8205128205128205,
+            0.7619047619047619,
+            0.7901234567901233
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree above her, its delicate pink petals swirling softly in the breeze.",
+        "score": [
+            0.775,
+            0.7380952380952381,
+            0.7560975609756099
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly in the breeze.",
+        "score": [
+            0.8205128205128205,
+            0.7619047619047619,
+            0.7901234567901233
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly in the breeze.",
+        "score": [
+            0.8205128205128205,
+            0.7619047619047619,
+            0.7901234567901233
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            0.8888888888888888,
+            0.7619047619047619,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree above her, with its delicate pink petals swirling softly in the breeze. The woman's serene and contemplative expression suggests a moment of peace and reflection, as she enjoys the beauty of nature.",
+        "score": [
+            0.45588235294117646,
+            0.7380952380952381,
+            0.5636363636363637
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly in the air.",
+        "score": [
+            0.6808510638297872,
+            0.7619047619047619,
+            0.7191011235955055
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at a blooming cherry blossom tree above her, with its delicate pink petals swirling softly.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly. The woman appears to be lost in thought, enjoying the serene and peaceful atmosphere of the park.",
+        "score": [
+            0.5333333333333333,
+            0.7619047619047619,
+            0.6274509803921569
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman in a flowing blue dress sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background.",
+        "score": [
+            0.7,
+            0.8333333333333334,
+            0.7608695652173915
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly in the breeze. The woman's serene and contemplative expression suggests a moment of peace and reflection.",
+        "score": [
+            0.5333333333333333,
+            0.7619047619047619,
+            0.6274509803921569
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly around her.",
+        "score": [
+            0.6976744186046512,
+            0.7142857142857143,
+            0.7058823529411765
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly in the breeze. The woman appears to be lost in thought, enjoying the serene and peaceful atmosphere of the park.",
+        "score": [
+            0.5161290322580645,
+            0.7619047619047619,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly in the breeze. The woman appears to be lost in thought, enjoying the serene and peaceful atmosphere of the park.",
+        "score": [
+            0.5079365079365079,
+            0.7619047619047619,
+            0.6095238095238095
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The woman's wrinkled hands gently hold the cup, and the delicate pink petals of the cherry blossoms swirl softly around her.",
+        "score": [
+            0.5555555555555556,
+            0.7142857142857143,
+            0.6250000000000001
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.6346153846153846,
+            0.7857142857142857,
+            0.7021276595744681
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly around her.",
+        "score": [
+            0.6976744186046512,
+            0.7142857142857143,
+            0.7058823529411765
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly in the breeze. The image evokes a sense of tranquility and contemplation, as the woman seems to be lost in thought, enjoying the serene beauty of nature.",
+        "score": [
+            0.4507042253521127,
+            0.7619047619047619,
+            0.5663716814159292
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly around her, and the woman seems to be lost in thought, enjoying the serene and peaceful atmosphere of the park.",
+        "score": [
+            0.4918032786885246,
+            0.7142857142857143,
+            0.5825242718446602
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and picturesque atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the wind.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and picturesque atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree above her. The delicate pink petals of the tree are swirling softly in the background, creating a serene and picturesque atmosphere.",
+        "score": [
+            0.5576923076923077,
+            0.6904761904761905,
+            0.6170212765957447
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.6346153846153846,
+            0.7857142857142857,
+            0.7021276595744681
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly around her, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.6470588235294118,
+            0.7857142857142857,
+            0.7096774193548386
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly in the breeze, creating a serene and picturesque moment.",
+        "score": [
+            0.6346153846153846,
+            0.7857142857142857,
+            0.7021276595744681
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree swirl softly around her, creating a serene and picturesque moment.",
+        "score": [
+            0.64,
+            0.7619047619047619,
+            0.6956521739130435
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7272727272727273,
+            0.7619047619047619,
+            0.7441860465116279
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly.",
+        "score": [
+            0.7441860465116279,
+            0.7619047619047619,
+            0.7529411764705882
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly.",
+        "score": [
+            0.7142857142857143,
+            0.7142857142857143,
+            0.7142857142857143
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at a blooming cherry blossom tree above her, with its delicate pink petals swirling softly.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree above her, with its delicate pink petals swirling softly. The woman is lost in thought, enjoying the serene and peaceful atmosphere of the park.",
+        "score": [
+            0.5166666666666667,
+            0.7380952380952381,
+            0.607843137254902
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree above her, with its delicate pink petals swirling softly.",
+        "score": [
+            0.6888888888888889,
+            0.7380952380952381,
+            0.7126436781609196
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at a blooming cherry blossom tree with delicate pink petals swirling softly above her.",
+        "score": [
+            0.6590909090909091,
+            0.6904761904761905,
+            0.6744186046511628
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly. The woman is lost in thought, and the serene atmosphere of the park and the beauty of the cherry blossoms create a peaceful and contemplative setting.",
+        "score": [
+            0.45714285714285713,
+            0.7619047619047619,
+            0.5714285714285714
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree above her, with its delicate pink petals swirling softly.",
+        "score": [
+            0.6888888888888889,
+            0.7380952380952381,
+            0.7126436781609196
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at a blooming cherry blossom tree above her, with its delicate pink petals swirling softly.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She is gazing thoughtfully at the blooming cherry blossom tree overhead, with its delicate pink petals swirling softly. The woman is lost in thought, taking in the beauty of nature and the tranquility of the moment.",
+        "score": [
+            0.5161290322580645,
+            0.7619047619047619,
+            0.6153846153846153
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            0.8888888888888888,
+            0.7619047619047619,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly in the breeze.",
+        "score": [
+            0.8205128205128205,
+            0.7619047619047619,
+            0.7901234567901233
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree above her, its delicate pink petals swirling softly.",
+        "score": [
+            0.8378378378378378,
+            0.7380952380952381,
+            0.7848101265822786
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and picturesque setting.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the scene.",
+        "score": [
+            0.6666666666666666,
+            0.7142857142857143,
+            0.689655172413793
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "The scene described in detail involves a silver-haired woman sitting on a weathered park bench, cradling a steaming cup of tea, and gazing thoughtfully at the blooming cherry blossom tree overhead. The delicate pink petals of the tree are swirling softly in the background, creating a serene and peaceful atmosphere.",
+        "score": [
+            0.5882352941176471,
+            0.7142857142857143,
+            0.6451612903225806
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman sits on a weathered park bench, cradling a steaming cup of tea in her wrinkled hands. She gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            0.8888888888888888,
+            0.7619047619047619,
+            0.8205128205128205
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly",
+        "prediction": "A silver-haired woman in a flowing blue dress sits on a weathered park bench, her wrinkled hands gently cradling a steaming cup of tea as she gazes thoughtfully at the blooming cherry blossom tree overhead, its delicate pink petals swirling softly.",
+        "score": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "Huggingface_len_1000_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_1000_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like it is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.6818181818181818,
+            0.5172413793103449,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_1000_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like it is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.6818181818181818,
+            0.5172413793103449,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_1000_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like it is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.6818181818181818,
+            0.5172413793103449,
+            0.5882352941176471
+        ]
+    },
+    "Huggingface_len_11333_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of bright yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_11333_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of bright yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_11333_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, golden coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5,
+            0.3793103448275862,
+            0.4313725490196078
+        ]
+    },
+    "Huggingface_len_11333_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, golden coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5,
+            0.3793103448275862,
+            0.4313725490196078
+        ]
+    },
+    "Huggingface_len_11333_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_11333_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_11333_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, golden coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5,
+            0.3793103448275862,
+            0.4313725490196078
+        ]
+    },
+    "Huggingface_len_11333_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_11333_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_14778_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The document does not provide any information about a golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon. The document contains a collection of essays and articles on various topics, including technology, startups, and programming languages.",
+        "score": [
+            0.3023255813953488,
+            0.4482758620689655,
+            0.36111111111111105
+        ]
+    },
+    "Huggingface_len_14778_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of bright yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_14778_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_14778_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_14778_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_14778_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_14778_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_14778_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_14778_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_18222_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever with a glossy coat is running and playing in a field of wildflowers on a warm afternoon. The dog is surrounded by tall grass and colorful flowers, and the sunlight is shining brightly, making the dog's coat look even more shiny and healthy. The dog is having a great time, and its tail is wagging happily as it chases after the flowers.",
+        "score": [
+            0.25757575757575757,
+            0.5862068965517241,
+            0.35789473684210527
+        ]
+    },
+    "Huggingface_len_18222_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever with a glossy coat is running and playing in a field of wildflowers on a warm afternoon. The dog is surrounded by tall grass and colorful flowers, and the sunlight is shining brightly, making the dog's coat look even more shiny and healthy. The dog is having a great time, and its tail is wagging happily as it chases after the butterflies and enjoys the fresh air and the beautiful scenery.",
+        "score": [
+            0.22666666666666666,
+            0.5862068965517241,
+            0.32692307692307687
+        ]
+    },
+    "Huggingface_len_18222_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever with a glossy coat is running and playing in a field of wildflowers on a warm afternoon. The dog is surrounded by yellow flowers and has a joyful expression on its face.",
+        "score": [
+            0.37142857142857144,
+            0.4482758620689655,
+            0.40625
+        ]
+    },
+    "Huggingface_len_18222_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of bright yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of bright yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of bright yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.4230769230769231,
+            0.3793103448275862,
+            0.4
+        ]
+    },
+    "Huggingface_len_18222_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_18222_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of yellow wildflowers on a warm, sunny afternoon.",
+        "score": [
+            0.44,
+            0.3793103448275862,
+            0.4074074074074074
+        ]
+    },
+    "Huggingface_len_18222_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_18222_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is surrounded by a variety of colorful flowers. The dog's tail is wagging, and it is likely barking and having a great time. The background is blurred, but the flowers and the dog are in focus, making the image look like a beautiful and joyful scene.",
+        "score": [
+            0.19047619047619047,
+            0.5517241379310345,
+            0.2831858407079646
+        ]
+    },
+    "Huggingface_len_21667_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog's fur would be slightly ruffled from playing in the field, and it might have a few wildflowers tangled in its fur. The dog's eyes would be bright and alert, and it would be panting happily as it enjoys the warm weather and the freedom of the open field. The dog's tail would be wagging excitedly, and it might be leaping and bounding through the flowers with joy. The overall impression would be one of a happy",
+        "score": [
+            0.14545454545454545,
+            0.5517241379310345,
+            0.23021582733812945
+        ]
+    },
+    "Huggingface_len_21667_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, reflecting the sunlight and giving it a healthy and vibrant appearance. The dog's tail is wagging excitedly as it chases after the butterflies and flowers, and its ears are perked up, listening to the sounds of nature. The dog's eyes are bright and alert, taking in the sights and smells of the field. The wildflowers are colorful and varied, with different shades of yellow, orange, and purple, and they",
+        "score": [
+            0.16037735849056603,
+            0.5862068965517241,
+            0.2518518518518518
+        ]
+    },
+    "Huggingface_len_21667_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, reflecting the sunlight and giving it a healthy and vibrant appearance. The dog's tail is wagging excitedly as it chases after the butterflies and flowers, and its ears are perked up, listening to the sounds of nature. The field of wildflowers is colorful and vibrant, with different types of flowers in various shades of yellow, orange, and purple. The sun is shining brightly, casting a warm glow over the scene,",
+        "score": [
+            0.16981132075471697,
+            0.6206896551724138,
+            0.26666666666666666
+        ]
+    },
+    "Huggingface_len_21667_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, reflecting the sunlight and giving it a healthy and vibrant appearance. The dog's tail is wagging excitedly as it chases after the butterflies and flowers, and its ears are perked up, listening to the sounds of nature. The field of wildflowers is full of colorful blooms, and the dog is surrounded by a variety of flowers, adding to the beauty of the scene. The warm sunlight casts a golden glow over the entire",
+        "score": [
+            0.1559633027522936,
+            0.5862068965517241,
+            0.24637681159420288
+        ]
+    },
+    "Huggingface_len_21667_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog's fur would be slightly ruffled from the wind and the movement of the dog as it plays. The dog's tail would be wagging happily, and its ears would be flapping in the breeze. The dog would be surrounded by a variety of colorful wildflowers, and its fur would be slightly stained with pollen from the flowers. The dog would be in a state of joy and contentment, enjoying the freedom and beauty of the natural environment.",
+        "score": [
+            0.13761467889908258,
+            0.5172413793103449,
+            0.21739130434782614
+        ]
+    },
+    "Huggingface_len_21667_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and wagging its tail, and it may be chasing after the butterflies or sniffing the flowers. The overall atmosphere is one of joy and freedom, as the dog is enjoying its time in the great outdoors.",
+        "score": [
+            0.16161616161616163,
+            0.5517241379310345,
+            0.25
+        ]
+    },
+    "Huggingface_len_21667_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_21667_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat while playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be running and playing in the field, surrounded by colorful wildflowers, and would appear happy and carefree. The dog's fur would be slightly ruffled from the wind and the activity, and its tail would be wagging excitedly as it enjoys the outdoors.",
+        "score": [
+            0.2236842105263158,
+            0.5862068965517241,
+            0.32380952380952377
+        ]
+    },
+    "Huggingface_len_21667_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_21667_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is surrounded by a variety of colorful flowers. The dog's tail is wagging, and it is enjoying the freedom and joy of being outside. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.20270270270270271,
+            0.5172413793103449,
+            0.2912621359223301
+        ]
+    },
+    "Huggingface_len_25111_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be running and playing in the field, surrounded by colorful wildflowers, and would be enjoying the warm weather.",
+        "score": [
+            0.28,
+            0.4827586206896552,
+            0.35443037974683544
+        ]
+    },
+    "Huggingface_len_25111_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be running and playing in the field, surrounded by colorful wildflowers, and would be enjoying the warm weather.",
+        "score": [
+            0.28,
+            0.4827586206896552,
+            0.35443037974683544
+        ]
+    },
+    "Huggingface_len_25111_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be running and playing in the field, surrounded by colorful wildflowers, and would appear happy and carefree.",
+        "score": [
+            0.2653061224489796,
+            0.4482758620689655,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_25111_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding to the overall beauty of the scene. The dog is likely barking and wagging its tail, and it may be chasing after the flowers or simply enjoying the freedom of being outside.",
+        "score": [
+            0.17857142857142858,
+            0.5172413793103449,
+            0.26548672566371684
+        ]
+    },
+    "Huggingface_len_25111_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and wagging its tail, and it may be chasing after a ball or stick. The overall atmosphere is one of joy and freedom, as the dog is enjoying its time in the great outdoors.",
+        "score": [
+            0.16494845360824742,
+            0.5517241379310345,
+            0.25396825396825395
+        ]
+    },
+    "Huggingface_len_25111_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog's fur would be slightly ruffled from playing in the field, and it might have some dirt or grass stains on it. The dog's tail would be wagging happily as it runs and plays in the field, and its ears would be flapping in the wind. The wildflowers would be colorful and vibrant, adding a beautiful backdrop to the scene. The dog would be surrounded by the flowers, and its paws would be covered in pollen from the",
+        "score": [
+            0.15454545454545454,
+            0.5862068965517241,
+            0.24460431654676257
+        ]
+    },
+    "Huggingface_len_25111_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be running and playing in the field, surrounded by colorful wildflowers, and would appear happy and carefree.",
+        "score": [
+            0.2653061224489796,
+            0.4482758620689655,
+            0.3333333333333333
+        ]
+    },
+    "Huggingface_len_25111_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_25111_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_25111_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding to the overall beauty of the scene. The dog is likely barking and wagging its tail, and it may be chasing after butterflies or playing with the flowers. The overall atmosphere is one of joy and freedom, as the dog is able to run and play without any constraints.",
+        "score": [
+            0.1485148514851485,
+            0.5172413793103449,
+            0.23076923076923078
+        ]
+    },
+    "Huggingface_len_28556_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The field of wildflowers is colorful and vibrant, with different types of flowers in various shades of yellow, orange, and purple. The dog is surrounded by the flowers, and it is having a great time exploring and sniffing around. The overall scene is one of joy and freedom, with the dog and the flowers enjoying the beautiful day together.",
+        "score": [
+            0.1346153846153846,
+            0.4827586206896552,
+            0.21052631578947364
+        ]
+    },
+    "Huggingface_len_28556_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The dog is surrounded by colorful wildflowers, and it is likely that the dog is having a great time exploring and sniffing around.",
+        "score": [
+            0.19117647058823528,
+            0.4482758620689655,
+            0.26804123711340205
+        ]
+    },
+    "Huggingface_len_28556_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and wagging its tail, and it may be chasing after a ball or frisbee. The overall atmosphere is one of joy and freedom, as the dog is enjoying its time in the great outdoors.",
+        "score": [
+            0.16494845360824742,
+            0.5517241379310345,
+            0.25396825396825395
+        ]
+    },
+    "Huggingface_len_28556_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_28556_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The field of wildflowers is colorful and vibrant, with different types of flowers in various shades of yellow, orange, and purple. The dog is surrounded by the flowers, and it is having a great time exploring and sniffing around. The overall scene is one of joy and freedom, with the dog and the flowers creating a beautiful and lively image.",
+        "score": [
+            0.13333333333333333,
+            0.4827586206896552,
+            0.208955223880597
+        ]
+    },
+    "Huggingface_len_28556_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_28556_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The field of wildflowers is colorful and vibrant, with different types of flowers in various shades of yellow, orange, and purple. The dog is surrounded by the flowers, and it is having a great time exploring and sniffing around. The overall scene is one of joy and freedom, with the dog and the flowers creating a beautiful and lively image.",
+        "score": [
+            0.13333333333333333,
+            0.4827586206896552,
+            0.208955223880597
+        ]
+    },
+    "Huggingface_len_28556_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_28556_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is surrounded by a variety of colorful flowers. The dog is likely to be panting and enjoying the fresh air and the freedom of being outside.",
+        "score": [
+            0.20634920634920634,
+            0.4482758620689655,
+            0.2826086956521739
+        ]
+    },
+    "Huggingface_len_28556_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is surrounded by a variety of colorful flowers. The dog's tail is wagging, and it is enjoying the fresh air and the freedom of being outside. The background is blurred, but the flowers and the dog are in focus, making the image look like a beautiful and happy moment.",
+        "score": [
+            0.1839080459770115,
+            0.5517241379310345,
+            0.27586206896551724
+        ]
+    },
+    "Huggingface_len_32000_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_32000_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_32000_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be surrounded by a variety of colorful wildflowers, and its fur might be slightly tousled from playing in the grass. The dog's tail would probably be wagging, and it might be panting happily as it enjoys the warm weather and the freedom of being in an open field.",
+        "score": [
+            0.2222222222222222,
+            0.6206896551724138,
+            0.32727272727272727
+        ]
+    },
+    "Huggingface_len_32000_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be surrounded by a variety of colorful wildflowers, and the warm sunlight would create a picturesque scene. The dog might be running, jumping, or simply enjoying the fresh air and the beauty of nature.",
+        "score": [
+            0.19696969696969696,
+            0.4482758620689655,
+            0.27368421052631575
+        ]
+    },
+    "Huggingface_len_32000_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_32000_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_32000_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would likely have a shiny, well-groomed coat that reflects the sunlight. The dog would be surrounded by a variety of colorful wildflowers, and the warm sunlight would create a picturesque scene. The dog might be running, jumping, or simply enjoying the fresh air and the beauty of nature.",
+        "score": [
+            0.19696969696969696,
+            0.4482758620689655,
+            0.27368421052631575
+        ]
+    },
+    "Huggingface_len_32000_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and having a great time, enjoying the freedom and joy of being outside.",
+        "score": [
+            0.17105263157894737,
+            0.4482758620689655,
+            0.24761904761904763
+        ]
+    },
+    "Huggingface_len_32000_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is enjoying the sunshine and the fresh air. The wildflowers are colorful and vibrant, adding a beautiful backdrop to the scene. The dog is likely barking and wagging its tail, and it may be chasing after butterflies or sniffing the flowers. The overall atmosphere is one of joy and freedom, as the dog is enjoying its time in the great outdoors.",
+        "score": [
+            0.16326530612244897,
+            0.5517241379310345,
+            0.25196850393700787
+        ]
+    },
+    "Huggingface_len_32000_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat playing in a field of wildflowers on a warm afternoon would look like a happy and energetic dog, running and jumping in the field, surrounded by colorful flowers. The dog's coat would be shiny and well-groomed, reflecting the sunlight and adding to its overall appearance of health and vitality. The field of wildflowers would be a vibrant and lively backdrop, with various colors and textures adding to the overall scene. The dog would likely be enjoying the freedom and joy of playing in the open space, and its tail would be wagging happily as it explores the field.",
+        "score": [
+            0.1588785046728972,
+            0.5862068965517241,
+            0.24999999999999997
+        ]
+    },
+    "Huggingface_len_4444_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5454545454545454,
+            0.41379310344827586,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_4444_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5454545454545454,
+            0.41379310344827586,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_4444_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5454545454545454,
+            0.41379310344827586,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_4444_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_4444_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is running in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_1000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running happily in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.5454545454545454,
+            0.41379310344827586,
+            0.47058823529411764
+        ]
+    },
+    "Huggingface_len_7889_depth_1900": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a shiny, well-groomed coat and is running and playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.4782608695652174,
+            0.3793103448275862,
+            0.4230769230769231
+        ]
+    },
+    "Huggingface_len_7889_depth_2800": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is likely that the dog is enjoying the sunshine and the fresh air. The field of wildflowers is colorful and vibrant, with a variety of different flowers in bloom. The dog is likely to be surrounded by the flowers, and it may be sniffing or chasing after them. The overall scene is one of joy and freedom, as the dog is enjoying its time in the great outdoors.",
+        "score": [
+            0.13333333333333333,
+            0.4827586206896552,
+            0.208955223880597
+        ]
+    },
+    "Huggingface_len_7889_depth_3700": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_4600": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_5400": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_6300": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    },
+    "Huggingface_len_7889_depth_7200": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is surrounded by a variety of colorful wildflowers. The dog's tail is wagging, and it is likely barking or making other happy sounds as it enjoys its time in the field. The background is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.20987654320987653,
+            0.5862068965517241,
+            0.3090909090909091
+        ]
+    },
+    "Huggingface_len_7889_depth_8100": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "A golden retriever with a glossy coat looks like a happy and energetic dog, running and playing in a field of wildflowers on a warm afternoon. The dog's fur is shiny and well-groomed, and it is surrounded by a variety of colorful wildflowers. The dog's tail is wagging, and it is likely barking or making other happy sounds as it enjoys its time in the field. The background of the image is blurred, focusing attention on the dog and the flowers.",
+        "score": [
+            0.20238095238095238,
+            0.5862068965517241,
+            0.30088495575221236
+        ]
+    },
+    "Huggingface_len_7889_depth_9000": {
+        "reference": "A golden retriever with a glossy coat is happily leaping through a field of wildflowers, its tail wagging furiously as butterflies dance around it in the warm afternoon sun.",
+        "prediction": "The golden retriever has a glossy coat and is playing in a field of wildflowers on a warm afternoon.",
+        "score": [
+            0.631578947368421,
+            0.41379310344827586,
+            0.5
+        ]
+    }
+}
